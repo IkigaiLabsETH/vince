@@ -1,0 +1,60 @@
+# Beeple Genesis
+
+OpenSea Slug: `beeple-genesis`
+
+## The Artist
+
+Beeple is Mike Winkelmann—digital artist, designer, and arguably the person who forced the traditional art world to take NFTs seriously. He’d been posting a new digital work every single day since May 2007, long before “NFT” was a buzzword. The Genesis piece is the Christie’s 1/1 that changed everything: **Everydays: The First 5000 Days**. A single composite image of 5,000 daily works, arranged chronologically. Political satire, sci‑fi, pop culture, abstraction—over a decade of output collapsed into one token. MakersPlace generated the NFT; Christie’s auctioned it. March 2021.
+
+## Why It Matters
+
+The $69.3M sale was a hinge moment. Christie’s first NFT auction. First time a major house accepted Ether. It made Beeple the third-most-expensive living artist at auction and reset how galleries, collectors, and normies thought about digital art. The buyer was MetaKovan (Vignesh Sundaresan), 42,329 ETH. Whether you think it was genius or a coordinated flex, it happened. The work itself is a document: 5,000 days of discipline, evolution, and internet-native visual language. You can dispute the aesthetic—plenty have—but you can’t dispute the impact.
+
+## The Art
+
+A massive digital collage. Each tile is one “Everyday”—varying style, subject, and finish. The whole reads as a single image but rewards zooming. Beeple’s signature mix: 3D, graphic design, meme sensibility, sometimes dark or absurd. The art lives as a high-res file; the NFT attests ownership and provenance. Beeple kept copyright; he gets royalties on secondary. Display rights went to the buyer.
+
+## Notable Pieces
+
+**Everydays: The First 5000 Days** — The one. $69,346,250 incl. premium. Christie’s, March 2021. The token that broke the record. Still the reference point when anyone asks “how much can an NFT go for?”
+
+## Context for Collectors
+
+Genesis is the 1/1. There’s no “floor”—there’s the work and whoever holds it. The Beeple ecosystem includes other drops (e.g. Everydays series, Crap, etc.), but Genesis is the icon. Controversy followed: MetaKovan’s B20 token, questions about the sale’s nature. None of that undoes the cultural fact. If you’re collecting “moments that defined NFTs,” Genesis is non-negotiable.
+
+## Personal Take
+
+Genesis is less interesting to me as a standalone image than as a cultural bomb. The sale did what it was supposed to do: it forced the conversation. From a pure art perspective, I’m more drawn to generative and on-chain work—but you don’t write the history of NFTs without Beeple and that Christie’s hammer. Overrated as art? Debatable. Underrated as a historical object? No. It earned its place.
+
+---
+
+> **📌 Knowledge Base Note**
+> 
+> This essay contains **historical examples and illustrative data** from when it was written.
+> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
+> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
+> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
+> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
+> 
+> **What this provides:** Thinking frameworks, methodologies, analytical approaches
+> **What this does NOT provide:** Current market data (use actions/APIs instead)
+
+## Methodology & Framework
+
+**Key Concepts:**
+- Understanding the core thesis and its implications
+- Evaluating risk/reward in context of current conditions
+- Applying the framework to your own analysis
+
+**Analytical Approach:**
+- Apply these frameworks to interpret current market conditions
+- Focus on the thinking patterns, not specific numbers
+- Use as foundation for your own analysis
+
+**Pattern Recognition:**
+- Historical examples illustrate concepts, not predict outcomes
+- Look for similar patterns in current data using your tools
+- Combine with real-time data from actions/APIs
+
+
+*Last updated: January 2026*
