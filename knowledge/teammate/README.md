@@ -14,10 +14,16 @@ VINCE reads these files whenever state is composed (every response). It doesn’
 | File | Purpose |
 |------|--------|
 | **IDENTITY.md** | Optional reference only; agent identity = Character in code |
-| **USER.md** | Who you are — name, timezone, preferences, how you work (loaded every session) |
-| **SOUL.md** | Tone and boundaries — how to speak, what to avoid (loaded every session) |
-| **TOOLS.md** | Notes on your external tools — APIs, dashboards, workflows (loaded every session) |
-| **MEMORY/** | Daily logs VINCE writes and references (optional; last 3 loaded) |
+| **USER.md** | Who you are — name, timezone, preferences, what VINCE should anticipate (loaded every session) |
+| **SOUL.md** | Tone, boundaries, teammate behaviors, knowledge vs live data (loaded every session) |
+| **TOOLS.md** | Data sources, your tools, session cadence, knowledge base context (loaded every session) |
+| **MEMORY/** | Daily logs you or VINCE write (optional; last 3 loaded by mtime) |
+
+## Teammate vs Chatbot
+
+The provider injects a preamble that frames this as **teammate mode** — the agent should anticipate, remember USER context, match rhythm (GM, Friday, midweek), and distinguish knowledge (frameworks) from live data (actions). See SOUL.md for full guidelines.
+
+**Fine-tuned from knowledge/:** USER, TOOLS, and MEMORY example pull context from options (strike-selection, HYPE wheel), perps-trading (treadfi, funding), the-good-life (Palaces, wellness, lifestyle), and grinding-the-trenches. Edit to match your setup.
 
 ## Optional (add as you go)
 
@@ -29,10 +35,11 @@ VINCE reads these files whenever state is composed (every response). It doesn’
 
 ## How it works
 
-The **teammate context provider** (plugin-vince) reads USER.md, SOUL.md, TOOLS.md, and the most recent MEMORY/*.md whenever state is composed. That content is injected into the agent’s context so:
+The **teammate context provider** (plugin-vince) reads USER.md, SOUL.md, TOOLS.md, and the most recent 3 MEMORY/*.md (excluding README.md) whenever state is composed. That content is injected into the agent’s context so:
 
 1. You don’t re-explain who you are or how you work.
 2. VINCE stays within tone and boundaries (SOUL).
 3. Tool and contact context is always available.
+4. Recent session context (MEMORY) persists across conversations.
 
 Edit the markdown files; changes are used on the next message (provider reads from disk each time; no restart needed).
