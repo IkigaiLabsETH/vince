@@ -1,6 +1,15 @@
 # TOOLS — External Tools and Workflows
 
-Notes on your external tools so VINCE can reference them correctly and avoid re-explaining every time.
+Notes on your external tools and **VINCE actions** so the agent can reference them correctly and avoid re-explaining every time. Plugin: `@elizaos/plugin-vince`. See README and plugin-vince/ for full list.
+
+---
+
+## Primary command and action tiers
+
+- **ALOHA** (⭐ primary): One command for daily vibe + PERPS pulse + OPTIONS posture + "should we trade today?" Triggers: aloha, gm, good morning, briefing. Reply with "details on X" for depth.
+- **OPTIONS / PERPS:** Used inside ALOHA; callable directly (strikes, HYPERSURFACE, signals). Friday = strike day; funding → IV → delta, HYPE 1.5× width.
+- **Paper bot:** "bot status" (positions, P&L), "why" (reasoning), pause/trade on explicit command only. No live execution; simulation only. Feature store (Supabase) + ONNX models when ML loop is enabled.
+- **Rest:** MEMES, TREADFI, LIFESTYLE, NFT, INTEL, NEWS, AIRDROPS, WATCHLIST, UPLOAD, CHAT, GROK_EXPERT — supporting cast. UPLOAD: "upload:", URLs, YouTube → knowledge/ via summarize.
 
 ---
 
@@ -39,20 +48,37 @@ List dashboards, spreadsheets, or other tools you use so VINCE can refer to them
 
 ## Session cadence (teammate rhythm)
 
-- **GM:** Morning briefing across OPTIONS, PERPS, MEMETICS, AIRDROPS, DEFI, LIFESTYLE, ART. Reply with "details on X" for depth.
-- **Friday:** Strike selection; VINCE suggests using funding framework, you log and execute. Options focus.
+- **Morning:** ALOHA or GM — vibe + PERPS + OPTIONS + bot stance. One shot; then "details on PERPS" / "OPTIONS" / "bot status" / "why" if they want more.
+- **Friday:** Strike selection (Deribit + funding framework); VINCE suggests, you log and execute. HYPE 1.5× width; Hypersurface for execution.
 - **Midweek (Wed):** Lifestyle — hotels (Southwest France Palaces), dining (Michelin). Never weekends.
-- **Paper bot:** Status and positions via "bot status"; no execution without explicit command.
-- **Session timing:** NY mid-session (10am–3pm ET) best for perps; avoid open/close.
+- **Paper bot:** "bot status" (positions, P&L), "why" (entry signals, reasoning). "trade" / "go long" / "execute" only on explicit user command. No live execution.
+- **Session timing:** NY mid-session (10am–3pm ET) best for perps; session filters (EU/US overlap 1.1x) in plugin.
 
 ## Knowledge base (frameworks, not data)
 
-VINCE has RAG over 700+ files. Key categories:
-- **options** — HYPE wheel, strike-selection-from-perps, funding→strike table
-- **perps-trading** — funding-rate-interpretation, treadfi, squeeze patterns
-- **grinding-the-trenches** — Meteora LP DCA, memecoin frameworks
-- **the-good-life** — Southwest Palace methodology, wellness, lifestyle ROI
-- **art-collections** — CryptoPunks, Meridian, floor thickness
-- See knowledge/INDEX.md for full map.
+VINCE (and Eliza) have RAG over 700+ files. Rules from **knowledge/KNOWLEDGE-USAGE-GUIDELINES.md** and **knowledge/README.md**:
 
-**Use:** Methodology and frameworks. **Don't use:** Quoted numbers as current — fetch live via actions.
+**CRITICAL: Knowledge base usage**
+- Knowledge provides **thinking frameworks and methodologies** — how to analyze, which metrics matter, analytical approaches. Historical examples illustrate **concepts**, not current conditions.
+- Knowledge does **NOT** provide current prices, funding rates, TVL, or real-time metrics. Always use **actions/APIs** for current data.
+- ✅ Reference methodologies from knowledge, then apply to live data from actions. ❌ Do not quote numbers from knowledge as if current.
+
+### Directory map (knowledge/)
+
+| Directory | Purpose |
+|-----------|---------|
+| **options** | HYPE wheel, strike selection, funding→strike, magic number, fear harvest |
+| **perps-trading** | Funding interpretation, treadfi, session filters, squeeze patterns |
+| **grinding-the-trenches** | Meteora DLMM, pump.fun, memecoins, DexScreener traction (APE/WATCH/AVOID) |
+| **the-good-life** | Southwest Palaces, Okerson Protocol, buy-back-time, lifestyle ROI, Wed hotels, UHNW destinations |
+| **art-collections** | NFT context, CryptoPunks, Meridian, thin floor = opportunity |
+| **bitcoin-maxi** | BTC frameworks, Triptych, cycle narratives |
+| **defi-metrics** | TVL, yield, protocol analysis (frameworks, not current TVL numbers) |
+| **substack-essays** | General essays; cross-domain synthesis |
+| **prompt-templates** | PROMPT-ENGINEER-MASTER, art-of-prompting, tier templates |
+| **internal-docs** | WORKFLOW-ORCHESTRATION (plan mode, verification, tasks/lessons), ADDING-KNOWLEDGE, config |
+| **airdrops, altcoins, macro-economy, regulation, security, venture-capital** | As needed |
+
+**Related categories:** options ↔ perps-trading; the-good-life ↔ lifestyle; grinding-the-trenches ↔ airdrops. Each category README lists Key Files and Frameworks & Methodologies; **Usage notes** in each: focus on methodologies; numbers may be outdated; use actions for current data.
+
+**Eliza = knowledge only. VINCE = actions + live data.** Do not quote knowledge numbers as live.
