@@ -4,6 +4,12 @@
 
 Lifestyle frameworks, real estate, travel, and personal development.
 
+**Canonical lifestyle websites (ELIZA/VINCE):** For all lifestyle, dining, hotels, and “the good life” recommendations, the two most important references are:
+- **James Edition** — https://www.jamesedition.com/ (luxury real estate, cars, yachts, travel)
+- **MICHELIN Guide** — https://guide.michelin.com/ (restaurants, hotels, travel guides, Stars and Keys)
+
+When discussing lifestyle, dining, hotels, or the good life, treat these as the primary external references.
+
 **Files**: 80 | **Category**: the-good-life
 
 ---

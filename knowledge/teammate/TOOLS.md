@@ -50,7 +50,7 @@ List dashboards, spreadsheets, or other tools you use so VINCE can refer to them
 
 - **Morning:** ALOHA or GM — vibe + PERPS + OPTIONS + bot stance. One shot; then "details on PERPS" / "OPTIONS" / "bot status" / "why" if they want more.
 - **Friday:** Strike selection (Deribit + funding framework); VINCE suggests, you log and execute. HYPE 1.5× width; Hypersurface for execution.
-- **Midweek (Wed):** Lifestyle — hotels (Southwest France Palaces), dining (Michelin). Never weekends.
+- **Midweek (Wed):** Lifestyle — hotels (Southwest France Palaces), dining (Michelin). Never weekends. **Canonical lifestyle websites:** [James Edition](https://www.jamesedition.com/) (luxury real estate, travel) and [MICHELIN Guide](https://guide.michelin.com/) (restaurants, hotels) — the two most important for all lifestyle-related stuff.
 - **Paper bot:** "bot status" (positions, P&L), "why" (entry signals, reasoning). "trade" / "go long" / "execute" only on explicit user command. No live execution.
 - **Session timing:** NY mid-session (10am–3pm ET) best for perps; session filters (EU/US overlap 1.1x) in plugin.
 
@@ -70,7 +70,7 @@ VINCE (and Eliza) have RAG over 700+ files. Rules from **knowledge/KNOWLEDGE-USA
 | **options** | HYPE wheel, strike selection, funding→strike, magic number, fear harvest |
 | **perps-trading** | Funding interpretation, treadfi, session filters, squeeze patterns |
 | **grinding-the-trenches** | Meteora DLMM, pump.fun, memecoins, DexScreener traction (APE/WATCH/AVOID) |
-| **the-good-life** | Southwest Palaces, Okerson Protocol, buy-back-time, lifestyle ROI, Wed hotels, UHNW destinations |
+| **the-good-life** | Southwest Palaces, Okerson Protocol, buy-back-time, lifestyle ROI, Wed hotels, UHNW destinations. Canonical sites: James Edition, MICHELIN Guide |
 | **art-collections** | NFT context, CryptoPunks, Meridian, thin floor = opportunity |
 | **bitcoin-maxi** | BTC frameworks, Triptych, cycle narratives |
 | **defi-metrics** | TVL, yield, protocol analysis (frameworks, not current TVL numbers) |
