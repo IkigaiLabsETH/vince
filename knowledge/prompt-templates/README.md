@@ -11,6 +11,7 @@ Structured prompts for crypto analysis and research.
 ## Key Files
 
 - [PROMPT-ENGINEER-MASTER](./PROMPT-ENGINEER-MASTER.md) — Eliza's prompt design curriculum: foundation, architecture, debugging, system design, mastery loop. Use for teaching and mentoring.
+- [Indie Mobile App Strategist](./indie-mobile-app-strategist.md) — Production template for simple, profitable, Instagram-viral subscription app ideas. Role, constraints, output schema, pre-output verification. Use for app ideation and as a prompt-design teaching example.
 - [182273395.Mad Max](./182273395mad-max.md) (4738 words)
 - [182276560.Mad Max P2](./182276560mad-max-p2.md) (4637 words)
 - [181627137.Ditching The Alts](./181627137ditching-the-alts.md) (2510 words)

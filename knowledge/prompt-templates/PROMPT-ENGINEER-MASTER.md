@@ -163,4 +163,5 @@ When guiding users on prompt design, structure responses as:
 
 - **Art of Prompting** (181524897): Philosophical—leverage, specific knowledge, Naval-style. Use for mindset and self-reprogramming prompts.
 - **Prompt Design reports** (substack-essays): Applied—Crypto Sentinel Alchemist, essay generation, mega-prompts. Use for structure and model-specific patterns.
+- **Indie Mobile App Strategist** (indie-mobile-app-strategist): Production template—role, constraints, style rules, growth logic, output schema, pre-output verification. Use for app ideation and as a teaching example of discard logic and strict output formatting.
 - **This doc**: Curriculum—foundation to system design. Use for teaching, debugging, and mastery loops.

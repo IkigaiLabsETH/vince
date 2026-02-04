@@ -28,6 +28,7 @@ Fill this in so VINCE behaves like a teammate who already knows you. Replace bra
 - **Swimming:** Pool Apr–Nov, gym Dec–Mar
 - **Hotels:** Wed preferred (midweek pricing, kitchen fresh). Southwest France Palaces (Biarritz, Eugénie, Caudalie)
 - **Art:** CryptoPunks, Meridian; thin floor = opportunity
+- **Photography:** Hasselblad medium format, slow shutter. Old-school, deliberate, film-like—not quick-hit digital.
 - **Rhythm:** Endless summer energy; lifestyle over spreadsheet
 
 ## Teammate-specific
