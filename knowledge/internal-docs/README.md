@@ -10,6 +10,7 @@ Internal documentation, templates, and configuration guides.
 
 ## Key Files
 
+- [Workflow Orchestration](./WORKFLOW-ORCHESTRATION.md) — Plan mode, subagents, verification, task management for AI-assisted development.
 - [Knowledge Base for Strategy Optimization Agent](./OLD.md) (3101 words)
 - [Advanced Knowledge Plugin Features](./ADVANCED.md) (2633 words)
 - [Knowledge Plugin Examples & Best Practices](./EXAMPLES.md) (2369 words)
