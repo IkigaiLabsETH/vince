@@ -9,7 +9,7 @@ Notes on your external tools and **VINCE actions** so the agent can reference th
 - **ALOHA** (⭐ primary): One command for daily vibe + PERPS pulse + OPTIONS posture + "should we trade today?" Triggers: aloha, gm, good morning, briefing. Reply with "details on X" for depth.
 - **OPTIONS / PERPS:** Used inside ALOHA; callable directly (strikes, HYPERSURFACE, signals). Friday = strike day; funding → IV → delta, HYPE 1.5× width.
 - **Paper bot:** "bot status" (positions, P&L), "why" (reasoning), pause/trade on explicit command only. No live execution; simulation only. Feature store (Supabase) + ONNX models when ML loop is enabled.
-- **Rest:** MEMES, TREADFI, LIFESTYLE, NFT, INTEL, NEWS, AIRDROPS, WATCHLIST, UPLOAD, CHAT, GROK_EXPERT — supporting cast. UPLOAD: "upload:", URLs, YouTube → knowledge/ via summarize.
+- **Rest:** MEMES, TREADFI, LIFESTYLE, NFT, INTEL, NEWS, AIRDROPS, WATCHLIST, UPLOAD, CHAT, GROK_EXPERT — supporting cast. UPLOAD: "upload:", URLs, YouTube → knowledge/ via summarize. **No X API:** we don’t fetch x.com/twitter.com links; for X content user should paste it and say "upload that" so we save most/all of the dumped data.
 
 ---
 

@@ -20,18 +20,20 @@ When you paste a long article into chat and say "upload:" or "save this:", the s
 | Situation | What to do |
 |-----------|------------|
 | **Article has a URL** | Prefer **"upload: https://…"** (or paste only the URL). The action uses the summarize CLI to fetch and save the **full** content from the URL. Nothing is lost to client truncation. |
+| **X/Twitter thread or post** | **We do not have the X API** (no fetching from x.com/twitter.com links for now). Paste the thread/post text into chat. If it’s long: send the content in one or more messages, then say **"upload that"** or **"save that"**; the action will combine the last several user messages and save them as one file so we capture most or all of the essential data you dumped. |
 | **YouTube** | Use **"upload: [YouTube URL]"**. We fetch transcript + summary server-side; again, no paste limit. |
-| **Long paste, no URL** | Option 1: Send **one** message that starts with `upload:` and paste the full text in the same message (if your client allows that length). Option 2: Send the long content in **one** message, then in the **next** message say **"upload that"** or **"save that"**; the action will try to use the **previous** user message as the content to save. |
+| **Long paste, no URL** | Option 1: Send **one** message that starts with `upload:` and paste the full text in the same message (if your client allows that length). Option 2: Send the long content in **one** message, then in the **next** message say **"upload that"** or **"save that"**; the action will combine the last several user messages and save as one file. |
 | **Very long doc** | Split into multiple uploads with clear titles (e.g. "upload: [Part 1 – Introduction]\n\n...") so each file is complete and findable. |
 
 ## If a file was already saved with only a fragment
 
-- Re-upload using the **URL** if the article is online, or  
-- Paste again in **one** message (or message 1 = full text, message 2 = "upload that") and ensure the client isn’t truncating (e.g. try a different client or a shorter paste to test).
+- Re-upload using the **URL** if the article is online (we fetch full content for normal URLs), or  
+- For X/pasted content: paste again and use **"upload that"** (or send content in one message, then "upload that") so we combine recent messages and capture most or all of what you dumped.
 
 ## Summary
 
 - **We don’t intentionally drop content.** Truncation comes from the **single-message** view and **client/platform message length limits**.
-- **Prefer URLs** for long articles so we fetch full content server-side.
-- Use **"upload that"** after a long message so the action can use the previous message as the body.
+- **No X API:** we don’t fetch from x.com/twitter.com links; for X content, paste it into chat and use **"upload that"** so we save the data you dumped (we aim to capture most or all of the essential content).
+- **Prefer URLs** for long articles (non-X) so we fetch full content server-side.
+- Use **"upload that"** after one or more long messages so the action can combine them into one saved file.
 - For very long content without a URL, split into multiple uploads with clear titles.
