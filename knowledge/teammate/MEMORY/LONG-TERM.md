@@ -22,7 +22,8 @@ Use it for:
 
 ## Standing decisions
 
-- (e.g. No naked options. HYPE strike width 1.5×. Treadfi: Long Nado + Short HL until Season 1 ends May 18, 2026. Paper bot: suggest only; no paper trade without explicit "trade" / "go long".)
+- No naked options. HYPE strike width 1.5×. Treadfi: Long Nado + Short HL until Season 1 ends May 18, 2026. Paper bot: suggest only; no paper trade without explicit "trade" / "go long".
+- **Perps vs options:** Perps are hard and swing fast (e.g. paper PnL +$88 → next check SOL hammered, shorts mixed). We make most of our money from Hypersurface covered calls and secured puts—weekly upfront premium—not from perps. Paper bot is for learning/signals; real edge is options premium.
 
 ## Corrections (agent got wrong / don’t repeat)
 
@@ -34,4 +35,5 @@ Use it for:
 
 ## Rarely-changing preferences
 
-- (e.g. TL;DR first. ALOHA = primary daily command. Strikes on Friday only. Wed = lifestyle day. Eliza = knowledge; VINCE = live data + actions.)
+- TL;DR first. ALOHA = primary daily command. Strikes on Friday only. Wed = lifestyle day. Eliza = knowledge; VINCE = live data + actions.
+- Primary income from options (Hypersurface: covered calls, secured puts, weekly premium). Perps = volatile; paper bot for learning, not the main edge.
