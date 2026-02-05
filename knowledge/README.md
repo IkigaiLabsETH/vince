@@ -44,5 +44,10 @@ See [KNOWLEDGE-USAGE-GUIDELINES.md](KNOWLEDGE-USAGE-GUIDELINES.md) for usage rul
 | **substack-essays** | General essays (mixed categories) |
 | **the-good-life** | Lifestyle: wine, food, travel, luxury (essay + reference) |
 | **venture-capital** | VC and startup ecosystem essays |
+| **clawdbot** | OpenClaw/Clawdbot setup, security, one-click install, practical tips; automation patterns for deep research and channels |
 
 Each essay-style directory uses **Methodology & Framework** blocks and **## section headers** for RAG chunking; numbers and dates in essays are illustrative—use for frameworks, not for current market data.
+
+## Plans & automation
+
+- **[PLAN-SLACK-DISCORD-KNOWLEDGE-RESEARCH.md](../PLAN-SLACK-DISCORD-KNOWLEDGE-RESEARCH.md)** (repo root) — Slack/Discord setup, knowledge improvement, clawdbot-style deep research automation, X (Twitter) pipeline, and automated knowledge expansion.
