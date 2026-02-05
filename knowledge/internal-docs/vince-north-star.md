@@ -38,7 +38,8 @@ The north star is that VINCE is **proactive**. He sends you what you need on **D
 
 ## Gap vs today
 
-- **Today:** ALOHA and bot status are **pull** (user says "aloha" or "bot status"). Trade open/close is logged to **console** (detailed banner with reasoning), not pushed to Discord/Slack.
-- **To reach north star:** (1) Scheduled task that runs the day report (ALOHA) at a fixed time. (2) Discord/Slack **send** (ElizaOS plugin-discord / plugin-slack: proactive message to channel or DM, not only reply-in-thread). (3) On trade open: call send path with position + reasoning (reuse triggerSignals / why-trade style text). (4) On trade close: push result + PnL. (5) Optional: thin-floor NFT check and ping.
+- **Today:** ALOHA and bot status are **pull** (user says "aloha" or "bot status"). Trade open/close is logged to **console** (detailed banner with reasoning).
+- **Partial:** ✅ **Trade open/close and alerts now push** to Discord/Slack/Telegram. ✅ **Scheduled daily report** (ALOHA + OPTIONS + PERPS + HIP-3) at 18:00 UTC to channels with "daily" in name. See NOTIFICATIONS.md for channel structure.
+- **Remaining:** Optional: thin-floor NFT check and ping.
 
 Source of truth for this vision: README § North star; teammate context (USER/SOUL) can reference "VINCE pings you" so the agent stays aligned with the intended experience.
