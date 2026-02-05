@@ -19,6 +19,11 @@ Used by the research-queue processor and RSS-to-queue script (see **PLAN-SLACK-D
 - **Usage:** `scripts/rss-to-queue.ts` (when implemented) reads this file, fetches each feed, collects new item URLs since last run, and appends them to `research-queue.txt`.
 - **Creation:** Create the file and add feed URLs for Substacks, blogs, or other sources you want to auto-queue for knowledge ingest.
 
+## YouTube (curated, no watching)
+
+- **Channel:** Create `#vince-upload-youtube` (or `#youtube-knowledge`) in Discord/Slack. Paste curated YouTube links; VINCE ingests via UPLOAD (transcript + summary) so we don’t have to watch. See **§5.1.1 Curated YouTube** in PLAN-SLACK-DISCORD-KNOWLEDGE-RESEARCH.md.
+- **Batch:** For many links, you can also add YouTube URLs to `research-queue.txt` (one per line); the research-queue processor will ingest them like any other URL (when ingest supports YouTube transcript/fetch).
+
 ## Flow
 
 1. URLs land in `research-queue.txt` (manual paste or RSS script).

@@ -151,3 +151,23 @@ Avoid:
 - Dates in filenames (becomes stale)
 - Generic names like "notes.md"
 - Personal identifiers
+
+---
+
+## Automated vs manual checks (Phase 0)
+
+For **extensive tests** and **automated improvement** (see PLAN-SLACK-DISCORD-KNOWLEDGE-RESEARCH.md Phase 0):
+
+| Check | Automated | Manual |
+|-------|-----------|--------|
+| Frontmatter present (source/title, category, created) | ✅ Script / test | — |
+| Standard knowledge note block at top | ✅ Script / test; can auto-add | — |
+| Clear `##` headers; non-empty file | ✅ Test | — |
+| Domain keyword presence; min file count per dir | ✅ knowledge.integration.test.ts | — |
+| "Methodology and Framework" section present | ✅ Test (regex/section name) | — |
+| Relative thresholds vs absolute prices (durability) | ✅ Heuristic (e.g. "$XX,000" as sole content) | Full review |
+| Uniqueness / "would generic LLM know this?" | — | ✅ Human |
+| Decision framework, red flags, step-by-step | — | ✅ Human or LLM-assisted |
+| Domain-specific (OPTIONS strike, PERPS funding, etc.) | ✅ Keyword/section checks | ✅ Depth review |
+
+**Deliverables:** `scripts/knowledge-health.ts` (report + safe auto-fix); `knowledge.structure.test.ts`; optional `knowledge-review-queue.md` for items needing manual improvement.
