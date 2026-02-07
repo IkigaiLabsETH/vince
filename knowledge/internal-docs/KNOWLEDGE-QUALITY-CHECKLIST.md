@@ -94,6 +94,24 @@ Use this checklist before adding any new knowledge file. Files that pass all che
 - [ ] Floor/liquidity analysis
 - [ ] Timing/entry methodology
 
+### Solus: STRIKE_RITUAL / options
+- [ ] Strike ritual methodology (yield math: $X/week on $100K at Y% OTM)
+- [ ] IV-aware sizing guidance
+- [ ] Friday strike selection cadence
+- [ ] HYPERSURFACE-specific guidance
+
+### Solus: YIELD_STACK / defi-metrics
+- [ ] USDC/USDT0 yield comparison
+- [ ] Pendle, Aave, Morpho protocol comparison
+- [ ] Risk-adjusted rates framework
+- [ ] Sizing for $100K plan
+
+### Solus: SEVEN_PILLARS / internal-docs
+- [ ] Seven pillars breakdown (sats, yield, Echo DD, paper perps bot, HIP-3, airdrops, HYPERSURFACE options)
+- [ ] Concrete allocations
+- [ ] Weekly targets
+- [ ] Execution systems
+
 ---
 
 ## Post-Addition Verification

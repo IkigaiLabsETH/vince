@@ -66,6 +66,18 @@ This knowledge base contains **methodology and frameworks** for crypto analysis,
 
 ---
 
+## Agent-to-Folder Mapping
+
+Which agent uses which knowledge folders:
+
+| Agent | Folders |
+|-------|---------|
+| **Eliza** (chat, brainstorm, research) | substack-essays, internal-docs, prompt-templates, the-good-life, macro-economy |
+| **VINCE** (execution) | options, perps-trading, grinding-the-trenches, airdrops, defi-metrics, art-collections, the-good-life |
+| **Solus** (wealth architect) | options, perps-trading, airdrops, defi-metrics, venture-capital, bitcoin-maxi, altcoins, stablecoins, internal-docs |
+
+---
+
 ## How to Use This Knowledge Base
 
 ### For RAG Integration
