@@ -128,6 +128,11 @@ Beyond the free version:
 - ST.2084 and HLG support
 - Color space transform
 
+### Color grading workflow for BMPCC 6K / BRAW
+- **BRAW settings in Resolve:** Blackmagic RAW clips decode natively; use Camera Raw settings (exposure, white balance, ISO) in the Media or Color page. Preserve sensor data; adjust in Resolve rather than baking in-camera.
+- **Color page workflow:** Primary corrections first (Lift, Gamma, Gain; contrast, saturation); then secondary (qualifiers, Power Windows) for skin, sky, or specific areas. Node system: serial nodes for stages; parallel or layer nodes when needed. See Color Page and Color Grading Mastery above for full tool set.
+- **Round-trip:** Edit on a proxy or optimized media if needed; conform to BRAW for final grade. Deliver from the Color page or Deliver page (ProRes, DNxHR, or H.264/H.265 for delivery). See blackmagic-design for BMPCC 6K and IRIX lens context.
+
 ## Collaboration Features
 
 ### Blackmagic Cloud

@@ -2,9 +2,27 @@
 
 Quick meal ideas for evenings at home, organized by cooking equipment.
 
+## Your human's home cooking setup
+
+- **Green Egg–style kamado** at home; motivated to use it **at least once a week** and to get good at it.
+- **Thermomix TM7**; they want to get the most out of it with dishes that are **really hard to make without it**.
+- They **love dishes that sit in the oven a long time** (braises, pot roasts, confit, slow roasts).
+- **High-quality local meat** is available; suggestions should assume good product.
+
 ## Thermomix TM7 (Priority)
 
-The Thermomix TM7 is the most versatile - hands-free cooking with precise temperature control.
+The Thermomix TM7 is the most versatile - hands-free cooking with precise temperature control. For "get the most out of the TM7," suggest dishes from **Dishes that are hard without Thermomix** below.
+
+### Dishes that are hard without Thermomix
+
+These reward the TM7's precise temp and continuous blending; suggest when they ask for Thermomix ideas.
+
+- **Emulsifications:** Hollandaise, béarnaise, beurre blanc, mayo—precise temp and continuous blending.
+- **Precise low-temp:** Custards, crème anglaise, chocolate ganache, sous-vide–style eggs.
+- **Long stirred / hands-free:** Risotto, polenta, ragù (2 h bolognese), porridge—set and forget.
+- **Steamed layers:** Fish + veggies in one go; dim sum–style.
+- **Smooth purées and soups:** Silky vegetable soups, nut butters, nut milks.
+- **Dough and batters:** Pasta dough, bread dough, cake batters—one bowl, no mess.
 
 ### Quick Wins (Under 30 min)
 - **Risotto Mode**: Hands-free risotto - add ingredients and walk away (25 min)
@@ -23,6 +41,10 @@ The Thermomix TM7 is the most versatile - hands-free cooking with precise temper
 
 The Big Green Egg - ceramic kamado for smoking, grilling, and baking.
 
+- **Goal:** Use at least once a week; get good at low-and-slow, reverse sear, and smoking.
+- **Quality meat:** Reverse-sear ribeye or côte de bœuf, smoked brisket, pork shoulder, ribs; beer-can chicken; Neapolitan pizza at 350 °C+.
+- **When to suggest:** "What to cook this weekend," "BBQ ideas," "something on the kamado."
+
 ### Grilling (Quick)
 - **Reverse Sear Ribeye**: Low at 110°C, then sear at max heat
 - **Smash Burgers**: Cast iron on the grate, maximum heat
@@ -40,6 +62,15 @@ The Big Green Egg - ceramic kamado for smoking, grilling, and baking.
 ## Oven Recipes
 
 Classic oven cooking for reliable results.
+
+### Long oven cooks (they love these)
+
+2–4+ hours low and slow; suggest when they ask for "dinner at home," "something in the oven all afternoon," or "comfort food."
+
+- **Braisés:** Beef bourguignon, osso buco, coq au vin, lamb shanks—2–4 h low and slow.
+- **Pot roast / slow roast:** Beef or lamb shoulder, porchetta-style pork.
+- **Confit:** Duck confit, slow-cooked in fat.
+- **Vegetables:** Slow-roasted tomatoes, onions, garlic; baked beans; grain bakes (farro, barley).
 
 ### Sheet Pan Dinners (Minimal Cleanup)
 - **Roast Chicken + Root Vegetables**: 1 hour at 200°C
@@ -96,3 +127,4 @@ Classic oven cooking for reliable results.
 | 30 min | Risotto, Pasta dough | Reverse sear steak | Sausages + veg |
 | 1 hour | Soup, Curry | Grilled chicken | Roast chicken |
 | 2+ hours | Ragù, Bread | Ribs, Pulled pork | Lasagna, Roasts |
+| Long oven | — | — | Bourguignon, osso buco, confit, lamb shanks, grain bakes |

@@ -49,6 +49,12 @@
 - Hôtel du Palais: closed until Feb 12
 - Les Prés d'Eugénie: closed until Mar 6
 
+**Palace indoor pools (winter swim) — exact close and reopen:**
+- **Hôtel du Palais** (Biarritz): closes early December, reopens Feb 12
+- **Les Sources de Caudalie** (Martillac): closes early December, reopens Feb 5
+- **Les Prés d'Eugénie** (Eugénie-les-Bains): closes late November, reopens Mar 6
+- For winter indoor lap swimming, plan stays at Palais or Caudalie from their reopen date (Feb 5 / Feb 12) until they close again (early Dec); they are closed in between.
+
 **Winter alternatives (open year-round):**
 - Villa Mirasol | Mont-de-Marsan | ~200 EUR
 - Relais de la Poste | Magescq | ~200 EUR + 2★ dining

@@ -67,6 +67,17 @@ Quick strength sessions with minimal equipment.
 - 3x10 Lunges (each leg)
 - 3x15 Calf Raises
 
+## Longevity and functional fitness
+
+Principles for performing well for decades: mobile, flexible, strong—built for long-term activity, not bulk.
+
+- **Functional fitness**: Stay mobile, flexible, and strong—built for decades of activity, not bulk. Favour movement quality and range over heavy lifting for size.
+- **Daily stretching and movement**: Underpin long-term performance. Consistency beats intensity when the goal is longevity.
+- **Morning ritual**: Warm lemon water first thing; then a solid breakfast or smoothie (fruit, protein, greens). When conditions are good, move first (swim, surf) then refuel.
+- **Eight hours' sleep**: Cool, dark room; consistent bedtime. Recovery is when the body adapts.
+- **Mental health as longevity**: Reflection, journaling, or professional support when needed—mental health is part of the long game.
+- **Recovery and nutrition**: The base for long-term surfing, swimming, and activity. Listen to your body; experiment with what works and learn from it.
+
 ---
 
 > **📌 Knowledge Base Note**

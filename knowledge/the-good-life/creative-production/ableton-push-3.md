@@ -119,3 +119,13 @@ Ableton Push 3 is a revolutionary music-making instrument that can operate as ei
 - Sampling and remixing
 - Portable music creation
 - Integration with modular synthesizers
+
+## House music production and AI/MCP
+
+**Typical MCP use cases:** Control tempo, clip launch, transport; tweak effects and device parameters; automate arrangement or mixing from outside Live. An MCP server can send OSC or MIDI to Live so Claude (or another client) drives the DAW from natural language.
+
+**Exposing Live via OSC or Max for Live:** Ableton Live supports OSC (Open Sound Control) for remote control. Max for Live can expose custom endpoints or bridge to other APIs. An MCP server can run locally and translate tool calls into OSC or Max messages—e.g. "set tempo 128", "launch clip 2 on track 1", "toggle device on".
+
+**Push 3 standalone vs controller for production:** Standalone = no computer; sessions live on the device; good for sketching and performance. Controller = Live on computer; Push 3 as surface; full plugins and MCP/OSC from the host. For house music production with AI/MCP, controller mode is typical so the MCP server and Live run on the same machine.
+
+**Where to look for current Ableton MCP servers and Push 3 AI workflows:** Implementations change. Use WEB_SEARCH for "Ableton MCP server", "Ableton Live OSC control", "Push 3 AI workflow", or "MCP music production" and summarize what you find; say when you looked it up.

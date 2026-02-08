@@ -55,7 +55,14 @@ Blackmagic Design creates professional video and film equipment used in Hollywoo
 - **Pocket 4K**: Micro Four Thirds mount, 13 stops dynamic range
 - **Pocket 6K G2**: Super 35 EF mount, tilting LCD
 - **Pocket 6K Pro**: Built-in ND filters, optional EVF
+- **Blackmagic Cinema Camera 6K (BMPCC 6K)**: Super 35 sensor, EF mount (or L-mount on newer models); Blackmagic RAW (BRAW); 6K resolution; compact cinema camera for narrative, documentary, and run-and-gun. The user's cinema camera; edit and color grade in DaVinci Resolve.
 - Affordable cinema cameras with professional features
+
+### IRIX lens set (user's cinema lenses)
+- **IRIX 15mm**: Ultra-wide; architecture, landscapes, tight spaces; deep depth of field or dramatic wide shots.
+- **IRIX T 1.5 45mm**: Fast standard; shallow depth of field, low light; portraits, general narrative.
+- **IRIX T 3.0 150mm**: Telephoto; compression, reach; interviews, detail, shallow DOF at distance.
+- Use with BMPCC 6K (EF or adapted mount); color grade in Resolve. See davinci-resolve for BRAW and Color page workflow.
 
 ### Studio Cameras
 - **Studio Camera 4K Plus G2**: Live production with 7" LCD
