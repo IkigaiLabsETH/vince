@@ -38,6 +38,8 @@ Vintage Champagne: 2008, 2012, 2013 are excellent; 2014, 2015 good. Drink NV wit
 - If they want **mineral, refined** → Blanc de blancs (Chardonnay): Ruinart, Taittinger Comtes, Péters, Agrapart.
 - If they're having **oysters** → Brut NV or blanc de blancs; acidity and salt pair perfectly.
 
+**Curated bottles and vintages:** See **champagne-curated-list.md** for a full list of specific houses, cuvées, and vintages (brut NV: Selosse Substance/VO/Mesnil les Carelles, Krug Grande Cuvée, Ruinart R, Egly-Ouriet, Bollinger Spéciale, Roederer, Billecart-Salmon, Laurent Perrier, Henry Giraud, Thienot, Martel, Clos du Château de Bligny; rosés: Krug, Ruinart R, Billecart-Salmon, Laurent Perrier, Bollinger; millésimés: Larmandier-Bernier Terre de Vertus 2008, Taittinger Comtes 2005, Bollinger Grande Année 2004, Dom Pérignon 2004/1982/1964, Selosse 2002/2003, Cristal 2002, Egly-Ouriet 2002, Krug Clos du Mesnil 2000/1988, Krug Clos d'Ambonnay 1998, Salon magnum 1999). Use that list when the user names a bottle or asks for a recommendation from the collection.
+
 ## Practical Note
 
 For specific houses, cuvées, or vintages, use web search (WEB_SEARCH) or suggest checking MICHELIN Guide / a trusted merchant. When the occasion is clearly celebration or apéritif, lead with “Champagne” and then narrow by style (e.g. “go brut NV for value, or a blanc de blancs for something a bit more refined”).

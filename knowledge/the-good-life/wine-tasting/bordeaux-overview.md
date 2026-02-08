@@ -15,7 +15,9 @@ Bordeaux is split by the Gironde estuary. **Left Bank:** Médoc (including Marga
 
 - **Classic "Bordeaux" red, steak, cellar:** Left Bank (Margaux, Pauillac, Saint-Julien, Pessac-Léognan). See margaux.md, pessac-leognan.md.
 - **Softer, Merlot-led, romantic dinner:** Right Bank (Saint-Émilion, Pomerol).
-- **Bordeaux white:** Pessac-Léognan / Graves. See chateau-olivier.md, pessac-leognan.md.
+- **Bordeaux white:** Pessac-Léognan / Graves. See chateau-olivier.md, pessac-leognan.md, **bordeaux-dry-whites.md** (curated list: Pavillon blanc, Haut-Brion blanc, Domaine de Chevalier, Chantegrive Cuvée Caroline, Entre-Deux-Mers, etc.).
+- **Second wines (seconds vins):** See **bordeaux-seconds-vins.md** (Pavillon Rouge, Petit Mouton, Pagodes de Cos, Bahans/Clarence Haut-Brion, Réserve de la Comtesse, Clémentin de Pape-Clément, N°3 d'Angelus, Goulée, etc.).
+- **Grands vins rouges (curated by appellation):** See **bordeaux-reds-curated-list.md** (Saint-Émilion Grand Cru & classé, Pomerol, Fronsac, Montagne/Lussac/Puisseguin/Saint-Georges, Bordeaux Supérieur, Bourg/Cadillac/Castillon/Francs, Haut-Médoc, Margaux, Moulis, Pauillac, Saint-Estèphe, Saint-Julien, Graves, Pessac-Léognan).
 - **Sweet wine, dessert, foie gras:** Sauternes. See sauternes.md.
 
 ## Key appellations (quick reference)

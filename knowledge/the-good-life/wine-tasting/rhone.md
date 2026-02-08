@@ -48,4 +48,6 @@ Northern Rhône: 2015, 2016, 2019, 2020 are strong; Hermitage and Côte-Rôtie c
 - If they want **big red, barbecue or lamb** → Châteauneuf-du-Pape (Beaucastel, Clos des Papes) or Gigondas for value.
 - If they want **aromatic white, not Chardonnay** → Condrieu (Cuilleron, Villard); pair with lobster or scallops.
 
+**Curated bottles and vintages:** See **rhone-curated-list.md** for a full list of specific domaines, cuvées, and vintages (whites: Château des Tours/Fonsalette Côtes du Rhône, Vernay Condrieu Côteau de Vernon, Beaucastel/La Nerthe/Rayas/Vieux Télégraphe Châteauneuf blanc; reds: Château des Tours/Fonsalette Côtes du Rhône, François Villard/Vernay Saint-Joseph, Jaboulet Hermitage La Chapelle, Alain Graillot Crozes-Hermitage, Henri Bonneau/La Nerthe/Beaucastel Hommage/Rayas/Vieux Télégraphe Châteauneuf rouge). Use that list when the user names a bottle or asks for a recommendation from the collection.
+
 For specific cuvées or vintages not above, use web search (WEB_SEARCH) or MICHELIN Guide.

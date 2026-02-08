@@ -54,4 +54,6 @@ Strong recent vintages: 2015 (rich, structured), 2016 (fresh, balanced), 2019 (g
 - If they want **red for duck** → Volnay or Vosne-Romanée; silky tannin and red fruit with the fat.
 - If they want **to impress with red** → Grand cru (Chambertin, Romanée-Conti, Musigny) or top premier cru; name DRC, Rousseau, Vogüé when appropriate.
 
+**Curated bottles and vintages:** See **burgundy-curated-list.md** for a full list of specific domaines, crus, and vintages (whites: Girardin Cuvée Saint-Vincent, Drouhin/Dauvissat/Raveneau Chablis, Drouhin Clos des Mouches, Meursault Girardin/Lafon, Puligny Leflaive/Jadot, Bâtard and Montrachet Jadot/Leflaive/DRC, Chassagne Drouhin Marquis de Laguiche/Jadot Grandes Ruchottes; reds: Rousseau, Jadot Clos Saint-Jacques/Echezeaux/Clos de Vougeot, DRC Echezeaux/Grands Echezeaux/RSV/Richebourg/La Tâche, Roumier Bonnes-Mares, Clos des Lambrays, Montille Volnay/Pommard, Drouhin Clos des Mouches, Leroy, etc.). Use that list when the user names a bottle or asks for a recommendation from the collection.
+
 For specific domaines or cuvées not above, use web search (WEB_SEARCH) or suggest MICHELIN Guide / a trusted merchant.

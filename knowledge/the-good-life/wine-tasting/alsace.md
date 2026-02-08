@@ -38,4 +38,6 @@ Named vineyards (e.g. Schlossberg, Rangen, Hengst) indicate top sites. Use for "
 - If they want **dry, mineral, not oaky** → Alsace Riesling (Trimbach); grand cru for a step up.
 - If they want **foie gras** → Pinot Gris or Gewurztraminer (Weinbach, Zind-Humbrecht); rich and aromatic match the liver.
 
+**Curated bottles and vintages:** See **alsace-curated-list.md** for a full list of specific domaines, cuvées, and vintages (Riesling Münchberg: Ostertag pas en vendanges tardives / en vendanges tardives; Pinot Gris: Trimbach Réserve Personnelle; Riesling: Trimbach Frédéric Emile, Trimbach Clos Sainte Hune, Kientzler Geisberg magnum). Use that list when the user names a bottle or asks for a recommendation from the collection.
+
 For specific domaines or cuvées not above, use web search (WEB_SEARCH) or MICHELIN Guide.

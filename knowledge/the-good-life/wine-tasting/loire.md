@@ -51,4 +51,6 @@ Sancerre and Muscadet: drink young (1–4 years) for freshness. Vouvray sec and 
 - If they want **value bubbles** → Crémant de Loire (Gratien & Meyer).
 - If they want **light red, chillable** → Chinon (Baudry, Raffault) or Bourgueil; "serve slightly chilled with lunch."
 
+**Curated bottles and vintages:** See **loire-curated-list.md** for a full list of specific domaines, cuvées, and vintages (dry whites: Pouilly-Fumé Jolivet/Dagueneau Terre Blanche-Indigène-Blanc Fumé-Buisson Renard-Pur Sang-Silex; Sancerre Jolivet Le Clos du Roy, Mellot La Moussière-Edmond-Les Romains, Cotat Les Monts Damnés, Vatan Clos La Néore; Saumur blanc Fosse-Sèche Arcane, Clos Rougeard Brézé, Thierry Germain Insolite; Vouvray Huet Clos du Bourg sec, Gaudron. Reds: Chinon Bernard Baudry Le Domaine-Les Grézeaux-Le Clos Guillot, Philippe Alliet Vieilles Vignes-L'Huisserie; Saumur-Champigny Thierry Germain Terres Chaudes-La Marginale, Clos Rougeard Le Clos-Les Poyeux). Use that list when the user names a bottle or asks for a recommendation from the collection.
+
 For specific domaines not above, use web search (WEB_SEARCH) or MICHELIN Guide.
