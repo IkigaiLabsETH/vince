@@ -28,6 +28,7 @@ This knowledge base contains curated information about Michelin-starred restaura
 - **Paris**: France's gastronomic capital
 - **Southwest France (complete starred list)**: southwest-france-michelin-stars-complete.md (every 1/2/3-star in Nouvelle-Aquitaine)
 - **Bordeaux Region**: Wine country dining
+- **La Rochelle**: Atlantic coast, seafood (e.g. Christopher Coutanceau)
 - **Biarritz & Basque Country**: Atlantic coast and Basque cuisine
 - **Cross-region highlights**: Notable destinations worth travel
 
