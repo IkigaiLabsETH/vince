@@ -5,16 +5,16 @@
 
 ## Quick Reference
 
-| Restaurant | Location | Open for Lunch | Tue | Thu |
-|------------|----------|----------------|-----|-----|
-| Villa Pomade | Rion-des-Landes | TBD | ? | ? |
-| Maison Devaux | Rion-des-Landes | Wed-Sun 12:30-14:00 | NO | YES |
-| Auberge du Lavoir | Garrosse | Tue-Sun 12:00-13:30 | YES | YES |
-| La Forge d'Uza | Uza | TBD | ? | ? |
-| La Table du Marensin | Uza | Fri-Sun 12:00-13:30 | NO | NO |
-| Green Fourchette | Saint-Julien-en-Born | TBD | ? | ? |
-| Le Relais de la Poste | Magescq | Wed-Sun 12:00-13:30 | NO | YES |
-| Côté Quillier (Bistro) | Magescq | Wed-Sun 12:00-13:45 | NO | YES |
+| Restaurant | Location | Open for Lunch | Tue | Wed | Thu |
+|------------|----------|----------------|-----|-----|-----|
+| Villa Pomade | Rion-des-Landes | TBD — call 05 58 47 25 76 | ? | ? | ? |
+| Maison Devaux | Rion-des-Landes | Wed-Sun 12:30-14:00 | NO | YES | YES |
+| Auberge du Lavoir | Garrosse | Tue, Wed, Thu, Sun 12:00-13:30 | YES | YES | YES |
+| La Forge d'Uza | Uza | Fri-Sun 12:00-13:30; Wed-Thu dinner only | NO | dinner | dinner |
+| La Table du Marensin | Uza | Wed, Fri-Sun 12:00-13:30; Thu dinner only | NO | YES | dinner |
+| Green Fourchette | Saint-Julien-en-Born | TBD | ? | ? | ? |
+| Le Relais de la Poste | Magescq | Wed-Sun 12:00-13:30 | NO | YES | YES |
+| Côté Quillier (Bistro) | Magescq | Wed-Sun 12:00-13:45 | NO | YES | YES |
 
 ## Dining Day Options
 
@@ -41,7 +41,7 @@
 - Style: Refined bistronomy in a renovated setting
 - Vibe: Highly rated for both cuisine and ambiance
 - Notes: Often listed as "La Villa Pomade" or shortened to "La Pommade"
-- Open: TBD (site under maintenance - call 05 58 47 25 76)
+- Open: TBD. Call 05 58 47 25 76 or check villa-pomade.com for current hours (site may be under maintenance).
 - Use case: Regular lunch when you want something refined
 
 **Analytical Approach:**
@@ -63,7 +63,7 @@
 - Style: Refined bistronomy in a renovated setting
 - Vibe: Highly rated for both cuisine and ambiance
 - Notes: Often listed as "La Villa Pomade" or shortened to "La Pommade"
-- Open: TBD (site under maintenance - call 05 58 47 25 76)
+- Open: TBD. Call 05 58 47 25 76 or check villa-pomade.com for current hours (site may be under maintenance).
 - Use case: Regular lunch when you want something refined
 
 ### Maison Devaux
@@ -82,7 +82,7 @@
 - Style: Convivial French cuisine
 - Vibe: Family-friendly spot near Morcenx
 - Notes: Great reviews for traditional dishes, single service only
-- Open: **Tue-Thu + Sun 12:00-13:30** (CLOSED Mon)
+- Open: **Tue, Wed, Thu, Sun 12:00-13:30** (CLOSED Mon)
 - Phone: 05 58 08 16 20
 - Use case: Relaxed lunch, good for groups
 - **TUESDAY DINING DAY GO-TO** (only confirmed local open Tue)
@@ -92,23 +92,23 @@
 ## Domaine d'Uza (Lakeside Options)
 
 ### La Forge d'Uza
-**36 Rue du Lac (or 36 Route du Lac), 40170 Uza, France**
+**36 Rue du Lac, 40170 Uza, France**
 
 - Style: Simple, quality local cuisine
 - Vibe: Terrace by the lake at Domaine d'Uza
 - Notes: Part of the larger Domaine d'Uza property
-- Open: TBD (contact Domaine d'Uza)
+- Open: Wed-Thu dinner 19:00-21:00; Fri-Sat lunch 12:00-13:30 + dinner 19:00-21:00; Sun lunch 12:00-13:30. Closed Mon-Tue. Phone 09 70 22 90 21.
 - Use case: Casual lakeside lunch
 
 ### La Table du Marensin
-**115 Rue de Castets (or 115 Rue des Castets), 40170 Uza, France**
+**115 Rue des Castets, 40170 Uza, France**
 
 - Style: Gastronomic/modern local cuisine
 - Vibe: Innovative with regional products, beautiful setting
 - Notes: Also at Domaine d'Uza, more upscale than La Forge
-- Open: **Fri-Sun 12:00-13:30** only (Wed-Thu dinner only, CLOSED Mon-Tue)
+- Open: **Wed, Fri-Sun 12:00-13:30** lunch; Thu dinner only 19:00-21:00. Closed Mon-Tue.
 - Phone: 09 70 22 90 21
-- Use case: Special occasion lunch (weekend only)
+- Use case: Special occasion lunch (Wed, Fri-Sun)
 
 ---
 

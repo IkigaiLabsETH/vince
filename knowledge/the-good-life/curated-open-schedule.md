@@ -6,39 +6,42 @@
 
 ### Monday
 - Most curated restaurants closed Mon-Tue
+- **Closed Mon–Tue (do not suggest):** Le Relais de la Poste, Côté Quillier (Wed–Sun only).
 - _No lunch suggestions — cook at home or check elsewhere_
 
 ### Tuesday
+- **Closed Mon–Tue (do not suggest):** Le Relais de la Poste, Côté Quillier (Wed–Sun only).
 - **Auberge du Lavoir** | Garrosse | Lunch 12:00-13:30 | Traditional French, family-friendly | 05 58 08 16 20
 - _TUESDAY DINING DAY — limited local options; Auberge du Lavoir is the confirmed go-to_
 
 ### Wednesday
 - **Maison Devaux** | Rion-des-Landes | Lunch Wed-Sat 12:30-14:00, Sun 12:30-15:00 | Michelin Bib Gourmand
-- **Auberge du Lavoir** | Garrosse | Tue-Thu + Sun 12:00-13:30 | Traditional French
+- **Auberge du Lavoir** | Garrosse | Tue, Wed, Thu, Sun 12:00-13:30 | Traditional French
 - **Le Relais de la Poste** | Magescq | Wed-Sun 12:00-13:30 | 2★ Michelin
 - **Côté Quillier** | Magescq | Wed-Sun 12:00-13:45 | Bistro at Relais de la Poste
-- **La Table du Marensin** | Uza | Fri-Sun lunch only; Wed-Thu dinner only | Gastronomic — _lunch Wed NO_
+- **La Table du Marensin** | Uza | Lunch Wed, Fri-Sun 12:00-13:30; dinner Thu-Sat 19:00-21:00 | Gastronomic
 
 ### Thursday
 - **Maison Devaux** | Rion-des-Landes | Wed-Sat 12:30-14:00
-- **Auberge du Lavoir** | Garrosse | Tue-Thu + Sun 12:00-13:30
+- **Auberge du Lavoir** | Garrosse | Tue, Wed, Thu, Sun 12:00-13:30
 - **Le Relais de la Poste** | Magescq | Wed-Sun 12:00-13:30
 - **Côté Quillier** | Magescq | Wed-Sun 12:00-13:45
+- _La Table du Marensin: dinner only Thu (no lunch); lunch Wed, Fri-Sun._
 - _THURSDAY DINING DAY — full choice_
 
 ### Friday
 - All Wednesday restaurants above plus:
-- **La Table du Marensin** | Uza | Fri-Sun 12:00-13:30 | Special occasion lunch
+- **La Table du Marensin** | Uza | Lunch Wed, Fri-Sun 12:00-13:30; dinner Thu-Sat 19:00-21:00 | Special occasion
 
 ### Saturday
 - Same as Friday — full choice
 
 ### Sunday
 - **Maison Devaux** | Rion-des-Landes | Sun 12:30-15:00
-- **Auberge du Lavoir** | Garrosse | Tue-Thu + Sun 12:00-13:30
+- **Auberge du Lavoir** | Garrosse | Tue, Wed, Thu, Sun 12:00-13:30
 - **Le Relais de la Poste** | Magescq | Wed-Sun 12:00-13:30
 - **Côté Quillier** | Magescq | Wed-Sun 12:00-13:45
-- **La Table du Marensin** | Uza | Fri-Sun 12:00-13:30
+- **La Table du Marensin** | Uza | Lunch Wed, Fri-Sun 12:00-13:30; dinner Thu-Sat 19:00-21:00
 
 ## Hotels by Season
 

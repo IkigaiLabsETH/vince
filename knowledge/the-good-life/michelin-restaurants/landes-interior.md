@@ -54,7 +54,7 @@
 
 **Restaurants**:
 - **Table Gastronomique** (2*) - legendary foie gras chaud, Gascon cuisine
-- **Auberge Côté Quillier** - bistro in 1970s pavilion, relaxed
+- **Auberge Côté Quillier** - bistro in 1970s pavilion, relaxed. Gault&Millau 2025: first toque (11/20 Table Gourmande).
 
 **Hotel**: 4*, 16 rooms + suites, 7-hectare park, own vineyard, padel, spa
 
@@ -85,6 +85,8 @@
 **Hotel**: 7 rooms, gardens on Trois Rivières, Musée Despiau-Wlérick sculptures
 
 **Best For**: Art + gastronomy, Belle Époque charm, business stays
+
+For current opening hours call +33 5 58 44 14 14 or see villamirasol.fr.
 
 ---
 

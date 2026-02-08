@@ -86,6 +86,15 @@ The Basque Country straddles France and Spain, creating a unique gastronomic cul
 - **Style**: Classic Basque
 - **Notes**: Historic Bayonne address
 
+#### Germaine (Bayonne)
+- **Address**: 27 quai Amiral-Dubourdieu, 64100 Bayonne
+- **MICHELIN**: https://guide.michelin.com/fr/fr/nouvelle-aquitaine/bayonne/restaurant/germaine
+- **Phone**: +33 6 87 62 06 07
+- **Price**: €€ · Cuisine créative
+- **Chef**: Maxime Chentouf
+- **Style**: Counter 15 covers, single menu (not blind); fermentation, robatayaki, citrus, seaweed
+- **Notes**: Nouveau in the Guide; creative lunch spot we want to try
+
 ## San Sebastián (30 minutes)
 
 ### 3-Star Restaurants
