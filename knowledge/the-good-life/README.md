@@ -37,6 +37,7 @@ When discussing lifestyle, dining, hotels, or the good life, treat these as the 
 - [lifestyle](./lifestyle/) (8 files)
 - [roadtrips-travel](./roadtrips-travel/) (7 files)
 - [luxury-hotels](./luxury-hotels/) (8 files)
+- [surf](./surf/) (4 files) — iconic point breaks, longboard spots, Pavones, J-Bay, surf spots by country
 - [wine-tasting](./wine-tasting/) (2 files)
 - [creative-production](./creative-production/) (4 files)
 - [art-collecting](./art-collecting/) (5 files)

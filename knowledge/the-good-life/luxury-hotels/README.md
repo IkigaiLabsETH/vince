@@ -43,6 +43,12 @@ This knowledge base contains curated information about 5-star and boutique luxur
 - **New York** — new-york.md
 - **Costa Rica** — costa-rica.md
 
+### Live the life — curated list (by city)
+- **livethelife-places.md** — Curated hotels and places for Bordeaux, Cape Town, Lisbon, New York, Vancouver, LA/Hollywood, Panama City, Toulouse, Paris, São Paulo, Barcelona, Bilbao, Porto, Rome. Use for "where to stay" and "live the life" recommendations.
+
+### Ski & mountain resorts
+- **ski-mountain-resorts.md** — Curated ski lodges, heli-ski bases, and mountain hotels: France (Chamonix, Val d'Isère, Courchevel, Méribel, Val Thorens, Megève, Tignes, etc.), Switzerland (Verbier, Zermatt, Laax, St. Moritz, Adelboden), Austria (Lech, Obergurgl, Salzburg, Innsbruck, Bad Gastein), Italy (Dolomites, Cervinia, Gressoney), Canada (Whistler, Revelstoke, Golden, Nelson), USA (Alta, Telluride, Alaska), New Zealand (Queenstown), Iceland, Norway, Sweden, Finland, Chile, Argentina, Spain (Baqueira), Andorra, Lebanon. Use for "ski resort", "heli-ski", "mountain lodge" recommendations.
+
 ## Hotel Selection Criteria
 
 1. **Character**: Unique properties with personality over cookie-cutter luxury

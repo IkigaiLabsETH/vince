@@ -53,4 +53,4 @@
 - **"Japanese whisky"** → Yamazaki, Hibiki, Nikka; "refined, balanced; check availability."
 - **"Gift"** → Single malt (Macallan, Highland Park) or Japanese (Hibiki) or Redbreast 15; name one from knowledge; for current award winners use WEB_SEARCH.
 
-For specific bottles or current-year awards not in this note, use **WEB_SEARCH** (World Whiskies Awards, IWSC, or bottle name).
+For **award-winning and "best" whiskies** (World's Best Single Malt, best bourbon, best Japanese, etc.), use **award-winning-whiskies.md** — it lists perennial WWA/SFWSC/IWSC winners and top-tier bottles by category. For specific bottles or **current-year** awards not in that note, use **WEB_SEARCH** (World Whiskies Awards, IWSC, or bottle name).
