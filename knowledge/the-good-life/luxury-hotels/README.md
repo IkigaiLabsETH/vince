@@ -19,9 +19,29 @@ This knowledge base contains curated information about 5-star and boutique luxur
 ## Regions Covered
 
 ### France
-- **Bordeaux Region** - Wine country luxury, château hotels, Saint-Émilion area
-- **Biarritz & Basque Country** - Coastal elegance, surf culture meets luxury
-- **Other Wine Regions** - Burgundy, Champagne, Rhône Valley
+- **france-palaces.md** — Every French palace (official list, ~31); Paris, Alps, Côte d'Azur, Southwest, Caribbean.
+- **Southwest France (complete)** — southwest-france-5-star-complete.md (every 5-star in Nouvelle-Aquitaine).
+- **Bordeaux Region** — Wine country luxury, château hotels, Saint-Émilion area.
+- **Biarritz & Basque Country** — Coastal elegance, surf culture meets luxury.
+- **Côte d'Azur** — cote-dazur.md; palaces and 5-star, Nice to Saint-Tropez.
+- **Other Wine Regions** — Burgundy, Champagne, Rhône Valley (france/regions.md).
+
+### Europe & Beyond (best 5-star to live the life)
+- **Cape Town** — cape-town.md
+- **Lisbon** — lisbon.md
+- **Brussels** — brussels.md
+- **Amsterdam** — amsterdam.md
+- **Milan** — milan.md
+- **Monaco** — monaco.md
+- **Switzerland** — switzerland.md
+- **Italy** (Rome, Florence, Venice, Lake Como, Amalfi) — italy.md
+- **Spain** (Madrid, Barcelona, San Sebastián, Marbella) — spain.md
+- **Ibiza** — ibiza.md
+
+### Americas (best 5-star to live the life)
+- **Miami** — miami.md
+- **New York** — new-york.md
+- **Costa Rica** — costa-rica.md
 
 ## Hotel Selection Criteria
 

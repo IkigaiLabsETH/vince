@@ -1,4 +1,39 @@
+# Margaux AOC, Médoc, Bordeaux — Region Deep Dive
 
+## Overview
+
+**Margaux** is a **Haut-Médoc** communal appellation; **Cabernet Sauvignon–dominant** with Merlot, Cabernet Franc, Petit Verdot. Soils: **gravel (Pyrenean)** over clay-limestone; the appellation is **fragmented** (many small croupes). Style: **perfumed, silky, elegant** — often described as the most "feminine" of the Médoc; violet, cassis, graphite, fine tannins. **Château Margaux** is the 1855 first growth; many other classed growths and value crus.
+
+## Terroir
+
+- **Gravel croupes** separated by streams and meadows; **elevation** and **drainage** vary; best sites have deep gravel and good exposure. **Chantelune** (see essay below) is an example of a tiny perfect parcel that was never classified.
+
+## Key châteaux (1855 and beyond)
+
+- **Château Margaux:** First growth (1er cru). **Elegance, perfume, silk;** 95–100 in top vintages. Reference.
+- **Château Palmer:** Third growth; often **at second or first growth level;** **rich, aromatic, age-worthy.** 92–98+. Historic and iconic.
+- **Château Rauzan-Ségla:** Second growth; **refined, consistent;** 90–95+.
+- **Château Brane-Cantenac:** Second growth; **elegant, classic;** 90–94+.
+- **Château Cantenac Brown:** Third growth; **structured, modern** (see Chantelune story — same technical director).
+- **Château Prieuré-Lichine, Lascombes, Giscours, Durfort-Vivens, Kirwan, d'Issan, etc.:** Classed growths; all capable of 88–94+ in good vintages.
+- **Château Chantelune:** Micro-estate (see essay below); **unclassified but 90+ level;** value and rarity.
+
+## Style and vintage
+
+- **Classic Margaux:** Violet, cassis, blackcurrant, graphite, cedar; **silky tannins;** 10–30+ years. **Decant** young 45–90 min.
+- **Vintage:** 2015, 2016, 2018, 2019, 2020 strong. For "drink now" 2014 or 2016; for cellaring 2019, 2020.
+
+## Service
+
+- **Temperature:** 16–18 °C. Decant young 45–90 min; older 30–60 min.
+
+## Guest-led
+
+- **"Elegant Médoc" / "perfumed Bordeaux"** → Margaux; Château Margaux, Palmer, Rauzan-Ségla.
+- **"Best Margaux"** → Château Margaux, Palmer; "first and super-third; 95–98+."
+- **"Value Margaux"** → Chantelune (if available), or good-vintage classed growths like Prieuré-Lichine, Cantenac Brown.
+
+---
 
 ## Methodology & Framework
 

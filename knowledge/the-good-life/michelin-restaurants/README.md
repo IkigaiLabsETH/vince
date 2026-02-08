@@ -26,6 +26,7 @@ This knowledge base contains curated information about Michelin-starred restaura
 ## Regions Covered
 
 - **Paris**: France's gastronomic capital
+- **Southwest France (complete starred list)**: southwest-france-michelin-stars-complete.md (every 1/2/3-star in Nouvelle-Aquitaine)
 - **Bordeaux Region**: Wine country dining
 - **Biarritz & Basque Country**: Atlantic coast and Basque cuisine
 - **Cross-region highlights**: Notable destinations worth travel

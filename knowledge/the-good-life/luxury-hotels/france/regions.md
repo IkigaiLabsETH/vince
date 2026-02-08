@@ -33,6 +33,8 @@
 
 # Luxury Hotels: French Wine Regions
 
+**For every French palace (official list, ~31), see france-palaces.md in luxury-hotels.**
+
 ## Overview
 
 Beyond Bordeaux and Biarritz, France offers exceptional luxury accommodations in its celebrated wine regions. This guide covers Burgundy, Champagne, Rhône Valley, and other notable areas.
