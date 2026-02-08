@@ -267,3 +267,5 @@
 | Le Kaiku | - | Saint-Jean-de-Luz | 86 km | Coastal seafood |
 | Villa Sorro | - | San Sebastian | 109 km | Modern Basque |
 | Hôtel-Restaurant Berria | - | Biarritz | 69 km | Hotel dining |
+
+### Other (Nouvelle-Aquitaine)

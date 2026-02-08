@@ -74,6 +74,7 @@ vinceContextProvider, trenchKnowledgeProvider; tradePerformanceEvaluator.
 - More trades for Thompson Sampling / ML (VINCE_PAPER_AGGRESSIVE=true, VINCE_PAPER_ASSETS=BTC).
 - Feature store 90+ trades → ONNX training (auto or manual).
 - Increase real-time signal factors (see PRIORITY).
+- Michelin knowledge: target quality not fully achieved; exploring plugin-based fixes (plugin-knowledge, plugin-browser) — preference over ClawdBot. See docs/todo-michelin-crawlee.md and docs/PLUGIN-KNOWLEDGE-EVAL.md.
 
 ---
 

@@ -169,3 +169,5 @@
 - Le Saint-James: Reopening May 2026
 - Harvest season (Sept-Oct): Book months ahead, premium pricing
 - Winter: Best rates, quieter (our preferred time)
+
+### Arcachon / Bassin
