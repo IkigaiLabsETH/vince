@@ -140,6 +140,16 @@ Optional: `--model`, `--temperature`, `--max-tasks`. Results: latest `terminal-b
 
 In the registry, each benchmark’s `extract_score` maps these JSON files to a single numeric score and a `higher_is_better` flag so you can compare runs or track over time.
 
+## Related: plugin-rlm (Recursive Language Model)
+
+The [plugin-rlm](https://github.com/elizaos-plugins/plugin-rlm) TypeScript implementation ([next/typescript](https://github.com/elizaos-plugins/plugin-rlm/tree/next/typescript)) integrates **Recursive Language Models (RLMs)** into ElizaOS so agents can process arbitrarily long context via recursive self-calls (Peek, Grep, Partition+Map, Summarize). Paper: [Recursive Language Models](https://arxiv.org/abs/2512.24601) (arXiv:2512.24601).
+
+- **What it does:** Handles inputs far beyond standard context windows; can outperform vanilla long-context models on benchmarks (e.g. OOLONG, S-NIAH) using smaller models. Registers model types `TEXT_RLM_LARGE`, `TEXT_RLM_REASONING` and integrates with the runtime.
+- **TypeScript:** `client.ts` (IPC to Python RLM backend), `index.ts` (plugin), `trajectory-integration.ts`, `cost.ts`. Stub mode when the backend is unavailable.
+- **Config (env):** `ELIZA_RLM_BACKEND` (e.g. `gemini`, `openai`, `anthropic`, `groq`, `openrouter`), `ELIZA_RLM_ENV`, `ELIZA_RLM_MAX_ITERATIONS`, `ELIZA_RLM_MAX_DEPTH`, `ELIZA_RLM_VERBOSE`. TypeScript/Rust talk to the official Python RLM via IPC.
+- **Link to rlm-bench:** The elizaOS benchmarks repo’s **rlm-bench** (see above) measures long-context behavior (S-NIAH, OOLONG). Using **plugin-rlm** in an agent is the runtime counterpart—enabling that behavior in production.
+- **Relevance to VINCE:** Long-context market research, large knowledge ingest, and RAG beyond a single window (e.g. very long X threads, multi-doc briefings) can benefit from RLM. When suggesting long-context or rlm-bench work, mention plugin-rlm as the ElizaOS integration to consider.
+
 ## HyperliquidBench (perps/options)
 
 HyperliquidBench is present in the elizaOS/benchmarks repo tree but may not yet be wired into the main registry. When it appears in the registry with a `build_command` and result path, add run instructions here for perps/options relevance to VINCE. Until then, treat it as “future” and only suggest tracking the repo for when it becomes runnable.
