@@ -2,12 +2,11 @@
 
 VINCE uses the **X API v2** (read-only) for search, profile, thread, single tweet, and list feed. By default **one bearer token** (`X_BEARER_TOKEN`) is shared by in-chat research and background sentiment; when you add **`X_BEARER_TOKEN_SENTIMENT`** (or `X_BEARER_TOKEN_BACKGROUND`), sentiment and list feed use that token and in-chat keeps the primary token so vibe-check 429s no longer block "What are people saying about BTC?".
 
-## Tiers and limits
+## Pay-per-use and limits (Feb 2026+)
 
-- **Basic** (and similar pay-as-you-go): ~450 requests per 15-minute window for standard endpoints (search recent, tweet lookup, user lookup, list tweets). Fine for light use: in-chat search only, or sentiment with long stagger (e.g. one asset per hour = 4 requests per 4h for 4 assets).
-- **Pro**: Higher limits; recommended if you run **sentiment + in-chat + list feed** and want fresher data or more assets. Check [developer.x.com](https://developer.x.com/) for current limits and pricing.
+X API uses **pay-per-use pricing**: no Basic/Pro/Enterprise tiers or monthly subscriptions. You use prepaid credits and set **spending limits** in the [Developer Console](https://console.x.com). Rate limits are primarily controlled by those spending limits; the old 450/300 requests-per-15-min caps from the subscription model may no longer apply.
 
-For an “all-in” X setup (sentiment, list feed, CT Vibe, leaderboard), **Pro** or a second app/token is recommended so you don’t hit 429s during peak usage.
+For an “all-in” X setup (sentiment, list feed, CT Vibe, leaderboard), ensure enough credits and a sensible spending limit, or use a **second app/token** so in-chat and vibe check don’t compete—see **Optional: second token** below. Check [X API pricing](https://docs.x.com/x-api/getting-started/pricing) for current usage and limits.
 
 ## Quota usage (single token)
 

@@ -141,7 +141,7 @@ Single source of truth for Sentinel: all project costs, LLM choice, data API tie
 | DexScreener       | Free / tier               | Meme scanner, traction                 |
 | Helius             | Per tier                  | Solana RPC (HELIUS_API_KEY; .env.example) |
 | OpenSea            | Limited / tier            | NFT floors (OPENSEA_API_KEY; CryptoPunks, Meridian) |
-| X (Twitter)        | Basic tier or higher      | Read-only research, sentiment (X_BEARER_TOKEN) |
+| X (Twitter)        | Pay-per-use (prepaid credits) | Read-only research, sentiment (X_BEARER_TOKEN) |
 | Firecrawl          | Optional                  | Web URLs for upload (FIRECRAWL_API_KEY) |
 | Supabase           | Project plan              | Feature store, ML bucket (SUPABASE_*; optional) |
 
