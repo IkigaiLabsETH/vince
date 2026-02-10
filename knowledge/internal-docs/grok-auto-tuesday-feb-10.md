@@ -1,6 +1,6 @@
 # Grok Expert Auto-Pulse
 
-**Generated**: 2026-02-10T11:32:16.740Z
+**Generated**: 2026-02-10T14:41:25.147Z
 **Type**: Automated Daily Task
 **Tags**: #grok-expert #auto-pulse #daily
 
@@ -9,17 +9,20 @@
 === GROK DAILY PULSE (AUTO) ===
 Date: Tuesday, Feb 10 | Regime: ranging  
 Fear & Greed: 9/100  
-Top Traders: 55.1% long  
+Top Traders: 54.6% long  
 
-**Prompt of the Day**: Scan BTC 1W options chain for elevated put skew above $55k; model gamma squeeze potential if fear eases to 20/100.  
+**1. Prompt of the Day**  
+Scan BTC 4H chart for Bollinger Band squeezes targeting 65k resistance; backtest with 2% stop-loss entries.  
 
-**Market Read**: Extreme fear at 9/100 signals capitulation vibes in a ranging regime, with BTC pinned ~$48k amid low vol. Top traders lean 55% long, eyeing a relief bounce, but spot CVD flat warns of trapdoor risk below $46k.  
+**2. Market Read**  
+Extreme fear at 9/100 signals capitulation potential amid ranging regime, with BTC pinned between 60-64k. Top traders' 54.6% long bias hints at dip-buying, but low volume caps upside. Altcoins lag, ETH/BTC at multi-month lows.  
 
-**Top 3 Research Ideas**:  
-1. **Options**: Buy Dec $50k/55k BTC call spread (0.15 delta), target 2x if vol pops.  
-2. **Perps**: Long ETH perp at $2.6k with 5x lev, trail stop $2.55k—trader longs overweight.  
-3. **HIP-3**: Run HIP-3 on SOL vs BTC pair; enter short SOL if regime holds <1D.  
+**3. Top 3 Research Ideas**  
+- **Options**: BTC 62000C Mar25 straddle for volatility pop post-FOMC.  
+- **Perps**: Short ETH perp at 3200 with 2x leverage, trail stop at 3350.  
+- **HIP-3**: Rotate 20% into SOL HIP-3 basket if RSI<30, exit at +15%.  
 
-**Knowledge Gap**: HIP-3 performance stats in Fear & Greed <20 regimes.  
+**4. Knowledge Gap**  
+Quantify impact of ETF outflows on BTC ranging duration (historical data 2021-2025).  
 
 (148 words)
