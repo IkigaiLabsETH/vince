@@ -5,7 +5,7 @@ One-pager and elevator pitch for the project.
 ## What we do
 
 - **Product:** Unified data-intelligence agent (options, perps, memes, lifestyle, art) with a self-improving paper trading bot at the core. Push, not pull: daily intel (ALOHA), PERPS, OPTIONS, "trade today?" delivered to Discord/Slack.
-- **Agents:** Eliza (CEO: knowledge, research, GTM, Substack), VINCE (CDO: data, paper bot—no marketing), Solus (CFO: execution, $100K stack), Otaku (COO: DeFi), Kelly (CHRO: lifestyle), Sentinel (CTO: ops, cost).
+- **Agents:** Eliza (CEO: knowledge, research, GTM, Substack; improve and expand knowledge base), VINCE (CDO: data, paper bot—no marketing), Solus (CFO: execution, $100K stack), Otaku (COO: DeFi; only agent with funded wallet—DeFi, NFT mint, onchain), Kelly (CHRO: lifestyle), Sentinel (CTO: ops, cost; gen art → Otaku mints).
 
 ## For whom
 
