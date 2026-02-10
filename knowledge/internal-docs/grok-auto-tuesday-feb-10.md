@@ -1,23 +1,23 @@
 # Grok Expert Auto-Pulse
 
-**Generated**: 2026-02-10T19:17:46.105Z
+**Generated**: 2026-02-10T21:54:59.383Z
 **Type**: Automated Daily Task
 **Tags**: #grok-expert #auto-pulse #daily
 
 ---
 
 === GROK DAILY PULSE (AUTO) ===
-Date: Tuesday, Feb 10 | Regime: neutral  
+Date: Tuesday, Feb 10 | Regime: trending  
 Fear & Greed: 9/100  
-Top Traders: 54.7% long  
+Top Traders: 55.1% long  
 
-**Prompt of the Day**: Screen mid-cap alts with >20% volume spike and RSI<30 for bounce setups targeting 2x in 48h.  
+**Prompt of the Day**: Screen ETH perps for 3x leverage longs with funding rates under -0.01% amid fear spike—target entries below $2,400.  
 
-**Market Read**: Extreme fear at 9/100 signals capitulation, with neutral regime holding amid BTC testing $42k support. Traders lean slightly long at 54.7%, eyeing Fed minutes for dovish cues. Volatility spikes favor quick mean-reversion plays.  
+**Market Read**: Extreme fear at 9/100 signals capitulation, with BTC dipping below $42k on liquidation cascades. Trending regime holds as top traders lean 55% long, eyeing rebound. Altcoins lag, but ETH/BTC ratio stabilizes at 0.055.  
 
 **Top 3 Research Ideas**:  
-1. BTC $44k calls (weekly) – perp long if holds 42k, 1:3 RR.  
-2. ETH perp short below $2300 – target $2200, trail stop at 50EMA.  
-3. HIP-3 on SOL: Long perp + $150 call + spot if RSI divergence confirms.  
+1. BTC $44k calls (weekly expiry): Buy if VIX proxy drops below 30.  
+2. SOL perps long (5x): Enter at $105, stop $100, target $115 on volume surge.  
+3. HIP-3 on LINK: Pair $14 puts with $16 calls for volatility crush play.  
 
-**Knowledge Gap**: Quantify HIP-3 edge cases in fear regimes (<20 F&G).
+**Knowledge Gap**: Quantify liquidation heatmaps for top 10 perps during Fear & Greed <20 events.
