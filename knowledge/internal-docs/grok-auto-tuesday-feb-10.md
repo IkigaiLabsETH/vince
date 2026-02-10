@@ -1,27 +1,28 @@
 # Grok Expert Auto-Pulse
 
-**Generated**: 2026-02-10T16:09:00.700Z
+**Generated**: 2026-02-10T16:56:13.963Z
 **Type**: Automated Daily Task
 **Tags**: #grok-expert #auto-pulse #daily
 
 ---
 
 === GROK DAILY PULSE (AUTO) ===
-Date: Tuesday, Feb 10 | Regime: ranging  
-Top Traders: 55.0% long
+Date: Tuesday, Feb 10 | Regime: neutral  
+Fear & Greed: 9/100  
+Top Traders: 54.7% long  
 
-**1. Prompt of the Day**  
-Screen BTC/ETH perp funding rates vs. OI for divergence signals; target pairs with negative funding + rising OI for short setups.
+**Prompt of the Day**  
+Scan BTC 1D chart for hammer reversal patterns near $95K support; backtest with RSI<30 for 24h entry signals.  
 
-**2. Market Read**  
-Markets range-bound with BTC consolidating $95k-$98k amid low vol. Top traders 55% long signals mild upside bias, but funding rates turning neutral curbs momentum. Altcoin bleed persists on BTC dom rise.
+**Market Read**  
+Extreme fear at 9/100 signals capitulation, but neutral regime and 54.7% trader longs hint at dip-buying. BTC holds $96K amid $2T total cap bleed; VIX-like vol spikes favor mean-reversion plays. Watch ETH/BTC ratio breakdown for alt bleed.  
 
-**3. Top 3 Research Ideas**  
-- **Options**: Buy BTC $100k calls (Mar exp) if spot breaks $98k; theta low in range.  
-- **Perps**: Short ETHUSDT perp at $3.2k; trail stop above $3.3k on funding flip.  
-- **HIP-3**: Layer BTC HIP-3 long (0.5x lev) on 4H RSI >50; exit at $99.5k resistance.
+**Top 3 Research Ideas**  
+1. **Options**: BTC $95K puts (7D exp) for theta decay if no breakdown; skew favors calls above $98K.  
+2. **Perps**: Short ETHUSDT perp at $3.2K (3x lev) targeting $3K; trail stop at 2% drawdown.  
+3. **HIP-3**: Enter HIP-3 long BTC on 4H close > $97K; scale 20% position with $1K stop.  
 
-**4. Knowledge Gap**  
-Quantify HIP-3 edge in ranging regimes vs. trending (backtest 2024 data). 
+**Knowledge Gap**  
+HIP-3 performance in Fear & Greed <20 regimes (win rate, drawdowns).  
 
 (148 words)
