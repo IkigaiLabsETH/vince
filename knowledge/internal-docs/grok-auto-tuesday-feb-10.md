@@ -1,6 +1,6 @@
 # Grok Expert Auto-Pulse
 
-**Generated**: 2026-02-10T14:41:25.147Z
+**Generated**: 2026-02-10T16:09:00.700Z
 **Type**: Automated Daily Task
 **Tags**: #grok-expert #auto-pulse #daily
 
@@ -8,21 +8,20 @@
 
 === GROK DAILY PULSE (AUTO) ===
 Date: Tuesday, Feb 10 | Regime: ranging  
-Fear & Greed: 9/100  
-Top Traders: 54.6% long  
+Top Traders: 55.0% long
 
 **1. Prompt of the Day**  
-Scan BTC 4H chart for Bollinger Band squeezes targeting 65k resistance; backtest with 2% stop-loss entries.  
+Screen BTC/ETH perp funding rates vs. OI for divergence signals; target pairs with negative funding + rising OI for short setups.
 
 **2. Market Read**  
-Extreme fear at 9/100 signals capitulation potential amid ranging regime, with BTC pinned between 60-64k. Top traders' 54.6% long bias hints at dip-buying, but low volume caps upside. Altcoins lag, ETH/BTC at multi-month lows.  
+Markets range-bound with BTC consolidating $95k-$98k amid low vol. Top traders 55% long signals mild upside bias, but funding rates turning neutral curbs momentum. Altcoin bleed persists on BTC dom rise.
 
 **3. Top 3 Research Ideas**  
-- **Options**: BTC 62000C Mar25 straddle for volatility pop post-FOMC.  
-- **Perps**: Short ETH perp at 3200 with 2x leverage, trail stop at 3350.  
-- **HIP-3**: Rotate 20% into SOL HIP-3 basket if RSI<30, exit at +15%.  
+- **Options**: Buy BTC $100k calls (Mar exp) if spot breaks $98k; theta low in range.  
+- **Perps**: Short ETHUSDT perp at $3.2k; trail stop above $3.3k on funding flip.  
+- **HIP-3**: Layer BTC HIP-3 long (0.5x lev) on 4H RSI >50; exit at $99.5k resistance.
 
 **4. Knowledge Gap**  
-Quantify impact of ETF outflows on BTC ranging duration (historical data 2021-2025).  
+Quantify HIP-3 edge in ranging regimes vs. trending (backtest 2024 data). 
 
 (148 words)
