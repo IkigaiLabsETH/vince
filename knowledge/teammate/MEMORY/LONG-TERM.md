@@ -23,7 +23,9 @@ Use it for:
 ## Standing decisions
 
 - No naked options. HYPE strike width 1.5×. Treadfi: Long Nado + Short HL until Season 1 ends May 18, 2026. Paper bot: suggest only; no paper trade without explicit "trade" / "go long".
-- **Perps vs options:** Perps are hard and swing fast (e.g. paper PnL +$88 → next check SOL hammered, shorts mixed). We make most of our money from Hypersurface covered calls and secured puts—weekly upfront premium—not from perps. Paper bot is for learning/signals; real edge is options premium.
+- **Perps vs options:** Perps are hard and swing fast (e.g. paper PnL +$88 → next check SOL hammered, shorts mixed). We make most of our money from Hypersurface covered calls and secured puts—weekly upfront premium—not from perps. Paper bot is for learning/signals; real edge is options premium. **Big difference:** VINCE = perps on Hyperliquid, short timeframes (1h/1d/2d), paper bot; Solus = weekly options, good strike + good weekly bull/bear sentiment.
+- **Solus data boundary:** Solus doesn't have Vince-level data for weekly sentiment or where price lands by Friday; strike calls use spot + mechanics + pasted context (VINCE options view or user view).
+- **Three curves:** Left = max leverage perps on Hyperliquid with Vince (casino). Mid = stack HIP-3 spot on Hyperliquid + stack sats (accumulation). Right = Hypersurface options income + ship code (Solus + Sentinel). Primary edge and income = right curve; left = signals/learning; mid = steady stack. Full doc: knowledge/teammate/THREE-CURVES.md.
 
 ## Corrections (agent got wrong / don’t repeat)
 

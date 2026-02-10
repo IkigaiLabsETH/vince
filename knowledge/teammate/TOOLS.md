@@ -10,6 +10,7 @@ Notes on your external tools and **VINCE actions** so the agent can reference th
 - **OPTIONS / PERPS:** Used inside ALOHA; callable directly (strikes, HYPERSURFACE, signals). Friday = strike day; funding → IV → delta, HYPE 1.5× width.
 - **Paper bot:** "bot status" (positions, P&L), "why" (reasoning), pause/trade on explicit command only. No live execution; simulation only. Feature store (Supabase) + ONNX models when ML loop is enabled.
 - **Rest:** MEMES, TREADFI, LIFESTYLE, NFT, INTEL, NEWS, AIRDROPS, WATCHLIST, UPLOAD, CHAT, GROK_EXPERT — supporting cast. UPLOAD: "upload:", URLs, YouTube → knowledge/ via summarize. **No X API:** we don’t fetch x.com/twitter.com links; for X content user should paste it and say "upload that" so we save most/all of the dumped data.
+- **Three curves:** Left = Vince (perps, data). Right = Solus (Hypersurface, strike ritual) + Sentinel (ship code). Mid = HIP-3 spot + stack sats. See THREE-CURVES.md.
 
 ---
 
