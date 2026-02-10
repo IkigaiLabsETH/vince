@@ -33,9 +33,55 @@
 
 ---
 
+## One team, one dream
+
+<div align="center">
+
+**We assembled a dream team.** Clear lanes, no overlap—data → plan → call → lifestyle → infra.
+
+</div>
+
+| Agent | Lane |
+|:---|:---|
+| **Eliza** | Full knowledge, research, brainstorm—the base everything else builds on. **Heavy focus: improve and expand the knowledge base** (quality, gaps, new categories). Her own Discord + #knowledge for ingestion; Leaderboard **Knowledge** tab tracks the corpus. |
+| **VINCE** | All the data: options chains, perps, memes, news, X/CT, paper bot status, yield. Push, not pull. Data only—no marketing or GTM. |
+| **Solus** | Plan and call. You paste context (or get it from VINCE); he gives size/skip/watch, invalidation, rebalance. Execution architect for the $100K stack. |
+| **Otaku** | **Only agent with a funded wallet.** DeFi wiz: token discovery, Morpho, yield, smart money flows, CDP. Mints NFTs when Sentinel creates gen art; full onchain exploration. When you need DeFi edge. |
+| **Kelly** | Touch grass, live the good life. Hotels, fine dining, wine, health, fitness—no trading. |
+| **Sentinel** | Keeps the ElizaOS project running smooth, profitable, and well coded. Ops, cost steward, ONNX, ART, clawdbot, task briefs for Claude. |
+
+**Startup analogy** — who’s CEO, CDO, CFO, COO, CHRO, CTO?
+
+| Role | Agent | Why |
+|:---|:---|:---|
+| **CEO** | Eliza | Strategy, knowledge base, research—the base everything builds on. **Improve and expand knowledge** (quality, gaps, categories). Extends to GTM/PR, community, Discord #knowledge, positioning, Substack. |
+| **CDO** | VINCE | Data powerhouse: options, perps, memes, news, X/CT, paper bot. Push intel only—no marketing or external promo. |
+| **CFO** | Solus | Capital and risk: size/skip/watch, invalidation, rebalance. Execution architect for the $100K stack. |
+| **COO** | Otaku | **Only agent with funded wallet.** DeFi ops: token discovery, Morpho, yield, CDP; mints NFTs (e.g. Sentinel gen art); full onchain. Keeps daily operations seamless. |
+| **CVO** | Kelly | People and balance: touch grass, hotels, dining, wine, health, fitness. Culture where humans recharge; no burnout. |
+| **CTO** | Sentinel | Systems, cost, code: ops, ONNX, clawdbot, task briefs. Keeps the stack running and profitable. |
+
+One team, one dream.
+
+---
+
+## Multi-agent: one conversation, full team
+
+You talk to one agent. That agent asks any teammate by name and brings the answer back—in the same thread. No app-switching, no copy-paste. Ask Kelly for a wine pick; she can ask Vince for the market vibe and Solus for size in one flow. You get one reply that’s already wired through the right specialist.
+
+**Standups run without you.** Twice a day (configurable), the team meets in a dedicated standup: crypto pulse, recent code, ideas. The run produces lessons (stored per agent), action items (reminders to the right agent), and relationship signals (e.g. disagreement tracked). When it’s done, a short summary lands in **#daily-standup**. Invite the coordinator bot (default: Kelly) and the agents you want in the channel.
+
+**You control who can ask whom.** An allowlist limits which agents are askable; optional rules (e.g. only Kelly can ask anyone) give fine-grained policy without code. Each agent keeps its own runtime; routing is by name.
+
+→ [MULTI_AGENT.md](MULTI_AGENT.md) — ASK_AGENT resolution, Discord Option C, policy, plugin-inter-agent vs orchestrator.
+
+---
+
 ## TL;DR
 
 **VINCE** = ElizaOS agent that **pushes** daily intel (options, perps, memes, DeFi) to Discord/Slack instead of you asking. One command, **ALOHA**, gives you vibe check + PERPS + OPTIONS + “trade today?”. Under the hood: a **self-improving paper trading bot** (ML loop, feature store, ONNX) that trains in prod and stores models in Supabase—no redeploy to improve. **Kelly** is a separate **lifestyle-only concierge** agent: travel advisor, private sommelier, Michelin guide for fine dining, health guru, and fitness coach—and the one who motivates you to touch grass and rebalance. She uses **plugin-kelly** only (no vincePlugin) and can push a daily concierge briefing to channels with "kelly" or "lifestyle" in the name; no trading actions. She knows your context (paper perps, options income) but never gives trading advice. **Run:** `elizaos dev` · **Deploy:** `bun run deploy:cloud` · **Backfill features:** `bun run sync:supabase`.
+
+**Multi-agent strategy (priority):** (1) **First:** Implement feedback-from-testing → Sentinel triages → PRD or Eliza task to `standup-deliverables/`; keep implementation in Cursor/human. (2) **If bottleneck:** Add a dev worker to apply PRDs; prefer **Milaidy** (ElizaOS, existing Gateway hook) over OpenClaw. (3) Full rationale, limitations, and options → [MULTI_AGENT.md](MULTI_AGENT.md).
 
 ---
 
@@ -44,6 +90,7 @@
 | | |
 |:---|:---|
 | [**FEATURE-STORE**](FEATURE-STORE.md) | ML & paper bot · feature store |
+| [**MULTI_AGENT**](MULTI_AGENT.md) | ASK_AGENT · standups · one conversation, full team |
 | [**SUPABASE_MIGRATION**](SUPABASE_MIGRATION.md) | Production persistence checklist |
 | [**DEPLOY**](DEPLOY.md) | Eliza Cloud · env · troubleshooting |
 | [**DISCORD**](DISCORD.md) | Channel structure for VINCE + Eliza (IKIGAI, LiveTheLifeTV, Slack) |
@@ -62,6 +109,8 @@
 
 | Section | |
 |:---|:---|
+| [One team, one dream](#one-team-one-dream) | The dream team: Eliza, VINCE, Solus, Otaku, Kelly, Sentinel |
+| [Multi-agent: one conversation, full team](#multi-agent-one-conversation-full-team) | ASK_AGENT, standups, policy—one thread, full team |
 | [North Star](#-north-star) | Proactive agent, push not pull |
 | [Current Focus](#-current-focus-feb-2026) | ALOHA, ML paper trading |
 | [X research & sentiment](#-x-research--sentiment-on-x) | Paper algo signal + Cursor skill + VINCE in-chat |
@@ -137,10 +186,12 @@ We **search X (Twitter) for sentiment** and use it in **three** places:
 |:---:|---|:---|
 | 🤖 | **Paper trading algo** | **XSentiment** is a signal source in the aggregator (weight 0.5). Staggered one asset per hour (no burst); rate-limit aware. When confidence ≥ 40%, it votes long/short/neutral and appears in **WHY THIS TRADE**. Feature store records `signal_xSentimentScore` for ML. → [SIGNAL_SOURCES](src/plugins/plugin-vince/SIGNAL_SOURCES.md) |
 | 🔍 | **Cursor / Claude skill** | **skills/x-research/** — CLI (`bun run x-search.ts search "BNKR"`), watchlist, thread/profile, 15min cache. Use from the IDE for deep dives; paste results into VINCE or knowledge. |
-| 💬 | **VINCE in-chat** | When `X_BEARER_TOKEN` is set, ask *"what are people saying about BNKR?"* or *"search X for …"* → **VINCE_X_RESEARCH** returns sourced tweets (read-only). |
+| 💬 | **VINCE in-chat** | When `X_BEARER_TOKEN` is set, ask *"what are people saying about BNKR?"* or *"search X for …"* → **VINCE_X_RESEARCH** returns an **ALOHA-style narrative** (vibe, themes, standout take) then sample posts (read-only). |
 | ✅ | **Tests** | `bun test skills/x-research/sentiment.test.ts` (skill) and `bun test src/plugins/plugin-vince/src/__tests__/xSentiment.service.test.ts` (paper algo: cache, rate limit, sentiment). |
 
 Same **X API Bearer token** (Basic tier or higher); read-only, no posting. See [skills/x-research/README.md](skills/x-research/README.md) for setup and [skills/x-research/SKILL.md](skills/x-research/SKILL.md) for the research loop.
+
+**Recent (Feb 2026):** X research search now returns an **ALOHA-style briefing** (TEXT_LARGE): one narrative block (vibe, themes, standout/viral take, clear opinion) in VINCE's voice, then sample posts — no dry "Conclusion:" label. **Quality accounts:** set **X_RESEARCH_QUALITY_LIST_ID** to a curated X List ID (from x.com/i/lists/…) so we rank tweets from that list first (list members fetched and cached 24h); **SOLUS_X_VIP_HANDLES** can add one-offs. Same X API; list feed and **official XDK** when installed; **X_LIST_ID** for list sentiment in CT Vibe and leaderboard. Tuning: **X_SENTIMENT_ASSETS**, **X_SENTIMENT_STAGGER_INTERVAL_MS**, **X_SENTIMENT_LIST_ENABLED**. Quota and tiers: [docs/X-API.md](docs/X-API.md).
 
 ---
 
@@ -308,6 +359,7 @@ Supporting vs Conflicting factors · "N of M sources agreed (K disagreed)" · ML
 
 | | Feature | |
 |:---:|---|:---|
+| 👥 | **Multi-agent (ASK_AGENT & standups)** | One conversation: ask any teammate by name, get the answer in-thread. Standups 2×/day (lessons, action items, #daily-standup). Policy: allowlist + who-can-ask-whom. → [MULTI_AGENT.md](MULTI_AGENT.md) |
 | ☀️ | **ALOHA** | Single command → vibe check + PERPS pulse + OPTIONS posture + "should we trade today?" |
 | 🤖 | **Self-improving paper bot** | ML loop; no live execution; every trade stored and learnt from |
 | 📊 | **Leaderboard page** | One dashboard: Markets (HIP-3, HL), Memetics, News, Digital Art, More, Trading Bot, Knowledge. No chat required — data always there. See [Leaderboard page](#leaderboard-page-dashboard-hub). |
@@ -525,6 +577,7 @@ Set `VINCE_DAILY_REPORT_ENABLED`, `VINCE_LIFESTYLE_DAILY_ENABLED`, `VINCE_NEWS_D
 | [HYPERLIQUID_ENDPOINTS](src/plugins/plugin-vince/HYPERLIQUID_ENDPOINTS.md) | HL endpoints |
 | [progress.txt](src/plugins/plugin-vince/progress.txt) | Tracker, backlog |
 | [skills/x-research](skills/x-research/README.md) | X (Twitter) research · sentiment · Cursor skill + VINCE in-chat · `bun test skills/x-research/sentiment.test.ts` |
+| [docs/X-API.md](docs/X-API.md) | X API tiers (Basic/Pro), quota usage, optional second token |
 | [Frontend docs](src/frontend/docs/README.md) · [progress.txt](src/frontend/progress.txt) | Chat UI, Market Pulse, quick start, reference docs, status |
 
 ---
