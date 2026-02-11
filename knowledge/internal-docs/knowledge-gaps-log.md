@@ -727,3 +727,11 @@
 - **2026-02-11**: : Quantify HIP-3 edge in low Fear & Greed (<20) vs. greed spikes.  
 
 (148 words)
+- **2026-02-11**: Quantify historical win rates of strangles in Fear & Greed <20 ranging markets (BTC/ETH 2018-2024).  
+
+(148 words)
+- **2026-02-11**: Backtest HIP-3 performance in Fear & Greed <20 ranging regimes (2022-2025 data).
+
+(148 words)
+- **2026-02-11**: : Impact of Tether mints on BTC 24H wicks—track last 6 months correlations.
+- **2026-02-11**: Options IV crush dynamics post-F&G extremes (<20).

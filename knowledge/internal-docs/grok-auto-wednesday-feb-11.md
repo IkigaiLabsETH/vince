@@ -1,25 +1,26 @@
 # Grok Expert Auto-Pulse
 
-**Generated**: 2026-02-11T20:56:21.883Z
+**Generated**: 2026-02-11T22:11:28.013Z
 **Type**: Automated Daily Task
 **Tags**: #grok-expert #auto-pulse #daily
 
 ---
 
 === GROK DAILY PULSE (AUTO) ===
-Date: Thursday, Feb 12 | Regime: neutral  
-Fear & Greed: 12/100  
-Top Traders: 54.2% long  
+Date: Wednesday, Feb 11 | Regime: neutral  
+Fear & Greed: 11/100  
+Top Traders: 56.0% long  
 
-**Prompt of the Day**: Backtest BTC 4H RSI<30 entries with 2% stop-loss vs. current fear regime for perp long setups.  
+**Prompt of the Day**  
+Scan BTC/ETH funding rates + OI for perp squeeze setups targeting 5-10% moves by EOD.  
 
-**Market Read**: Extreme fear persists with Fear & Greed at 12, BTC holding $95K support amid neutral regime chop. Equities drag risk assets lower, but top traders' mild long bias signals potential bottoming. Altcoin bleed eases slightly on ETH ETF inflows.  
+**Market Read**  
+Extreme fear (F&G 11) grips markets amid neutral regime, with BTC testing $42k support. Top traders lean 56% long, hinting at contrarian bounce potential despite high vol. Altcoins lag, amplifying downside risk.  
 
-**Top 3 Research Ideas**:  
-1. BTC $96K calls (weekly expiry) if 50-day EMA bounce—target 5% OI buildup.  
-2. ETH-PERP long at $3.2K with 1:10 lev, trail stop below VWAP for 20% upside.  
-3. HIP-3 on SOL: Enter if RSI divergence on 1H, exit at $220 resistance.  
+**Top 3 Research Ideas**  
+1. BTC $43k calls (weekly): Buy on dip for fear capitulation play.  
+2. Short ETH-USD perps @ $2.3k resistance: Target 3% drop on weak funding.  
+3. HIP-3 SOL/BTC pair: Long if correlation breaks below 0.4, scale in 2x lev.  
 
-**Knowledge Gap**: Quantify HIP-3 edge in low Fear & Greed (<20) vs. greed spikes.  
-
-(148 words)
+**Knowledge Gap**  
+Options IV crush dynamics post-F&G extremes (<20).
