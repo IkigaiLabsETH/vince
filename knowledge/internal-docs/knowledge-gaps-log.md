@@ -713,3 +713,4 @@
 - **2026-02-11**: : Solana DEX volume drivers post-memecoin frenzy.  
 
 (148 words)
+- **2026-02-11**: Perp funding rate divergence in extreme fear vs. greed regimes.

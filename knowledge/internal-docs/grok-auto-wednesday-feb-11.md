@@ -1,6 +1,6 @@
 # Grok Expert Auto-Pulse
 
-**Generated**: 2026-02-11T19:45:59.646Z
+**Generated**: 2026-02-11T20:01:13.352Z
 **Type**: Automated Daily Task
 **Tags**: #grok-expert #auto-pulse #daily
 
@@ -9,17 +9,18 @@
 === GROK DAILY PULSE (AUTO) ===
 Date: Wednesday, Feb 11 | Regime: neutral  
 Fear & Greed: 11/100  
-Top Traders: 55.7% long  
+Top Traders: 55.8% long  
 
-**Prompt of the Day**: Screen altcoins with >20% short interest and RSI<30 for rebound setups vs BTC.  
+**Prompt of the Day**  
+Quantify BTC's downside risk if Nasdaq drops 2% today—model with 1D options IV and perp funding.
 
-**Market Read**: Extreme fear at 11 signals capitulation, with BTC testing $60k support amid liquidations. Neutral regime persists, but top traders' 55.7% longs hint at contrarian bounce potential. VIX spike correlates with crypto vol, watch SPX for cues.  
+**Market Read**  
+Extreme fear at 11/100 signals capitulation potential, with BTC testing $42k support amid Nasdaq weakness. Neutral regime persists as top traders lean long (55.8%), but altcoins bleed 5-10%. Volume spikes on shorts suggest bounce setup if fear bottoms.
 
-**Top 3 Research Ideas**:  
-1. BTC $62k calls (weekly) – cheap gamma for fear unwind.  
-2. Short ETH perp at $3.3k break – weak momentum vs BTC.  
-3. HIP-3 on SOL: Long strangle for 10% vol expansion.  
+**Top 3 Research Ideas**  
+1. BTC $44k calls (weekly expiry): Buy if holds $42k, target 10% upside on fear reversal.  
+2. ETH perp long: Enter at $2.3k with 5x lev, trail stop at -2%, ride Nasdaq correlation.  
+3. HIP-3 SOL short: 3-leg perp (short spot/long calls/short puts), skew for 15% vol crush.
 
-**Knowledge Gap**: Solana DEX volume drivers post-memecoin frenzy.  
-
-(148 words)
+**Knowledge Gap**  
+Perp funding rate divergence in extreme fear vs. greed regimes.
