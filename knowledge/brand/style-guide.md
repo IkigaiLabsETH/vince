@@ -45,6 +45,107 @@ Corporate filler and AI-generated jargon destroy trust. Write like a human who g
 - Conversational (not stiff)
 - Benefit-focused
 
+---
+
+## Rewrite Guide: From Generic to Premium
+
+### The Transformation Framework
+
+Every sentence should pass three tests:
+1. **Would Apple say this?** (Simple, human, benefit-first)
+2. **Would Porsche say this?** (Confident, crafted, no apologies)
+3. **Could AI have written this?** (If yes, rewrite)
+
+### Before → After Examples
+
+**Generic feature dump:**
+> "Our platform leverages cutting-edge blockchain technology to provide users with a comprehensive suite of DeFi tools."
+
+**Premium rewrite:**
+> "Trade, lend, and earn — all in one place. No complexity, no compromises."
+
+---
+
+**Weak, hedging intro:**
+> "In today's fast-paced crypto market, it's important to note that having the right tools might help you make better decisions."
+
+**Premium rewrite:**
+> "Better tools. Better decisions. That's it."
+
+---
+
+**AI-slop announcement:**
+> "We're excited to announce that we've been working hard to bring you a revolutionary new feature that will take your trading to the next level!"
+
+**Premium rewrite:**
+> "Limit orders are here. Set your price. Walk away."
+
+---
+
+**Feature-focused (boring):**
+> "This protocol utilizes an innovative AMM algorithm with concentrated liquidity positions and dynamic fee tiers."
+
+**Premium rewrite:**
+> "More of your trade goes through. Less slippage. Better prices."
+
+---
+
+**Over-explained:**
+> "The dashboard provides you with the ability to view and analyze your portfolio performance metrics in real-time, allowing you to make more informed decisions about your investments."
+
+**Premium rewrite:**
+> "See everything. Miss nothing."
+
+---
+
+### Luxury Copy Techniques
+
+**1. Shorter is stronger**
+- Apple: "Light. Years ahead."
+- Porsche: "There is no substitute."
+- You: Cut every word that doesn't earn its place.
+
+**2. Confidence without arrogance**
+- Don't say "We believe we're the best" — just be the best
+- Don't say "Try our amazing product" — describe what it does
+- Let quality speak; don't announce it
+
+**3. Speak to one person**
+- "You" not "users"
+- "Your portfolio" not "user portfolios"
+- Write like you're talking to a smart friend
+
+**4. Lead with the payoff**
+- ❌ "By using our advanced optimization engine, you can reduce fees"
+- ✅ "Pay less in fees."
+
+**5. Create rhythm**
+- Short sentence. Then another. Then a longer one that brings it home.
+- Vary length. Build momentum. Land the point.
+
+**6. Imply exclusivity**
+- "For those who know" > "For everyone"
+- "Built for serious traders" > "Built for all traders"
+- Scarcity and quality go together
+
+**7. Show, don't tell**
+- ❌ "Revolutionary technology"
+- ✅ "Settles in 400ms" (let them conclude it's revolutionary)
+
+### The Porsche Test
+
+Read your copy aloud. Does it sound like:
+- A confident expert sharing insight? ✓
+- A nervous salesperson trying too hard? ✗
+- A corporate committee writing by consensus? ✗
+- An AI filling space with words? ✗
+
+### The Apple Test
+
+Cover the brand name. Could this copy be from anyone else?
+- If yes → it's not distinctive enough
+- If no → you've found your voice
+
 ## Terminology
 
 Use these preferred terms:
