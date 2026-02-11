@@ -575,3 +575,30 @@
 
 (148 words)
 - **2026-02-11**: Layer-2 rollup sequencer revenue models post-Dencun.
+- **2026-02-11**: Backtest HIP-3 on DeFi tokens during low-vol regimes (add to KB).
+
+(148 words)
+- **2026-02-11**: : Quantify impact of Tether mints on BTC pumps (correlations + models).
+
+(148 words)
+- **2026-02-11**: : Solana memecoin perp liquidity metrics vs. ETH L2s.
+- **2026-02-11**: : HIP-3 vault composability with perps—map yield stacking rules.
+- **2026-02-11**: Compile Q1 2026 ETF flow data vs. on-chain whale accumulation patterns.  
+
+(148 words)
+- **2026-02-11**: : HIP-3 performance in F&G <20 with trader net-long bias.
+- **2026-02-11**: Map institutional ETH ETF flows vs. on-chain staking yields for rotation signals.  
+
+(148 words)
+- **2026-02-11**: : HIP-3 backtest data on trending regimes (2023-2024). 
+
+(148 words)
+- **2026-02-11**: Quantify HIP-3 edge decay in low-F&G regimes (<20).  
+
+(148 words)
+- **2026-02-11**: : HIP-3 performance in Fear <20 regimes (backtest 2022-2024).  
+
+(148 words)
+- **2026-02-11**: Quantify HIP-3 edge in low F&G regimes (<20) via 2024 backtest.  
+
+(148 words)

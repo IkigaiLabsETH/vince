@@ -1,6 +1,6 @@
 # Grok Expert Auto-Pulse
 
-**Generated**: 2026-02-11T15:37:47.146Z
+**Generated**: 2026-02-11T16:15:30.996Z
 **Type**: Automated Daily Task
 **Tags**: #grok-expert #auto-pulse #daily
 
@@ -9,18 +9,20 @@
 === GROK DAILY PULSE (AUTO) ===
 Date: Wednesday, Feb 11 | Regime: trending  
 Fear & Greed: 11/100  
-Top Traders: 56.0% long  
+Top Traders: 56.4% long  
 
 **Prompt of the Day**  
-Quantify BTC's rebound potential vs. 50-day MA; model 20% upside scenarios using OI and funding rates.  
+Screen HIP-3 setups on BTC/ETH pairs for 24h entries targeting 2x leverage amid fear spike.  
 
 **Market Read**  
-Extreme fear at 11/100 signals capitulation, but 56% trader longs in trending regime hint at bottoming. BTC holds $42k support amid ETF inflows; altcoins lag with ETH/BTC at 0.055. Volatility spikes favor mean-reversion plays.  
+Extreme fear (F&G 11) signals capitulation potential in trending down regime, with BTC below $95k support. Top traders' 56% longs hint contrarian bounce, but vol crush risks short-covering traps. Alt momentum fading fast.  
 
 **Top 3 Research Ideas**  
-1. BTC $45k calls (Mar exp): Buy on dip for 2x leverage if VIX proxy drops.  
-2. ETH perp long (10x): Target $2.6k on Dencun upgrade catalysts.  
-3. HIP-3 short SOL/USD: Fade hype with $100 stop, trail to $90.  
+1. **Options**: Buy Dec $80k BTC puts (IV 65%) for theta decay hedge.  
+2. **Perps**: Short ETHUSDT-P 1.5x on 3k retest, trail stop at 3.2k.  
+3. **HIP-3**: Long SOL/BTC ratio perp if HIP-3 triggers on 4h divergence.  
 
 **Knowledge Gap**  
-Layer-2 rollup sequencer revenue models post-Dencun.
+Quantify HIP-3 edge in low F&G regimes (<20) via 2024 backtest.  
+
+(148 words)
