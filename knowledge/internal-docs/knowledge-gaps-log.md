@@ -605,3 +605,111 @@
 - **2026-02-11**: : HIP-3 performance in Fear & Greed <20 regimes (backtest 2022-2025).  
 
 (148 words)
+- **2026-02-11**: : Quantify altcoin beta to BTC during fear regimes (<20 F&G).  
+
+(148 words)
+- **2026-02-11**: Quantify HIP-3 edge in extreme fear (F&G<20) vs. neutral regimes—backtest 2023-2025 data.  
+
+(148 words)
+- **2026-02-11**: Quantify perp funding rate decay impact on HIP-3 drawdowns in neutral regimes.
+
+(148 words)
+- **2026-02-11**: : ETF redemption mechanics and their lag impact on BTC price discovery.  
+
+(148 words)
+- **2026-02-11**: : Quantify impact of ETF outflows on altcoin correlations during fear spikes.  
+
+(148 words)
+- **2026-02-11**: Quantify HIP-3 win rates across 2024 bear legs for backtest optimization.  
+
+(148 words)
+- **2026-02-11**: Quantify whale accumulation patterns during Fear & Greed <20 for HIP-3 signal enhancement.
+- **2026-02-11**: Latest on-chain whale flows into L2 tokens during fear spikes.
+- **2026-02-11**: Map Grayscale ETF outflows to on-chain whale distributions.  
+
+(148 words)
+- **2026-02-11**: Quantify HIP-3 drawdowns in F&G <20 regimes (add backtest data).
+- **2026-02-11**: : Perpetual exchange funding rate persistence in F&G <20 regimes.  
+
+(148 words)
+- **2026-02-11**: : HIP-3 performance in sub-20 F&G regimes (backtest 2022 drawdowns).
+- **2026-02-11**: : Update KB with latest on-chain whale accumulation thresholds for BTC during fear regimes.
+- **2026-02-11**: : Quantify impact of CFTC positioning data on perp funding rates.  
+
+(148 words)
+- **2026-02-11**: HIP-3 performance in F&G <20 regimes (backtest 2022 drawdowns).  
+
+(148 words)
+- **2026-02-11**: Quantify LRT (Liquid Restaking Tokens) TVL growth correlation to ETH staking yields.  
+
+(148 words)
+- **2026-02-11**: : On-chain whale accumulation patterns during F&G <20 extremes.  
+
+(148 words)
+- **2026-02-11**: : HIP-3 backtest data on altcoin perps during F&G <20.  
+
+(148 words)
+- **2026-02-11**: : Solana DeFi yield farming APYs vs. risks (e.g., Jito restaking exploits).  
+
+(148 words)
+- **2026-02-11**: : Quantify perp liquidations' impact on spot price in fear regimes (<20 F&G).
+
+(148 words)
+- **2026-02-11**: CFTC Commitment of Traders update for crypto proxies (past 2 weeks).
+- **2026-02-11**: : ETF redemption mechanics during fear spikes.  
+
+(148 words)
+- **2026-02-11**: Solana MEV bot profitability post-Dencun—track top extractors' PnL.  
+
+(148 words)
+- **2026-02-11**: Quantify HIP-3 drawdowns in fear regimes (<20/100 F&G) with 2022 backtest data.
+
+(148 words)
+- **2026-02-11**: Quantify impact of top trader positioning on 24h BTC volatility.  
+
+(148 words)
+- **2026-02-11**: Compile HIP-3 performance stats in extreme fear (<20) regimes since 2023.  
+
+(148 words)
+- **2026-02-11**: Quantify spot ETF outflow impact on 4H regime shifts (backtest 2024 data).  
+
+(148 words)
+- **2026-02-11**: Quantify HIP-3 edge in extreme fear regimes (F&G <20).  
+
+(148 words)
+- **2026-02-11**: : Quantify HIP-3 win rates across fear/greed cycles (2018-2025 data).  
+
+(148 words)
+- **2026-02-11**: Backtest HIP-3 performance in F&G <20 regimes (2018-2024 data).  
+
+(148 words)
+- **2026-02-11**: : Quantify HIP-3 edge in neutral regimes using 2024 backtest data on perp funding convergence.
+
+(148 words)
+- **2026-02-11**: Compile HIP-3 backtest data on low F&G regimes (<20).
+- **2026-02-11**: : Quantify HIP-3 backtest Sharpe ratios across fear/greed cycles.  
+
+(148 words)
+- **2026-02-11**: : HIP-3 backtest performance during Fear & Greed <20 episodes.  
+
+(148 words)
+- **2026-02-11**: : HIP-3 backtest data on neutral regime drawdowns (add Q1 2025 perf metrics).
+- **2026-02-11**: Correlation breakdown between Fear & Greed Index and 24h perp funding rates during neutral regimes.  
+
+(148 words)
+- **2026-02-11**: Quantify HIP-3 win rate in F&G <20 environments.  
+
+(148 words)
+- **2026-02-11**: : Quantify HIP-3 win rate by volatility regime (add backtest data).  
+
+(148 words)
+- **2026-02-11**: : Funding rate persistence in extreme fear regimes (backtest 2022-2025).  
+
+(148 words)
+- **2026-02-11**: Quantify HIP-3 edge in low F&G regimes via backtest (2022-2025 data).  
+
+(148 words)
+- **2026-02-11**: Deribit options gamma exposure for top 5 pairs.
+- **2026-02-11**: : Solana DEX volume drivers post-memecoin frenzy.  
+
+(148 words)
