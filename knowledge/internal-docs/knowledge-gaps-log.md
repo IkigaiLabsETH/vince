@@ -717,3 +717,13 @@
 - **2026-02-11**: : HIP-3 backtest results in low-vol (IV<30%) neutral regimes.
 
 (148 words)
+- **2026-02-11**: : HIP-3 backtest results in extreme fear regimes (>80% drawdown filter).  
+
+(148 words)
+- **2026-02-11**: : Layer-2 rollup sequencer risks and centralization metrics.
+- **2026-02-11**: : Quantify historical Fear & Greed <15 bottoms for BTC reversion speed.  
+
+(148 words)
+- **2026-02-11**: : Quantify HIP-3 edge in low Fear & Greed (<20) vs. greed spikes.  
+
+(148 words)
