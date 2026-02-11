@@ -714,3 +714,6 @@
 
 (148 words)
 - **2026-02-11**: Perp funding rate divergence in extreme fear vs. greed regimes.
+- **2026-02-11**: : HIP-3 backtest results in low-vol (IV<30%) neutral regimes.
+
+(148 words)
