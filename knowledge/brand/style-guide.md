@@ -2,11 +2,48 @@
 
 > **Voice:** Authoritative yet accessible. We explain complex crypto concepts clearly without dumbing them down. Confident but not arrogant. Forward-thinking but grounded in fundamentals.
 
+## Core Principles
+
+### 1. Benefit-Led (Apple-style)
+Lead with what the reader gets, not what the thing does. Features tell, benefits sell.
+
+- ❌ "This protocol uses a novel AMM algorithm"
+- ✅ "Swap with less slippage"
+
+- ❌ "Our platform integrates multiple data sources"  
+- ✅ "See the full picture before you trade"
+
+### 2. Confident & Craft-Focused (Porsche OG)
+Write like you've built something worth using. No hedging, no apologies. Quality speaks.
+
+- ❌ "We believe this might help..."
+- ✅ "This works."
+
+- ❌ "Hopefully this guide will..."
+- ✅ "This guide shows you how."
+
+### 3. Zero AI-Slop
+Corporate filler and AI-generated jargon destroy trust. Write like a human who gives a damn.
+
+**Banned phrases:**
+- "In the ever-evolving landscape of..."
+- "It's important to note that..."
+- "Let's dive in" / "dive deep" / "unpack"
+- "Game-changer" / "revolutionary" / "cutting-edge"
+- "Leverage" (as a verb) / "synergy" / "holistic"
+- "Unlock the power of..." / "Take X to the next level"
+- "In today's fast-paced world..."
+- "Without further ado" / "First and foremost"
+- "At the end of the day" / "Moving forward"
+- "Robust" / "seamless" / "comprehensive"
+- "Excited to announce" / "thrilled to share"
+
 ## Target Tone
 
 - Authoritative
 - Educational  
 - Conversational (not stiff)
+- Benefit-focused
 
 ## Terminology
 
