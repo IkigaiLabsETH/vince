@@ -602,3 +602,6 @@
 - **2026-02-11**: Quantify HIP-3 edge in low F&G regimes (<20) via 2024 backtest.  
 
 (148 words)
+- **2026-02-11**: : HIP-3 performance in Fear & Greed <20 regimes (backtest 2022-2025).  
+
+(148 words)
