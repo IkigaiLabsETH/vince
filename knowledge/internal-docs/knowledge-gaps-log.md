@@ -1189,3 +1189,9 @@
 
 (148 words)
 - **2026-02-12**: Stablecoin mint/burn flows correlation to FGI extremes.
+- **2026-02-12**: Quantify top traders' long % correlation to 7-day BTC returns in ranging regimes.  
+
+(148 words)
+- **2026-02-12**: On-chain whale accumulation patterns during Fear & Greed <10.  
+
+(148 words)
