@@ -1001,3 +1001,17 @@
 - **2026-02-12**: Quantify HIP-3 edge in ranging regimes using 2023 backtests vs. spot buy/hold.  
 
 (148 words)
+- **2026-02-12**: : Quantify impact of Tether mints on BTC 1H momentum.
+
+(148 words)
+- **2026-02-12**: : Quantify HIP-3 backtest Sharpe ratios across fear/greed cycles. 
+
+(148 words)
+- **2026-02-12**: 2024 HIP-3 performance vs. vanilla perps in ranging markets.
+- **2026-02-12**: Quantify HIP-3 edge in low Fear & Greed regimes (backtest 2022-2024).  
+
+(148 words)
+- **2026-02-12**: : Quant models for Fear & Greed vs. CFTC COT divergence signals.  
+
+(148 words)
+- **2026-02-12**: : HIP-3 performance in F&G <10 environments.
