@@ -1195,3 +1195,6 @@
 - **2026-02-12**: On-chain whale accumulation patterns during Fear & Greed <10.  
 
 (148 words)
+- **2026-02-12**: : HIP-3 performance stats in FGI <10 regimes.
+
+(148 words)
