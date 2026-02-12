@@ -1199,3 +1199,19 @@
 
 (148 words)
 - **2026-02-12**: : HIP-3 performance in ranging regimes (2023-2024 data).
+- **2026-02-12**: Quantify HIP-3 backtest drawdowns in 2022 bear vs. current neutral regime.  
+
+(148 words)
+- **2026-02-12**: : Quantify ETF flow velocity impact on 4H BTC momentum (add regression model).  
+
+(148 words)
+- **2026-02-12**: : ETF outflow cascades during fear spikes—quantify impact on BTC dominance.
+- **2026-02-12**: Latest on-chain whale flows into L2 tokens (e.g., ARB, OP).  
+
+(148 words)
+- **2026-02-12**: : ETF inflow/outflow mechanics during FG<10 extremes.  
+
+(148 words)
+- **2026-02-12**: Backtest HIP-3 performance in F&G <10 regimes (2018-2024 data).  
+
+(148 words)
