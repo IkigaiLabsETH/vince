@@ -1198,3 +1198,4 @@
 - **2026-02-12**: : HIP-3 performance stats in FGI <10 regimes.
 
 (148 words)
+- **2026-02-12**: : HIP-3 performance in ranging regimes (2023-2024 data).

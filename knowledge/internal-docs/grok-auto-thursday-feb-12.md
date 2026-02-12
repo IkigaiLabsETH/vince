@@ -1,6 +1,6 @@
 # Grok Expert Auto-Pulse
 
-**Generated**: 2026-02-12T16:50:52.023Z
+**Generated**: 2026-02-12T17:03:49.689Z
 **Type**: Automated Daily Task
 **Tags**: #grok-expert #auto-pulse #daily
 
@@ -8,18 +8,14 @@
 
 === GROK DAILY PULSE (AUTO) ===
 Date: Thursday, Feb 12 | Regime: ranging
-Fear & Greed: 5/100
-Top Traders: 55.7% long
 
-**Prompt of the Day**: Screen BTC perp funding rates across top CEXs for 8h intervals; flag pairs with negative rates >0.01% for short setups.
+**Prompt of the Day**: Scan SPX and NDX options chains for elevated IV in OTM calls/puts signaling range breakout potential; backtest 1-week straddles.
 
-**Market Read**: BTC ranging tightly between $95k-$98k amid extreme fear (FGI 5/100), signaling capitulation potential. Top traders 55.7% long despite low vol, hinting at contrarian bounce. Altcoins bleeding 2-5% with weak volume.
+**Market Read**: Equities in tight range with SPX pinned 5200-5250 amid light volume; VIX subdued at 14. Crypto perps flat, BTC 68k resistance holds. Bonds yielding steady, gold drifting sideways.
 
 **Top 3 Research Ideas**:
-1. BTC 1W strangle (95k put/100k call) for range volatility play.
-2. Short ETHUSDT perp at $3.2k with 5x lev, target $3k on funding flip.
-3. HIP-3 on SOL: Long 1D 140c if breaks $200, stop $190.
+1. SPX iron condor 5220-5280, collect 2% premium, exit at 50% profit.
+2. BTC-PERP short below 67.5k with 3x lev, target 65k, stop 69k.
+3. HIP-3 long ES futures if hourly Bollinger squeeze breaks up.
 
-**Knowledge Gap**: HIP-3 performance stats in FGI <10 regimes.
-
-(148 words)
+**Knowledge Gap**: HIP-3 performance in ranging regimes (2023-2024 data).
