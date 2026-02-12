@@ -1179,3 +1179,13 @@
 - **2026-02-12**: : Quantify HIP-3 edge in ranging regimes (win rate, Sharpe vs. trend). 
 
 (148 words)
+- **2026-02-12**: : HIP-3 performance in ranging regimes (backtest 2023 sideways periods). 
+
+(148 words)
+- **2026-02-12**: : HIP-3 performance in ranging vs. trending regimes.  
+
+(148 words)
+- **2026-02-12**: : Ranging regime vol breakout signals (e.g., Keltner Channel squeezes).  
+
+(148 words)
+- **2026-02-12**: Stablecoin mint/burn flows correlation to FGI extremes.

@@ -1,6 +1,6 @@
 # Grok Expert Auto-Pulse
 
-**Generated**: 2026-02-12T15:41:57.829Z
+**Generated**: 2026-02-12T16:23:06.965Z
 **Type**: Automated Daily Task
 **Tags**: #grok-expert #auto-pulse #daily
 
@@ -9,20 +9,20 @@
 === GROK DAILY PULSE (AUTO) ===
 Date: Thursday, Feb 12 | Regime: ranging  
 Fear & Greed: 5/100  
-Top Traders: 55.2% long  
+Top Traders: 55.7% long  
 
 **1. Prompt of the Day**  
-Scan BTC 1H chart for ranging breakout setups above $95K or below $92K; backtest with 20% vol filter.  
+Scan BTC 4H chart for Bollinger Band squeeze setups targeting 5-10% volatility expansion by EOD.
 
 **2. Market Read**  
-Markets stuck in tight range amid extreme fear, with BTC coiling between $93K-$96K. Top traders lean long at 55%, signaling potential upside trap or slow grind higher. Altcoins lagging, volume drying up—watch for fear capitulation.  
+Markets stuck in tight range amid extreme fear (F&G 5/100), with BTC hovering $42-44K. Top traders lean long at 55.7%, signaling potential bottoming but no conviction breakout yet. Altcoins bleeding harder, watch for rotation if BTC stabilizes.
 
 **3. Top 3 Research Ideas**  
-- **Options**: BTC $98K calls (Mar exp), 0.3 delta—pair with $90K put hedge for range straddle.  
-- **Perps**: Short ETH perp at $3.2K (5x lev), target $3K on funding flip; trail stop at +2%.  
-- **HIP-3**: HIP-3 BTC long grid from $94K-$97K, 3% spacing, exit on vol spike >30%.  
+- **Options**: Buy BTC $43K ATM straddle exp. Feb 15 for range breakout (IV 65%).  
+- **Perps**: Short ETH perp at $2.55K with 5x lev, stop $2.65K, target $2.40K (divergence on RSI).  
+- **HIP-3**: HIP BTC 50-delta call spread $44-46K, entry on volume spike >1M.
 
 **4. Knowledge Gap**  
-Compile HIP-3 win rates by regime (trending vs ranging) with 2024-2025 data.  
+Quantify HIP-3 edge in ranging regimes using 2023-2024 backtest data.  
 
 (148 words)
