@@ -22,7 +22,7 @@ So: **agent → token → token utility (subscription, stake, rewards) → reven
 
 ### 2.1 Sustainability (already in TREASURY.md)
 
-[TREASURY.md](/TREASURY.md) says the agent must **cover operational costs and aim for profitability**. Strategy 2 is “Token Launches & Fee-Based Revenue” — participate in token launch or fee-sharing (e.g. Base, fee revenue share); status: *not started, pending eligibility/approval*.
+[TREASURY.md](../../docs/TREASURY.md) says the agent must **cover operational costs and aim for profitability**. Strategy 2 is “Token Launches & Fee-Based Revenue” — participate in token launch or fee-sharing (e.g. Base, fee revenue share); status: *not started, pending eligibility/approval*.
 
 A **$VINCE** token is a concrete way to implement that strategy:
 
@@ -113,4 +113,4 @@ So: **how ticker?** Launch token → attach utility (subscription) → optionall
 
 ---
 
-*References: [Bankr](https://bankr.bot/), [OpenClaw Skills](https://github.com/BankrBot/openclaw-skills), [Tokenized Agents](https://github.com/BankrBot/tokenized-agents), [TREASURY.md](/TREASURY.md), [README.md](/README.md).*
+*References: [Bankr](https://bankr.bot/), [OpenClaw Skills](https://github.com/BankrBot/openclaw-skills), [Tokenized Agents](https://github.com/BankrBot/tokenized-agents), [TREASURY.md](../../docs/TREASURY.md), [README.md](../../README.md).*

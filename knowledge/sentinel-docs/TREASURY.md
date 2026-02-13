@@ -108,7 +108,7 @@ Keep this section updated as strategies are tried:
 
 Single source of truth for Sentinel: all project costs, LLM choice, data API tiers, bottom line. Update this section when tiers or targets change.
 
-**Last updated (cost breakdown):** 2026-02-08
+**Last updated (cost breakdown):** 2026-02-13
 
 ### Token usage (tracker)
 
@@ -141,7 +141,7 @@ Single source of truth for Sentinel: all project costs, LLM choice, data API tie
 | DexScreener       | Free / tier               | Meme scanner, traction                 |
 | Helius             | Per tier                  | Solana RPC (HELIUS_API_KEY; .env.example) |
 | OpenSea            | Limited / tier            | NFT floors (OPENSEA_API_KEY; CryptoPunks, Meridian) |
-| X (Twitter)        | Pay-per-use (prepaid credits) | Read-only research, sentiment (X_BEARER_TOKEN) |
+| X (Twitter)        | Basic tier or higher      | Read-only research, sentiment (X_BEARER_TOKEN) |
 | Firecrawl          | Optional                  | Web URLs for upload (FIRECRAWL_API_KEY) |
 | Supabase           | Project plan              | Feature store, ML bucket (SUPABASE_*; optional) |
 
@@ -162,4 +162,4 @@ When suggesting features or answering "what does it cost?", cite these limits so
 
 ---
 
-*Last updated: 2026-02-08. Update this file when activating new revenue streams or cost levers.*
+*Last updated: 2026-02-13. Update this file when activating new revenue streams or cost levers.*

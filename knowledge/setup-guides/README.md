@@ -4,7 +4,7 @@
 
 Technical setup guides and tool configurations.
 
-**Files**: 16 | **Category**: setup-guides
+**Files**: 19 | **Category**: setup-guides
 
 ---
 
@@ -31,4 +31,4 @@ Technical setup guides and tool configurations.
 
 ---
 
-*Last updated: 2026-02-01*
+*Last updated: 2026-02-13*

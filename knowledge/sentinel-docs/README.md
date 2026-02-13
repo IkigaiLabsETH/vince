@@ -33,6 +33,42 @@
 
 ---
 
+## 🆕 What's New in v2.2.0
+
+<table>
+<tr>
+<td width="50%">
+
+**🦞 Sentinel 10x** — World-class core dev
+
+- **PRD Generator** — Enterprise-grade specs for Cursor/Claude
+- **Project Radar** — Scans plugins, progress, docs, todos
+- **Trading Intelligence** — Paper bot + options expertise
+- **Multi-Agent Vision** — Dream team architecture expert
+- **OpenClaw Expert** — Clawdbot/Milaidy knowledge
+
+*15 actions, 6 services*
+
+</td>
+<td width="50%">
+
+**📚 Eliza V2** — Autonomous research engine
+
+- **Auto-Research** — Gap analysis + knowledge expansion
+- **Content Production** — Essays, tweets, repurpose
+- **Knowledge Intelligence** — Graph, quality, dedup
+- **Brand Consistency** — Voice profile, style guide
+
+*14 actions, 7 services*
+
+</td>
+</tr>
+</table>
+
+**Stats:** 20 plugins · 162 actions · +15,900 lines → [Full changelog](CHANGELOG.md)
+
+---
+
 ## One team, one dream
 
 <div align="center">
@@ -44,7 +80,9 @@
 | Agent | Lane |
 |:---|:---|
 | **Eliza** | Full knowledge, research, brainstorm—the base everything else builds on. **Heavy focus: improve and expand the knowledge base** (quality, gaps, new categories). Her own Discord + #knowledge for ingestion; Leaderboard **Knowledge** tab tracks the corpus. |
-| **VINCE** | All the data: options chains, perps, memes, news, X/CT, paper bot status, yield. Push, not pull. Data only—no marketing or GTM. |
+| **VINCE** | Objective data: options chains, perps, memes, news, paper bot status, yield. Push, not pull. Data only—no marketing or GTM. |
+| **ECHO** | CT sentiment, X research, social alpha. Echoes what Crypto Twitter is saying—threads, whale takes, contrarian warnings. Your ears on X. |
+| **Oracle** | Prediction markets: Polymarket (read-only). Discovery, odds, portfolio; priority markets; handoffs to VINCE (live data) and Solus (strike/execution). |
 | **Solus** | Plan and call. You paste context (or get it from VINCE); he gives size/skip/watch, invalidation, rebalance. Execution architect for the $100K stack. |
 | **Otaku** | **Only agent with a funded wallet.** DeFi wiz: token discovery, Morpho, yield, smart money flows, CDP. Mints NFTs when Sentinel creates gen art; full onchain exploration. When you need DeFi edge. |
 | **Kelly** | Touch grass, live the good life. Hotels, fine dining, wine, health, fitness—no trading. |
@@ -55,7 +93,9 @@
 | Role | Agent | Why |
 |:---|:---|:---|
 | **CEO** | Eliza | Strategy, knowledge base, research—the base everything builds on. **Improve and expand knowledge** (quality, gaps, categories). Extends to GTM/PR, community, Discord #knowledge, positioning, Substack. |
-| **CDO** | VINCE | Data powerhouse: options, perps, memes, news, X/CT, paper bot. Push intel only—no marketing or external promo. |
+| **CDO** | VINCE | Objective data: options, perps, memes, news, paper bot. Push intel only—no marketing or external promo. |
+| **CSO** | ECHO | Subjective sentiment: CT vibes, X research, social alpha, contrarian warnings. Your ears on Crypto Twitter. |
+| **CPO** | Oracle | Prediction markets: Polymarket discovery, odds, portfolio (read-only). Priority markets; feeds paper bot and strike selection. |
 | **CFO** | Solus | Capital and risk: size/skip/watch, invalidation, rebalance. Execution architect for the $100K stack. |
 | **COO** | Otaku | **Only agent with funded wallet.** DeFi ops: token discovery, Morpho, yield, CDP; mints NFTs (e.g. Sentinel gen art); full onchain. Keeps daily operations seamless. |
 | **CVO** | Kelly | People and balance: touch grass, hotels, dining, wine, health, fitness. Culture where humans recharge; no burnout. |
@@ -73,7 +113,7 @@ You talk to one agent. That agent asks any teammate by name and brings the answe
 
 **You control who can ask whom.** An allowlist limits which agents are askable; optional rules (e.g. only Kelly can ask anyone) give fine-grained policy without code. Each agent keeps its own runtime; routing is by name.
 
-→ [MULTI_AGENT.md](MULTI_AGENT.md) — ASK_AGENT resolution, Discord Option C, policy, plugin-inter-agent vs orchestrator.
+→ [MULTI_AGENT.md](docs/MULTI_AGENT.md) — ASK_AGENT resolution, Discord Option C, policy, plugin-inter-agent vs orchestrator.
 
 ---
 
@@ -81,7 +121,7 @@ You talk to one agent. That agent asks any teammate by name and brings the answe
 
 **VINCE** = ElizaOS agent that **pushes** daily intel (options, perps, memes, DeFi) to Discord/Slack instead of you asking. One command, **ALOHA**, gives you vibe check + PERPS + OPTIONS + “trade today?”. Under the hood: a **self-improving paper trading bot** (ML loop, feature store, ONNX) that trains in prod and stores models in Supabase—no redeploy to improve. **Kelly** is a separate **lifestyle-only concierge** agent: travel advisor, private sommelier, Michelin guide for fine dining, health guru, and fitness coach—and the one who motivates you to touch grass and rebalance. She uses **plugin-kelly** only (no vincePlugin) and can push a daily concierge briefing to channels with "kelly" or "lifestyle" in the name; no trading actions. She knows your context (paper perps, options income) but never gives trading advice. **Run:** `elizaos dev` · **Deploy:** `bun run deploy:cloud` · **Backfill features:** `bun run sync:supabase`.
 
-**Multi-agent strategy (priority):** (1) **First:** Implement feedback-from-testing → Sentinel triages → PRD or Eliza task to `standup-deliverables/`; keep implementation in Cursor/human. (2) **If bottleneck:** Add a dev worker to apply PRDs; prefer **Milaidy** (ElizaOS, existing Gateway hook) over OpenClaw. (3) Full rationale, limitations, and options → [MULTI_AGENT.md](MULTI_AGENT.md).
+**Multi-agent strategy (priority):** (1) **First:** Implement feedback-from-testing → Sentinel triages → PRD or Eliza task to `standup-deliverables/`; keep implementation in Cursor/human. (2) **If bottleneck:** Add a dev worker to apply PRDs; prefer **Milaidy** (ElizaOS, existing Gateway hook) over OpenClaw. (3) Full rationale, limitations, and options → [MULTI_AGENT.md](docs/MULTI_AGENT.md).
 
 ---
 
@@ -608,6 +648,12 @@ Eliza gives us memories, embeddings, evaluators, entities. The paper bot uses th
 | Pi: CLI everything | MCP + plugin tool-calling |
 
 **The big difference:** ElizaOS is heavy on **MCP and tool calling from plugins**. Pi leans into "CLI everything"—simpler, less ceremony. Both are valid.
+
+**OpenClaw Integration →** We now support hybrid mode: VINCE (ElizaOS) for conversation/coordination + OpenClaw sub-agents for parallel deep-dive research. See [`openclaw-agents/`](openclaw-agents/README.md) for:
+- Alpha research agent (X sentiment, KOL tracking)
+- Market data agent (prices, volume, OI)
+- On-chain agent (whale flows, smart money)
+- Orchestrator that spawns agents in parallel
 
 If you're looking for more coding-agent simplicity, the target is **Eliza + Pi patterns**, not Eliza with OpenClaw. The ElizaOS maintainers are working on an Eliza code orchestrator in that direction. OpenClaw-on-ElizaOS (swapping Pi for Eliza) exists and may be published—no huge advantages or disadvantages either way.
 

@@ -61,7 +61,7 @@ This knowledge base contains **methodology and frameworks** for crypto analysis,
 | Category | Description | Files |
 |----------|-------------|-------|
 | [prompt-templates](./prompt-templates/) | Structured prompts for analysis | 50+ |
-| [setup-guides](./setup-guides/) | Tool configurations, technical setup | 17+ |
+| [setup-guides](./setup-guides/) | Tool configurations, technical setup | 19 |
 | [internal-docs](./internal-docs/) | Templates, quality guides, configuration | 15+ |
 
 ---

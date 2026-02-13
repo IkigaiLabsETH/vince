@@ -1,6 +1,6 @@
 # VINCE Paper Bot Feature Store (ML)
 
-**Purpose:** Where paper-bot trade features (40+ per decision) are stored and how to use them for ML training. For deploy and env setup, see [DEPLOY.md](DEPLOY.md). For the rest of the repo, see [README.md](README.md).
+**Purpose:** Where paper-bot trade features (40+ per decision) are stored and how to use them for ML training. For deploy and env setup, see [DEPLOY.md](DEPLOY.md). For the rest of the repo, see [README.md](../../README.md).
 
 **When to read:** Setting up Supabase/PGLite for features, running the training script, or syncing existing JSONL to Supabase.
 
@@ -75,7 +75,7 @@ SUPABASE_URL=https://abcdefgh.supabase.co
 
 ### 4. Verify
 
-After some paper trades, open **Supabase Dashboard → Table Editor → `vince_paper_bot_features`**. You should see rows with `id`, `created_at`, and `payload` (full feature record). Use this table for ML training (e.g. 500+ rows) or future reads.
+After some paper trades, open **Supabase Dashboard → Table Editor → `vince_paper_bot_features`**. You should see rows with `id`, `created_at`, and `payload` (full feature record). The payload may include an optional `grokPulse` object (`fearGreed`, `topTradersLongPct`) from the daily Grok auto-pulse when available. Use this table for ML training (e.g. 500+ rows) or future reads.
 
 ### 5. ML models on Cloud (training without redeploy)
 
@@ -208,8 +208,8 @@ After retraining, `training_metadata.signal_quality_feature_names` defines the e
 
 ## Related docs
 
-- [README.md](README.md) — Project overview and getting started
+- [README.md](../../README.md) — Project overview and getting started
 - [DEPLOY.md](DEPLOY.md) — Deploy env (PGLite, Postgres, Supabase keys)
-- [src/plugins/plugin-vince/HOW.md](src/plugins/plugin-vince/HOW.md) — Paper bot dev and ML layer
-- [src/plugins/plugin-vince/scripts/README.md](src/plugins/plugin-vince/scripts/README.md) — Training script usage
-- [src/plugins/plugin-vince/ALGO_ML_IMPROVEMENTS.md](src/plugins/plugin-vince/ALGO_ML_IMPROVEMENTS.md) — ML usage and improvement checklist
+- [src/plugins/plugin-vince/HOW.md](../src/plugins/plugin-vince/HOW.md) — Paper bot dev and ML layer
+- [src/plugins/plugin-vince/scripts/README.md](../src/plugins/plugin-vince/scripts/README.md) — Training script usage
+- [src/plugins/plugin-vince/ALGO_ML_IMPROVEMENTS.md](../src/plugins/plugin-vince/ALGO_ML_IMPROVEMENTS.md) — ML usage and improvement checklist

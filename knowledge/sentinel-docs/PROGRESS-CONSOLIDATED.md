@@ -29,7 +29,7 @@ COMPLETED
 ## V4.34 - X All-In: Alpha, Insights, and Sentiment (2026-02-09) ✅
 - **Phase 1 – XDK alignment:** VinceXResearchService now uses official @xdevplatform/xdk API when installed: client.posts.searchRecent, client.posts.getByIds, client.users.getByUsernames. Response shapes mapped to existing parseTweets() so XTweet[] and cache behavior unchanged. Raw fetch fallback when XDK missing. 429 handling and shared cooldown unchanged.
 - **Phase 2 – List feed:** X_LIST_ID (env, default example 2016259263073771659). xResearch: getListById(), getListPosts(), getListMembers() with XDK + fetch fallback; same rate-limit and 15-min cache (vince_x_research:list_posts:${id}). VinceXSentimentService.getListSentiment(): same keyword/phrase/risk scoring as per-asset; 15-min in-memory cache; gated by X_SENTIMENT_LIST_ENABLED (default on when list set). List sentiment exposed in **CT Vibe** ("List (curated): …") and **leaderboard** News section (X vibe card "List (curated)" row). Not in aggregator; additional alpha/vibe only.
-- **Phase 3 – Quota and docs:** SIGNAL_SOURCES.md documents list feed, cache TTL, where list is used. .env.example: X_LIST_ID, X_SENTIMENT_STAGGER_INTERVAL_MS (1h = full cycle every 4h for 4 assets), X_SENTIMENT_LIST_ENABLED, optional X_BEARER_TOKEN_SENTIMENT (second token; doc-only for now). docs/X-API.md: X API pay-per-use, spending limits, quota usage, optional second token.
+- **Phase 3 – Quota and docs:** SIGNAL_SOURCES.md documents list feed, cache TTL, where list is used. .env.example: X_LIST_ID, X_SENTIMENT_STAGGER_INTERVAL_MS (1h = full cycle every 4h for 4 assets), X_SENTIMENT_LIST_ENABLED, optional X_BEARER_TOKEN_SENTIMENT (second token; doc-only for now). docs/X-API.md: X API tiers (Basic vs Pro), quota usage, optional second token.
 - **Phase 4 – Tuning:** getSentimentAssets() in xSentiment: reads X_SENTIMENT_ASSETS (comma-separated); default CORE_ASSETS (BTC,ETH,SOL,HYPE). Stagger and refreshOneAsset use getSentimentAssets() so you can add more tickers when you have quota. .env.example and SIGNAL_SOURCES.md document X_SENTIMENT_ASSETS and list toggles.
 - **Files:** xResearch.service.ts (XDK + list API), xSentiment.service.ts (getListSentiment, getSentimentAssets), ctVibe.action.ts (list line), dashboardLeaderboards.ts + leaderboard page (list row), leaderboardsApi.ts (listSentiment type), SIGNAL_SOURCES.md, .env.example, docs/X-API.md.
 
@@ -905,6 +905,15 @@ Observability
 
 Testing
   - Unit tests: dailyBriefing, recommendPlace, recommendWine, itinerary, recommendWorkout, weekAhead, swimmingTips, surfForecast (validate + handler with mocks); kellyContext (winter swimming line); lifestyle.service; lifestyleFeedback.evaluator; jargon (formatInterpretation-style strings + BANNED_JARGON). Weather provider test with mocked fetch. Integration-style test (kellyContext + one action with mocked useModel). Surf handler output checked for no banned jargon.
+  - 10x suite: kelly.voice-quality, kelly.knowledge-grounded (allowlist, never invent, response guard test), kelly.defaults-and-safety, kelly.integration, kelly.ask-agent-routing, kelly.messageExamples-regression, etc.
+
+Completed in plan implementation (Phase 1–2, 6 partial)
+  - Voice: getVoiceAvoidPromptFragment() added to recommendWorkout, weekAhead, swimmingTips (surfForecast has no useModel).
+  - Response guard: recommendPlace loads allowlist from knowledge/the-good-life/allowlist-places.txt; if useModel returns off-allowlist name, callback text replaced with safe fallback. utils/recommendationGuards.ts; test "response guard replaces callback when useModel returns off-allowlist name".
+  - Last recommendation cache: recommendPlace and recommendWine set runtime.setCache(kelly:lastRecommend:${roomId}, { type, query, pick }) after callback. kellyContext provider reads and injects "Last time you asked for X, I suggested Y."
+  - messageExamples: added 3 in kelly.ts (surf Biarritz, unplug for an hour, red for lamb)—benefit-led, no jargon.
+  - Inline comments in lifestyle.service.ts for curated schedule structure (Restaurants by Day, Hotels by Season, Fitness/Health, Palace pools).
+  - README: response guard note, personalization note, Improvement roadmap subsection.
 
 
 --------------------------------------------------------------------------------
@@ -912,12 +921,12 @@ SECTION 2 — RECOMMENDATIONS (improve the plugin further)
 --------------------------------------------------------------------------------
 
 Actions
-  - KELLY_ITINERARY: optional output format (e.g. calendar-friendly or copy-paste for notes).
+  - KELLY_ITINERARY: optional output format (e.g. calendar-friendly or copy-paste for notes). (Already supported via wantCalendarFormat.)
   - KELLY_SURF_FORECAST: add optional "best window" (e.g. morning vs afternoon) if marine data allows.
-  - Consider KELLY_RECOMMEND_EXPERIENCE (e.g. one-off experiences, wine tasting, spa) from the-good-life.
+  - KELLY_RECOMMEND_EXPERIENCE — DONE (wine tasting, spa, cooking class, guided tour; one pick + alternative; NEVER_INVENT_LINE + voice fragment; early exit when context thin; tests: validate + handler + voice).
 
 Providers
-  - kellyContext: add "last recommended place" or "last positive feedback" from evaluator memory so Kelly can say "last time you loved X".
+  - kellyContext: "last recommended place" — DONE (cache kelly:lastRecommend + inject "Last time you asked for X, I suggested Y"). "Last time you loved X" already from facts.
   - weather: add one more location (e.g. Landes or Arcachon) if useful for "beach vs indoor" decisions.
   - Optional "seasonal highlights" provider (e.g. truffle season, oyster season, local events) from a small knowledge file or API.
 
@@ -928,31 +937,32 @@ Knowledge / RAG
   - Optional: "seasonal-events-sw-france" (festivals, markets, closures) updated periodically.
 
 Voice and UX
-  - Add 2–3 more messageExamples in kelly.ts that show benefit-led, craft, no-jargon replies (hotel, wine, surf).
+  - Add 2–3 more messageExamples in kelly.ts — DONE (surf, unplug, red for lamb).
   - In actions that return a single pick, add one optional "why this for you" sentence using benefit-led language.
 
 Evaluator
-  - lifestyleFeedback: extend to capture "preferred cuisine" or "preferred vibe" (quiet vs lively) from freeform feedback.
-  - Store feedback in a structured way (e.g. tags: hotel, restaurant, liked, disliked) so providers can inject "you prefer X" lines.
+  - lifestyleFeedback: preferredCuisine and preferredVibe already extracted and stored; provider already injects "You prefer: cuisine/vibe".
+  - Store feedback in a structured way (e.g. tags) — already have tags, preferredCuisine, preferredVibe in memory content.
   - Consider writing back to a small "user-preferences" knowledge or memory so Kelly can say "you usually prefer quieter spots".
 
 Tasks
-  - Daily briefing task: add retry with backoff if runtime or service is not ready.
-  - Optional "weekly digest" task (e.g. Sunday) that summarizes the week's suggestions or top picks.
-  - Task: optional "winter swim reminder" in Jan/Feb that nudges once with Palais/Caudalie reopen dates.
+  - Daily briefing task: retry with backoff — DONE (service null: 3 retries; getCuratedOpenContext null: 2 retries 2s/4s; useModel: 3 retries in generateLifestyleHumanBriefing).
+  - Optional "weekly digest" task — DONE (KELLY_WEEKLY_DIGEST_ENABLED=false, Sunday at KELLY_WEEKLY_DIGEST_HOUR; push week-ahead summary).
+  - Winter swim reminder — DONE (KELLY_WINTER_SWIM_REMINDER_ENABLED=false, week of year configurable, push Palais/Caudalie reopen dates).
 
 Observability and ops
-  - Optional: metrics (e.g. daily briefing sent count, recommendPlace call count) for dashboards.
+  - Logging: daily briefing logs roomCount when pushed; recommendPlace/recommendWine log when fallback used (empty response or response guard). Optional metrics lib deferred.
 
 Documentation
-  - Add inline comments in lifestyle.service.ts for the curated schedule parsing logic so new sections (e.g. palace pools) are easy to add.
+  - Add inline comments in lifestyle.service.ts for the curated schedule parsing logic — DONE.
 
 Agent prompt (kelly.ts)
   - Add one RULES line: "When suggesting a hotel for winter swim, state the reopen date so the user can plan."
   - Add messageExample for "when can I swim at the Palais?" with answer "reopens Feb 12" and no stay before that.
 
 Misc
-  - If many more actions are added, consider a single KELLY_DISPATCH (router) action that picks the right sub-action to reduce prompt complexity.
+  - KELLY_DISPATCH: documented in README "Optional: plugin-todo and KELLY_DISPATCH" — add when action count grows (e.g. 12+ actions); router validates on generic triggers and picks sub-action.
+  - plugin-todo: optional for Kelly; add to character if in-app reminders are desired; otherwise discovery suffices.
   - Optional: validate curated-open-schedule structure on init (e.g. required sections exist) and log a warning if not.
 
 ================================================================================

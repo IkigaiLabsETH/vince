@@ -74,7 +74,7 @@ vinceContextProvider, trenchKnowledgeProvider; tradePerformanceEvaluator.
 - More trades for Thompson Sampling / ML (VINCE_PAPER_AGGRESSIVE=true, VINCE_PAPER_ASSETS=BTC).
 - Feature store 90+ trades → ONNX training (auto or manual).
 - Increase real-time signal factors (see PRIORITY).
-- Michelin knowledge: target quality not fully achieved; exploring plugin-based fixes (plugin-knowledge, plugin-browser) — preference over ClawdBot. See docs/todo-michelin-crawlee.md and docs/PLUGIN-KNOWLEDGE-EVAL.md.
+- Michelin knowledge: target quality not fully achieved; exploring plugin-based fixes (plugin-knowledge, plugin-browser) — preference over ClawdBot. See [todo-michelin-crawlee.md](../../docs/todo-michelin-crawlee.md) and [PLUGIN-KNOWLEDGE-EVAL.md](../../docs/PLUGIN-KNOWLEDGE-EVAL.md).
 
 ---
 
@@ -109,7 +109,7 @@ vinceContextProvider, trenchKnowledgeProvider; tradePerformanceEvaluator.
 ## SUPABASE / STORAGE
 
 - **POSTGRES_URL** = main app database (ElizaOS: conversations, memory, entities, rooms, embeddings). Required for persistent deploy.
-- **SUPABASE_SERVICE_ROLE_KEY / SUPABASE_URL** = (1) Feature store table vince_paper_bot_features (bootstrap SQL); (2) Storage bucket vince-ml-models for .onnx + training_metadata.json (train on Cloud, download on startup). See FEATURE-STORE.md and DEPLOY.md.
+- **SUPABASE_SERVICE_ROLE_KEY / SUPABASE_URL** = (1) Feature store table vince_paper_bot_features (bootstrap SQL); (2) Storage bucket vince-ml-models for .onnx + training_metadata.json (train on Cloud, download on startup). See [FEATURE-STORE.md](../../docs/FEATURE-STORE.md) and [DEPLOY.md](../../docs/DEPLOY.md).
 
 ---
 

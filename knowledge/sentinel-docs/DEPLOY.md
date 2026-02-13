@@ -13,7 +13,7 @@ So you don’t burn $15 on a typo again.
 
 **Docs:** [Deploy to Eliza Cloud](https://docs.elizaos.ai/guides/deploy-to-cloud) — `elizaos deploy --project-name <name>` with multiple `--env "KEY=VALUE"` for secrets. We deploy with **PGLite** by default (no `POSTGRES_URL`); add **`POSTGRES_URL`** only if you want Postgres. For a full migration checklist, see [SUPABASE_MIGRATION.md](SUPABASE_MIGRATION.md).
 
-**Purpose:** Deploy the VINCE app to **Eliza Cloud** or **Railway**: minimal vs full env, PGLite vs Postgres, troubleshooting. Feature-store: [FEATURE-STORE.md](FEATURE-STORE.md). Overview: [README.md](README.md).
+**Purpose:** Deploy the VINCE app to **Eliza Cloud** or **Railway**: minimal vs full env, PGLite vs Postgres, troubleshooting. Feature-store: [FEATURE-STORE.md](FEATURE-STORE.md). Overview: [README.md](../../README.md).
 
 ---
 
@@ -147,6 +147,10 @@ The agent **is** running (you’ll see e.g. "Received message from central bus",
 | **Supabase dual-write** (`SUPABASE_SERVICE_ROLE_KEY` set) | **Yes.** Features are also written to `vince_paper_bot_features` in Supabase; that data persists across redeploys and can be used for training or analysis. |
 
 **Summary:** In the **current state** (PGLite, no Postgres, no Supabase keys), redeploying to Eliza Cloud gives a **fresh container** — trading data is **not** stored or used after redeploy. To keep and use trading data across redeploys, set **`POSTGRES_URL`** (and optionally **`SUPABASE_SERVICE_ROLE_KEY`** for the feature table). ML ONNX models must still be [copied into the repo and committed](#ml-onnx-on-eliza-cloud--will-it-be-active) to be active on Cloud.
+
+### Rate limits and standup
+
+To reduce token use and stay under LLM rate limits (e.g. Anthropic 200K input tokens/min), use standup single-responder and skip reflection in standup. See [docs/RATE_LIMIT_AND_STANDUP.md](docs/RATE_LIMIT_AND_STANDUP.md). Set `A2A_STANDUP_SINGLE_RESPONDER=Kelly`, `REFLECTION_SKIP_STANDUP=true`; optionally lower conversation length if your ElizaOS version supports it.
 
 Optional (plugin-vince features):
 
@@ -371,9 +375,10 @@ VINCE loads many services (DB, Meteora, Deribit, DexScreener, NFT floor, etc.). 
 
 ## Related docs
 
-- [README.md](README.md) — Project overview, getting started, configuration
+- [README.md](../../README.md) — Project overview, getting started, configuration
 - [FEATURE-STORE.md](FEATURE-STORE.md) — Paper bot feature storage (JSONL, PGLite/Postgres, Supabase)
-- [CLAUDE.md](CLAUDE.md) — ElizaOS dev guide for this project
+- [CLAUDE.md](../../CLAUDE.md) — ElizaOS dev guide for this project
+- [RATE_LIMIT_AND_STANDUP.md](RATE_LIMIT_AND_STANDUP.md) — Rate limits, standup single-responder, reflection skip
 
 ### 5. **CLI troubleshooting (from the error message)**
 
