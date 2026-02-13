@@ -19,6 +19,8 @@ VINCE reads these files whenever state is composed (every response). It doesn’
 | **USER.md** | Who you are — name, timezone, preferences, key people, priorities, what's holding you back. Depth = relevance. Goes stale fastest; 5 min evening updates help. (loaded every session) |
 | **SOUL.md** | How the agent thinks and communicates: tone, push-back, negative constraints, operational boundaries (external content, confirmation, ambiguity). (loaded every session) |
 | **TOOLS.md** | Data sources, your tools, session cadence, knowledge base context (loaded every session) |
+| **AGENTS.md** | Optional. Operating rules, autonomy, what needs approval, boundaries (OpenClaw parity; loaded when present) |
+| **HEARTBEAT.md** | Optional. Goals, review rhythm, active projects (OpenClaw parity; loaded when present) |
 | **MEMORY/** | **LONG-TERM.md** (curated persistent context, loaded every session) + daily logs (last 2 by mtime). See MEMORY/README.md. |
 
 **Alignment:** SOUL defines how the agent communicates; USER defines the context; MEMORY defines what persists. The three need to align. This pattern (markdown on disk) is the same control surface used by serious agent systems (custom GPTs, Claude projects, Cursor rules). Getting good at these files is a transferable skill.
