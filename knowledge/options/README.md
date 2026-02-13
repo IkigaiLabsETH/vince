@@ -45,7 +45,7 @@ Options trading strategies, wheel approach, strike selection, and theta decay.
 
 ## Usage Notes
 
-- **Hypersurface** execution and weekly options (Solus, right curve): see [hypersurface-reference.md](./hypersurface-reference.md). For strike ritual and size/skip, the user talks to Solus (plugin-solus). Options knowledge here = methodology; live data from Vince.
+- **Hypersurface** execution and weekly options (Solus, right curve): use both [hypersurface-reference.md](./hypersurface-reference.md) (mechanics) and [HYPERSURFACE.md](./HYPERSURFACE.md) (why we use it, how we use it in this project). For strike ritual and size/skip, the user talks to Solus (plugin-solus). Options knowledge here = methodology; live data from Vince.
 - Focus on **methodologies and frameworks**, not specific numbers
 - Numbers and prices in files may be outdated - they illustrate concepts
 - Use your actions/APIs to get current data, apply frameworks from knowledge
