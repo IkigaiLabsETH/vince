@@ -8,6 +8,22 @@
 - **Multi-runtime strategy:** If the team ever runs an OpenClaw-based agent (e.g. for a different product surface or partner), the adapter avoids rewriting wallet/tool logic; we register the same Eliza plugins and get tools + hooks + routes there.
 - **Ecosystem alignment:** Staying aware of openclaw-adapter helps architecture decisions (when to keep logic in an Eliza plugin vs when to consider dual-surface via the adapter) and keeps Sentinel’s suggestions aligned with the broader elizaOS/OpenClaw story.
 
+## How to leverage the adapter
+
+**Direction:** The adapter runs **inside OpenClaw** and loads **Eliza plugins** as tools/hooks/services. So:
+
+- **VINCE today:** ElizaOS is the host; we spawn OpenClaw (orchestrator, plugin-openclaw) for research. No adapter in that path.
+- **With the adapter:** OpenClaw is the host; it loads our Eliza plugins and exposes them as tools. You leverage the adapter when you have (or add) an **OpenClaw-based** agent and want it to use the same plugin logic.
+
+**Concrete leverage:**
+
+1. **OpenClaw agent with our wallet/connector plugins** — Run any OpenClaw agent (CLI, app, or partner product). Install `@elizaos/openclaw-adapter` and the Eliza plugins you want (e.g. `@elizaos/plugin-evm`, `@elizaos/plugin-solana`, or a path to a local VINCE plugin). Add the adapter to that project’s OpenClaw config; the agent gets tools like `eliza_send_tokens`, `eliza_swap_tokens`, `eliza_transfer_sol`, and providers as prepended context. One plugin codebase powers both Eliza (VINCE) and OpenClaw.
+2. **Dual-surface without rewriting** — Keep building wallet/tool logic as Eliza plugins (Otaku, Solana, EVM, custom connectors). In Eliza (VINCE) they run as normal actions/services; in OpenClaw the adapter exposes them as tools. Same code, two runtimes.
+3. **Partner or alternate product on OpenClaw** — If a partner or another product uses OpenClaw (different channels, UX), they add the adapter + our plugins (or a subset) so their agent has the same capabilities (wallets, swaps, etc.) without maintaining a separate stack.
+4. **Ecosystem and positioning** — For “how does VINCE/Eliza relate to OpenClaw?”: we can run our plugins inside OpenClaw via the official adapter—same tools, different host.
+
+**Constraints to keep in mind:** No LLM in the adapter (`useModel`/`generateText` unavailable); actions that need the model to infer params need explicit params or known schemas. Channel plugins become tools only. DB is in-memory (no persistence across restarts). Best for **tool-style actions** (wallets, swaps, transfers) and **context injection** (providers), not full conversational or heavy persistent-memory flows inside that OpenClaw agent.
+
 ## What the adapter does
 
 | Eliza concept | OpenClaw equivalent       | How it works |
