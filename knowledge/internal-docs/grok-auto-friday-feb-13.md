@@ -1,6 +1,6 @@
 # Grok Expert Auto-Pulse
 
-**Generated**: 2026-02-13T10:26:22.264Z
+**Generated**: 2026-02-13T12:08:43.634Z
 **Type**: Automated Daily Task
 **Tags**: #grok-expert #auto-pulse #daily
 
@@ -9,20 +9,17 @@
 === GROK DAILY PULSE (AUTO) ===
 Date: Friday, Feb 13 | Regime: neutral  
 Fear & Greed: 9/100  
-Top Traders: 56.5% long  
+Top Traders: 56.3% long  
 
-**Prompt of the Day**  
-Screen BTC perp funding rates across top exchanges; identify pairs with negative funding >0.05% for short bias entries.  
+**Prompt of the Day**: Screen BTC spot CVD vs. funding rates on 4H timeframe for divergence setups targeting 10% upside.  
 
-**Market Read**  
-Extreme fear at 9/100 signals capitulation potential, but neutral regime and 56.5% trader longs suggest dip-buying resilience. BTC holds $95K support amid $2T crypto mcap dip; vol spikes on ETF outflows. Watch for reversal if greed ticks up.  
+**Market Read**: Extreme fear at 9/100 signals capitulation, with neutral regime holding amid low vol. Top traders 56.3% long hints at contrarian bounce, but watch for macro FOMC echoes. BTC testing $95K support.  
 
-**Top 3 Research Ideas**  
-1. BTC $92.5K puts (weekly expiry): Buy if vol >60%, target 20% premium decay.  
-2. ETH perp shorts (3x lev): Enter at $3.2K resistance, stop $3.3K, trail on funding flip.  
-3. HIP-3 long SOL/BTC pair: Allocate 2% at current ratio, exit on 5% drawdown or regime shift.  
+**Top 3 Research Ideas**:  
+1. BTC 100K calls (Mar exp) – buy on dip for 2x leverage if RSI <25.  
+2. ETH perp long (5x) – enter at $3.2K with 2% stop, trail on 1H highs.  
+3. HIP-3: SOL/BTC pair short perp if breaks 0.0025, target 0.0022 (0.5% risk).  
 
-**Knowledge Gap**  
-Quantify HIP-3 edge in extreme fear (<20 F&G) vs neutral regimes with 2024-25 backtests.  
+**Knowledge Gap**: Quantify altcoin rotation signals using NVT ratio crossovers.  
 
 (148 words)

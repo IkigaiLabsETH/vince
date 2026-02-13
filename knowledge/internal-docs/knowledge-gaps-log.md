@@ -1907,3 +1907,69 @@
 - **2026-02-13**: Quantify HIP-3 edge in extreme fear (<20 F&G) vs neutral regimes with 2024-25 backtests.  
 
 (148 words)
+- **2026-02-13**: : Quant models for HIP-3 edge in neutral regimes.
+- **2026-02-13**: : ETF flow correlations with altcoin pumps.  
+
+(148 words)
+- **2026-02-13**: : TON network gas fees and memecoin velocity metrics.
+
+(148 words)
+- **2026-02-13**: Funding rate divergences across CEX/DEX for perp alpha.  
+
+(148 words)
+- **2026-02-13**: : Quantify top traders' long/short accuracy over 30-day rolling windows.  
+
+(148 words)
+- **2026-02-13**: : Quantify HIP-3 drawdown stats across 2024 bear cycles.  
+
+(148 words)
+- **2026-02-13**: : HIP-3 performance in Fear <20 regimes (backtest 2022-25).  
+
+(148 words)
+- **2026-02-13**: On-chain whale accumulation patterns during F&G <20 extremes.  
+
+(148 words)
+- **2026-02-13**: Quantify HIP-3 edge in neutral regime vs. fear extremes (backtest 2023-2025 data).  
+
+(148 words)
+- **2026-02-13**: Altcoin layer-2 TVL momentum vs. L1 gas fees correlation.  
+
+(148 words)
+- **2026-02-13**: Altcoin liquidation cascades during fear spikes – model thresholds for HIP-3 triggers.  
+
+(148 words)
+- **2026-02-13**: Quantify top traders' long % correlation to 7D BTC returns (backtest 2024 data).  
+
+(148 words)
+- **2026-02-13**: Quantify whale accumulation thresholds during Fear & Greed <10 for BTC reversal probability.  
+
+(148 words)
+- **2026-02-13**: : Quantify stablecoin mint/burn flows correlation to F&G extremes for reversal timing.  
+
+(148 words)
+- **2026-02-13**: : Quantify CFTC positioning shifts on BTC futures open interest post-FOMC.  
+
+(148 words)
+- **2026-02-13**: : Quantify HIP-3 edge cases in low F&G (<20) regimes.
+
+(148 words)
+- **2026-02-13**: : Impact of top trader long % on 7-day BTC returns during Fear <20.  
+
+(148 words)
+- **2026-02-13**: : Quantify HIP-3 drawdown protection vs. plain perps in 20% BTC dumps.
+
+(148 words)
+- **2026-02-13**: Quantify whale accumulation patterns during Fear & Greed <20 for entry signals.  
+
+(148 words)
+- **2026-02-13**: Model trader positioning signals vs. spot CVD for perp alpha prediction.
+- **2026-02-13**: : HIP-3 performance in extreme fear regimes (F&G <20).
+- **2026-02-13**: : HIP-3 performance stats in Fear & Greed <15 regimes (backtest 2022-2025).  
+
+(148 words)
+- **2026-02-13**: Historical HIP-3 drawdowns in fear regimes <15.  
+
+(148 words)
+- **2026-02-13**: : Quantify altcoin rotation signals using NVT ratio crossovers.  
+
+(148 words)
