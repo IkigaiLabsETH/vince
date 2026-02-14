@@ -1,5 +1,7 @@
 # Clawdbot Security Guide: Lock Down Your Gateway
 
+> **For OpenClaw**, see [openclaw-security.md](openclaw-security.md). This guide (Clawdbot) uses `~/.clawdbot`; OpenClaw uses `~/.openclaw`.
+
 Clawdbot is a powerful personal AI assistant—self-hosted, always-on, connected to your messages, files, and tools. **But the gateway was designed for local use only.** Exposing it to the internet without the right settings is like leaving your digital front door unlocked with a sign saying "API keys inside."
 
 This guide walks you through a **5-minute security check**, a **15-minute lockdown**, and optional **hardening for servers**.
