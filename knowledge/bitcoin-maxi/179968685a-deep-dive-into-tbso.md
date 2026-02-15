@@ -107,3 +107,11 @@ ETFs stole the easy beta, index funds threaten to dump, …
 Result: 80%+ of the 140+ public DATs are underwater and corporate BTC buying has collapsed from 1,400 BTC/day to almost zero.
 
 While the old guard bleeds, TBSO is the new, antifragile prototype quietly launching at the exact bottom of the DAT sentiment cycle. Translation: Maybe the Nakamoto-style disasters just handed you the cheapest, cleanest Bitcoin-sovereignty bet in Europe.
+
+## Related
+
+- [179631716Scarcity Is Patient](179631716scarcity-is-patient.md)
+- [180184034The Quiet Theft](180184034the-quiet-theft.md)
+- [182598088Why Btc Is Down](182598088why-btc-is-down.md)
+- [Rwa Frameworks](../rwa/rwa-frameworks.md)
+- [Rwa Vs Defi Yields](../rwa/rwa-vs-defi-yields.md)

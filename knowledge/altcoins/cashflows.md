@@ -101,3 +101,9 @@ Notably, they receive only an "indirect revenue share" in terms of supply decrem
 Without staking $AAVE in legacy Safety Module, the AAVE multiplier would be ~75x. However, Uniswap buybacks drive the valuation up to ~179x annually.
 In contrast, direct revenue-sharing tokens, such as $CRV, $YB, and $AERO, have much lower multipliers and provide a claimable yield for token holders.
 What if the next stage of Revenue Meta will be driven by direct fee share models?
+
+## Related
+
+- [179919778Real Time Layer 2](179919778real-time-layer-2.md)
+- [182513370The Rebirth](182513370the-rebirth.md)
+- [Yt Duopolies 2026 Ethereum Solana Coinbase 2026 01 25](yt-duopolies-2026-ethereum-solana-coinbase-2026-01-25.md)

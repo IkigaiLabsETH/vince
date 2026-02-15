@@ -62,3 +62,10 @@ Dynamic Slices is an underrated bridge between static Curated work and later ani
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Neural Sediments By Eko33](neural-sediments-by-eko33.md)
+- [Pudgypenguins](pudgypenguins.md)
+- [Xcopy Knownorigin](xcopy-knownorigin.md)

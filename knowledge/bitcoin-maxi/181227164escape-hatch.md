@@ -85,3 +85,11 @@ So yeah. Stack if you want. Move a little more of your life on-chain every month
 Then pour another glass of fine wine and tell me I’m full of shit.
 
 I could use the laugh.
+
+## Related
+
+- [179498350Retirement Is A Rugpull](179498350retirement-is-a-rugpull.md)
+- [179968685A Deep Dive Into Tbso](179968685a-deep-dive-into-tbso.md)
+- [Kelly Criterion](kelly-criterion.md)
+- [Enforcement Case Studies](../regulation/enforcement-case-studies.md)
+- [Etf Landscape](../regulation/etf-landscape.md)

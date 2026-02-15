@@ -201,3 +201,11 @@ See you on the other side of the bridge.
 
 NFA, DYOR, and may your priority fee be ever in your favor.**
 Update:** *Their UI completely broke during the launch. The team tweeted that they’d announce once it was fixed — literally one second later, sniper bots slammed $240M into pre-deposits in under 21 seconds. We could still open the deposit button, but good luck actually getting through. Pure bot warfare. Felt exactly like the NFT mint gas wars back in 2021–2022. The bots won again. Fun (and frustrating) times.*
+
+## Related
+
+- [179977863Smokey Is The Alpha](179977863smokey-is-the-alpha.md)
+- [182513370The Rebirth](182513370the-rebirth.md)
+- [182593890Network Effects](182593890network-effects.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

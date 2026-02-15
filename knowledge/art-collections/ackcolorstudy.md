@@ -64,3 +64,12 @@ The Great Color Study is a solid “colour as subject” project. ACK commits to
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Meebits](meebits.md)
+- [Terraforms](terraforms.md)
+- [Wavyscape By Holger Lippmann](wavyscape-by-holger-lippmann.md)
+- [Account Abstraction](../chain-abstraction/account-abstraction.md)
+- [Cross Chain Bridges V2](../chain-abstraction/cross-chain-bridges-v2.md)

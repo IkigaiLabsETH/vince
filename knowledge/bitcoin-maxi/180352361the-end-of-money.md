@@ -159,3 +159,11 @@ The era of fake money is over.
 The era of energy money has begun.
 
 And Bitcoin is its name.
+
+## Related
+
+- [179721083The Quantum Computer Fud](179721083the-quantum-computer-fud.md)
+- [179973740Usa Bitcoin Empire](179973740usa-bitcoin-empire.md)
+- [180125352The Electron Rush](180125352the-electron-rush.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

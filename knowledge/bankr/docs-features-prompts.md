@@ -221,3 +221,12 @@ EVM only. Not Solana. Not XMTP.
 - "buy $50 of BTC/USD with 1% slippage"
 
 Base only. Commodities (GOLD, SILVER, OIL), crypto (BTC/USD, ETH/USD, SOL/USD), forex (EUR/USD, GBP/USD). Up to 150x leverage.
+
+
+## Related
+
+- [Docs Overview](docs-overview.md)
+- [Docs Sdk](docs-sdk.md)
+- [Openclaw Skill Bankr](openclaw-skill-bankr.md)
+- [Rwa Frameworks](../rwa/rwa-frameworks.md)
+- [Rwa Overview 2026](../rwa/rwa-overview-2026.md)

@@ -133,3 +133,11 @@ Build that options app.
 Make it beautiful, make it fast, make it impossible to ignore.
 
 Then, and only then, will every locked JPG holder who bled with you finally get to roar again. Until then, I’ll be right here. Still locked. Still bleeding. Still betting on the bear. One killer app. That’s all we need. Let’s fucking go.
+
+## Related
+
+- [180656922The Clash Of Titans](180656922the-clash-of-titans.md)
+- [Price To Earnings](price-to-earnings.md)
+- [Yt Duopolies 2026 Ethereum Solana Coinbase 2026 01 25](yt-duopolies-2026-ethereum-solana-coinbase-2026-01-25.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Etf Landscape](../regulation/etf-landscape.md)

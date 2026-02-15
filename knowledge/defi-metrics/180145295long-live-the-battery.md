@@ -237,3 +237,11 @@ You’re not allowed to ignore the second.
 The rocket ship from 2021 didn’t crash.
 
 It just spent four years retrofitting a buyback engine and a heat shield while everyone wrote the obituary. The “Ponzi” meme is dead because Ponzi schemes don’t shrink their monetary base during bear markets. They turned the war chest into a perpetual bid. We’re not just back. We’re antifragile.(3,3) → (3,9) → (9,9) The sequel is better than the original deserved to be.
+
+## Related
+
+- [179846512Co Working Hub](179846512co-working-hub.md)
+- [181038627Reluctant Renaissance](181038627reluctant-renaissance.md)
+- [181550131Defi Soap Opera](181550131defi-soap-opera.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)

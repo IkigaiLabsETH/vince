@@ -83,3 +83,11 @@ I’m not totally sold on hXXI being the forever answer—could be wrong here, B
 Kind of wild, right? TradFi proxies getting rekt by reality while some on-chain vault just grinds out real accumulation for holders who didn’t sell their keys for a stock ticker.
 
 If you’re like me—jaded, holding BTC through another sideways chop, allergic to “narrative alpha”—maybe poke around [d2.finance](https://d2.finance/strategies/0xf44f49e6577b3934f981c6f0629d15154d2606e6) next time you’re up late with your own bad wine. Throw a tiny bag into hXXI for an epoch, see if the numbers feel as boringly reliable as they look. Or don’t. Tell me if I’m full of shit either way. We both know nothing’s guaranteed in this clown world.
+
+## Related
+
+- [180242263Fair Launch](180242263fair-launch.md)
+- [181129934Stop Coping](181129934stop-coping.md)
+- [181805268Biggest Fish](181805268biggest-fish.md)
+- [Rwa Evaluation Framework](../rwa/rwa-evaluation-framework.md)
+- [Rwa Frameworks](../rwa/rwa-frameworks.md)

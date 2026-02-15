@@ -62,3 +62,10 @@ Slimesunday occupies a clear niche—collage, music, energy. Not overrated. Wort
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Beeple Genesis](beeple-genesis.md)
+- [Inspirals By Radix](inspirals-by-radix.md)
+- [Skulptuur By Piter Pasma](skulptuur-by-piter-pasma.md)

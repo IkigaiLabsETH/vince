@@ -91,3 +91,11 @@ USDT/USDC? Yield winter enablers.
 USDT’s gold/BTC gamble risks depegs in a crash; USDC’s compliance is its cage—both starve DeFi of deserved alpha. With stablecoin cap at $304B (down 1.4% MoM, first dip in 26 months), the duopoly’s grip cracks. Test USDH (or PYUSD/USDe) for that 2021 vibe—before T-bills hike again. 
 
 Read our full [USDH deep-dive](https://ikigaistudio.substack.com/p/usdh-stablecoin) for the playbook.
+
+## Related
+
+- [179635530The Hyperevm Explosion](179635530the-hyperevm-explosion.md)
+- [179846512Co Working Hub](179846512co-working-hub.md)
+- [180921350The Poly Strat](180921350the-poly-strat.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)

@@ -133,3 +133,11 @@ No VC round. No angels. No KOL deals. This is, in many ways, a true ICO—an Ini
 Maybe I’m an idiot for hoping. Or maybe, just maybe, Jupiter built the thing we’ve all been waiting for—and HumidiFi’s the perfect proof-of-concept to get us wet. We’ll find out together on December 3rd. 
 
 Oh, and one more thing. Yeah, Hyperliquid did pull off the fairest launch we’ve seen in years, with that monster airdrop that handed billions back to actual users, no VCs invited. But let’s be real: that magic only happened because the founders bootstrapped from their market-making days, flush enough to build a whole L1 without begging for pre-seed checks. Not every team has that war chest. DTF is for the rest of us—the dreamers who need a fair shot without needing to be crypto millionaires first.
+
+## Related
+
+- [180530012Pump Not Fun](180530012pump-not-fun.md)
+- [181788465Pump Not Fun B34](181788465pump-not-fun-b34.md)
+- [Eternal Casino](eternal-casino.md)
+- [Mev Overview](../mev/mev-overview.md)
+- [Mev Supply Chain](../mev/mev-supply-chain.md)

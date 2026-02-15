@@ -62,3 +62,12 @@ Orbifold is more Golid—rigorous, systematic, visually clear. It’s not as wid
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Art Blocks](art-blocks.md)
+- [Azuki](azuki.md)
+- [Fidenza By Tyler Hobbs](fidenza-by-tyler-hobbs.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

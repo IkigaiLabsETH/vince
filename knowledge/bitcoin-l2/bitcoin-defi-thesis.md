@@ -66,3 +66,12 @@ The thesis is structurally sound but timing-dependent. The capital is there ($1.
 **Conviction:** Medium-high on the thesis, lower on timing. BTC DeFi TVL likely reaches $10-20B within 2 years but won't challenge Ethereum's DeFi dominance in that timeframe. The asymmetric bet is on sBTC/Stacks ecosystem as the most likely winner for BTC-native DeFi, with BitVM-based rollups as a dark horse if they ship production-grade bridges.
 
 *Last updated: 2026-02-15*
+
+
+## Related
+
+- [Bitcoin L2 Landscape](bitcoin-l2-landscape.md)
+- [Lightning Network](lightning-network.md)
+- [Stacks Bitvm](stacks-bitvm.md)
+- [Account Abstraction](../chain-abstraction/account-abstraction.md)
+- [Intent Based Trading](../chain-abstraction/intent-based-trading.md)

@@ -196,3 +196,12 @@ The SDK is fully typed. Import as needed: `BankrClient`, `BankrClientConfig`, `P
 - [Client Setup](https://docs.bankr.bot/sdk/client-setup)
 - [Prompt and Poll](https://docs.bankr.bot/sdk/prompt-and-poll)
 - [Examples](https://docs.bankr.bot/sdk/examples)
+
+
+## Related
+
+- [Docs Claude Plugins](docs-claude-plugins.md)
+- [Docs Features Table](docs-features-table.md)
+- [Openclaw Skill Bankr](openclaw-skill-bankr.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)

@@ -124,3 +124,11 @@ Bretton Woods gave us dollar hegemony through gold convertibility and military r
 The cathedral is rising. The builders are not hiding. They are simply betting that most people will keep arguing about meme coins and ETF flows while the new monetary order is erected overhead.
 
 Pay attention. Your children will inherit a world whose reserve asset is secured not by treaties or central banks, but by exahashes and the people who command them. And right now, those people speak with a very specific accent.
+
+## Related
+
+- [181094424The Party Is Over](181094424the-party-is-over.md)
+- [Bitcoin Triptych](bitcoin-triptych.md)
+- [Saylor](saylor.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

@@ -147,3 +147,11 @@ They’re sending you another invitation.
 
 See you on the lifeboat.
 Somewhere on the Bitcoin standard
+
+## Related
+
+- [179459113Coming Soon](179459113coming-soon.md)
+- [179636470The Torchbearers Sold The Top](179636470the-torchbearers-sold-the-top.md)
+- [180606359The Quiet Conquest](180606359the-quiet-conquest.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Mica Eu Framework](../regulation/mica-eu-framework.md)

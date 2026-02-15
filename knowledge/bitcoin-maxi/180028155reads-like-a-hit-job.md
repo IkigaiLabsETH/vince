@@ -148,3 +148,11 @@ One hand torches MicroStrategy’s premium.
 The other hand sells you the exact same leveraged Bitcoin exposure — except now JPMorgan gets the spread and BlackRock gets the flows.
 
 They aren’t even pretending anymore.
+
+## Related
+
+- [179631716Scarcity Is Patient](179631716scarcity-is-patient.md)
+- [179867726This Is A Dream](179867726this-is-a-dream.md)
+- [180492654Squeeze Of 2025](180492654squeeze-of-2025.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)

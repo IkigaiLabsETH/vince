@@ -63,3 +63,12 @@ agents: [eliza]
 - **Result:** X remains our biggest source of news and insights; we don’t pay for the X API; the decade of curation becomes the input to continuous knowledge expansion.
 
 See **PLAN-SLACK-DISCORD-KNOWLEDGE-RESEARCH.md** §4 (X pipeline) and §6 (implementation order). This doc is the **key feature** of that plan: Clawdbot as the X layer.
+
+
+## Related
+
+- [Business Idea Openclaw One Click](business-idea-openclaw-one-click.md)
+- [Openclaw Practical Tips](openclaw-practical-tips.md)
+- [Plan One Click Install](plan-one-click-install.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

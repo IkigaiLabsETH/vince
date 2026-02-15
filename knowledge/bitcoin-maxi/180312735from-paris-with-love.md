@@ -112,3 +112,11 @@ and you’ll still be freer, richer, and happier than the bureaucrats writing th
 Welcome to France.
 Santé.
 And good luck.
+
+## Related
+
+- [180557091The Final Red Pill](180557091the-final-red-pill.md)
+- [182466750Max Pain](182466750max-pain.md)
+- [182566518Prompt Design Quarterly Report](182566518prompt-design-quarterly-report.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

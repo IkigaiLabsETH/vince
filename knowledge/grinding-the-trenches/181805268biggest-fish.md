@@ -83,3 +83,11 @@ Maybe I’m wrong—could be deeper rot. Or maybe crypto’s just volatile as fu
 ## Conclusion
 
 Me? I stack off-exchange now. Avoid high lev. Diversify spots. If Binance scares you, Coinbase is more regulated (US side), or go full DEX/Hyperliquid for perps. All CEXes have risks—remember FTX? Try this: Pull your coins to a hardware wallet tonight. Sleep better. See you on the other side of the next cycle.
+
+## Related
+
+- [180242263Fair Launch](180242263fair-launch.md)
+- [180806522The Throne](180806522the-throne.md)
+- [Eternal Casino](eternal-casino.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

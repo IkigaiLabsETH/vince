@@ -102,3 +102,11 @@ But the physics? The physics just flipped.
 Anyway. Next time your feed is full of people screaming that bitcoin wastes energy, [just send them that Jensen clip](https://youtube.com/shorts/IrcBR2WNzKA?si=4MHrpZ6ZecnGBl7a). Or better—ask them to explain how else we’re supposed to move stranded renewables across continents without losing 40% in transmission or waiting ten years for permits.
 
 Night, fam. I’m going to bed before I buy another coin. Probably.
+
+## Related
+
+- [180516376Institutional Surrender](180516376institutional-surrender.md)
+- [181530571Benner Cycle](181530571benner-cycle.md)
+- [182566635Prompt Design Year Report](182566635prompt-design-year-report.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

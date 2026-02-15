@@ -60,3 +60,10 @@ TIPS protect against measured CPI but suffer from duration risk when real yields
 **Key principle**: No single asset hedges all inflation types. Portfolio construction matters more than asset selection. Rebalance between hedges as the inflation regime shifts — the mix that works in demand-pull won't work in stagflation. Monitor real yields as the master variable: falling real yields benefit nearly all inflation hedges simultaneously.
 
 *Last updated: 2026-02-15*
+
+
+## Related
+
+- [182321102The Humbling](182321102the-humbling.md)
+- [182620956Great Rotation](182620956great-rotation.md)
+- [Oil Macro Signals](oil-macro-signals.md)

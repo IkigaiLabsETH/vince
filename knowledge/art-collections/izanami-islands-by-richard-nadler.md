@@ -62,3 +62,12 @@ Izanami Islands is a focused, sincere take on Japanese landscape and myth. Nadle
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Boredapeyachtclub](boredapeyachtclub.md)
+- [Ignition By Ge1Doot](ignition-by-ge1doot.md)
+- [Pudgypenguins](pudgypenguins.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)

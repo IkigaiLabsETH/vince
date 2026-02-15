@@ -121,3 +121,11 @@ We’ll see what 2026 brings? National reserves? More crashes?
 Stay hungry. Stay foolish. 
 
 And maybe... stay skeptical of your own gut sometimes.
+
+## Related
+
+- [182513370The Rebirth](182513370the-rebirth.md)
+- [182593890Network Effects](182593890network-effects.md)
+- [182650000The Enlightened Cryptoeconomy](182650000the-enlightened-cryptoeconomy.md)
+- [Enforcement Case Studies](../regulation/enforcement-case-studies.md)
+- [Mica Eu Framework](../regulation/mica-eu-framework.md)

@@ -132,3 +132,11 @@ Apply? Next trade, peek on-chain (TVL/volume, stable trends) then structure (fun
 Market’s growing up—institutions, regs, deeper pools—but the vol? Eternal. Nail this, and you’re trading minds, not just charts.
 
 Next time you’re eyeing a position, try flipping your usual metric first—question the hype before buying in. Hit me up if it saves your ass.
+
+## Related
+
+- [Account Abstraction](../chain-abstraction/account-abstraction.md)
+- [Cross Chain Bridges V2](../chain-abstraction/cross-chain-bridges-v2.md)
+- [180139813The Quiet Empire](180139813the-quiet-empire.md)
+- [180166429The Carry Trade](180166429the-carry-trade.md)
+- [181550131Defi Soap Opera](181550131defi-soap-opera.md)

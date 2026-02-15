@@ -62,3 +62,12 @@ MAYC is BAYC’s shadow—less mainstream, more niche. The airdrop model was sma
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [24 Hours Of Art](24-hours-of-art.md)
+- [Fvckrender](fvckrender.md)
+- [Highrises](highrises.md)
+- [Account Abstraction](../chain-abstraction/account-abstraction.md)
+- [Intent Based Trading](../chain-abstraction/intent-based-trading.md)

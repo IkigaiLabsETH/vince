@@ -62,3 +62,12 @@ Genesis is less interesting to me as a standalone image than as a cultural bomb.
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [720 Minutes By Alexis Andre](720-minutes-by-alexis-andre.md)
+- [Elevated Deconstructions By Luxpris](elevated-deconstructions-by-luxpris.md)
+- [Stranger Together By Brooke Didonato Ben Zank](stranger-together-by-brooke-didonato-ben-zank.md)
+- [Cross Chain Bridges V2](../chain-abstraction/cross-chain-bridges-v2.md)
+- [Intent Based Trading](../chain-abstraction/intent-based-trading.md)

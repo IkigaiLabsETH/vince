@@ -132,3 +132,11 @@ I still surf. I still dream about that little off-grid surf compound. But I’ll
 The people still screaming “just buy a house, it’s always been the best investment” are the same people who bought at 2.5× income in 1998 and never ran the real numbers. Don’t be me for 20 years. Be the version of me who finally got it. Stack sats. Live near the waves anyway. But own your time first.
 
 Because the most expensive house in the world is the one that owns you.
+
+## Related
+
+- [180352361The End Of Money](180352361the-end-of-money.md)
+- [180586132Were So Back](180586132were-so-back.md)
+- [181324143Why We Bought Ibit](181324143why-we-bought-ibit.md)
+- [Enforcement Case Studies](../regulation/enforcement-case-studies.md)
+- [Etf Landscape](../regulation/etf-landscape.md)

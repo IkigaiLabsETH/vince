@@ -99,3 +99,11 @@ So yeah, let it hurt for five minutes. Grieve the version of the future that die
 ## Conclusion
 
 Life’s 2 short 2 drink bad wine and it’s definitely 2 short to stay poor when the greatest wealth transfer in history is happening in plain sight. See you on the other side of whatever this becomes with sand between my toes and a fat stack I’ll never sell. aloha & ₿ like ikigAI unc lowkey stacking while the roses bloom
+
+## Related
+
+- [Bitcoin L2 Landscape](../bitcoin-l2/bitcoin-l2-landscape.md)
+- [Lightning Network](../bitcoin-l2/lightning-network.md)
+- [179474452Will You Ever See Bitcoin At 50000](179474452will-you-ever-see-bitcoin-at-50000.md)
+- [179867726This Is A Dream](179867726this-is-a-dream.md)
+- [180312735From Paris With Love](180312735from-paris-with-love.md)

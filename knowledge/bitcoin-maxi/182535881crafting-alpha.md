@@ -190,3 +190,11 @@ Tables for metrics/comps.
 Mobile-friendly: No text walls; space for scans.
 
 Final Vibe and GoalReader emerges armed for asymmetric plays, fired up with philosophical skepticism, and hooked to sub. Write like data whispers truths, markets endure smirking—chain research into content that cuts noise, builds loyalty, and turns vibes into Substack gold. Go—vibe-check and alchemize now.
+
+## Related
+
+- [179911974The Adults Have Left The Casino](179911974the-adults-have-left-the-casino.md)
+- [182566635Prompt Design Year Report](182566635prompt-design-year-report.md)
+- [Bitcoin Triptych](bitcoin-triptych.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)

@@ -130,3 +130,11 @@ Ethena (ENA) – 6.9× P/S. The dollar that pays you 15-18% to hold it, backed b
 Three protocols, all under 8× P/S, all printing real recurring revenue today. That’s the entire DeFi allocation for anyone who’s done paying 300× for casino fees.
 
 Tron is trading at a 41x price-to-sales ratio, which makes it one of the cheapest L1s. Solana is at 42x, Ethereum is at 380x, BNB is at 400x.
+
+## Related
+
+- [179919778Real Time Layer 2](179919778real-time-layer-2.md)
+- [180277198Monad Revolution](180277198monad-revolution.md)
+- [Cashflows](cashflows.md)
+- [Cross Chain Mev](../mev/cross-chain-mev.md)
+- [Mev Protection](../mev/mev-protection.md)

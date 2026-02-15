@@ -152,3 +152,11 @@ The bedroom miner is dead.
 Long live the scavenger of the grid’s forgotten power.
 
 The only question left is which nation will be bold enough to claim the next decade. Look no further than the United States, where the unapologetic ambition has already turned Texas into Bitcoin’s undisputed capital. And if there’s any doubt about America’s iron grip on this future, consider American Bitcoin—the audacious venture co-founded by Eric Trump and his brother Donald Trump Jr., now a Nasdaq-listed powerhouse that’s mining 2% of the world’s daily Bitcoin supply on Texas soil. Launched in March 2025 as a Hut 8 subsidiary, it merged with Gryphon Digital Mining in September, debuting under the ticker ABTC and catapulting the brothers’ stake to over $1.5 billion in value on day one. Eric, serving as Chief Strategy Officer, isn’t just playing the game—he’s rewriting it, touring a sprawling 35,000-server facility last week, all liquid-cooled and humming on “American energy” to stack 4,004 BTC in treasury while posting $3.5 million in Q3 profits. This isn’t hobbyist tinkering; it’s a strategic reserve machine, acquiring Bitmain rigs for $314 million and eyeing 100,000 ASICs by next year, all while Eric preaches Bitcoin’s tangibility: “Some say it’s intangible—but look at this.” As Eric jets to Dubai and Hong Kong to rally global allies, the message is clear: America didn’t just win the space race; it’s dominating the electron rush. France and the rest? They’ll need more than pilots and promises to catch up. The stars and stripes are already etched in silicon.
+
+## Related
+
+- [Lightning Network](../bitcoin-l2/lightning-network.md)
+- [Stacks Bitvm](../bitcoin-l2/stacks-bitvm.md)
+- [179721083The Quantum Computer Fud](179721083the-quantum-computer-fud.md)
+- [182277680Mad Max Aftershock](182277680mad-max-aftershock.md)
+- [182565993Prompt Design Week Report](182565993prompt-design-week-report.md)

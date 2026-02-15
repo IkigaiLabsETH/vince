@@ -75,3 +75,11 @@ So where does that leave bitcoin? In the short term, painfully exposed. The corr
 Yet the medium-term picture flips. Once the forced selling exhausts itself, and it always does, bitcoin will be emerging into a world where global liquidity is no longer artificially propped up by one country’s desperation to avoid deflation. Real yields in Japan will still be negative after a hike or two, but the psychological dam has broken. The river of yen that floated all boats is reversing, and when the tide goes out we finally get to see which assets can actually swim. Gold is already proving it can. Bitcoin, scarred and leaner after the purge, has a decent shot at being next.
 
 The great reprice of 2025 is just beginning. Fasten your seat belt, keep some dry powder, and remember that the cheapest funding in history just got a little more expensive. For bitcoin, the next few weeks will feel like falling down stairs. The question is what it looks like when it reaches the bottom and starts walking again. History says the assets that survive carry-trade unwinds tend to come out stronger on the other side. We are about to find out if bitcoin is one of them.
+
+## Related
+
+- [179846512Co Working Hub](179846512co-working-hub.md)
+- [181550131Defi Soap Opera](181550131defi-soap-opera.md)
+- [181893912Crypto Bandits](181893912crypto-bandits.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

@@ -105,3 +105,11 @@ Santa is real.
 The bear is just waiting until January.
 
 Merry Christmas, see you at $108K.
+
+## Related
+
+- [Bitcoin Defi Thesis](../bitcoin-l2/bitcoin-defi-thesis.md)
+- [Lightning Network](../bitcoin-l2/lightning-network.md)
+- [179498350Retirement Is A Rugpull](179498350retirement-is-a-rugpull.md)
+- [180125352The Electron Rush](180125352the-electron-rush.md)
+- [182542021Holiday Haze](182542021holiday-haze.md)

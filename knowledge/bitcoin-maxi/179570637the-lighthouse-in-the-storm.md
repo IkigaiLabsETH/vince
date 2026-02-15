@@ -108,3 +108,11 @@ Lighthouses do.
 ## Conclusion
 
 See you on the other side.
+
+## Related
+
+- [Bitcoin Defi Thesis](../bitcoin-l2/bitcoin-defi-thesis.md)
+- [Stacks Bitvm](../bitcoin-l2/stacks-bitvm.md)
+- [180184034The Quiet Theft](180184034the-quiet-theft.md)
+- [180811807The Bottom Is In](180811807the-bottom-is-in.md)
+- [182566133Prompt Design Month Report](182566133prompt-design-month-report.md)

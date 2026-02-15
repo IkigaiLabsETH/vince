@@ -132,3 +132,11 @@ Just as Amazon’s early detractors missed the network flywheel that turned a bo
 Whether debunking LTV myths or eyeing BTC’s ramp against gold, the lesson is clear: bet on endurance, not hype. Sub for dissections. Not advice. DYOR. 
 
 Oh, and one more thing: Happy New Year MFers
+
+## Related
+
+- [179831767The Nasdaq Of Crypto](179831767the-nasdaq-of-crypto.md)
+- [Price To Earnings](price-to-earnings.md)
+- [Yt Duopolies 2026 Ethereum Solana Coinbase 2026 01 25](yt-duopolies-2026-ethereum-solana-coinbase-2026-01-25.md)
+- [Enforcement Case Studies](../regulation/enforcement-case-studies.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)

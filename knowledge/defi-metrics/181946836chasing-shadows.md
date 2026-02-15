@@ -113,3 +113,11 @@ Counterarguments persist: Some foresee cycle elongation via liquidity and policy
 Prudence dictates modest sizing, weakness averaging, and optionality mindset with full-loss acceptance. Diversify themes, track on-chain/forum sentiment, and prepare exits on narrative revivals.
 
 Bear-market accumulation is contrarian alchemy—acquiring when despair peaks and ambition appears folly. Should 2026-2027 manifest the expected nadir, this portfolio may forge enduring legends. Or invaluable tuition. Conduct thorough research, calibrate exposures, and savor the volatility.
+
+## Related
+
+- [180135562Defi Value Repricing](180135562defi-value-repricing.md)
+- [180166429The Carry Trade](180166429the-carry-trade.md)
+- [180268594Great Die Off](180268594great-die-off.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Mica Eu Framework](../regulation/mica-eu-framework.md)

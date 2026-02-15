@@ -86,3 +86,11 @@ Kind of wild, right? This isn’t doom—it’s just setup. The folks who sold n
 I’m not saying sell everything tomorrow, don’t @ me. Could be wrong—markets love humiliating us vets. But with the cycle whispering 2026, exhaustion everywhere... yeah, preparing feels smart.
 
 Next time Bitcoin pumps hard and you’re tempted to go all-in again, try this dumb thing: sell just 10% into it, park it in stables. See how it feels not being fully exposed when it inevitably dips. Tell me in a year if it saved your ass—or if I’m just an old cynic rambling over wine.
+
+## Related
+
+- [180338122Kelly Criterion](180338122kelly-criterion.md)
+- [181578103Ex Twitter Crew](181578103ex-twitter-crew.md)
+- [182568240Cold Storage Bitcoin](182568240cold-storage-bitcoin.md)
+- [Mica Eu Framework](../regulation/mica-eu-framework.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)

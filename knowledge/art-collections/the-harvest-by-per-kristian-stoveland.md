@@ -64,3 +64,12 @@ The Harvest is a love letter to sci‑fi done right. Stoveland isn’t hiding be
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Lifeguard Towers Miami](lifeguard-towers-miami.md)
+- [Meebits](meebits.md)
+- [Ringers By Dmitri Cherniak](ringers-by-dmitri-cherniak.md)
+- [Chain Abstraction Overview](../chain-abstraction/chain-abstraction-overview.md)
+- [Intent Based Trading](../chain-abstraction/intent-based-trading.md)

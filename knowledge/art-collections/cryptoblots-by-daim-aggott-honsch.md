@@ -62,3 +62,12 @@ Cryptoblots is a thoughtful, underrated entry in the Natively Digital set. The p
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Archetype By Kjetil Golid](archetype-by-kjetil-golid.md)
+- [Autoglyphs](autoglyphs.md)
+- [Sightseers By Norman Harman](sightseers-by-norman-harman.md)
+- [Account Abstraction](../chain-abstraction/account-abstraction.md)
+- [Intent Based Trading](../chain-abstraction/intent-based-trading.md)

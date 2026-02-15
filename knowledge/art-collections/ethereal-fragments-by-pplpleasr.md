@@ -62,3 +62,12 @@ Pplpleasr earned her place. The Uniswap work and the PleasrDAO arc are part of N
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Beeple Everydays](beeple-everydays.md)
+- [Getijde By Bart Simons](getijde-by-bart-simons.md)
+- [Neural Sediments By Eko33](neural-sediments-by-eko33.md)
+- [Account Abstraction](../chain-abstraction/account-abstraction.md)
+- [Intent Based Trading](../chain-abstraction/intent-based-trading.md)

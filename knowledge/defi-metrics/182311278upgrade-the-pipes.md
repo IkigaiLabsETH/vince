@@ -77,3 +77,11 @@ Not rivals, though—they complement. Canton-powered DTCC tokenization isn’t a
 The DTCC’s partnership with Canton Network is laying the groundwork for a future where onchain equities become far more accessible and integrated into everyday finance. For institutions, the gains are monumental—enhanced collateral efficiency through tokenized Treasuries could liberate billions in trapped capital, fueling lending and repo markets like never before. 
 
 The ripple effects are profound: cheaper, faster trades filtering down through your broker, unlocking the true potential of onchain equities. With pilots slated for 2026 on the horizon, the engine of change is quietly accelerating.
+
+## Related
+
+- [179846512Co Working Hub](179846512co-working-hub.md)
+- [180921350The Poly Strat](180921350the-poly-strat.md)
+- [181946836Chasing Shadows](181946836chasing-shadows.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)

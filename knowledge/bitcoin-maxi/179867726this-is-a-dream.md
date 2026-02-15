@@ -112,3 +112,11 @@ The money is no longer the point. It’s the absence of friction. No more calcul
 See you at the table, legend.
 The wine’s already breathing.
 Not checking the price anymore.
+
+## Related
+
+- [180492654Squeeze Of 2025](180492654squeeze-of-2025.md)
+- [180606359The Quiet Conquest](180606359the-quiet-conquest.md)
+- [182495276Post 1010](182495276post-1010.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

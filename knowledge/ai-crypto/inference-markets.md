@@ -42,3 +42,12 @@ The honest assessment: most real AI workloads don't need trustless verification.
 3. **Model marketplaces** — creators monetizing models without intermediaries taking 30%+ cuts
 
 The market will likely bifurcate: practical projects using optimistic/TEE approaches capture near-term demand, while ZK-proof research plays the long game for eventual trustless verification. Watch for actual inference volume metrics, not just token price or partnership announcements. The projects processing real queries at sustainable unit economics will win.
+
+
+## Related
+
+- [Ai Crypto Overview](ai-crypto-overview.md)
+- [Ai Crypto Risks](ai-crypto-risks.md)
+- [Decentralized Compute](decentralized-compute.md)
+- [Chain Abstraction Overview](../chain-abstraction/chain-abstraction-overview.md)
+- [Cross Chain Bridges V2](../chain-abstraction/cross-chain-bridges-v2.md)

@@ -171,3 +171,11 @@ Keep a core, unshakable allocation to the tiny handful of L1s that are actually 
 The market has correctly identified that moats are real and most projects never had one. It has incorrectly concluded that the game is over and the exponential is dead. History rhymes. Those two statements are almost never both true at the same time. And when they appear to be, the second one is usually the mistake that costs orders of magnitude more than the first.
 
 See you in 2035. The believers will still be here. Not investment advice. Just observation of an experiment that has now run long enough to trust the results.
+
+## Related
+
+- [180268594Great Die Off](180268594great-die-off.md)
+- [180458194Convertible Deposits](180458194convertible-deposits.md)
+- [Eliza Upload How To Use Ai To Analyze Your Top Content 1770898041552](eliza-upload-how-to-use-ai-to-analyze-your-top-content-1770898041552.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)

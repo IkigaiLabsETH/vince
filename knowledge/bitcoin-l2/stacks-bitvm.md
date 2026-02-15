@@ -94,3 +94,12 @@ Stacks provides the **execution layer** (smart contracts, DeFi protocols). BitVM
 The pieces are falling into place. The question is whether the market cares enough about BTC-native DeFi to choose these over Ethereum L2s with wrapped BTC.
 
 *Last updated: 2026-02-15*
+
+
+## Related
+
+- [Bitcoin Defi Thesis](bitcoin-defi-thesis.md)
+- [Bitcoin L2 Landscape](bitcoin-l2-landscape.md)
+- [Lightning Network](lightning-network.md)
+- [Cross Chain Mev](../mev/cross-chain-mev.md)
+- [Mev Supply Chain](../mev/mev-supply-chain.md)

@@ -62,3 +62,12 @@ Pigments is a solid, focused project. The colour research reads. Underrated next
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Construction Token By Jeff Davis](construction-token-by-jeff-davis.md)
+- [Ethereal Fragments By Pplpleasr](ethereal-fragments-by-pplpleasr.md)
+- [Jaknfthoodies](jaknfthoodies.md)
+- [Chain Abstraction Overview](../chain-abstraction/chain-abstraction-overview.md)
+- [Intent Based Trading](../chain-abstraction/intent-based-trading.md)

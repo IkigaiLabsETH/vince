@@ -149,3 +149,11 @@ HIP-3 equity perps live (TSLA-USDH, CRCL-USDH, COIN-USDH) – borrow USDH cheap,
 Still no token, still just points, still zero paid marketing
 
 The empire has started speaking and the rest of crypto is finally listening.
+
+## Related
+
+- [181038627Reluctant Renaissance](181038627reluctant-renaissance.md)
+- [182311278Upgrade The Pipes](182311278upgrade-the-pipes.md)
+- [On Chain Fundamentals](on-chain-fundamentals.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

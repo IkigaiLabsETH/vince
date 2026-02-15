@@ -145,3 +145,10 @@ See [AI Coding Tools](https://docs.bankr.bot/llm-gateway/ai-coding-tools) for fu
 - [API Reference](https://docs.bankr.bot/llm-gateway/api-reference)
 - [OpenClaw](https://docs.bankr.bot/llm-gateway/openclaw)
 - [AI Coding Tools](https://docs.bankr.bot/llm-gateway/ai-coding-tools)
+
+
+## Related
+
+- [Docs Features Prompts](docs-features-prompts.md)
+- [Docs Features Table](docs-features-table.md)
+- [Openclaw Skill Bankr](openclaw-skill-bankr.md)

@@ -81,3 +81,11 @@ The locals will keep talking about the crisis. Let them. Crises are what happen 
 
 Come south. The water is perfect, the wine is as goos as it gets, and the next cycle is already loading. Build in dollars. Save in bitcoin. Spend in euros.
 Live like the future already won.
+
+## Related
+
+- [Bitcoin Defi Thesis](../bitcoin-l2/bitcoin-defi-thesis.md)
+- [Stacks Bitvm](../bitcoin-l2/stacks-bitvm.md)
+- [180312735From Paris With Love](180312735from-paris-with-love.md)
+- [181227164Escape Hatch](181227164escape-hatch.md)
+- [182565301Prompt Design Day Report](182565301prompt-design-day-report.md)

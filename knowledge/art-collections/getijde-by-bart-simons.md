@@ -62,3 +62,12 @@ Getijde is a thoughtful, concept-driven project. The tide hook isn’t superfici
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Cryptoadz By Gremplin](cryptoadz-by-gremplin.md)
+- [Ripcache](ripcache.md)
+- [Yamabushi S Horizons By Richard Nadler](yamabushi-s-horizons-by-richard-nadler.md)
+- [Account Abstraction](../chain-abstraction/account-abstraction.md)
+- [Cross Chain Bridges V2](../chain-abstraction/cross-chain-bridges-v2.md)

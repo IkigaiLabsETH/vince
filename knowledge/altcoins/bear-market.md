@@ -71,3 +71,11 @@ Projections got stablecoins to $2-4 trillion by 2030 in some forecasts. Upside�
 Maybe I’m wrong—could fizzle, macro could crush it.
 
 Been wrong before, got lucky surviving. But watching this unfold... feels like the bill for real adoption coming due. The mission was never everyone becoming a degen. It was better tools, even if they forget the name.
+
+## Related
+
+- [181987981Wintermute](181987981wintermute.md)
+- [Monad](monad.md)
+- [Top100 Altcoins](top100-altcoins.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

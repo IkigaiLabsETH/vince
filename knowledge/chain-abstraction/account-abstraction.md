@@ -73,3 +73,12 @@ ERC-4337 is live on Ethereum, Polygon, Arbitrum, Optimism, Base, and most major 
 ERC-7702 (shipping with Pectra) lets EOAs temporarily delegate to smart contract logic, bridging the gap for existing users who don't want to migrate accounts. Combined with ERC-4337, this creates a path where every Ethereum account eventually behaves as a smart account.
 
 *Last updated: 2026-02-15*
+
+
+## Related
+
+- [Chain Abstraction Overview](chain-abstraction-overview.md)
+- [Cross Chain Bridges V2](cross-chain-bridges-v2.md)
+- [Intent Based Trading](intent-based-trading.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

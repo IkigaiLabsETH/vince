@@ -62,3 +62,10 @@ Pudgy is less interesting as art than as a case study. The Walmart move and the 
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Ackcolorstudy](ackcolorstudy.md)
+- [Beeple Genesis](beeple-genesis.md)
+- [Day Gardens](day-gardens.md)

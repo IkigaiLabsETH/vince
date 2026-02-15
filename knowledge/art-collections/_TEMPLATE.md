@@ -45,3 +45,10 @@ OpenSea Slug: `collection-slug`
 
 
 *Last updated: [date]*
+
+
+## Related
+
+- [Loot For Adventurers](loot-for-adventurers.md)
+- [Memories Of Qilin By Emily Xie](memories-of-qilin-by-emily-xie.md)
+- [Pak Merge](pak-merge.md)

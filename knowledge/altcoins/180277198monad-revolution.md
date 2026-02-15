@@ -92,3 +92,11 @@ Most new L1s launch with a dream and a whitepaper. Monad launched with a chain t
 
 Everything from here is adoption.
 And adoption, borders or not, feels inevitable.
+
+## Related
+
+- [181809932The Natives Lost](181809932the-natives-lost.md)
+- [Price To Earnings](price-to-earnings.md)
+- [Yt Duopolies 2026 Ethereum Solana Coinbase 2026 01 25](yt-duopolies-2026-ethereum-solana-coinbase-2026-01-25.md)
+- [Mev Overview](../mev/mev-overview.md)
+- [Mev Supply Chain](../mev/mev-supply-chain.md)

@@ -172,3 +172,12 @@ Because through the fog of disillusionment and uncertainty, lies the opportunity
 ---
 
 Disclaimer: This isn't financial advice. I'm not your financial advisor. I could be completely wrong about everything. Crypto is volatile, risky, and could go to zero. Do your own research. Sleep well tonight.
+
+
+## Related
+
+- [181992877Silent Reckoning](181992877silent-reckoning.md)
+- [182037920The Adults Table](182037920the-adults-table.md)
+- [Monad](monad.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)

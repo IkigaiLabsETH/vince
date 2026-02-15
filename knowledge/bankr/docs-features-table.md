@@ -146,3 +146,10 @@ EVM = Base, Ethereum, Polygon, Unichain. Not Solana.
 - **Polygon:** Swaps, transfers, Polymarket; gas sponsorship.
 - **Unichain:** Swaps, transfers, NFTs; gas sponsorship.
 - **Solana:** Swaps (Jupiter), token launching; limited gas sponsorship (1/day standard, 10/day Bankr Club).
+
+
+## Related
+
+- [Docs Claude Plugins](docs-claude-plugins.md)
+- [Docs Llm Gateway](docs-llm-gateway.md)
+- [Openclaw Skill Bankr](openclaw-skill-bankr.md)

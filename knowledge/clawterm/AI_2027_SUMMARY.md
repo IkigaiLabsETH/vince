@@ -53,3 +53,11 @@ A concrete, quantitative scenario representing the authors' best guess about wha
 ## OpenClaw connection
 
 AI 2027 describes research agents that "scour the Internet to answer your question." OpenClaw + openclaw-agents enable that today: Gateway connects chat apps to AI agents; orchestrator runs alpha, market, onchain, news research. OpenClaw is the practical bridge to the AI 2027 vision.
+
+
+## Related
+
+- [Ai Crypto Risks](../ai-crypto/ai-crypto-risks.md)
+- [Inference Markets](../ai-crypto/inference-markets.md)
+- [Clawterm_Vision](CLAWTERM_VISION.md)
+- [Hip3_Ai_Assets](HIP3_AI_ASSETS.md)

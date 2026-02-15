@@ -73,3 +73,12 @@ These are promising but niche. Lightning's architecture is fundamentally optimiz
 Lightning won the BTC payments layer. The question is whether that's enough. BOLT12 will significantly improve UX. LSP consolidation is the biggest centralization risk. The real competition isn't other L2s — it's stablecoins on cheap chains eating Lightning's remittance narrative.
 
 *Last updated: 2026-02-15*
+
+
+## Related
+
+- [Ai Crypto Risks](../ai-crypto/ai-crypto-risks.md)
+- [Inference Markets](../ai-crypto/inference-markets.md)
+- [Bitcoin Defi Thesis](bitcoin-defi-thesis.md)
+- [Bitcoin L2 Landscape](bitcoin-l2-landscape.md)
+- [Stacks Bitvm](stacks-bitvm.md)

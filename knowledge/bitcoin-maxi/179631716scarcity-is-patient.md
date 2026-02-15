@@ -99,3 +99,11 @@ This is not hope. This is arithmetic wearing the mask of mercy. So keep the scar
 Why We Still Keep ~20 % in USDC Even If $80k Feels Like Rock Bottom**
 
 Look, we’re as bullish as anyone. We think the real bear winter is going to be measured in weeks, not quarters. We think $80–84k is probably the zone where the last weak hands puke and the Golden Cross quietly flips in March. We think the next leg is $180k+ by summer ’26 and the xx-BTC core stack never gets touched. We keep about 20 % in USDC because we still want to eat out and live the good life. We want instant ammo in case we get one last stupid flush to $72–78k and can grab a few more coins without hesitation. We’re actively doing 4–5 Echo seed deals a month and throwing six figures into early MegaETH pools—one moonshot will pay for all the rugs. Most importantly, that cash buffer means red candles don’t ruin sleep or force bad decisions. It’s not fear, it’s just grown-up money management while staying ready to pounce. So yeah, we’re 80 % convinced this is the shakeout, not the apocalypse. But the 20 % cash isn’t fear; it’s just adulting. It lets us stay greedy when others are fearful without ever having to be fearful ourselves. When the final low prints (whenever that is), that 20 % will either buy coins or fund the next winners. Either outcome is fine. The core BTC stays sacred. That’s it. Nothing poetic, just the actual playbook we run.
+
+## Related
+
+- [Lightning Network](../bitcoin-l2/lightning-network.md)
+- [Stacks Bitvm](../bitcoin-l2/stacks-bitvm.md)
+- [179680782The Heart Of Crypto](179680782the-heart-of-crypto.md)
+- [180402556Cage Match](180402556cage-match.md)
+- [182566635Prompt Design Year Report](182566635prompt-design-year-report.md)

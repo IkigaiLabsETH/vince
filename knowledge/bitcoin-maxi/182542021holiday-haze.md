@@ -101,3 +101,11 @@ Options edge? $27-28.5 billion in BTC/ETH contracts expiring tomorrow on Deribit
 The Equities Trap: Decoupling Risks and Spillover Sarcasm
 
 Punchline of the season: Stocks close at highs, completely clowning crypto’s bleeding alts. Magnificent 7 and T-Bills topping BlackRock’s 2026 picks, Larry Fink dubbing BTC the “fear asset” against inflation—with $62.5 billion inflows since launch, 5x Fidelity’s. Yet BTC’s never truly topped $100k inflation-adjusted, its $126k peak equaling $99,848 in 2020 bucks.Adoption ironies stack: PayPal weaving ETH into payments, Japan debasing yen for risk pumps—not broke, just strategic. Mezo vaults adding millions in TVL post-100 BTC milestone, real usage climbing. But holiday volume thins Dec 24-26, amplifying swings. That missed pivot sting—we’ve all felt it, chasing flips. Grays admitted: Long BTC as anchor, short froth—could rug if AI-BTC energy synergy caps out, but dom vibes scream caution.Outlook: Chop Through Expiry, 70% Shot at Dom Breakout, Wheel the YieldsShort-term? Neutral chop till tomorrow’s expiry fireworks—$85k floor, $90k lid. Medium haul: Macro bull case solid, liquidity eyeing 55%+ dom with 70% odds by Q1 ‘26. Recos: Wheel options for APR grinds, hedge vol with perps. Rug risk if inflows ghost, but thresholds scream opportunity—until they don’t.Philosophical grit: Markets smirk through decay, whispering truths in the haze. Sub for the daily absurdity—ride it out. Not advice—rug your own risk.
+
+## Related
+
+- [Bitcoin Defi Thesis](../bitcoin-l2/bitcoin-defi-thesis.md)
+- [Bitcoin L2 Landscape](../bitcoin-l2/bitcoin-l2-landscape.md)
+- [179459113Coming Soon](179459113coming-soon.md)
+- [180402556Cage Match](180402556cage-match.md)
+- [180513790The Ultimate Game](180513790the-ultimate-game.md)

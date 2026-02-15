@@ -183,3 +183,11 @@ Then build something that lasts, something that doesn’t need a token, a roadma
 When enough of us do that, the standard will shift without announcement, without fanfare, without another conference in Dubai.
 
 The revolution was never the party. It was the morning after, when the few who stayed behind quietly picked up the pieces and started building a world that no longer needs to ask permission. I’ll be there, stacking bricks and sats, waiting for the rest of the adults to arrive. See you when the music stops for good.
+
+## Related
+
+- [180028155Reads Like A Hit Job](180028155reads-like-a-hit-job.md)
+- [180811807The Bottom Is In](180811807the-bottom-is-in.md)
+- [182566133Prompt Design Month Report](182566133prompt-design-month-report.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

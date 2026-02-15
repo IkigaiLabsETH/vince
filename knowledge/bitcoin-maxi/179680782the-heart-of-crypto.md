@@ -148,3 +148,11 @@ We loved the same dream once: money that couldn’t lie to us and couldn’t rat
 The people who still lose sleep over that incompatibility are the only ones who ever understood what was at stake.
 
 So stay torn. It’s the only decent thing to do.
+
+## Related
+
+- [Bitcoin L2 Landscape](../bitcoin-l2/bitcoin-l2-landscape.md)
+- [Stacks Bitvm](../bitcoin-l2/stacks-bitvm.md)
+- [180811807The Bottom Is In](180811807the-bottom-is-in.md)
+- [182565993Prompt Design Week Report](182565993prompt-design-week-report.md)
+- [182598088Why Btc Is Down](182598088why-btc-is-down.md)

@@ -96,3 +96,11 @@ P.S. If you’re chasing lambos or 100x moonshots, keep scrolling. If you’re w
 welcome home.
 
 [Subscribe now](https://ikigaistudio.substack.com/subscribe?)
+
+## Related
+
+- [Ai Crypto Overview](../ai-crypto/ai-crypto-overview.md)
+- [Inference Markets](../ai-crypto/inference-markets.md)
+- [181094424The Party Is Over](181094424the-party-is-over.md)
+- [181627137Ditching The Alts](181627137ditching-the-alts.md)
+- [Text This Morning I Woke Up And Told My Ai Assistant Ll 1769811515023](text-this-morning-i-woke-up-and-told-my-ai-assistant-ll-1769811515023.md)

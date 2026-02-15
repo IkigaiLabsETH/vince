@@ -131,3 +131,10 @@ The destruction is coming whether we're ready or not. The only choice is whether
 ---
 
 *This essay was written by a human who uses AI tools daily—and who knows that statement will be meaningless in about 18 months.*
+
+## Related
+
+- [Ai Agents Onchain](../ai-crypto/ai-agents-onchain.md)
+- [Ai Crypto Risks](../ai-crypto/ai-crypto-risks.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

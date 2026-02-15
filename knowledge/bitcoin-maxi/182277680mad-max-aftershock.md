@@ -98,3 +98,11 @@ Then, maybe we don’t need the printing presses anymore, and Bitcoin shifts fro
 Or nightmare. 
 
 Anyway, next time you’re doomscrolling at midnight, try stacking a tiny bit of Bitcoin before closing the app, just as an experiment. See if it calms the nerves—or if I’m just full of it. Hit me up in the comments; we’re all winging this together.
+
+## Related
+
+- [179636470The Torchbearers Sold The Top](179636470the-torchbearers-sold-the-top.md)
+- [180591411Beyond The Bear](180591411beyond-the-bear.md)
+- [182237826Transparency Paradox](182237826transparency-paradox.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)

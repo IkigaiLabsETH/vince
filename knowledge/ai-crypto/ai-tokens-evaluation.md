@@ -75,3 +75,12 @@ The AI-crypto intersection is peak narrative territory. Both "AI" and "crypto" i
 - Clear path to being cheaper or better than centralized alternatives for specific use cases
 
 The survivors will be projects where decentralization provides a genuine advantage — censorship resistance, permissionless access, or composability with DeFi — not just a token wrapper around a centralized AI API.
+
+
+## Related
+
+- [Ai Agents Onchain](ai-agents-onchain.md)
+- [Ai Crypto Risks](ai-crypto-risks.md)
+- [Inference Markets](inference-markets.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)

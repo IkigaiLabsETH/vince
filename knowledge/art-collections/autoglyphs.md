@@ -76,3 +76,10 @@ If you care about generative art as a form, not just as collectibles, Autoglyphs
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Azuki](azuki.md)
+- [Beeple Genesis](beeple-genesis.md)
+- [Human Unreadable By Operator](human-unreadable-by-operator.md)

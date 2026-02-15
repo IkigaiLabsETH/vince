@@ -84,3 +84,11 @@ So the next time someone tells you Bitcoin is just speculative tulips, or a toy 
 The lightning strike in Miami would not be an accident. 
 
 It would be a signature.
+
+## Related
+
+- [Bitcoin Defi Thesis](../bitcoin-l2/bitcoin-defi-thesis.md)
+- [Bitcoin L2 Landscape](../bitcoin-l2/bitcoin-l2-landscape.md)
+- [181324143Why We Bought Ibit](181324143why-we-bought-ibit.md)
+- [182495276Post 1010](182495276post-1010.md)
+- [Text This Morning I Woke Up And Told My Ai Assistant Ll 1769811515023](text-this-morning-i-woke-up-and-told-my-ai-assistant-ll-1769811515023.md)

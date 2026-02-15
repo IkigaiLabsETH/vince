@@ -167,3 +167,11 @@ Arthur will probably be right about the really big macro turns (he usually is, e
 P.S. Arthur, if you’re reading this,  just kidding, love the essays. 
 
 Keep them coming. And never stop clicking buttons. Peace.
+
+## Related
+
+- [180338122Kelly Criterion](180338122kelly-criterion.md)
+- [180586132Were So Back](180586132were-so-back.md)
+- [182566133Prompt Design Month Report](182566133prompt-design-month-report.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

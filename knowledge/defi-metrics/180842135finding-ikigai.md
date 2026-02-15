@@ -85,3 +85,11 @@ DeFi’s humming now.
 Louder than you think. Still here. 
 
 Still aligned. Still finding our reason, one block at a time.
+
+## Related
+
+- [180017630Usdh Stablecoin](180017630usdh-stablecoin.md)
+- [180166429The Carry Trade](180166429the-carry-trade.md)
+- [On Chain Fundamentals](on-chain-fundamentals.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

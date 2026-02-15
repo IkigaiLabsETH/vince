@@ -62,3 +62,10 @@ mfers earned it. The satire, the CC0, the handover—it all coheres. I’d rank 
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Izanami Islands By Richard Nadler](izanami-islands-by-richard-nadler.md)
+- [Loot For Adventurers](loot-for-adventurers.md)
+- [Risk Reward By Kjetil Golid](risk-reward-by-kjetil-golid.md)

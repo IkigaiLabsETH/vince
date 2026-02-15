@@ -46,3 +46,9 @@ HIP-3 assets are synthetic perps on Hyperliquid. Trade these as perps; xyz for s
 - **xyz:** Most single stocks (GOOGL, META, NVDA, MSFT, AAPL, PLTR, INTC, ORCL, MU, etc.)
 - **vntl:** AI/tech names (OPENAI, ANTHROPIC, SPACEX), SNDK, AMD, and indices (MAG7, SEMIS, INFOTECH, ROBOT)
 - **API format:** Use `dex:TICKER` when calling Hyperliquid (e.g. `xyz:NVDA`, `vntl:OPENAI`)
+
+
+## Related
+
+- [Ai_2027_Summary](AI_2027_SUMMARY.md)
+- [Clawterm_Vision](CLAWTERM_VISION.md)

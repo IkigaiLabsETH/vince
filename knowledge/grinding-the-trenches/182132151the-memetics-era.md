@@ -226,3 +226,11 @@ This is not investment advice. Do your own research.
 Markets can remain irrational longer than you can remain solvent.
 
 If you enjoyed this piece, consider subscribing to IKIGAI STUDIO for more contrarian takes on crypto’s long road ahead. That’s just good investing.
+
+## Related
+
+- [181129934Stop Coping](181129934stop-coping.md)
+- [181548764Grind Of Hxxi](181548764grind-of-hxxi.md)
+- [Pumpdotfun](pumpdotfun.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)

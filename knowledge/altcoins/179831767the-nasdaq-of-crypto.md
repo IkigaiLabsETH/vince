@@ -188,3 +188,11 @@ The fair value, if we insist on using the same Metcalfe lens the bulls love so m
 Everything north of that is narrative tax. Beautiful, intoxicating, and almost certainly temporary.
 
 Welcome to late 2025. Same movie, better special effects.
+
+## Related
+
+- [Ai Crypto Risks](../ai-crypto/ai-crypto-risks.md)
+- [Inference Markets](../ai-crypto/inference-markets.md)
+- [182037920The Adults Table](182037920the-adults-table.md)
+- [182233327The Mirage](182233327the-mirage.md)
+- [Yt Duopolies 2026 Ethereum Solana Coinbase 2026 01 25](yt-duopolies-2026-ethereum-solana-coinbase-2026-01-25.md)

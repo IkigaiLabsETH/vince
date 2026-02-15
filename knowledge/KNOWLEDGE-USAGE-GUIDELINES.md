@@ -132,3 +132,9 @@ When testing knowledge impact:
 **Actions/APIs = Current Data**
 
 Agents should use knowledge to **understand how to think** and use actions to **get current data**.
+
+
+## Related
+
+- [Crypto Tax Frameworks](regulation/crypto-tax-frameworks.md)
+- [Us Regulatory Landscape 2026](regulation/us-regulatory-landscape-2026.md)

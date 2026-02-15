@@ -95,3 +95,11 @@ The twist: He insists it’s gone forever. AI makes anyone fork code, gen assets
 Kind of wild, right? Zero-sum to the bone.I’m not totally sold it’s impossible forever. Greed doesn’t die. Could be wrong – some new AI chain or whatever pulls in the next wave of fools.Another cringe L: That ‘21 Harmony yield farm hype – grants incoming, partners teased. Aped big. Woke to inside-job drain overnight.
 
 It’s exhausting. This space chews optimism, spits cynics.But here we are. You too?Next time some shiny new fork screams FOMO? Just... sit on your hands a day. Peek the wallets on-chain. Or skip aping entirely for a week. Try it – see if the itch fades. Hit me back if it works, or if I’m full of shit and the next one’s printing. Either way, pour one out for us eternal bagholders. Stay sharp out there.
+
+## Related
+
+- [181038627Reluctant Renaissance](181038627reluctant-renaissance.md)
+- [182519122Smoke And Mirrors](182519122smoke-and-mirrors.md)
+- [On Chain Fundamentals](on-chain-fundamentals.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

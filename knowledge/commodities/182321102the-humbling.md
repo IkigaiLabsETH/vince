@@ -139,3 +139,11 @@ Historical comp: Over 10 years, BTC’s 15,000% crushes gold’s 100%. But annua
 I’m pro-BTC. Long-term, it could hit $250K by 2027 if adoption ramps. Stack sats, but hoard bars too. Reality over delusion. 2025 humbled us. Gold and silver reminded: fundamentals endure. Bitcoin? A tool, not the toolkit.
 
 Skeptical yet optimistic, we press on.
+
+## Related
+
+- [182620956Great Rotation](182620956great-rotation.md)
+- [Inflation Hedging Framework](inflation-hedging-framework.md)
+- [Oil Macro Signals](oil-macro-signals.md)
+- [Enforcement Case Studies](../regulation/enforcement-case-studies.md)
+- [Etf Landscape](../regulation/etf-landscape.md)

@@ -99,3 +99,11 @@ Let them.
 See you on the other side of the apocalypse, legends.
 
 Try to keep up.
+
+## Related
+
+- [179570637The Lighthouse In The Storm](179570637the-lighthouse-in-the-storm.md)
+- [179631716Scarcity Is Patient](179631716scarcity-is-patient.md)
+- [181329882As A Store Of Energy](181329882as-a-store-of-energy.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Mica Eu Framework](../regulation/mica-eu-framework.md)

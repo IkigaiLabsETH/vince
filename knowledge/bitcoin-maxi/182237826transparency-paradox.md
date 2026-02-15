@@ -153,3 +153,11 @@ But it doesn’t need to be.
 It only needs to be better than the alternatives for everyone else: individuals, corporations, and eventually, smaller nations willing to trade perfect privacy for perfect auditability. Saylor understands this tension better than most. He’s not hiding anything material—he’s protecting it. The rest of us should spend less time demanding wallet addresses and more time understanding why those demands reveal our own confusion about what Bitcoin actually is.
 
 Hold long. Think clearly. The irony will sort itself out.
+
+## Related
+
+- [Bitcoin Defi Thesis](../bitcoin-l2/bitcoin-defi-thesis.md)
+- [Lightning Network](../bitcoin-l2/lightning-network.md)
+- [180557091The Final Red Pill](180557091the-final-red-pill.md)
+- [182154179The Green Bezel](182154179the-green-bezel.md)
+- [182568240Cold Storage Bitcoin](182568240cold-storage-bitcoin.md)

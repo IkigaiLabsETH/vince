@@ -142,3 +142,11 @@ Yearn (YFI) **– 4× P/S. The auto-compounding yield brain that quietly earns 8
 Three protocols, all under 8× P/S, all printing real recurring revenue today. That’s the entire DeFi allocation for anyone who’s done paying 300× for casino fees.
 > 
 Tron is trading at a 41x price-to-sales ratio, which makes it one of the cheapest L1s. Solana is at 42x, Ethereum is at 380x, BNB is at 400x.
+
+## Related
+
+- [179977863Smokey Is The Alpha](179977863smokey-is-the-alpha.md)
+- [181992877Silent Reckoning](181992877silent-reckoning.md)
+- [182650000The Enlightened Cryptoeconomy](182650000the-enlightened-cryptoeconomy.md)
+- [Mev Overview](../mev/mev-overview.md)
+- [Mev Protection](../mev/mev-protection.md)

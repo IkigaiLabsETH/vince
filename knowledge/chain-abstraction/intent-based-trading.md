@@ -53,3 +53,12 @@ Intent-based trading is converging with chain abstraction. When users express in
 Open questions remain: solver centralization risk (few sophisticated solvers dominating flow), intent expressiveness limits (complex multi-step DeFi strategies are hard to express as single intents), and cross-chain settlement security (who guarantees the solver actually filled on the destination chain?).
 
 *Last updated: 2026-02-15*
+
+
+## Related
+
+- [Account Abstraction](account-abstraction.md)
+- [Chain Abstraction Overview](chain-abstraction-overview.md)
+- [Cross Chain Bridges V2](cross-chain-bridges-v2.md)
+- [Cross Chain Mev](../mev/cross-chain-mev.md)
+- [Mev Overview](../mev/mev-overview.md)

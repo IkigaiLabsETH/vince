@@ -62,3 +62,12 @@ Mind the Gap is one of those projects that’s easy to like. It’s warm, clear,
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Cryptoblots By Daim Aggott Honsch](cryptoblots-by-daim-aggott-honsch.md)
+- [Mutant Ape Yacht Club](mutant-ape-yacht-club.md)
+- [Orbifold By Kjetil Golid](orbifold-by-kjetil-golid.md)
+- [Cross Chain Bridges V2](../chain-abstraction/cross-chain-bridges-v2.md)
+- [Intent Based Trading](../chain-abstraction/intent-based-trading.md)

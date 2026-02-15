@@ -103,3 +103,11 @@ Mobile-friendly: No text walls; space for scans. Never use em dashes - in the fi
 Final Vibe and Goal: Reader emerges armed for asymmetric plays, fired up with philosophical skepticism, and hooked to sub. Write like data whispers truths, markets endure smirking - chain daily research into content that cuts noise, builds loyalty, and turns vibes into Substack gold. Channel authenticity: Audit for depth - does it evoke the “beauty” of crypto’s systems? 
 
 Go - vibe-check and alchemize now for today’s essay.
+
+## Related
+
+- [180516376Institutional Surrender](180516376institutional-surrender.md)
+- [181627137Ditching The Alts](181627137ditching-the-alts.md)
+- [182566635Prompt Design Year Report](182566635prompt-design-year-report.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Mica Eu Framework](../regulation/mica-eu-framework.md)

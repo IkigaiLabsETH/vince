@@ -62,3 +62,10 @@ CrypToadz earned it. It’s dumb in the best way. The CC0 move was bold and cons
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Genesis By Dca](genesis-by-dca.md)
+- [Progression By Jeff Davis](progression-by-jeff-davis.md)
+- [Sketchbook A By William Mapan 1](sketchbook-a-by-william-mapan-1.md)

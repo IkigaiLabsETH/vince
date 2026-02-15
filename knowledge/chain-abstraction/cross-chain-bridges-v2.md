@@ -66,3 +66,12 @@ Stargate V2's credit-based system is clever — instead of physically moving liq
 The trend is clear: bridges are becoming invisible infrastructure behind intent layers. Users won't "use a bridge" — they'll swap tokens or interact with dApps, and solver networks will route through whichever bridge offers the best speed/cost/security profile for that specific transfer. ERC-7683 (cross-chain intent standard) is the coordination layer making this composable.
 
 *Last updated: 2026-02-15*
+
+
+## Related
+
+- [Account Abstraction](account-abstraction.md)
+- [Chain Abstraction Overview](chain-abstraction-overview.md)
+- [Intent Based Trading](intent-based-trading.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Enforcement Case Studies](../regulation/enforcement-case-studies.md)

@@ -385,3 +385,12 @@ For long-form content:
 
 *This style guide is automatically enforced by Eliza's STYLE_CHECK action.*
 *Run `style check` on any draft to validate against these rules.*
+
+
+## Related
+
+- [Cross Chain Mev](../mev/cross-chain-mev.md)
+- [Mev Overview](../mev/mev-overview.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)
+- [Ondo Finance Deep Dive](../rwa/ondo-finance-deep-dive.md)

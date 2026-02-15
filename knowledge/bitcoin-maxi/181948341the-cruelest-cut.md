@@ -139,3 +139,11 @@ Stay hungry, stay foolish—but quieter these days.
 And if history rhymes... this pain might just be the setup for the next chapter.
 
 We’ll see.
+
+## Related
+
+- [Bitcoin Defi Thesis](../bitcoin-l2/bitcoin-defi-thesis.md)
+- [Lightning Network](../bitcoin-l2/lightning-network.md)
+- [179631716Scarcity Is Patient](179631716scarcity-is-patient.md)
+- [180402556Cage Match](180402556cage-match.md)
+- [182542021Holiday Haze](182542021holiday-haze.md)

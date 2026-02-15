@@ -57,3 +57,12 @@ The AI x crypto market layers roughly as: compute networks (Render, Akash) → i
 Watch the compute layer for real signal. GPU utilization rates, inference request volumes, and fee revenue tell you whether the sector has genuine demand or is running on vibes.
 
 *Last updated: 2026-02-15*
+
+
+## Related
+
+- [Ai Agents Onchain](ai-agents-onchain.md)
+- [Ai Tokens Evaluation](ai-tokens-evaluation.md)
+- [Inference Markets](inference-markets.md)
+- [Mev Overview](../mev/mev-overview.md)
+- [Mev Protection](../mev/mev-protection.md)

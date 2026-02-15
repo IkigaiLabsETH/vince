@@ -79,3 +79,11 @@ This isn’t hype. It’s irreversible: Sound money base layer, tokenized dollar
 X might feel unfair right now, but Bitcoin doesn’t care about algos. It rewards those who front-load grind, stack quietly, and bet on themselves.
 
 I’m shifting deeper here on Substack for long-form signal — no character limits, no throttle. But I’ll keep posting on X too. Because OGs built this space. And eventually, the pendulum swings back to quality.
+
+## Related
+
+- [180402556Cage Match](180402556cage-match.md)
+- [181324143Why We Bought Ibit](181324143why-we-bought-ibit.md)
+- [182277680Mad Max Aftershock](182277680mad-max-aftershock.md)
+- [Rwa Vs Defi Yields](../rwa/rwa-vs-defi-yields.md)
+- [Tokenized Treasuries](../rwa/tokenized-treasuries.md)

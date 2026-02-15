@@ -133,3 +133,11 @@ The pivot? January’s sparks, where macro embers could fan flames to $100k or t
 In Druckenmiller’s spirit, heed the chart’s tale, but listen for the undertones.
 
 There, in the quiet interrogation of consensus, lies the gold of markets: not in predicting the storm, but thriving in its wake.
+
+## Related
+
+- [179721083The Quantum Computer Fud](179721083the-quantum-computer-fud.md)
+- [179911974The Adults Have Left The Casino](179911974the-adults-have-left-the-casino.md)
+- [182277680Mad Max Aftershock](182277680mad-max-aftershock.md)
+- [Rwa Evaluation Framework](../rwa/rwa-evaluation-framework.md)
+- [Rwa On Chain Signals](../rwa/rwa-on-chain-signals.md)

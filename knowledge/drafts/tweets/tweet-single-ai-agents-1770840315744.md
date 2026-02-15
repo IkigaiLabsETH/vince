@@ -25,3 +25,9 @@ The real disruption isn't job loss. It's finally getting to do the work that act
 **Character count:** 199/280
 
 **Why this works:** Takes a contrarian position against the doom narrative, reframes AI as liberation rather than replacement, and ends with aspiration rather than fear. Sharp but optimistic.
+
+
+## Related
+
+- [Ai Agents Onchain](../../ai-crypto/ai-agents-onchain.md)
+- [Ai Crypto Overview](../../ai-crypto/ai-crypto-overview.md)

@@ -124,3 +124,11 @@ ICO side requires KYC; airdrop side does not.
 Institutional Anchor: The $300M valuation is pre-committed by major funds and trading firms (Hermeneutic, DCGod, Selini, Nascent, Sigil, Susquehanna Crypto, MEV Capital, Offchain Labs, Flowdesk, etc.), ensuring real demand and fair price discovery.
 
 Core Idea: One hand pays to own the future of AI (ICO). The other gets paid to build it (airdrop). Players choose (and can switch) sides, but when the $20M yield milestone hits, your final alignment locks in your reward split.
+
+## Related
+
+- [Airdrop Decision Framework](airdrop-decision-framework.md)
+- [Text Grok This Boost Activated For The Next 7 Days Trad 1769697394838](text-grok-this-boost-activated-for-the-next-7-days-trad-1769697394838.md)
+- [Text Grok This Boost Activated For The Next 7 Days Trad 1769697635106](text-grok-this-boost-activated-for-the-next-7-days-trad-1769697635106.md)
+- [Cross Chain Mev](../mev/cross-chain-mev.md)
+- [Mev Overview](../mev/mev-overview.md)

@@ -82,3 +82,11 @@ YFI, the governance token that once traded above $93,000, now sits at $3,900, do
 The reason is simple: YFI captures almost none of the value it creates. The 2% management and 20% performance fees flow to the treasury for buybacks and operations, not to token holders. Locking for veYFI gives voting power and a tiny slice of gauge rewards, but participation is under 4% of supply. Yearn’s fair-launch religion and slow-moving governance have blocked aggressive fixes. Proposals to send 90% of revenue directly to stakers or replace buybacks with real yield have been floating since 2021; none have fully shipped.
 
 Until the tokenomics actually change, YFI remains a scarce but economically hollow governance stub while the vaults keep outperforming everything else for USDC holders. Ironic, painful, and still one of the best risk/reward bets in DeFi if the community ever decides to let the token eat what the protocol earns.
+
+## Related
+
+- [Bitcoin Defi Thesis](../bitcoin-l2/bitcoin-defi-thesis.md)
+- [Lightning Network](../bitcoin-l2/lightning-network.md)
+- [180139813The Quiet Empire](180139813the-quiet-empire.md)
+- [180268594Great Die Off](180268594great-die-off.md)
+- [180746282Undercarriage Season](180746282undercarriage-season.md)

@@ -64,3 +64,12 @@ Loot is one of the most important “what if?” projects in NFTs. It failed as 
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Human Unreadable By Operator](human-unreadable-by-operator.md)
+- [Mfers](mfers.md)
+- [Moonbirds](moonbirds.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

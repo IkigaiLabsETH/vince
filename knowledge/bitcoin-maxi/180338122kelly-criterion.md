@@ -122,3 +122,11 @@ We did.
 That’s why the 80 % rule feels natural instead of insane to us. 
 
 NFA. DYOR.
+
+## Related
+
+- [180409527Whaling Season](180409527whaling-season.md)
+- [180557091The Final Red Pill](180557091the-final-red-pill.md)
+- [182542021Holiday Haze](182542021holiday-haze.md)
+- [Algorithmic Vs Collateralized](../stablecoins/algorithmic-vs-collateralized.md)
+- [Stablecoin Yield Strategies](../stablecoins/stablecoin-yield-strategies.md)

@@ -70,3 +70,12 @@ Bear case: Bittensor subsidizes AI outputs through emissions rather than real de
 TAO's root network (subnet 0) governs emission allocation across subnets, making it a meta-governance layer for AI resource allocation. This is either brilliant mechanism design or an emissions Ponzi depending on whether real demand materializes.
 
 *Last updated: 2026-02-15*
+
+
+## Related
+
+- [Ai Crypto Overview](ai-crypto-overview.md)
+- [Ai Tokens Evaluation](ai-tokens-evaluation.md)
+- [Inference Markets](inference-markets.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

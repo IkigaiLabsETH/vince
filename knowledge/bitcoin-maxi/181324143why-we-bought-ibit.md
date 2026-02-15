@@ -137,3 +137,11 @@ Moral of the story: In France 2025, the house always wins. Either the gang with 
 Next time someone tells you “just move to Portugal or Dubai, bro,” remember it still costs you a third of your stack to escape the country that turned self-custody into an extreme sport.
 
 Liberté, égalité, give me a fucking break.
+
+## Related
+
+- [180586132Were So Back](180586132were-so-back.md)
+- [181948341The Cruelest Cut](181948341the-cruelest-cut.md)
+- [182565993Prompt Design Week Report](182565993prompt-design-week-report.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)

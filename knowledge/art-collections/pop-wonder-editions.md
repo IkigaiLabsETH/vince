@@ -62,3 +62,10 @@ Pop Wonder Editions is a solid early crypto-art project with a clear voice. The 
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Genesis By Dca](genesis-by-dca.md)
+- [Orbifold By Kjetil Golid](orbifold-by-kjetil-golid.md)
+- [Wavyscape By Holger Lippmann](wavyscape-by-holger-lippmann.md)

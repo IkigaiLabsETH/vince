@@ -221,3 +221,12 @@ DYOR every wallet (GMGN's analytics help). Dedicated bags only. Risk what you ca
 Ready to follow smart money, or still solo-sniping launches?
 
 **The chain never sleeps.**
+
+
+## Related
+
+- [Account Abstraction](../chain-abstraction/account-abstraction.md)
+- [Chain Abstraction Overview](../chain-abstraction/chain-abstraction-overview.md)
+- [181129934Stop Coping](181129934stop-coping.md)
+- [182545600The Reckoning](182545600the-reckoning.md)
+- [Patronage](patronage.md)

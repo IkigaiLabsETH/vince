@@ -128,3 +128,11 @@ We’ll see what ‘26 brings. Me? No longer stacking, still reading filings at 
 Lessons last, friend—stay hungry, stay foolish, but verify the hype. 
 
 Might be wrong... but I’ve survived the classic roundtrip.
+
+## Related
+
+- [180656922The Clash Of Titans](180656922the-clash-of-titans.md)
+- [181987981Wintermute](181987981wintermute.md)
+- [182513370The Rebirth](182513370the-rebirth.md)
+- [Mica Eu Framework](../regulation/mica-eu-framework.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)

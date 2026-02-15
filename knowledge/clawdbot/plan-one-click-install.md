@@ -179,3 +179,12 @@ Repo root could have a single “one-click” entry that points at `knowledge/cl
 6. Optionally add Discord server-creation helper and/or Hetzner Terraform in Phase 3.
 
 This plan ties the one-click flow directly to the security guide and the practical tips so the installed system is both secure and set up for success (channels, small tasks, clear boundaries).
+
+
+## Related
+
+- [Instructions Clawdbot](instructions-clawdbot.md)
+- [Openclaw Practical Tips](openclaw-practical-tips.md)
+- [X Research Agent Curated Follows](x-research-agent-curated-follows.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

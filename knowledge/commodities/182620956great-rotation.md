@@ -127,3 +127,11 @@ But in a world where money’s getting debased left and right and everything’s
 **Pulling the Trigger: Dump Silver, Grab Bitcoin**
 
 Bottom line, this rotation’s still kicking, squeeze or no squeeze. Maybe bag those silver profits at $75 and flip ‘em into Bitcoin at $89k for the kind of upside that changes lives. The data’s screaming it – don’t sleep on the trade of the decade!
+
+## Related
+
+- [182321102The Humbling](182321102the-humbling.md)
+- [Commodity Supercycle Thesis](commodity-supercycle-thesis.md)
+- [Gold Btc Correlation](gold-btc-correlation.md)
+- [Ondo Finance Deep Dive](../rwa/ondo-finance-deep-dive.md)
+- [Rwa Frameworks](../rwa/rwa-frameworks.md)

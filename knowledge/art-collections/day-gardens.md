@@ -62,3 +62,12 @@ Day Gardens is Hobbs in “small and precious” mode. The constraint works. It�
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Autoglyphs](autoglyphs.md)
+- [Fvckrender](fvckrender.md)
+- [The Eternal Pump By Dmitri Cherniak](the-eternal-pump-by-dmitri-cherniak.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Enforcement Case Studies](../regulation/enforcement-case-studies.md)

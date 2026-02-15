@@ -56,3 +56,12 @@ Citrea builds a ZK-rollup on Bitcoin, using zero-knowledge proofs to compress ex
 The Bitcoin L2 landscape is converging on BitVM as the missing piece for trustless bridging. Lightning won payments. The open question is whether Stacks/BOB/Citrea can win programmability without the federation compromises that limited Liquid's growth.
 
 *Last updated: 2026-02-15*
+
+
+## Related
+
+- [Bitcoin Defi Thesis](bitcoin-defi-thesis.md)
+- [Lightning Network](lightning-network.md)
+- [Stacks Bitvm](stacks-bitvm.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)

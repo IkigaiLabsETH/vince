@@ -124,3 +124,11 @@ Our Plan: Sell 20-30% of the Portfolio at $150k
 This isn’t capitulation—it’s disciplined profit-taking after +70% from current ~$88k levels. The remaining stack stays diamond-handed for the “supercycle” thesis, but $150k Fib alignment feels like a generational off-ramp.
 
 The rest? Let it ride—we’re still early. What’s your exit level?
+
+## Related
+
+- [179968685A Deep Dive Into Tbso](179968685a-deep-dive-into-tbso.md)
+- [180310252Is It A Strech](180310252is-it-a-strech.md)
+- [180591411Beyond The Bear](180591411beyond-the-bear.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)

@@ -96,3 +96,11 @@ The edge is gone because the edge is the product. What used to feel like rebelli
 The next real bull market won’t be louder pumps; it will be cleaner games. The degenerates who spot the difference will compound forever. The rest will keep wondering why the music stopped. But the underlying phenomenon won’t die until society offers young people a realistic linear path to wealth again; perps are different because they’re structurally the best tool for speculation and will keep growing even if the clownier verticals fade. Regulation that adds guardrails without killing access is probably net positive, and prediction-market hype is mostly cope anyway. 
 
 The circus will shrink and get slightly less psychotic, but gambling with leverage is not going anywhere until the world stops being hopeless.
+
+## Related
+
+- [180242263Fair Launch](180242263fair-launch.md)
+- [182545600The Reckoning](182545600the-reckoning.md)
+- [Eternal Casino](eternal-casino.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Mica Eu Framework](../regulation/mica-eu-framework.md)

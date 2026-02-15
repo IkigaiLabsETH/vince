@@ -155,3 +155,11 @@ There’s only the next, stranger peak.
 And the climb (the daily, stubborn, creative, sovereign climb) is the entire point. The block height rises forever. Stay humble. Stack sats. Keep building.
 
 Everything else is noise.
+
+## Related
+
+- [Bitcoin L2 Landscape](../bitcoin-l2/bitcoin-l2-landscape.md)
+- [Lightning Network](../bitcoin-l2/lightning-network.md)
+- [180591411Beyond The Bear](180591411beyond-the-bear.md)
+- [182535881Crafting Alpha](182535881crafting-alpha.md)
+- [182568712The Dom Rug](182568712the-dom-rug.md)

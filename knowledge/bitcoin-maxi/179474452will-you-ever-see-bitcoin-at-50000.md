@@ -156,3 +156,11 @@ Long after the leverage is ashes, after the tourists have scattered, after headl
 The last person who truly grasps what that scarcity means will pay a price so absurd that today’s debates about $50,000 or $150,000 will feel like cave art.
 
 See you on the other side.
+
+## Related
+
+- [Bitcoin Defi Thesis](../bitcoin-l2/bitcoin-defi-thesis.md)
+- [Lightning Network](../bitcoin-l2/lightning-network.md)
+- [179459113Coming Soon](179459113coming-soon.md)
+- [181329882As A Store Of Energy](181329882as-a-store-of-energy.md)
+- [182097546Fibonacci Extensions](182097546fibonacci-extensions.md)
