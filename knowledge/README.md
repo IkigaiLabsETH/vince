@@ -39,7 +39,7 @@ See [KNOWLEDGE-USAGE-GUIDELINES.md](KNOWLEDGE-USAGE-GUIDELINES.md) for usage rul
 | **security** | Wallet, protocol, and bridge risk frameworks |
 | **setup-guides** | Setup and deployment procedures |
 | **solana** | Solana ecosystem and frameworks |
-| **stablecoins** | Stablecoin design, reserve quality, depeg frameworks |
+| **stablecoins** | Stablecoin design, reserve quality, depeg frameworks, regulation, on-chain analysis, emerging entrants, infrastructure |
 | **stocks** | Equities and traditional finance crossover |
 | **substack-essays** | General essays (mixed categories) |
 | **the-good-life** | Lifestyle: wine, food, travel, luxury (essay + reference) |
