@@ -38,7 +38,7 @@ See [KNOWLEDGE-USAGE-GUIDELINES.md](KNOWLEDGE-USAGE-GUIDELINES.md) for usage rul
 | **rwa** | Tokenized real-world assets: structure, yield, risk |
 | **security** | Wallet, protocol, and bridge risk frameworks |
 | **setup-guides** | Setup and deployment procedures |
-| **solana** | Solana ecosystem and frameworks |
+| **solana** | Solana ecosystem: overview, DeFi, MEV/Jito, Firedancer, Jupiter, vs Ethereum, Token-2022, validator economics, NFTs/cNFTs, stablecoin flows, mobile/Blinks, risks & bear cases |
 | **stablecoins** | Stablecoin design, reserve quality, depeg frameworks, regulation, on-chain analysis, emerging entrants, infrastructure |
 | **stocks** | Equities and traditional finance crossover |
 | **substack-essays** | General essays (mixed categories) |
