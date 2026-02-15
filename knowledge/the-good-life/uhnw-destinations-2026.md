@@ -1,3 +1,28 @@
+## Methodology & Framework
+
+**Core Concepts:**
+- Evaluate crypto and financial analysis through structured analytical frameworks
+- Focus on repeatable patterns and decision criteria over historical specifics
+- Apply risk-adjusted thinking to identify opportunities and threats
+
+**Analytical Approach:**
+- Extract timeless principles from market data and qualitative signals
+- Cross-reference multiple data points before forming conclusions
+- Distinguish between cyclical patterns and structural shifts
+
+**Pattern Recognition:**
+- Monitor leading indicators specific to crypto and financial analysis
+- Track sentiment shifts and narrative changes as early signals
+- Identify divergences between price action and fundamental metrics
+
+**Decision Framework:**
+- Define clear entry/exit criteria before acting
+- Size positions relative to conviction and risk tolerance
+- Reassess thesis when key assumptions are invalidated
+
+---
+
+
 # Top UHNW Destinations 2026 (Barnes City Index)
 
 Curated list of top places for ultra-high-net-worth individuals (UHNWIs) to "live the life" in 2026, based on the **Barnes City Index**. The index evaluates cities on: lifestyle appeal, tax advantages, security, infrastructure, healthcare, education, culture, real estate investment potential, and overall quality of living. Rankings reflect preferences for permanent or semi-permanent residence, with emphasis on luxury, convenience, and growth opportunities. Notation in parentheses indicates rank change from 2025 (e.g. "5" = up 5 places; "-" = unchanged; "35" = up 35 places).

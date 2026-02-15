@@ -1,3 +1,28 @@
+## Methodology & Framework
+
+**Core Concepts:**
+- Evaluate wine evaluation and tasting through structured analytical frameworks
+- Focus on repeatable patterns and decision criteria over historical specifics
+- Apply risk-adjusted thinking to identify opportunities and threats
+
+**Analytical Approach:**
+- Extract timeless principles from market data and qualitative signals
+- Cross-reference multiple data points before forming conclusions
+- Distinguish between cyclical patterns and structural shifts
+
+**Pattern Recognition:**
+- Monitor leading indicators specific to wine evaluation and tasting
+- Track sentiment shifts and narrative changes as early signals
+- Identify divergences between price action and fundamental metrics
+
+**Decision Framework:**
+- Define clear entry/exit criteria before acting
+- Size positions relative to conviction and risk tolerance
+- Reassess thesis when key assumptions are invalidated
+
+---
+
+
 # Les vins du Sud-Ouest — Southwest France Curated List
 
 Curated list of **Southwest France** (Sud-Ouest) wines for Kelly: Cahors, Irouléguy, Madiran, and Côtes de Gascogne. Use when the user asks for "Cahors," "Madiran," "Irouléguy," "Sud-Ouest," "Malbec," "Tannat," "Bouscassé," "Montus," or a bottle from this list. See also **regions.md**. Kelly’s default geography (Bordeaux–Biarritz) includes the Sud-Ouest; these appellations are a natural fit for "something local" or "not Bordeaux but Southwest."
