@@ -2,36 +2,102 @@
 
 ## Price Snapshot
 
-| Asset | Price | 24h Range | 24h Change |
-|-------|-------|-----------|------------|
-| **BTC** | $68,813 | $68,314 – $70,889 | -0.68% |
-| **ETH** | $2,005 | $1,761 – $3,217* | ~flat |
-| **SOL** | $87.38 | $78.14 – $91.21 | +0.25% |
-
-*ETH 24h high likely includes an outlier wick; reliable range closer to $1,761–$2,031.
+| Asset | Price | 24h Change | 24h Range |
+|-------|-------|------------|-----------|
+| BTC (WBTC) | $68,907 | — | $53,755 – $84,932 |
+| ETH (WETH) | $2,005 | -3.7% | $1,701 – $2,721 |
+| SOL | $87.55 | -0.6% | $78.14 – $91.21 |
 
 ## 7-Day Price Action
 
-**BTC** drifted from ~$70,300 on Feb 9 down to a weekly low near $65,150 on Feb 12 before recovering to $68,800. The week printed a clear "V" bottom, with support holding around the $65K zone. Resistance sits at $70K–$70,900 (this week's upper range). A Sunday close above $69K would signal strength going into next week.
+**BTC** opened the week at ~$70,161, dipped to a 7d low near $50,591 on Feb 11, and recovered to $68,907 — down ~1.8% on the week. Resistance at $70K; support held around $66K on daily closes.
 
-**ETH** saw heavier selling pressure, dropping from $2,100 to a Feb 12 low around $1,494 — a ~29% drawdown peak-to-trough — before snapping back above $2,000. The recovery is notable but ETH remains below its Feb 9 open. Key levels: $1,940 support, $2,100 resistance. The ratio continues to underperform BTC.
+**ETH** saw more pronounced weakness, from $2,066 open to a $2,005 close — down ~3% on the week. Wide intraday ranges (lows touching $1,478–$1,700) suggest heavy liquidation wicks. Key support at $1,940; resistance at $2,100.
 
-**SOL** followed a similar pattern — sliding from $87 to the $78–$79 zone mid-week, then rebounding sharply to $87+. SOL has shown relative strength, nearly reclaiming its weekly open. Watch $88.80 (weekly high) as the breakout level; $78 as the floor.
+**SOL** was the relative outperformer: opened at $87.05, dipped to $78.33 mid-week (Feb 12), then rallied back to $87.55 — essentially flat on the week. Held above $78 support; needs to break $88.85 (7d high) for continuation.
 
-## Volume & Momentum
+## On-Chain Pulse
 
-BTC is trading in a tight 1h range ($68,639–$69,099) on a Sunday afternoon — typical low-volatility weekend consolidation. SOL's 1h range is similarly compressed ($86.68–$87.53), suggesting a directional move is coiling. The mid-week flush and recovery across all three majors suggests dip buyers remain active.
+### DEX Volume (Feb 14)
+| Chain | DEX Volume | Traders |
+|-------|-----------|---------|
+| Solana | $10.45B | 2.2M addrs |
+| BSC | $4.20B | 2.7M addrs |
+| Ethereum | $1.32B | 660K addrs |
+| Base | $622M | 403K addrs |
+| Arbitrum | $216M | 151K addrs |
+
+**Total DEX volume across 5 chains: ~$16.8B** (Feb 14). Down from $18.3B on Feb 13, a ~8% decline — consistent with weekend cooldown.
+
+### Active Addresses (Feb 14 vs Feb 13)
+- **BSC**: 2.70M → down from 2.89M (-6.7%)
+- **Solana**: 2.22M → flat vs 2.23M
+- **Ethereum**: 660K → down from 779K (-15%)
+- **Base**: 403K → down from 443K (-9%)
+- **Arbitrum**: 151K → down from 197K (-23%)
+
+Activity declining across the board, especially on Arbitrum and Ethereum.
+
+### Transaction Fees (Feb 14)
+- **Solana**: $560K (highest absolute — from 266M transactions)
+- **BSC**: $251K
+- **Ethereum**: $210K
+- **Base**: $108K
+- **Arbitrum**: $16K
+
+Solana processes 137x more transactions than Ethereum at 2.7x the total fees — reflecting massive throughput at low per-tx cost.
+
+### Stablecoin Transfer Volume (Feb 14)
+- **Base**: $132.8B (dominant corridor for stablecoin flows)
+- **Ethereum**: $58.5B
+- **Solana**: $31.7B
+- **BSC**: $11.6B
+- **Arbitrum**: $1.9B
+
+## Capital Flows
+
+### Stablecoin Supply
+*Data unavailable — Allium stablecoin supply table returned empty for the query period.*
+
+### Bridge Flows
+*Bridge volume data returned null USD values for all corridors this period. Notable bridge activity by user count: Monad↔BSC (12 users), Ink→Hyperliquid (10 users). Volume data gaps suggest the bridge_flows_overview table is still backfilling.*
+
+## DeFi Health
+
+### Top DEXs by Volume (Feb 14)
+| Protocol | Chain | Volume | Users |
+|----------|-------|--------|-------|
+| PancakeSwap | BSC | $3.49B | 416K |
+| Meteora | Solana | $2.21B | 296K |
+| Uniswap | BSC | $701M | 51K |
+| Uniswap | Ethereum | $690M | 49K |
+| Uniswap | Base | $277M | 183K |
+| Fluid Lending | Ethereum | $229M | 1.4K |
+| Aerodrome | Base | $225M | 44K |
+| Raydium | Solana | $185M | 160K |
+| Orca | Solana | $180M | 40K |
+| Curve | Ethereum | $174M | 3.8K |
+| Uniswap | Arbitrum | $153M | 13K |
+| Balancer | Ethereum | $120M | 2.4K |
+| PancakeSwap | Base | $103M | 27K |
+| PumpFun | Solana | $73M | 165K |
+
+PancakeSwap on BSC dominates with $3.49B — BSC DEX activity has been elevated. Meteora continues leading Solana DEX volume. PumpFun still pulling 165K users at $73M volume — meme/token launch activity persists.
+
+### Lending
+*Query failed — lending_overview table may have schema changes or data gaps. Skipped.*
 
 ## Top Narratives
 
-1. **Truth Social crypto ETFs** — Trump-linked platform filed with the SEC for BTC/ETH and Cronos staking ETFs, deepening the political-crypto nexus.
-2. **Stablecoin bill battle** — Wall Street bankers pushed for a total ban on stablecoin yield at the White House; crypto groups fired back demanding yield capabilities. This legislative fight will shape DeFi's future in the US.
-3. **Ethereum Foundation shakeup** — Co-executive director Tomasz Stańczak is out, continuing EF's leadership instability. This adds to the bearish narrative around ETH's underperformance.
+*Web search unavailable (Brave API key not configured). Key themes from on-chain data:*
+
+1. **BSC resurgence** — $4.2B DEX volume and 2.7M active addresses signal a BSC renaissance, with PancakeSwap alone doing $3.5B. Likely driven by memecoin/token launch activity migrating from Solana.
+2. **Solana remains the throughput king** — 266M daily transactions, $10.5B DEX volume, but activity is cooling slightly from mid-week peaks. Meteora has overtaken Raydium as the primary venue.
+3. **ETH showing relative weakness** — largest address drop (-15% day-over-day), falling DEX volume, and price underperformance vs BTC and SOL. The ETH/BTC ratio continues to compress.
 
 ## Outlook
 
-Weekend consolidation after a volatile week. BTC holding above $68K is constructive. The macro picture is mixed — good news is being sold into (per CoinDesk's "exit ramp" framing), but the mid-week recovery shows there's still demand at lower levels. Watch for Monday's open to set direction. SOL looks strongest of the three on a relative basis.
+Markets are in a weekend consolidation after a volatile week that saw extreme intraday swings (ETH touching $1,478 intraday on Feb 10). On-chain activity is cooling across all chains — typical for Sunday. The key question is whether BTC can reclaim $70K early next week; if it does, ETH and SOL likely follow with relief bounces. BSC's elevated activity deserves monitoring — it may signal a rotation trade rather than organic growth. Stablecoin and bridge flow data gaps limit our capital flow visibility this week.
 
 ---
-
-*Powered by Allium.*
+*Powered by Allium on-chain data.*
