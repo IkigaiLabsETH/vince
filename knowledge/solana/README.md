@@ -4,30 +4,21 @@
 
 Solana ecosystem analysis and development.
 
-**Files**: 2 | **Category**: solana
+**Files**: 14
 
----
+## Contents
 
-## Key Files
-
-- [solana](./solana.md) (2220 words)
-- [179885808.Red Pill Blue Pill Or Purple Pill](./179885808red-pill-blue-pill-or-purple-pill.md) (1614 words)
-
----
-
-## Frameworks & Methodologies
-
-- solana
-- 179885808.Red Pill Blue Pill Or Purple Pill
-
----
-
-## Usage Notes
-
-- Focus on **methodologies and frameworks**, not specific numbers
-- Numbers and prices in files may be outdated - they illustrate concepts
-- Use your actions/APIs to get current data, apply frameworks from knowledge
-
----
-
-*Last updated: 2026-02-01*
+- 179885808red-pill-blue-pill-or-purple-pill.md
+- firedancer-upgrade.md
+- jupiter-aggregator.md
+- solana-defi-landscape.md
+- solana-ecosystem-overview.md
+- solana-mev-jito.md
+- solana-mobile-blinks.md
+- solana-nft-ecosystem.md
+- solana-risks-bears.md
+- solana-stablecoin-flows.md
+- solana-token-extensions.md
+- solana-validator-economics.md
+- solana-vs-ethereum.md
+- solana.md

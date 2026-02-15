@@ -4,28 +4,16 @@
 
 Stablecoin evaluation methodologies and yield strategies.
 
-**Files**: 1 | **Category**: stablecoins
+**Files**: 9
 
----
+## Contents
 
-## Key Files
-
-- [stablecoin methodology](./stablecoin-methodology.md) (444 words)
-
----
-
-## Frameworks & Methodologies
-
-- stablecoin methodology
-
----
-
-## Usage Notes
-
-- Focus on **methodologies and frameworks**, not specific numbers
-- Numbers and prices in files may be outdated - they illustrate concepts
-- Use your actions/APIs to get current data, apply frameworks from knowledge
-
----
-
-*Last updated: 2026-02-01*
+- algorithmic-vs-collateralized.md
+- depeg-risk-framework.md
+- emerging-stablecoins.md
+- stablecoin-infrastructure.md
+- stablecoin-methodology.md
+- stablecoin-on-chain-analysis.md
+- stablecoin-regulation.md
+- stablecoin-yield-strategies.md
+- usdc-usdt-mechanics.md

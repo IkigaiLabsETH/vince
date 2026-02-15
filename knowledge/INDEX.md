@@ -8,8 +8,8 @@
 
 This knowledge base contains **methodology and frameworks** for crypto analysis, trading, and lifestyle optimization. Content is organized by category and designed for RAG (Retrieval-Augmented Generation) integration.
 
-**Total Categories**: 25+  
-**Total Files**: 700+  
+**Total Categories**: 36  
+**Total Files**: 929  
 **Focus**: Thinking frameworks, not historical data
 
 ---
@@ -20,49 +20,62 @@ This knowledge base contains **methodology and frameworks** for crypto analysis,
 
 | Category | Description | Files |
 |----------|-------------|-------|
-| [bitcoin-maxi](./bitcoin-maxi/) | Bitcoin cycle analysis, institutional adoption, maxi perspectives | 100+ |
-| [perps-trading](./perps-trading/) | Perpetual futures, funding rates, Hyperliquid strategies | 50+ |
-| [options](./options/) | Wheel strategy, strike selection, theta decay | 35+ |
-| [defi-metrics](./defi-metrics/) | TVL analysis, protocol evaluation, yield strategies | 40+ |
-| [altcoins](./altcoins/) | Network effects, ecosystem analysis, alt evaluation | 20+ |
-| [grinding-the-trenches](./grinding-the-trenches/) | Meme coins, high-risk trading, retail psychology | 20+ |
-| [airdrops](./airdrops/) | Airdrop farming frameworks, tier evaluation | 8+ |
-| [stablecoins](./stablecoins/) | Stablecoin evaluation, yield methodology | 2+ |
-| [solana](./solana/) | Solana ecosystem analysis | 3+ |
+| [bitcoin-maxi](./bitcoin-maxi/) | Bitcoin cycle analysis, institutional adoption, maxi perspectives | 68 |
+| [perps-trading](./perps-trading/) | Perpetual futures, funding rates, Hyperliquid strategies | 38 |
+| [options](./options/) | Wheel strategy, strike selection, theta decay | 41 |
+| [defi-metrics](./defi-metrics/) | TVL analysis, protocol evaluation, yield strategies | 35 |
+| [altcoins](./altcoins/) | Network effects, ecosystem analysis, alt evaluation | 19 |
+| [grinding-the-trenches](./grinding-the-trenches/) | Meme coins, high-risk trading, retail psychology | 17 |
+| [airdrops](./airdrops/) | Airdrop farming frameworks, tier evaluation | 6 |
+| [stablecoins](./stablecoins/) | Stablecoin evaluation, yield methodology | 9 |
+| [solana](./solana/) | Solana ecosystem analysis | 14 |
+| [trading](./trading/) | Trading frameworks, risk management, portfolio construction | 4 |
 
 ### Macro & Traditional Finance
 
 | Category | Description | Files |
 |----------|-------------|-------|
-| [macro-economy](./macro-economy/) | Debt cycles, monetary policy, global liquidity | 60+ |
-| [stocks](./stocks/) | AI/AGI sector, robotics, tech investing | 25+ |
-| [venture-capital](./venture-capital/) | Startup evaluation, crypto VC frameworks | 15+ |
-| [commodities](./commodities/) | Commodity rotation strategies | 3+ |
+| [macro-economy](./macro-economy/) | Debt cycles, monetary policy, global liquidity | 46 |
+| [stocks](./stocks/) | AI/AGI sector, robotics, tech investing | 25 |
+| [venture-capital](./venture-capital/) | Startup evaluation, crypto VC frameworks | 11 |
+| [commodities](./commodities/) | Commodity rotation strategies | 6 |
 
 ### Specialized Topics
 
 | Category | Description | Files |
 |----------|-------------|-------|
-| [art-collections](./art-collections/) | NFT collection profiles, digital art valuation | 110+ |
-| [privacy](./privacy/) | On-chain privacy, shielded transactions | 9+ |
-| [security](./security/) | Bridge risk, smart contract safety | 3+ |
-| [regulation](./regulation/) | Regulatory frameworks | 2+ |
-| [rwa](./rwa/) | Real-world asset tokenization | 2+ |
+| [art-collections](./art-collections/) | NFT collection profiles, digital art valuation | 112 |
+| [privacy](./privacy/) | On-chain privacy, shielded transactions | 8 |
+| [security](./security/) | Bridge risk, smart contract safety | 7 |
+| [regulation](./regulation/) | Regulatory frameworks | 5 |
+| [rwa](./rwa/) | Real-world asset tokenization | 5 |
+| [kelly-btc](./kelly-btc/) | Kelly's secret BTC / Satoshis knowledge | 104 |
 
 ### Lifestyle & Personal
 
 | Category | Description | Files |
 |----------|-------------|-------|
-| [the-good-life](./the-good-life/) | Lifestyle optimization, luxury, real estate | 100+ |
-| [substack-essays](./substack-essays/) | Curated essays on crypto, macro, tech | 40+ |
+| [the-good-life](./the-good-life/) | Lifestyle optimization, luxury, real estate, dining, wine | 147 |
+| [substack-essays](./substack-essays/) | Curated essays on crypto, macro, tech | 12 |
 
 ### Technical & Internal
 
 | Category | Description | Files |
 |----------|-------------|-------|
-| [prompt-templates](./prompt-templates/) | Structured prompts for analysis | 50+ |
+| [prompt-templates](./prompt-templates/) | Structured prompts for analysis | 46 |
 | [setup-guides](./setup-guides/) | Tool configurations, technical setup | 19 |
-| [internal-docs](./internal-docs/) | Templates, quality guides, configuration | 15+ |
+| [internal-docs](./internal-docs/) | Templates, quality guides, configuration | 36 |
+| [sentinel-docs](./sentinel-docs/) | Project documentation, plugin docs, deployment | 47 |
+| [clawdbot](./clawdbot/) | OpenClaw/Clawdbot operational playbooks | 5 |
+| [clawterm](./clawterm/) | ClawTerm vision, AI assets, releases | 6 |
+| [bankr](./bankr/) | Bankr skill & API docs | 9 |
+| [teammate](./teammate/) | ElizaOS teammate context files | 10 |
+| [naval](./naval/) | Philosophy, wealth, happiness (Naval Ravikant) | 3 |
+| [brand](./brand/) | Brand style guide | 1 |
+| [marketing-gtm](./marketing-gtm/) | Positioning, editorial, GTM | 2 |
+| [legal-compliance](./legal-compliance/) | Disclaimers and compliance wording | 1 |
+| [drafts](./drafts/) | Work-in-progress drafts | 2 |
+| [research-daily](./research-daily/) | Daily market research briefs | 3 |
 
 ---
 
@@ -155,13 +168,14 @@ Which agent uses which knowledge folders:
 
 | Metric | Value |
 |--------|-------|
-| Total Categories | 25+ |
-| Total Files | 700+ |
-| Trading-focused | ~350 files |
-| Lifestyle-focused | ~150 files |
-| Art/NFT profiles | ~110 files |
-| Templates/Guides | ~80 files |
+| Total Categories | 36 |
+| Total Files | 929 |
+| Trading-focused | ~296 (bitcoin-maxi, perps, options, defi, altcoins, grinding, airdrops, stablecoins, solana, trading) |
+| Lifestyle-focused | ~147 (the-good-life) |
+| Art/NFT profiles | 112 (art-collections) |
+| Templates/Guides | ~101 (prompt-templates, setup-guides, internal-docs) |
+| Kelly BTC | 104 |
 
 ---
 
-*Last updated: 2026-02-01*
+*Last updated: 2026-02-15*
