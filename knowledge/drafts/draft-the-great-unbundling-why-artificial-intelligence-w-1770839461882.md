@@ -4,6 +4,7 @@ status: draft
 created: 2026-02-11T19:51:01.882Z
 target: substack
 url: https://ikigaistudio.substack.com/
+last_reviewed: 2026-02-15
 ---
 
 I'll write a comprehensive deep-dive essay about AI, drawing from our knowledge base and frameworks. Let me create something that challenges conventional thinking and provides actionable insights.

@@ -1,20 +1,21 @@
-# AI x Crypto Knowledge Base
+# ai crypto
 
-Analysis framework for the convergence of artificial intelligence and crypto markets.
+AI × crypto intersection, agent economies, compute markets
 
-## Files
+**Files**: 6
 
-| File | Topic |
-|------|-------|
-| `ai-crypto-overview.md` | Convergence thesis — why AI and crypto intersect |
-| `ai-agents-onchain.md` | On-chain AI agents, frameworks, agent economies |
-| `decentralized-compute.md` | GPU/compute networks (Render, Akash, io.net, etc.) |
-| `inference-markets.md` | Decentralized inference and verifiable AI (Ritual, Allora, Morpheus) |
-| `ai-tokens-evaluation.md` | How to evaluate AI tokens — signal vs noise |
-| `ai-crypto-risks.md` | Bear cases, bubble dynamics, what survives |
+## Contents
 
-## Usage
+- ai-agents-onchain.md
+- ai-crypto-overview.md
+- ai-crypto-risks.md
+- ai-tokens-evaluation.md
+- decentralized-compute.md
+- inference-markets.md
 
-These files inform VINCE's analysis when evaluating AI-sector tokens, narratives, and market positioning. Each file follows the standard methodology & framework format.
 
-*Last updated: 2026-02-15*
+## Related Categories
+
+- [venture-capital](../venture-capital/)
+- [defi-metrics](../defi-metrics/)
+- [altcoins](../altcoins/)

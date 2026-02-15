@@ -1,6 +1,7 @@
 ---
 tags: [bitcoin, macro, investment]
 agents: [eliza]
+last_reviewed: 2026-02-15
 ---
 
 

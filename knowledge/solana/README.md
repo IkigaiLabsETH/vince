@@ -1,8 +1,6 @@
-# Solana Knowledge
+# solana
 
-## Overview
-
-Solana ecosystem analysis and development.
+Solana ecosystem analysis, DeFi, and development
 
 **Files**: 14
 
@@ -22,3 +20,10 @@ Solana ecosystem analysis and development.
 - solana-validator-economics.md
 - solana-vs-ethereum.md
 - solana.md
+
+
+## Related Categories
+
+- [defi-metrics](../defi-metrics/)
+- [altcoins](../altcoins/)
+- [airdrops](../airdrops/)

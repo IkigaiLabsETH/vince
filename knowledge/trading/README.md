@@ -1,8 +1,6 @@
-# Trading Knowledge
+# trading
 
-## Overview
-
-Trading frameworks, risk management, and portfolio construction methodologies for crypto markets.
+Trading frameworks, risk management, portfolio construction
 
 **Files**: 4
 
@@ -12,3 +10,4 @@ Trading frameworks, risk management, and portfolio construction methodologies fo
 - market-regime-detection.md
 - portfolio-construction.md
 - risk-management-framework.md
+

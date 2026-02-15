@@ -4,6 +4,7 @@ topic: "ai agents"
 created: 2026-02-11T20:05:15.744Z
 target: @ikigaistudioxyz
 status: draft
+last_reviewed: 2026-02-15
 ---
 
 Running DRAFT_TWEETS to create a punchy standalone tweet about AI agents.

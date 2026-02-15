@@ -1,8 +1,6 @@
-# Venture Capital Knowledge
+# venture capital
 
-## Overview
-
-Venture capital frameworks and startup evaluation.
+Startup evaluation, crypto VC frameworks, fund analysis
 
 **Files**: 11
 
@@ -18,4 +16,11 @@ Venture capital frameworks and startup evaluation.
 - 182195558old-continent.md
 - KNOWLEDGE_CARD_STYLE_GUIDE.md
 - apptronic.md
-- yt-fortytwo-benchmark-beating-putting-power-2026-01-30.md
+- fortytwo-benchmark-beating-analysis.md
+
+
+## Related Categories
+
+- [stocks](../stocks/)
+- [ai-crypto](../ai-crypto/)
+- [macro-economy](../macro-economy/)

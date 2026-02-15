@@ -1,32 +1,25 @@
-# Art Collections Knowledge
+# art collections
 
-## Overview
-
-NFT collection profiles, valuation frameworks, and digital art analysis.
+NFT collection profiles, digital art valuation, generative art
 
 **Files**: 112
 
-## Key Collections
+## Contents
 
+- 0xdgb-thecameras.md
+- 100-sunsets-by-zach-lieberman.md
+- 24-hours-of-art.md
+- 27-bit-digital-by-kai.md
+- 720-minutes-by-alexis-andre.md
+- _TEMPLATE.md
+- ackcolorstudy.md
+- aerial-view-by-dalenz.md
+- aligndraw.md
+- an-overview-digital-art.md
+- apparitions-by-aaron-penne.md
+- archetype-by-kjetil-golid.md
+- art-blocks.md
 - autoglyphs.md
 - azuki.md
-- beeple-everydays.md
-- boredapeyachtclub.md
-- checks-vv-edition.md
-- chromie-squiggle-by-snowfro.md
-- clonex.md
-- cryptopunks.md
-- doodles-official.md
-- fidenza-by-tyler-hobbs.md
-- meebits.md
-- moonbirds.md
-- nouns.md
-- opepen-edition.md
-- pudgypenguins.md
-- qql.md
-- rare-pepes.md
-- ringers-by-dmitri-cherniak.md
-- terraforms.md
-- world-of-women-nft.md
 
-*Plus 92 more collection profiles and art analysis files.*
+*Plus 97 more files.*

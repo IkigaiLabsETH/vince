@@ -1,6 +1,6 @@
-# Bankr — Ingested Skill & Docs
+# uankr
 
-Knowledge ingested from the **Bankr OpenClaw skill** and **Bankr documentation** for use by Otaku (plugin-bankr). VINCE does not use Bankr.
+BANKR trading engine, token mechanics, executor integration
 
 **Files**: 9
 
@@ -15,3 +15,4 @@ Knowledge ingested from the **Bankr OpenClaw skill** and **Bankr documentation**
 - docs-sdk.md
 - docs-token-launching.md
 - openclaw-skill-bankr.md
+

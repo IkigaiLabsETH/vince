@@ -1,24 +1,31 @@
-# Macro Economy Knowledge
+# macro economy
 
-## Overview
+Debt cycles, monetary policy, global liquidity, macro indicators
 
-Macroeconomic analysis, debt cycles, monetary policy, and global liquidity.
+**Files**: 45
 
-**Files**: 46
+## Contents
 
-## Key Files
+- 179485563the-ghost-in-the-machine.md
+- 179508616the-final-protest-vote.md
+- 179745394the-deleted-line-of-code.md
+- 180061933comical-11.md
+- 180259536counter-revolution.md
+- 180387551chokepoint-30.md
+- 180396898the-end-of-scarcity.md
+- 180447009pure-cinema.md
+- 180534315wealth-migration.md
+- 180599249the-mirror-cracks.md
+- 180753732the-internet-dollar.md
+- 180886318the-billion-user-question.md
+- 180889446european-magic.md
+- 181146121the-signal-in-the-static.md
+- 181157280the-santa-rally.md
 
-- 401K.md
-- bretton-woods.md
-- calendar.md
-- clarity-act.md
-- debt.md
-- europe.md
-- howard-marks.md
-- multipolar.md
-- neobanks.md
-- social-sentiment-analysis.md
-- tariffs.md
-- tokenized-startups.md
+*Plus 30 more files.*
 
-*Plus 34 more macro analysis essays.*
+## Related Categories
+
+- [stocks](../stocks/)
+- [commodities](../commodities/)
+- [bitcoin-maxi](../bitcoin-maxi/)

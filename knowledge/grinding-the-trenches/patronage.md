@@ -1,6 +1,7 @@
 ---
 tags: [trading, memecoins, degen]
 agents: [echo, eliza]
+last_reviewed: 2026-02-15
 ---
 # Bags.fm Patronage Model: Open-Source AI Funding Through Memecoin Royalties
 

@@ -1,6 +1,6 @@
-# Marketing & GTM
+# marketing gtm
 
-Positioning, one-pager, Substack, and GTM for the project. Eliza owns this lane: she is the Substack writer and pushes "Substack gold."
+Go-to-market strategy, launch planning
 
 **Files**: 2
 
@@ -8,3 +8,4 @@ Positioning, one-pager, Substack, and GTM for the project. Eliza owns this lane:
 
 - positioning.md
 - substack-editorial.md
+

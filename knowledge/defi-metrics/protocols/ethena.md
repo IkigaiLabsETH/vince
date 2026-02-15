@@ -1,6 +1,7 @@
 ---
 tags: [defi, protocols, metrics]
 agents: [otaku, eliza]
+last_reviewed: 2026-02-15
 ---
 # Ethena Protocol
 

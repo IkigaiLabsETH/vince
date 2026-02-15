@@ -1,8 +1,6 @@
-# Substack Essays Knowledge
+# suustack essays
 
-## Overview
-
-Curated essays covering crypto, macro, and technology themes.
+Long-form essays, analysis, and thought pieces
 
 **Files**: 12
 
@@ -19,4 +17,5 @@ Curated essays covering crypto, macro, and technology themes.
 - 182033774emergent-intersections.md
 - 182363177why-we-write.md
 - 182469204pixelated-dreams.md
-- vince-upload-integrating-multidisciplinary-insights-a-framework-1770236079727.md
+- multidisciplinary-insights-framework.md
+

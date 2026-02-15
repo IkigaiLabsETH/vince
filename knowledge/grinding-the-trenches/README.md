@@ -1,8 +1,6 @@
-# Grinding the Trenches Knowledge
+# grinding the trenches
 
-## Overview
-
-High-risk trading strategies, meme coins, and retail trading psychology.
+Meme coins, high-risk trading, retail psychology, degen strategies
 
 **Files**: 17
 
@@ -23,5 +21,11 @@ High-risk trading strategies, meme coins, and retail trading psychology.
 - meteora.md
 - patronage.md
 - pumpdotfun.md
-- ten-ten.md
-- treadfi-optimization-framework.md
+
+*Plus 2 more files.*
+
+## Related Categories
+
+- [perps-trading](../perps-trading/)
+- [altcoins](../altcoins/)
+- [airdrops](../airdrops/)

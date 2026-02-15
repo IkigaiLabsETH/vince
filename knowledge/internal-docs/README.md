@@ -1,26 +1,25 @@
-# Internal Docs Knowledge
+# internal docs
 
-## Overview
+Platform architecture, agent specs, system documentation
 
-Internal documentation, templates, and configuration guides.
+**Files**: 35
 
-**Files**: 36
+## Contents
 
-## Key Files
-
+- 5b-liquidation-openclaw-developments.md
 - ADDING-KNOWLEDGE.md
+- ADVANCED.md
 - AGENT-ROLES.md
 - CONFIGURATION.md
 - CONTEXTUAL-EMBEDDINGS.md
 - ESSAY-CATEGORIZATION.md
+- EXAMPLES.md
+- GROK-PAPER-INTEGRATION.md
 - KNOWLEDGE-QUALITY-CHECKLIST.md
 - KNOWLEDGE-QUALITY-GUIDE.md
 - KNOWLEDGE-TEMPLATE.md
-- PROJECT-POSITIONING.md
-- RESEARCH-QUEUE-AND-RSS.md
-- WORKFLOW-ORCHESTRATION.md
-- vince-north-star.md
-- vince-readme-project-overview.md
-- why-vince-eliza-mindset.md
+- MESSARI.md
+- OLD.md
+- OPENAI-EMBEDDINGS-SETUP.md
 
-*Plus 22 more internal docs.*
+*Plus 20 more files.*

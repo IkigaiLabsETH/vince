@@ -1,15 +1,24 @@
-# RWA Knowledge
+# rwa
 
-## Overview
+Real-world asset tokenization, evaluation frameworks
 
-Real-world asset tokenization: market overview, product analysis, and evaluation frameworks.
-
-**Files**: 5
+**Files**: 9
 
 ## Contents
 
 - ondo-finance-deep-dive.md
 - rwa-evaluation-framework.md
 - rwa-frameworks.md
+- rwa-on-chain-signals.md
 - rwa-overview-2026.md
+- rwa-regulatory-landscape.md
+- rwa-vs-defi-yields.md
+- tokenized-private-credit.md
 - tokenized-treasuries.md
+
+
+## Related Categories
+
+- [stablecoins](../stablecoins/)
+- [regulation](../regulation/)
+- [defi-metrics](../defi-metrics/)

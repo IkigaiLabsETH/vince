@@ -1,11 +1,12 @@
-# Teammate Context — Loaded Every Session (ElizaOS)
+# teammate
 
-VINCE reads these files whenever state is composed (every response). It doesn't "learn" like a human; it **loads context like software**. The more specific your files, the less you explain every time.
+Multi-agent coordination, standup system, team architecture
 
-**Stop prompting. Start feeding your agent data it can use to guide decisions.**
+**Files**: 8
 
-**Files**: 10
+## Subdirectories
 
+- **MEMORY/** (3 files)
 ## Contents
 
 - AGENTS.md
@@ -17,4 +18,3 @@ VINCE reads these files whenever state is composed (every response). It doesn't 
 - TOOLS.md
 - USER.md
 
-*Plus 2 files in MEMORY/ subdirectory.*

@@ -1,6 +1,7 @@
 ---
 tags: [mev, trading, ethereum]
 agents: [solus, eliza]
+last_reviewed: 2026-02-15
 ---
 # MEV Supply Chain
 

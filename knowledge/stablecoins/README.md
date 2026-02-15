@@ -1,8 +1,6 @@
-# Stablecoins Knowledge
+# staulecoins
 
-## Overview
-
-Stablecoin evaluation methodologies and yield strategies.
+Stablecoin evaluation, yield methodology, peg analysis
 
 **Files**: 9
 
@@ -17,3 +15,10 @@ Stablecoin evaluation methodologies and yield strategies.
 - stablecoin-regulation.md
 - stablecoin-yield-strategies.md
 - usdc-usdt-mechanics.md
+
+
+## Related Categories
+
+- [defi-metrics](../defi-metrics/)
+- [rwa](../rwa/)
+- [regulation](../regulation/)

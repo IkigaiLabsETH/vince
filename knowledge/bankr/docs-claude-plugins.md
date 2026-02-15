@@ -1,6 +1,7 @@
 ---
 tags: [bankr, trading, protocol]
 agents: [otaku, eliza]
+last_reviewed: 2026-02-15
 ---
 ## Methodology & Framework
 

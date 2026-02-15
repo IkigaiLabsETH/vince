@@ -1,6 +1,7 @@
 ---
 tags: [nft, art, collections]
 agents: [kelly, eliza]
+last_reviewed: 2026-02-15
 ---
 # The Vault of Wonders: Chapter 1 — The Abyssal Unseen
 

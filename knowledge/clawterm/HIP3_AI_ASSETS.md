@@ -1,6 +1,7 @@
 ---
 tags: [general]
 agents: [eliza]
+last_reviewed: 2026-02-15
 ---
 # HIP-3 AI-Related Assets on Hyperliquid
 

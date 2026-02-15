@@ -1,6 +1,7 @@
 ---
 tags: [research, data, daily]
 agents: [eliza]
+last_reviewed: 2026-02-15
 ---
 # Daily Market Brief — Sunday, February 15, 2026
 

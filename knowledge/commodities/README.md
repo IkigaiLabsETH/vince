@@ -1,8 +1,6 @@
-# Commodities Knowledge
+# commodities
 
-## Overview
-
-Commodity market analysis, rotation strategies, and macro frameworks for understanding how physical markets intersect with crypto.
+Commodity rotation strategies, metals, energy markets
 
 **Files**: 6
 
@@ -14,3 +12,4 @@ Commodity market analysis, rotation strategies, and macro frameworks for underst
 - gold-btc-correlation.md
 - inflation-hedging-framework.md
 - oil-macro-signals.md
+

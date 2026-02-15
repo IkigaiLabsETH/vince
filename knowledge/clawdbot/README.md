@@ -1,6 +1,6 @@
-# Clawdbot / OpenClaw Knowledge
+# clawduot
 
-Operational playbooks for OpenClaw (Clawdbot): setup, security, automation patterns, and X research without the X API.
+ClawdBot/OpenClaw integration docs and playbooks
 
 **Files**: 5
 
@@ -11,3 +11,4 @@ Operational playbooks for OpenClaw (Clawdbot): setup, security, automation patte
 - openclaw-practical-tips.md
 - plan-one-click-install.md
 - x-research-agent-curated-follows.md
+

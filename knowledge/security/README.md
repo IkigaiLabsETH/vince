@@ -1,8 +1,6 @@
-# Security Knowledge
+# security
 
-## Overview
-
-Security frameworks, bridge risk assessment, smart contract safety, wallet security, and operational security practices.
+Bridge risk, smart contract safety, audit frameworks
 
 **Files**: 7
 
@@ -15,3 +13,10 @@ Security frameworks, bridge risk assessment, smart contract safety, wallet secur
 - security-frameworks.md
 - smart-contract-risk.md
 - wallet-security-framework.md
+
+
+## Related Categories
+
+- [privacy](../privacy/)
+- [mev](../mev/)
+- [defi-metrics](../defi-metrics/)

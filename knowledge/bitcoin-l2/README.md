@@ -1,14 +1,13 @@
-# Bitcoin L2 Knowledge
+# uitcoin l2
 
-Research files covering Bitcoin's Layer 2 ecosystem, scaling approaches, and the emerging BTC DeFi thesis.
+Bitcoin L2 ecosystem, rollups, sidechains, state channels
 
-## Files
+**Files**: 4
 
-| File | Topic |
-|------|-------|
-| `bitcoin-l2-landscape.md` | Overview of all major L2 approaches |
-| `lightning-network.md` | Lightning Network deep dive |
-| `stacks-bitvm.md` | Stacks + BitVM programmability layer |
-| `bitcoin-defi-thesis.md` | The bull case for Bitcoin DeFi |
+## Contents
 
-*Last updated: 2026-02-15*
+- bitcoin-defi-thesis.md
+- bitcoin-l2-landscape.md
+- lightning-network.md
+- stacks-bitvm.md
+

@@ -1,27 +1,25 @@
-# Sentinel Docs
+# sentinel docs
 
-Project documentation, plugin docs, deployment guides, and development progress tracking.
+Sentinel agent PRDs, technical specs, development progress
 
 **Files**: 47
 
-## Key Files
+## Contents
 
 - BANKR.md
 - BRANDING.md
+- CLARKOS.md
 - CLAUDE.md
 - CLAUDE_CODE_CONTROLLER.md
 - DEPLOY.md
 - DISCORD.md
+- ELIZAOS_BENCHMARKS.md
+- ELIZAOS_EXAMPLES_PRIORITIES.md
 - FEATURE-STORE.md
+- LOCALSONLY.md
+- LOG-WARNINGS-EXPLAINED.md
 - MULTI_AGENT.md
 - NORTH_STAR_DELIVERABLES.md
-- OPENCLAW_ADAPTER.md
-- PROGRESS-CONSOLIDATED.md
-- PROMPTDESIGN.md
-- SECURITY-HYGIENE.md
-- SOLUS_NORTH_STAR.md
-- TREASURY.md
-- plugin-vince-README.md
-- plugin-vince-START.md
+- NOTIFICATIONS.md
 
-*Plus 30 more project docs.*
+*Plus 32 more files.*

@@ -1,22 +1,31 @@
-# Stocks Knowledge
+# stocks
 
-## Overview
-
-Equity market analysis, AI/AGI sector, and tech investing.
+AI/AGI sector, robotics, tech investing, equity analysis
 
 **Files**: 25
 
-## Key Files
+## Contents
 
-- circle.md
-- scandisk.md
+- 179506405the-great-flip.md
+- 179675238the-hidden-bear.md
+- 180305010the-softest-coup.md
+- 180315367underrated-af-tbh.md
+- 180388794the-tether-question.md
+- 180549862did-crypto-grew-up.md
+- 180822094pink-slip-pyrrhic-victory.md
 - 180848872humanoid-horizon.md
+- 181318708trillion-dollar-wave.md
+- 181727834the-great-shift.md
 - 181884777robotics-reckoning.md
+- 181939452the-rare-crossover.md
 - 181941843everything-exchange.md
 - 181997054onchain-equity.md
-- 182323811agi-mirage.md
-- 182375037nvda-bail.md
-- 182590858agi-inflection.md
-- 182315515mega-ipo-wave.md
+- 182090883onchain-startup.md
 
-*Plus 15 more stocks analysis files.*
+*Plus 10 more files.*
+
+## Related Categories
+
+- [macro-economy](../macro-economy/)
+- [venture-capital](../venture-capital/)
+- [options](../options/)

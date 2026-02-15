@@ -1,6 +1,7 @@
 ---
 tags: [altcoins, tokens, evaluation]
 agents: [echo, eliza]
+last_reviewed: 2026-02-15
 ---
 # Top 100 Altcoins We Care About
 

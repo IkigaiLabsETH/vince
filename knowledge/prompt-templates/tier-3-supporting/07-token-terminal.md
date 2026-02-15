@@ -1,6 +1,7 @@
 ---
 tags: [general]
 agents: [eliza]
+last_reviewed: 2026-02-15
 ---
 # Prompt #7: Token Terminal (Protocol Fundamentals)
 

@@ -1,8 +1,8 @@
-# ClawTerm Knowledge
+# clawterm
 
-Vision docs, AI asset frameworks, and OpenClaw release notes.
+ClawTerm terminal integration and ecosystem references
 
-**Files**: 6
+**Files**: 5
 
 ## Contents
 
@@ -10,5 +10,5 @@ Vision docs, AI asset frameworks, and OpenClaw release notes.
 - CLAWTERM_VISION.md
 - HIP3_AI_ASSETS.md
 - OPENCLAW_CLAWINDEX.md
-- OPENCLAW_RELEASES.md
 - OPENCLAW_STEIPETE.md
+

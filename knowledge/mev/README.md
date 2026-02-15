@@ -1,14 +1,19 @@
-# MEV Knowledge Base
+# mev
 
-Maximal Extractable Value — the invisible tax on every onchain transaction and the infrastructure evolving around it.
+MEV strategies, sandwich attacks, builder markets, PBS
 
-## Files
+**Files**: 4
 
-| File | Topic |
-|------|-------|
-| [mev-overview.md](mev-overview.md) | MEV fundamentals, extraction methods, key actors |
-| [mev-supply-chain.md](mev-supply-chain.md) | PBS, block building, Flashbots, MEV-Boost, order flow auctions |
-| [cross-chain-mev.md](cross-chain-mev.md) | Cross-domain arbitrage, shared sequencers, SUAVE |
-| [mev-protection.md](mev-protection.md) | Protecting yourself: private mempools, MEV-aware DEXs |
+## Contents
 
-*Last updated: 2026-02-15*
+- cross-chain-mev.md
+- mev-overview.md
+- mev-protection.md
+- mev-supply-chain.md
+
+
+## Related Categories
+
+- [perps-trading](../perps-trading/)
+- [defi-metrics](../defi-metrics/)
+- [security](../security/)

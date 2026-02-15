@@ -1,9 +1,14 @@
-# Legal & Compliance
+# legal compliance
 
-This folder holds canonical legal and compliance wording for the project. Use it when agents (especially Eliza) need to cite disclaimers, "not financial advice", or risk language.
+Legal frameworks, compliance methodology, regulatory risk
 
-**Files**: 1
+**Files**: 5
 
 ## Contents
 
+- aml-kyc-frameworks.md
+- crypto-entity-structures.md
+- defi-compliance-toolkit.md
 - disclaimers.md
+- token-classification.md
+

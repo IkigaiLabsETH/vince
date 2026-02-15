@@ -1,26 +1,31 @@
-# Options Knowledge
+# options
 
-## Overview
-
-Options trading strategies, wheel approach, strike selection, and theta decay.
+Options trading: wheel strategy, strike selection, theta decay, Greeks
 
 **Files**: 41
 
-## Key Files
+## Contents
 
-- hype-wheel-strategy.md
-- hype.md
-- HYPERSURFACE.md
-- hypersurface-reference.md
-- options-fundamentals.md
-- strike-selection-from-perps.md
-- current-positions.md
-- magic-number.md
-- sol.md
-- base-ecosystem-tokens.md
+- 179544801fear-harvest.md
+- 179603955the-oracle-wager.md
+- 179713514antifragile-hype-yield-engine.md
+- 179813415the-great-hype-unlock.md
+- 180012109the-theta-casino.md
+- 180176569cold-btc-hot-theta.md
+- 180266396options-not-perps.md
+- 180613488the-endgame.md
+- 180704748the-25k-threshold.md
+- 180715679onchain-inversion.md
+- 180718404open-letter.md
+- 180787201the-perp-mirror.md
+- 180884170eating-tradfi-alive.md
 - 181099567the-wheel.md
-- 182634519wheel-strategy.md
-- 182267164theta-decay.md
-- 182459383options-strategy.md
+- 181141677the-hype-dip.md
 
-*Plus 27 more options analysis files.*
+*Plus 26 more files.*
+
+## Related Categories
+
+- [perps-trading](../perps-trading/)
+- [stocks](../stocks/)
+- [bitcoin-maxi](../bitcoin-maxi/)

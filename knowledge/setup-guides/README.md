@@ -1,16 +1,25 @@
-# Setup Guides Knowledge
+# setup guides
 
-## Overview
+Installation guides, tool configs, AI agent setup tutorials
 
-Technical setup guides and tool configurations.
+**Files**: 18
 
-**Files**: 19
+## Contents
 
-## Key Files
-
+- ai-agent-social-interaction-patterns.md
+- ai-productivity-2-weeks-in-one-night.md
+- applications-are-dead-thesis.md
+- automated-signup-testing-9am.md
+- aws-vs-mac-mini-agent-hosting.md
+- building-ai-intern-clawdbot.md
 - clawd-security.md
+- clawdbot-24-7-ai-agent-setup.md
+- clawdbot-architecture-deep-dive.md
+- clawdbot-security-analysis.md
+- clawdbot-viral-momentum-x.md
+- mac-mini-ai-trading-assistant.md
+- moltbot-community-adoption.md
+- moltbot-open-source-analysis.md
 - openclaw-security.md
-- tweet-this-onboard-employee-using-clawdbot-2026-01-25.md
-- yt-clawdbot-most-powerful-tool-ever-2026-01-25.md
 
-*Plus 15 more setup and tutorial files.*
+*Plus 3 more files.*

@@ -1,6 +1,7 @@
 ---
 tags: [security, risk, safety]
 agents: [otaku, eliza]
+last_reviewed: 2026-02-15
 ---
 ## Methodology & Framework
 
@@ -30,7 +31,7 @@ agents: [otaku, eliza]
 ---
 title: "This is getting out of control now..."
 source: chat://vince-upload/1770841101723
-category: uncategorized
+category: security
 ingestedWith: vince-upload
 tags:
   - vince-upload

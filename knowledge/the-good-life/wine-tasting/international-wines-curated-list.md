@@ -1,6 +1,7 @@
 ---
 tags: [lifestyle, wine, tasting]
 agents: [kelly, eliza]
+last_reviewed: 2026-02-15
 ---
 ## Methodology & Framework
 

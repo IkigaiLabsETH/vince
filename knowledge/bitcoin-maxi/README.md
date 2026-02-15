@@ -1,27 +1,31 @@
-# Bitcoin Maxi Knowledge
+# uitcoin maxi
 
-## Overview
-
-Bitcoin maximalist perspectives, cycle analysis, and institutional adoption frameworks.
+Bitcoin cycle analysis, institutional adoption, maximalist perspectives
 
 **Files**: 68
 
-## Key Files
+## Contents
 
-- kelly-criterion.md
-- saylor.md
-- mining-difficulty.md
-- bitcoin-triptych.md
-- 181530571benner-cycle.md
-- 182568240cold-storage-bitcoin.md
-- 180338122kelly-criterion.md
-- 180492654squeeze-of-2025.md
-- 180516376institutional-surrender.md
-- 182097546fibonacci-extensions.md
-- 182565301prompt-design-day-report.md
-- 182565993prompt-design-week-report.md
-- 182566133prompt-design-month-report.md
-- 182566518prompt-design-quarterly-report.md
-- 182566635prompt-design-year-report.md
+- 179459113coming-soon.md
+- 179474452will-you-ever-see-bitcoin-at-50000.md
+- 179498350retirement-is-a-rugpull.md
+- 179570637the-lighthouse-in-the-storm.md
+- 179631716scarcity-is-patient.md
+- 179636470the-torchbearers-sold-the-top.md
+- 179680782the-heart-of-crypto.md
+- 179721083the-quantum-computer-fud.md
+- 179806827saylor-bet-his-lifes-work.md
+- 179867726this-is-a-dream.md
+- 179911974the-adults-have-left-the-casino.md
+- 179968685a-deep-dive-into-tbso.md
+- 179973740usa-bitcoin-empire.md
+- 180028155reads-like-a-hit-job.md
+- 180125352the-electron-rush.md
 
-*Plus 53 more essays and analysis files.*
+*Plus 53 more files.*
+
+## Related Categories
+
+- [options](../options/)
+- [macro-economy](../macro-economy/)
+- [perps-trading](../perps-trading/)

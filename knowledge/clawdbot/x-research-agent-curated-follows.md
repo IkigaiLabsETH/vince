@@ -1,6 +1,7 @@
 ---
 tags: [general]
 agents: [eliza]
+last_reviewed: 2026-02-15
 ---
 # X Research Agent: OpenClaw + Curated Follow List (No X API)
 

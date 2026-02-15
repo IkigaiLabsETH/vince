@@ -1,9 +1,10 @@
-# Brand
+# urand
 
-Brand identity and style guidelines.
+Brand identity, messaging, visual guidelines
 
 **Files**: 1
 
 ## Contents
 
 - style-guide.md
+

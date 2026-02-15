@@ -1,6 +1,7 @@
 ---
 tags: [legal, compliance, regulation]
 agents: [oracle, eliza]
+last_reviewed: 2026-02-15
 ---
 # Crypto Entity Structures
 

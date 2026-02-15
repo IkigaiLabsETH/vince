@@ -1,35 +1,37 @@
-# The Good Life Knowledge
+# the good life
 
-## Overview
+Wine, hotels, restaurants, real estate, lifestyle optimization
 
-Lifestyle frameworks, real estate, travel, dining, wine, and personal development.
-
-**Files**: 147 (17 top-level + 130 in subdirectories)
-
-## Top-Level Key Files
-
-- bio.md
-- hotel-selection-framework.md
-- experience-prioritization-framework.md
-- lifestyle-roi-framework.md
-- kelly-backstory.md
-- kelly-decision-rules.md
-- kelly-quick-ref.md
-- uhnw-destinations-2026.md
-- curated-open-schedule.md
-- lifestyle-canonical-sources.md
+**Files**: 17
 
 ## Subdirectories
 
-| Subdirectory | Files | Description |
-|-------------|-------|-------------|
-| wine-tasting/ | 40 | Wine regions, tasting notes, frameworks |
-| luxury-hotels/ | 20 | Hotel profiles and reviews |
-| lifestyle/ | 19 | Daily life optimization, habits |
-| michelin-restaurants/ | 12 | Michelin star restaurant guides |
-| real-estate/ | 11 | Property markets by region |
-| surf/ | 8 | Surf spots and travel |
-| creative-production/ | 7 | Creative workflow and production |
-| roadtrips-travel/ | 6 | Road trip itineraries |
-| art-collecting/ | 5 | Art collecting frameworks |
-| brands/ | 2 | Luxury brand profiles |
+- **art-collecting/** (6 files)
+- **brands/** (2 files)
+- **creative-production/** (8 files)
+- **lifestyle/** (19 files)
+- **luxury-hotels/** (21 files)
+- **michelin-restaurants/** (13 files)
+- **real-estate/** (11 files)
+- **roadtrips-travel/** (6 files)
+- **surf/** (8 files)
+- **wine-tasting/** (40 files)
+## Contents
+
+- 180016973live-the-life.md
+- 180320875chateau-chantelune.md
+- 180757352jacob-cohen.md
+- ALLOWLIST_USAGE.md
+- allowlist-life.md
+- bio.md
+- building-wealth-etfs-index-funds.md
+- curated-open-schedule.md
+- experience-prioritization-framework.md
+- hotel-selection-framework.md
+- kelly-backstory.md
+- kelly-decision-rules.md
+- kelly-interview-questions.md
+- kelly-quick-ref.md
+- lifestyle-canonical-sources.md
+
+*Plus 2 more files.*

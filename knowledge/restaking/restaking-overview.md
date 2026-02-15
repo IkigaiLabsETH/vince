@@ -1,6 +1,7 @@
 ---
 tags: [restaking, ethereum, defi]
 agents: [otaku, eliza]
+last_reviewed: 2026-02-15
 ---
 # Restaking Overview
 

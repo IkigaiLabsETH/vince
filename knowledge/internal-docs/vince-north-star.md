@@ -9,6 +9,7 @@ tags:
   - slack
   - day-report
   - paper-bot
+last_reviewed: 2026-02-15
 ---
 
 # VINCE North Star: Push, Don't Pull

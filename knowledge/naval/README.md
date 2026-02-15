@@ -1,6 +1,6 @@
-# Naval — Philosophy, Wealth, Happiness, Reading
+# naval
 
-This knowledge supports the Naval agent: philosophy of wealth, happiness, mental models, and long-term thinking in the spirit of Naval Ravikant.
+Naval Ravikant wisdom, wealth/happiness frameworks
 
 **Files**: 3
 
@@ -9,3 +9,4 @@ This knowledge supports the Naval agent: philosophy of wealth, happiness, mental
 - 13-prompts.md
 - essay-themes.md
 - nav-al-archive.md
+

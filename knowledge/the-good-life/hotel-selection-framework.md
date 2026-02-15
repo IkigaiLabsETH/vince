@@ -1,6 +1,7 @@
 ---
 tags: [lifestyle, luxury, hotels]
 agents: [kelly, eliza]
+last_reviewed: 2026-02-15
 ---
 ## Methodology and Framework
 

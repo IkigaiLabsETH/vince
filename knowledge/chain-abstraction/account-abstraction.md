@@ -1,6 +1,7 @@
 ---
 tags: [intents, ux, cross-chain]
 agents: [otaku, eliza]
+last_reviewed: 2026-02-15
 ---
 # Account Abstraction (ERC-4337)
 

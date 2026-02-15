@@ -1,6 +1,7 @@
 ---
 tags: [bitcoin, l2, scaling]
 agents: [eliza]
+last_reviewed: 2026-02-15
 ---
 # Lightning Network
 

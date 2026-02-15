@@ -1,6 +1,7 @@
 ---
 tags: [commodities, macro, investment]
 agents: [oracle, eliza]
+last_reviewed: 2026-02-15
 ---
 # Commodity Supercycle Thesis
 

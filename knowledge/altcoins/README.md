@@ -1,8 +1,6 @@
-# Altcoins Knowledge
+# altcoins
 
-## Overview
-
-Analysis methodologies for alternative cryptocurrencies, network effects, and ecosystem evaluation.
+Altcoin evaluation, network effects, ecosystem analysis
 
 **Files**: 19
 
@@ -23,7 +21,11 @@ Analysis methodologies for alternative cryptocurrencies, network effects, and ec
 - 182650000the-enlightened-cryptoeconomy.md
 - bear-market.md
 - cashflows.md
-- monad.md
-- price-to-earnings.md
-- top100-altcoins.md
-- yt-duopolies-2026-ethereum-solana-coinbase-2026-01-25.md
+
+*Plus 4 more files.*
+
+## Related Categories
+
+- [solana](../solana/)
+- [defi-metrics](../defi-metrics/)
+- [grinding-the-trenches](../grinding-the-trenches/)

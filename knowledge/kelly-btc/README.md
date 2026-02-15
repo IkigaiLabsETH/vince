@@ -1,13 +1,14 @@
-# Kelly's Secret BTC / Satoshis Knowledge
+# kelly utc
 
-Source: [IkigaiLabsETH/satoshis](https://github.com/IkigaiLabsETH/satoshis) (LiveTheLifeTV / GROK420).
+Satoshi's knowledge: bitcoin fundamentals, culinary, assets
 
-**For character color only.** Kelly never gives trading or market advice; she redirects those questions to Vince or Solus. This knowledge is for casual BTC/Satoshis chat and to reflect that Kelly secretly loves Bitcoin and the LiveTheLifeTV worldview.
+**Files**: 1
 
-**Files**: 104
+## Subdirectories
 
-## Key File
+- **satoshis-app-pages/** (1 files)
+- **satoshis-knowledge/** (101 files)
+## Contents
 
 - satoshis-app-overview.md
 
-*Plus 103 character/lore files in subdirectories.*

@@ -1,16 +1,14 @@
-# Airdrops Knowledge
+# airdrops
 
-## Overview
+Airdrop farming frameworks, eligibility evaluation, tier assessment
 
-Frameworks and strategies for evaluating and participating in crypto airdrops.
-
-**Files**: 6
+**Files**: 5
 
 ## Contents
 
+- _template.md
 - airdrop-decision-framework.md
 - airdrop-farming.md
-- text-grok-this-boost-activated-for-the-next-7-days-trad-1769697076484.md
-- text-grok-this-boost-activated-for-the-next-7-days-trad-1769697394838.md
-- text-grok-this-boost-activated-for-the-next-7-days-trad-1769697635106.md
+- airdrop-trading-boost-grok-framework.md
 - why-usdai.md
+
