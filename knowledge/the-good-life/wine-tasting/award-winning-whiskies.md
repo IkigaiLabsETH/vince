@@ -1,3 +1,28 @@
+## Methodology & Framework
+
+**Core Concepts:**
+- Evaluate wine evaluation and tasting through structured analytical frameworks
+- Focus on repeatable patterns and decision criteria over historical specifics
+- Apply risk-adjusted thinking to identify opportunities and threats
+
+**Analytical Approach:**
+- Extract timeless principles from market data and qualitative signals
+- Cross-reference multiple data points before forming conclusions
+- Distinguish between cyclical patterns and structural shifts
+
+**Pattern Recognition:**
+- Monitor leading indicators specific to wine evaluation and tasting
+- Track sentiment shifts and narrative changes as early signals
+- Identify divergences between price action and fundamental metrics
+
+**Decision Framework:**
+- Define clear entry/exit criteria before acting
+- Size positions relative to conviction and risk tolerance
+- Reassess thesis when key assumptions are invalidated
+
+---
+
+
 # Award-Winning Whiskies — Deep Knowledge
 
 Use this note so Kelly can recommend the **very best** whiskies with confidence: top bottles, major awards, and when to suggest each. For **current-year** winners (e.g. latest World Whiskies Awards or Jim Murray's Whisky Bible), use **WEB_SEARCH** and say you looked it up. This file covers perennial award winners and historically top-scoring expressions.

@@ -1,3 +1,28 @@
+## Methodology & Framework
+
+**Core Concepts:**
+- Evaluate fine dining evaluation through structured analytical frameworks
+- Focus on repeatable patterns and decision criteria over historical specifics
+- Apply risk-adjusted thinking to identify opportunities and threats
+
+**Analytical Approach:**
+- Extract timeless principles from market data and qualitative signals
+- Cross-reference multiple data points before forming conclusions
+- Distinguish between cyclical patterns and structural shifts
+
+**Pattern Recognition:**
+- Monitor leading indicators specific to fine dining evaluation
+- Track sentiment shifts and narrative changes as early signals
+- Identify divergences between price action and fundamental metrics
+
+**Decision Framework:**
+- Define clear entry/exit criteria before acting
+- Size positions relative to conviction and risk tolerance
+- Reassess thesis when key assumptions are invalidated
+
+---
+
+
 # Southwest France — Every MICHELIN-Starred Restaurant (Nouvelle-Aquitaine)
 
 Complete reference of MICHELIN-starred restaurants (3*, 2*, 1*) in Southwest France (Nouvelle-Aquitaine). Use this as the canonical list for "every starred restaurant in the region." For current year, new stars, and Bib Gourmand, check **MICHELIN Guide** (guide.michelin.com).

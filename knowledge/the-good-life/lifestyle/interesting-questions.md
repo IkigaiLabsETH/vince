@@ -1,3 +1,28 @@
+## Methodology & Framework
+
+**Core Concepts:**
+- Evaluate lifestyle optimization through structured analytical frameworks
+- Focus on repeatable patterns and decision criteria over historical specifics
+- Apply risk-adjusted thinking to identify opportunities and threats
+
+**Analytical Approach:**
+- Extract timeless principles from market data and qualitative signals
+- Cross-reference multiple data points before forming conclusions
+- Distinguish between cyclical patterns and structural shifts
+
+**Pattern Recognition:**
+- Monitor leading indicators specific to lifestyle optimization
+- Track sentiment shifts and narrative changes as early signals
+- Identify divergences between price action and fundamental metrics
+
+**Decision Framework:**
+- Define clear entry/exit criteria before acting
+- Size positions relative to conviction and risk tolerance
+- Reassess thesis when key assumptions are invalidated
+
+---
+
+
 # Interesting questions for conversation
 
 **When to use:** When the user asks for "an interesting question," "ask me something," "what should we talk about," or when you want to deepen the conversation, use this list. **Pick one or two questions** that fit the context (their interests, time of day, creative/work/surf/life themes). Ask naturally in your voice; do not list dozens of questions. If they answer, you can follow up or pick another question later.

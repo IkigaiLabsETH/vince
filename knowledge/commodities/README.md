@@ -2,9 +2,9 @@
 
 ## Overview
 
-Commodity market analysis and rotation strategies.
+Commodity market analysis, rotation strategies, and macro frameworks for understanding how physical markets intersect with crypto.
 
-**Files**: 2 | **Category**: commodities
+**Files**: 6 | **Category**: commodities
 
 ---
 
@@ -12,6 +12,10 @@ Commodity market analysis and rotation strategies.
 
 - [182620956.Great Rotation](./182620956great-rotation.md) (1716 words)
 - [182321102.The Humbling](./182321102the-humbling.md) (1627 words)
+- [Gold-BTC Correlation](./gold-btc-correlation.md) — Digital gold narrative, correlation regimes, divergence signals, allocation framework
+- [Oil Macro Signals](./oil-macro-signals.md) — Oil as macro indicator, petrodollar dynamics, OPEC, energy-crypto link
+- [Commodity Supercycle Thesis](./commodity-supercycle-thesis.md) — Supercycle framework, historical patterns, underinvestment thesis, crypto intersection
+- [Inflation Hedging Framework](./inflation-hedging-framework.md) — Real vs nominal assets, hedge comparison, inflation-resistant portfolio construction
 
 ---
 
@@ -19,6 +23,10 @@ Commodity market analysis and rotation strategies.
 
 - 182620956.Great Rotation
 - 182321102.The Humbling
+- Gold-BTC Correlation Analysis
+- Oil as Macro Signal
+- Commodity Supercycle Thesis
+- Inflation Hedging Framework
 
 ---
 
@@ -30,4 +38,4 @@ Commodity market analysis and rotation strategies.
 
 ---
 
-*Last updated: 2026-02-01*
+*Last updated: 2026-02-15*

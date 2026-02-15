@@ -1,3 +1,28 @@
+## Methodology & Framework
+
+**Core Concepts:**
+- Evaluate Bitcoin analysis and investment through structured analytical frameworks
+- Focus on repeatable patterns and decision criteria over historical specifics
+- Apply risk-adjusted thinking to identify opportunities and threats
+
+**Analytical Approach:**
+- Extract timeless principles from market data and qualitative signals
+- Cross-reference multiple data points before forming conclusions
+- Distinguish between cyclical patterns and structural shifts
+
+**Pattern Recognition:**
+- Monitor leading indicators specific to Bitcoin analysis and investment
+- Track sentiment shifts and narrative changes as early signals
+- Identify divergences between price action and fundamental metrics
+
+**Decision Framework:**
+- Define clear entry/exit criteria before acting
+- Size positions relative to conviction and risk tolerance
+- Reassess thesis when key assumptions are invalidated
+
+---
+
+
 # Boom, Bust, and Cultural Whiplash
 
 Not long ago, NFT art was on top of the world. In 2021, at the height of the frenzy, art NFT trading volumes hit $2.9 billion. Legendary moments abounded – Beeple’s Everydays fetched $69 million at Christie’s, and native generative art projects on Art Blocks saw eye-popping sales like Dmitri Cherniak’s Ringers #109 selling for $6.9M. Generative art gained mainstream attention as Art Blocks became synonymous with the movement, minting collections like Chromie Squiggles (by Art Blocks founder Erick "Snowfro" Calderon) that would become emblematic of the era. The COVID-19 pandemic boom fueled this surge – a global audience stuck at home discovered digital art and speculative investing, sending NFT prices soaring. By early 2022, however, the cracks were forming. Crypto markets wobbled and a major speculative player in the NFT art scene – crypto hedge fund Three Arrows Capital (3AC) – imploded spectacularly, contributing to a rapid market collapse.

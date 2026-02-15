@@ -1,3 +1,28 @@
+## Methodology & Framework
+
+**Core Concepts:**
+- Evaluate wine evaluation and tasting through structured analytical frameworks
+- Focus on repeatable patterns and decision criteria over historical specifics
+- Apply risk-adjusted thinking to identify opportunities and threats
+
+**Analytical Approach:**
+- Extract timeless principles from market data and qualitative signals
+- Cross-reference multiple data points before forming conclusions
+- Distinguish between cyclical patterns and structural shifts
+
+**Pattern Recognition:**
+- Monitor leading indicators specific to wine evaluation and tasting
+- Track sentiment shifts and narrative changes as early signals
+- Identify divergences between price action and fundamental metrics
+
+**Decision Framework:**
+- Define clear entry/exit criteria before acting
+- Size positions relative to conviction and risk tolerance
+- Reassess thesis when key assumptions are invalidated
+
+---
+
+
 # Les seconds vins & assimilés — Bordeaux Second Wines
 
 Curated list of **second wines** (and similar cuvées) from Bordeaux châteaux for Kelly. Second wines are made from younger vines or declassified lots from the grand vin; they offer the house style at a lower price and often drink earlier. Use when the user asks for "second wine," "baby Margaux," "Pavillon Rouge," "Petit Mouton," "Pagodes de Cos," or a bottle from this list. See also **bordeaux-overview.md**, **margaux.md**, **pessac-leognan.md**.
