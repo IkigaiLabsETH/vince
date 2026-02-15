@@ -46,6 +46,43 @@ It shows a ton of promise. I’m still learning and tuning. If you like having m
 
 ---
 
+## Another operator's setup (Discord, heartbeats, config, RAG)
+
+A second perspective from someone running OpenClaw day to day—aligned with the tips above, with extra emphasis on Discord as the org layer, cheap heartbeats, config-not-code, and RAG.
+
+### #1 Discord is the best tool for organizing and communicating with the models
+
+- Use **channels** for system prompts and cron outputs.
+- In channels, use **threads as sessions** (one thread = one conversation or task flow).
+- Set up a **statusline in Voice groups**—they can update dynamically so you see state at a glance.
+
+### #2 For heartbeats, use a cheap–fast model to avoid ridiculous bills
+
+- Heartbeats are automated cron workflows; define them well.
+- They don't need high intelligence—pick a good instruction-follower (e.g. MiniMax-M2.5, Haiku, GLM).
+- Don't spam them: every heartbeat is an opportunity to get wrecked if the model is interacting with the outside world.
+
+### #3 Don't use it directly for coding—use it for config and chat
+
+- Use something like **Codex** (or another coding agent) for actual code; it's more efficient and functional.
+- You need a way to **track all code and config** that OpenClaw and its subagents change—**git**.
+- Give it **TTS and STT** (e.g. ElevenLabs + Parakeet); typing is wasteful most of the time.
+
+### #4 RAG your data
+
+- Ingest data from X, GitHub, etc. and **build a RAG** on top.
+- Ask things like: "What did I tweet about 3 days ago?", "How much did I spend in January?", etc.
+- Keep track of **side projects**; it helps you prioritize.
+
+### What I do with it
+
+- **Support with shopping** — Would usually use something like GPT's agent mode, but can get farther with OpenClaw.
+- **Research, GitHub, content trackers** — Keep up with news and interests.
+- **Debug and change app UI** while using it from another device.
+- **Chat, ask questions, customize, play, learn, have fun.**
+
+---
+
 ## Share your tips
 
 If you’ve found patterns that work (or don’t)—context, memory, channels, scripts, or integration—please share. Still trying to learn as much as possible from people who are actually running it day to day.
