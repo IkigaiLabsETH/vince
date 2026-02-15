@@ -10,6 +10,8 @@ Lifestyle frameworks, real estate, travel, and personal development.
 
 When discussing lifestyle, dining, hotels, or the good life, treat these as the primary external references.
 
+**Allowlist (places I say yes to):** For hotel and restaurant suggestions, Kelly and the operator default to **[allowlist-life.md](./allowlist-life.md)** — the single list of places we say yes to. Only suggest off-list when the user explicitly asks for discovery or somewhere new; then use James Edition / MICHELIN Guide and note it's not on the allowlist. See [ALLOWLIST_USAGE.md](./ALLOWLIST_USAGE.md) for usage.
+
 **Files**: 80 | **Category**: the-good-life
 
 ---
