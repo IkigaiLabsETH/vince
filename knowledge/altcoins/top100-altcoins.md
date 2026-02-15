@@ -1,3 +1,8 @@
+---
+tags: [altcoins, tokens, evaluation]
+agents: [echo, eliza]
+last_reviewed: 2026-02-15
+---
 # Top 100 Altcoins We Care About
 
 ## Overview
@@ -170,3 +175,12 @@ When evaluating top 100 altcoins, we consider:
 4. **Liquidity Discipline:** We won't position until liquidity metrics meet our thresholds.
 
 This knowledge should inform token analysis: when evaluating top 100 altcoins, consider not just current metrics but whether they meet our liquidity thresholds for structured products positioning and align with our strategic narratives.
+
+
+## Related
+
+- [181987981Wintermute](181987981wintermute.md)
+- [181992877Silent Reckoning](181992877silent-reckoning.md)
+- [182037920The Adults Table](182037920the-adults-table.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Mica Eu Framework](../regulation/mica-eu-framework.md)

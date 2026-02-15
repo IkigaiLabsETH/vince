@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Fidenza
 
 OpenSea Slug: `fidenza-by-tyler-hobbs`
@@ -78,3 +83,12 @@ If I had to bet on what generative art will still be discussed in 50 years, Fide
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Hackatao](hackatao.md)
+- [Pudgypenguins](pudgypenguins.md)
+- [Unigrids By Zeblocks](unigrids-by-zeblocks.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)

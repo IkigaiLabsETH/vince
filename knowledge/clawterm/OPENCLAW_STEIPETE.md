@@ -1,3 +1,8 @@
+---
+tags: [general]
+agents: [eliza]
+last_reviewed: 2026-02-15
+---
 # steipete (OpenClaw lead)
 
 **Peter Steinberger (steipete)** leads OpenClaw. GitHub: **https://github.com/steipete**

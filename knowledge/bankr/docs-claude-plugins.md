@@ -1,3 +1,8 @@
+---
+tags: [bankr, trading, protocol]
+agents: [otaku, eliza]
+last_reviewed: 2026-02-15
+---
 ## Methodology & Framework
 
 **Core Concepts:**
@@ -150,3 +155,10 @@ For full feature access, use the Agent API or the bankr-agent plugin.
 - [bankr-x402-sdk-dev](https://docs.bankr.bot/claude-plugins/bankr-x402-sdk-dev)
 - [@bankr/sdk docs](https://docs.bankr.bot/sdk/installation)
 - [Agent API](https://docs.bankr.bot/agent-api/overview)
+
+
+## Related
+
+- [Docs Agent Api](docs-agent-api.md)
+- [Docs Features Table](docs-features-table.md)
+- [Docs Token Launching](docs-token-launching.md)

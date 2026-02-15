@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # 720 Minutes
 
 OpenSea Slug: `720-minutes-by-alexis-andre`
@@ -58,3 +63,10 @@ Art Blocks Curated. Temporal work: consider how you’ll display it. Verify proj
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Curio Cards](curio-cards.md)
+- [Pigments By Darien Brito](pigments-by-darien-brito.md)
+- [Qql](qql.md)

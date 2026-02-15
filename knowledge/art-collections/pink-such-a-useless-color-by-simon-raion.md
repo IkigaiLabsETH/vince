@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Pink. Unidentified. Such a Useless Color!
 
 OpenSea Slug: `pink-such-a-useless-color-by-simon-raion`
@@ -58,3 +63,12 @@ Understand what you’re buying: NFT only, or NFT + physical. Verify platform an
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Cool Cats Nft](cool-cats-nft.md)
+- [Fvckrender](fvckrender.md)
+- [Subscapes By Matt Deslauriers](subscapes-by-matt-deslauriers.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Terraforms
 
 OpenSea Slug: `terraforms`
@@ -60,3 +65,10 @@ Terraforms is underrated in the “greatest on-chain experiments” conversation
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Aligndraw](aligndraw.md)
+- [Mfers](mfers.md)
+- [Pak Merge](pak-merge.md)

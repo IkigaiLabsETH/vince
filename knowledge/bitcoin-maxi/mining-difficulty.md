@@ -1,3 +1,8 @@
+---
+tags: [bitcoin, macro, investment]
+agents: [eliza]
+last_reviewed: 2026-02-15
+---
 # Bitcoin Mining: The Hidden Centralization Crisis
 
 Bitcoin mining has a problem. Everyone sees it as this magical process of machines running 24/7, printing money and securing the backbone of bitcoin. But the truth is pretty ugly. Behind the scenes, Bitcoin is being infiltrated by the same virus Big Tech got not so long ago, and if we don't fix it, Bitcoin could literally die from the inside out.
@@ -302,3 +307,12 @@ The fight's not over. It just looks different now.
 4. **Open-source is the solution**: Bitaxe, Proto, 256 Foundation, and OCEAN are fighting back
 5. **Individual action matters**: Running your own node or miner protects the network for everyone
 6. **The threat is internal, not external**: Convenience and corporate control are more dangerous than government attacks
+
+
+## Related
+
+- [180513790The Ultimate Game](180513790the-ultimate-game.md)
+- [180557091The Final Red Pill](180557091the-final-red-pill.md)
+- [182566635Prompt Design Year Report](182566635prompt-design-year-report.md)
+- [Account Abstraction](../chain-abstraction/account-abstraction.md)
+- [Intent Based Trading](../chain-abstraction/intent-based-trading.md)

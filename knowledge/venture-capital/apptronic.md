@@ -1,3 +1,8 @@
+---
+tags: [vc, startups, investment]
+agents: [eliza]
+last_reviewed: 2026-02-15
+---
 # Apptronik
 ## Metadata
 **Source**: Internal memo (compiled note; not a primary source)

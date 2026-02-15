@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Moonbirds
 
 OpenSea Slug: `moonbirds`
@@ -58,3 +63,10 @@ Moonbirds captured 2022 PFP hype and then the crash. The project isn’t dead—
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [100 Sunsets By Zach Lieberman](100-sunsets-by-zach-lieberman.md)
+- [Hyperhash By Beervangeer](hyperhash-by-beervangeer.md)
+- [Progression By Jeff Davis](progression-by-jeff-davis.md)

@@ -1,3 +1,8 @@
+---
+tags: [general]
+agents: [eliza]
+last_reviewed: 2026-02-15
+---
 # Prompt #28: Blockchain.com (Blockchain Metrics & Hash Rate)
 
 **Priority**: Tier 3 - Supporting  

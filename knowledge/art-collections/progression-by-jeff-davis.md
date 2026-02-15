@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Progression
 
 OpenSea Slug: `progression-by-jeff-davis`
@@ -62,3 +67,12 @@ Too early to call it over- or underrated. I’d treat it as a “watch” projec
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [An Overview Digital Art](an-overview-digital-art.md)
+- [Cryptopunks](cryptopunks.md)
+- [Pudgypenguins](pudgypenguins.md)
+- [Cross Chain Bridges V2](../chain-abstraction/cross-chain-bridges-v2.md)
+- [Intent Based Trading](../chain-abstraction/intent-based-trading.md)

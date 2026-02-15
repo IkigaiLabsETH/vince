@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Skulptuur
 
 OpenSea Slug: `skulptuur-by-piter-pasma`
@@ -64,3 +69,12 @@ If you’re into 3D generative art or demoscene history, Skulptuur deserves a pl
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Clonex](clonex.md)
+- [Singularity By Hideki Tsukamoto](singularity-by-hideki-tsukamoto.md)
+- [The Vault Of Wonders Chapter 1 The Abyssal Unseen](the-vault-of-wonders-chapter-1-the-abyssal-unseen.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)

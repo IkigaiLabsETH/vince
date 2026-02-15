@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Strands of Solitude
 
 OpenSea Slug: `strands-of-solitude`
@@ -58,3 +63,12 @@ Strands of Solitude is Mapan at his most thematic. The “connection vs. isolati
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Doodles Official](doodles-official.md)
+- [Pak Merge](pak-merge.md)
+- [Trichro Matic By Mountvitruvius](trichro-matic-by-mountvitruvius.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)

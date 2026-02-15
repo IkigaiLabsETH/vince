@@ -1,3 +1,8 @@
+---
+tags: [bankr, trading, protocol]
+agents: [otaku, eliza]
+last_reviewed: 2026-02-15
+---
 ## Methodology & Framework
 
 **Core Concepts:**
@@ -102,3 +107,12 @@ https://github.com/BankrBot/bankr-api-examples
 
 - Authentication, User Info, Prompt Endpoint, Job Management
 - Sign Endpoint, Submit Endpoint, Transaction Types, CLI
+
+
+## Related
+
+- [Ai Crypto Overview](../ai-crypto/ai-crypto-overview.md)
+- [Inference Markets](../ai-crypto/inference-markets.md)
+- [Docs Features Prompts](docs-features-prompts.md)
+- [Docs Overview](docs-overview.md)
+- [Openclaw Skill Bankr](openclaw-skill-bankr.md)

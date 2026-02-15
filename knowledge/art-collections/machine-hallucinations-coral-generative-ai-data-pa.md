@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Machine Hallucinations: Coral — Generative AI Data Painting
 
 OpenSea Slug: `machine-hallucinations-coral-generative-ai-data-pa`
@@ -64,3 +69,12 @@ Coral is Anadol at his most “spectacle + impact.” The data pipeline, the Mia
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Archetype By Kjetil Golid](archetype-by-kjetil-golid.md)
+- [Doodles Official](doodles-official.md)
+- [Risk Reward By Kjetil Golid](risk-reward-by-kjetil-golid.md)
+- [Chain Abstraction Overview](../chain-abstraction/chain-abstraction-overview.md)
+- [Intent Based Trading](../chain-abstraction/intent-based-trading.md)

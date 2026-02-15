@@ -1,3 +1,8 @@
+---
+tags: [regulation, compliance, legal]
+agents: [oracle, eliza]
+last_reviewed: 2026-02-15
+---
 # Crypto ETF Landscape
 
 ## Methodology & Framework

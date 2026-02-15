@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Trichro-matic
 
 OpenSea Slug: `trichro-matic-by-mountvitruvius`
@@ -58,3 +63,12 @@ Trichro-matic is MountVitruvius at his best: technically ambitious and emotional
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Ignition By Ge1Doot](ignition-by-ge1doot.md)
+- [Kinoko Dreams By Richard Nadler](kinoko-dreams-by-richard-nadler.md)
+- [Mutant Ape Yacht Club](mutant-ape-yacht-club.md)
+- [Rwa Vs Defi Yields](../rwa/rwa-vs-defi-yields.md)
+- [Tokenized Treasuries](../rwa/tokenized-treasuries.md)

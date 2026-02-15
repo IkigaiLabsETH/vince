@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # 27-Bit Digital
 
 OpenSea Slug: `27-bit-digital-by-kai`
@@ -58,3 +63,10 @@ Art Blocks Curated. Verify project and contract. Open-source code available. Ess
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Curio Cards](curio-cards.md)
+- [Inspirals By Radix](inspirals-by-radix.md)
+- [Pop Wonder Superrare](pop-wonder-superrare.md)

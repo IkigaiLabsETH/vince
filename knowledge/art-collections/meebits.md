@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Meebits
 
 OpenSea Slug: `meebits`
@@ -58,3 +63,10 @@ Meebits are the middle child of Larva Labs. Less historic than Punks, less intel
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Pop Wonder Superrare](pop-wonder-superrare.md)
+- [Skulptuur By Piter Pasma](skulptuur-by-piter-pasma.md)
+- [Subscapes By Matt Deslauriers](subscapes-by-matt-deslauriers.md)

@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # FVCKRENDER
 
 OpenSea Slug: `fvckrender`
@@ -58,3 +63,10 @@ FVCKRENDER has a clear visual language. The crystal work is recognisable. Not ov
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [_Template](_TEMPLATE.md)
+- [Justin Aversano Twin Flames](justin-aversano-twin-flames.md)
+- [Rare Pepes](rare-pepes.md)

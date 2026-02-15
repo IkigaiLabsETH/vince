@@ -1,3 +1,8 @@
+---
+tags: [bankr, trading, protocol]
+agents: [otaku, eliza]
+last_reviewed: 2026-02-15
+---
 ## Methodology & Framework
 
 **Core Concepts:**
@@ -71,3 +76,12 @@ Community-built skills for trading, social, and DeFi. One-click install. Your ag
 4. Fund your compute with the fees you earn
 
 Docs: https://docs.bankr.bot/
+
+
+## Related
+
+- [Ai Crypto Overview](../ai-crypto/ai-crypto-overview.md)
+- [Ai Tokens Evaluation](../ai-crypto/ai-tokens-evaluation.md)
+- [Docs Llm Gateway](docs-llm-gateway.md)
+- [Docs Sdk](docs-sdk.md)
+- [Docs Token Launching](docs-token-launching.md)

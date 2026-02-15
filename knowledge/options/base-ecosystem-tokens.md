@@ -1,3 +1,8 @@
+---
+tags: [trading, options, derivatives]
+agents: [solus, eliza]
+last_reviewed: 2026-02-15
+---
 # Base Ecosystem Tokens: Strategy & Positioning
 
 ## Overview

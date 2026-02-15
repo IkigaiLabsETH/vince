@@ -1,3 +1,8 @@
+---
+tags: [trading, memecoins, degen]
+agents: [echo, eliza]
+last_reviewed: 2026-02-15
+---
 ## Methodology and Framework
 
 **Key Concepts:**
@@ -196,3 +201,12 @@ The boosted approach wins despite lower raw volume.
 - Boost multipliers and tier targets determine optimal strategy
 - Weekly rhythm and session selection matter for execution
 - Framework applies regardless of specific boost values or tier thresholds
+
+
+## Related
+
+- [179665925You Shouldnt Do Crypto](179665925you-shouldnt-do-crypto.md)
+- [180242263Fair Launch](180242263fair-launch.md)
+- [180806522The Throne](180806522the-throne.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)

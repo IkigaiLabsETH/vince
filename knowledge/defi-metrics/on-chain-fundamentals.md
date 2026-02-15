@@ -1,3 +1,8 @@
+---
+tags: [defi, protocols, metrics]
+agents: [otaku, eliza]
+last_reviewed: 2026-02-15
+---
 # On-Chain Analytics Fundamentals
 
 ## Core Metrics
@@ -238,3 +243,12 @@
 
 *Knowledge Version: 1.0*
 *Focus: Practical on-chain analysis for market intelligence*
+
+
+## Related
+
+- [180145295Long Live The Battery](180145295long-live-the-battery.md)
+- [181420524The Big Six](181420524the-big-six.md)
+- [182125879Fixed Rate Fantasy](182125879fixed-rate-fantasy.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)

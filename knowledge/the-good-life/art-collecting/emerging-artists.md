@@ -1,3 +1,8 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Emerging Artists to Watch
 
 This document tracks emerging artists and projects on our radar. These are Tier 3-4 opportunities with potential to become established.

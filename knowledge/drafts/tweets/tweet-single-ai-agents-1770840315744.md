@@ -4,6 +4,7 @@ topic: "ai agents"
 created: 2026-02-11T20:05:15.744Z
 target: @ikigaistudioxyz
 status: draft
+last_reviewed: 2026-02-15
 ---
 
 Running DRAFT_TWEETS to create a punchy standalone tweet about AI agents.
@@ -25,3 +26,9 @@ The real disruption isn't job loss. It's finally getting to do the work that act
 **Character count:** 199/280
 
 **Why this works:** Takes a contrarian position against the doom narrative, reframes AI as liberation rather than replacement, and ends with aspiration rather than fear. Sharp but optimistic.
+
+
+## Related
+
+- [Ai Agents Onchain](../../ai-crypto/ai-agents-onchain.md)
+- [Ai Crypto Overview](../../ai-crypto/ai-crypto-overview.md)

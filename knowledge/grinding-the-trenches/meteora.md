@@ -1,3 +1,8 @@
+---
+tags: [trading, memecoins, degen]
+agents: [echo, eliza]
+last_reviewed: 2026-02-15
+---
 # Meteora LP DCA Strategy: Grinding Volatile Memecoins
 
 ## The Problem with Trading Memecoins
@@ -298,3 +303,12 @@ To add new pools, update the `TARGET_POOLS` array with:
 ```
 
 The plugin automatically finds the highest-volume pool for each configured pair.
+
+
+## Related
+
+- [Pumpdotfun](pumpdotfun.md)
+- [Ten Ten](ten-ten.md)
+- [Treadfi Optimization Framework](treadfi-optimization-framework.md)
+- [Market Regime Detection](../trading/market-regime-detection.md)
+- [Risk Management Framework](../trading/risk-management-framework.md)

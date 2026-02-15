@@ -1,3 +1,8 @@
+---
+tags: [bankr, trading, protocol]
+agents: [otaku, eliza]
+last_reviewed: 2026-02-15
+---
 ## Methodology & Framework
 
 **Core Concepts:**
@@ -102,3 +107,10 @@ Synchronous: **POST /agent/sign** (messages, typed data, tx without broadcast), 
 - Agent API: https://www.notion.so/Agent-API-2e18e0f9661f80cb83ccfc046f8872e3
 - API keys: https://bankr.bot/api
 - Terminal: https://bankr.bot/terminal
+
+
+## Related
+
+- [Docs Features Prompts](docs-features-prompts.md)
+- [Docs Llm Gateway](docs-llm-gateway.md)
+- [Docs Token Launching](docs-token-launching.md)

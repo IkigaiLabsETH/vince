@@ -1,38 +1,24 @@
-# RWA Knowledge
+# rwa
 
-## Overview
+Real-world asset tokenization, evaluation frameworks
 
-Real-world asset tokenization: market overview, product analysis, and evaluation frameworks.
+**Files**: 9
 
-**Files**: 5 | **Category**: rwa
+## Contents
 
----
+- ondo-finance-deep-dive.md
+- rwa-evaluation-framework.md
+- rwa-frameworks.md
+- rwa-on-chain-signals.md
+- rwa-overview-2026.md
+- rwa-regulatory-landscape.md
+- rwa-vs-defi-yields.md
+- tokenized-private-credit.md
+- tokenized-treasuries.md
 
-## Key Files
 
-- [rwa frameworks](./rwa-frameworks.md) (364 words) — foundational RWA reasoning framework
-- [rwa overview 2026](./rwa-overview-2026.md) (550 words) — market size, growth, chains, institutional adoption
-- [tokenized treasuries](./tokenized-treasuries.md) (580 words) — BUIDL, USYC, USDY, BENJI, OUSG mechanics and comparison
-- [ondo finance deep dive](./ondo-finance-deep-dive.md) (620 words) — OUSG, USDY, tokenized stocks, Ondo Chain
-- [rwa evaluation framework](./rwa-evaluation-framework.md) (680 words) — 6-dimension framework for evaluating RWA protocols
+## Related Categories
 
----
-
-## Frameworks & Methodologies
-
-- rwa frameworks — asset class, legal structure, yield/risk reasoning
-- rwa evaluation framework — legal, custody, oracle, redemption, compliance, composability
-- tokenized treasuries — product comparison framework
-- ondo finance deep dive — competitive positioning analysis
-
----
-
-## Usage Notes
-
-- Focus on **methodologies and frameworks**, not specific numbers
-- Numbers and prices in files may be outdated - they illustrate concepts
-- Use your actions/APIs to get current data, apply frameworks from knowledge
-
----
-
-*Last updated: 2026-02-15*
+- [stablecoins](../stablecoins/)
+- [regulation](../regulation/)
+- [defi-metrics](../defi-metrics/)

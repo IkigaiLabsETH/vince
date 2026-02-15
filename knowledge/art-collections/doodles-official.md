@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Doodles
 
 OpenSea Slug: `doodles-official`
@@ -58,3 +63,10 @@ Doodles earned its place. The aesthetic is distinct; the team executed. I’m le
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Fidenza By Tyler Hobbs](fidenza-by-tyler-hobbs.md)
+- [Fvckrender](fvckrender.md)
+- [Jaknfthoodies](jaknfthoodies.md)

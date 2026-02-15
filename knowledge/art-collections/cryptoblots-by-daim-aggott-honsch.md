@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Cryptoblots
 
 OpenSea Slug: `cryptoblots-by-daim-aggott-honsch`
@@ -58,3 +63,12 @@ Cryptoblots is a thoughtful, underrated entry in the Natively Digital set. The p
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Archetype By Kjetil Golid](archetype-by-kjetil-golid.md)
+- [Autoglyphs](autoglyphs.md)
+- [Sightseers By Norman Harman](sightseers-by-norman-harman.md)
+- [Account Abstraction](../chain-abstraction/account-abstraction.md)
+- [Intent Based Trading](../chain-abstraction/intent-based-trading.md)

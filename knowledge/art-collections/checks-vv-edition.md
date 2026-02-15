@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Checks (VV Edition)
 
 OpenSea Slug: `checks-vv-edition`
@@ -58,3 +63,12 @@ Checks is Butcher at his most direct. The commentary landed; the market responde
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [_Template](_TEMPLATE.md)
+- [Brokenkeys](brokenkeys.md)
+- [Inspirals By Radix](inspirals-by-radix.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

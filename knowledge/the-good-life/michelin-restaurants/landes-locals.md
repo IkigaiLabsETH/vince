@@ -1,3 +1,8 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Landes Local Favorites
 
 > **Note**: These are LUNCH spots - we almost never eat out at night.

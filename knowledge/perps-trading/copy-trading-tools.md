@@ -1,3 +1,8 @@
+---
+tags: [trading, derivatives, perps]
+agents: [solus, eliza]
+last_reviewed: 2026-02-15
+---
 # Copy Trading Tools for Hyperliquid
 
 > **📌 Knowledge Base Note**

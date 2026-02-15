@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Goblintown
 
 OpenSea Slug: `goblintown`
@@ -58,3 +63,10 @@ Goblintown was a mood. It captured bear-market nihilism and turned it into a col
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Aerial View By Dalenz](aerial-view-by-dalenz.md)
+- [Orbifold By Kjetil Golid](orbifold-by-kjetil-golid.md)
+- [Vera Molnar Themes And Variations](vera-molnar-themes-and-variations.md)

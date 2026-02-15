@@ -1,3 +1,8 @@
+---
+tags: [lifestyle, luxury, hotels]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Southwest France Hotels Index
 
 > **Master reference for all our favorite hotels across the region**

@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Grant Yun
 
 OpenSea Slug: `grant-yun`
@@ -58,3 +63,10 @@ Grant Yun is a serious digital artist. Neo-Precisionism gives him a hook; the ex
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Art Blocks](art-blocks.md)
+- [Construction Token By Jeff Davis](construction-token-by-jeff-davis.md)
+- [Lifeguard Towers Miami](lifeguard-towers-miami.md)

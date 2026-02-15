@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # The Eternal Pump
 
 OpenSea Slug: `the-eternal-pump-by-dmitri-cherniak`
@@ -58,3 +63,12 @@ The Eternal Pump is Cherniak doing concept with constraint. The market-cycle ang
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Archetype By Kjetil Golid](archetype-by-kjetil-golid.md)
+- [Fvckrender](fvckrender.md)
+- [Loot For Adventurers](loot-for-adventurers.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Etf Landscape](../regulation/etf-landscape.md)

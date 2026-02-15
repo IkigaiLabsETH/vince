@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # XCOPY (KnownOrigin)
 
 OpenSea Slug: `xcopy-knownorigin`
@@ -68,3 +73,10 @@ From a market angle, he’s blue-chip 1/1. The KnownOrigin collection is the can
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Memories Of Qilin By Emily Xie](memories-of-qilin-by-emily-xie.md)
+- [Nimbuds By Bryan Brinkman](nimbuds-by-bryan-brinkman.md)
+- [Progression By Jeff Davis](progression-by-jeff-davis.md)

@@ -1,3 +1,8 @@
+---
+tags: [commodities, macro, investment]
+agents: [oracle, eliza]
+last_reviewed: 2026-02-15
+---
 # Gold-BTC Correlation Analysis
 
 ## Methodology & Framework
@@ -33,3 +38,10 @@ Monitor the gold/BTC ratio for mean reversion trades. Extreme readings (>40 oz g
 **Key principle**: BTC is a call option on monetary debasement with equity-like vol. Gold is insurance against systemic risk with bond-like vol. They complement, not substitute. The "digital gold" framing is useful for narrative but misleading for portfolio construction — treat them as distinct allocations serving different purposes.
 
 *Last updated: 2026-02-15*
+
+
+## Related
+
+- [182321102The Humbling](182321102the-humbling.md)
+- [182620956Great Rotation](182620956great-rotation.md)
+- [Inflation Hedging Framework](inflation-hedging-framework.md)

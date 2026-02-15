@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Genesis
 
 OpenSea Slug: `genesis-by-dca`
@@ -58,3 +63,12 @@ Genesis is an underrated piece of Art Blocks lore. It’s not as flashy as later
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Inspirals By Radix](inspirals-by-radix.md)
+- [The Harvest By Per Kristian Stoveland](the-harvest-by-per-kristian-stoveland.md)
+- [Vera Molnar Themes And Variations](vera-molnar-themes-and-variations.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # World of Women
 
 OpenSea Slug: `world-of-women-nft`
@@ -58,3 +63,10 @@ WoW earned its place. The art is strong; the mission matters. I’d rank it as e
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Drift By Isaac Wright](drift-by-isaac-wright.md)
+- [Orbifold By Kjetil Golid](orbifold-by-kjetil-golid.md)
+- [Sam Spratt Masks Of Luci](sam-spratt-masks-of-luci.md)

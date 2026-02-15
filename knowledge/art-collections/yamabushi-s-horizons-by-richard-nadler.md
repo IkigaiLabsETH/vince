@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Yamabushi’s Horizons
 
 OpenSea Slug: `yamabushi-s-horizons-by-richard-nadler`
@@ -58,3 +63,12 @@ Yamabushi’s Horizons is Nadler at his most spiritually attuned. The sales refl
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Ethereal Fragments By Pplpleasr](ethereal-fragments-by-pplpleasr.md)
+- [Fragments Of An Infinite Field By Monica Rizzolli](fragments-of-an-infinite-field-by-monica-rizzolli.md)
+- [Jaknfthoodies](jaknfthoodies.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)

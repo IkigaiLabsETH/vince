@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Opepen Edition
 
 OpenSea Slug: `opepen-edition`
@@ -58,3 +63,12 @@ Opepen is Butcher doing “meme as system.” The 16K scale and the artist-set m
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Art Blocks](art-blocks.md)
+- [Ethereal Fragments By Pplpleasr](ethereal-fragments-by-pplpleasr.md)
+- [Winds Of Yawanawa](winds-of-yawanawa.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Enforcement Case Studies](../regulation/enforcement-case-studies.md)

@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Non Either
 
 OpenSea Slug: `non-either-by-rafael-rozendaal`
@@ -58,3 +63,12 @@ Non Either is a serious artist doing a small, focused generative set. It won’t
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Chromie Squiggle By Snowfro](chromie-squiggle-by-snowfro.md)
+- [Human Unreadable By Operator](human-unreadable-by-operator.md)
+- [Urban Transportation Red Trucks](urban-transportation-red-trucks.md)
+- [Chain Abstraction Overview](../chain-abstraction/chain-abstraction-overview.md)
+- [Cross Chain Bridges V2](../chain-abstraction/cross-chain-bridges-v2.md)

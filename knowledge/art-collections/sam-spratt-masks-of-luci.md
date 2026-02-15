@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Masks of Luci
 
 OpenSea Slug: `sam-spratt-masks-of-luci`
@@ -64,3 +69,12 @@ Masks of Luci is serious narrative NFT art. Spratt commits to the bit—story, c
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [_Template](_TEMPLATE.md)
+- [Chromie Squiggle By Snowfro](chromie-squiggle-by-snowfro.md)
+- [Xcopy Knownorigin](xcopy-knownorigin.md)
+- [Account Abstraction](../chain-abstraction/account-abstraction.md)
+- [Cross Chain Bridges V2](../chain-abstraction/cross-chain-bridges-v2.md)

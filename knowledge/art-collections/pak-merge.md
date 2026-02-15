@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Pak – Merge
 
 OpenSea Slug: `pak-merge`
@@ -58,3 +63,12 @@ Merge is one of the sharpest NFT projects ever. Pak didn’t just make a pretty 
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Moonbirds](moonbirds.md)
+- [Mutant Ape Yacht Club](mutant-ape-yacht-club.md)
+- [World Of Women Nft](world-of-women-nft.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Etf Landscape](../regulation/etf-landscape.md)

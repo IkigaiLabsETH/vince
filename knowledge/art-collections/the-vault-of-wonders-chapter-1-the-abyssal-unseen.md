@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # The Vault of Wonders: Chapter 1 — The Abyssal Unseen
 
 OpenSea Slug: `the-vault-of-wonders-chapter-1-the-abyssal-unseen`
@@ -58,3 +63,10 @@ The Abyssal Unseen is a coherent AI-video project with a clear concept. The cabi
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [100 Sunsets By Zach Lieberman](100-sunsets-by-zach-lieberman.md)
+- [24 Hours Of Art](24-hours-of-art.md)
+- [Cryptoblots By Daim Aggott Honsch](cryptoblots-by-daim-aggott-honsch.md)

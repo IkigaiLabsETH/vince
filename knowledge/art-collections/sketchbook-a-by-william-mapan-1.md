@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Sketchbook A
 
 OpenSea Slug: `sketchbook-a-by-william-mapan-1`
@@ -58,3 +63,12 @@ Sketchbook A is Mapan at his most approachable. The constraint (sketch-like, pla
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Cool Cats Nft](cool-cats-nft.md)
+- [Spectron By Simon De Mai](spectron-by-simon-de-mai.md)
+- [Urban Transportation Red Trucks](urban-transportation-red-trucks.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

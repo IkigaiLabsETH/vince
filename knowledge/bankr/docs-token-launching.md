@@ -1,3 +1,8 @@
+---
+tags: [bankr, trading, protocol]
+agents: [otaku, eliza]
+last_reviewed: 2026-02-15
+---
 ## Methodology & Framework
 
 **Core Concepts:**
@@ -91,3 +96,12 @@ Trading fees split: **Deployer 60%**, **Bankr 40%**. Fees accumulate in your tok
 - Vaulting and Vesting: https://docs.bankr.bot/token-launching/vaulting-vesting
 - Fee Splitting: https://docs.bankr.bot/token-launching/fee-splitting
 - Claiming Fees: https://docs.bankr.bot/token-launching/claiming-fees
+
+
+## Related
+
+- [Ai Agents Onchain](../ai-crypto/ai-agents-onchain.md)
+- [Inference Markets](../ai-crypto/inference-markets.md)
+- [Docs Claude Plugins](docs-claude-plugins.md)
+- [Docs Features Table](docs-features-table.md)
+- [Docs Sdk](docs-sdk.md)

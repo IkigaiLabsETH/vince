@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # QQL
 
 OpenSea Slug: `qql`
@@ -60,3 +65,12 @@ QQL is one of the most important generative projects of the last few years. The 
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [24 Hours Of Art](24-hours-of-art.md)
+- [Construction Token By Jeff Davis](construction-token-by-jeff-davis.md)
+- [Risk Reward By Kjetil Golid](risk-reward-by-kjetil-golid.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)

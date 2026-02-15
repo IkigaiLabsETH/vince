@@ -1,3 +1,8 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Basque Coast Fine Dining
 
 > **Region**: Biarritz, Anglet, Bidart, Guéthary, Bidarray, San Sebastian

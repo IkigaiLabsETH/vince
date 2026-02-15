@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Aerial View
 
 OpenSea Slug: `aerial-view-by-dalenz`
@@ -58,3 +63,12 @@ Aerial View is an underrated closer for the 2021 set. Worth knowing for collecto
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Art Blocks](art-blocks.md)
+- [Clonex](clonex.md)
+- [Non Either By Rafael Rozendaal](non-either-by-rafael-rozendaal.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

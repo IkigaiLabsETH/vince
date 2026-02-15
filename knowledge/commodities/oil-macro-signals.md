@@ -1,3 +1,8 @@
+---
+tags: [commodities, macro, investment]
+agents: [oracle, eliza]
+last_reviewed: 2026-02-15
+---
 # Oil as Macro Signal
 
 ## Methodology & Framework
@@ -41,3 +46,12 @@ Energy prices flow through to BTC mining economics with a ~2-3 month lag. Rising
 **Key principle**: Oil is a leading indicator for the liquidity and growth environment that crypto needs to thrive. Ignore oil at your peril — it's the real economy's heartbeat.
 
 *Last updated: 2026-02-15*
+
+
+## Related
+
+- [182321102The Humbling](182321102the-humbling.md)
+- [Gold Btc Correlation](gold-btc-correlation.md)
+- [Inflation Hedging Framework](inflation-hedging-framework.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

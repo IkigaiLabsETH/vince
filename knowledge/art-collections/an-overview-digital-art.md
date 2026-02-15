@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 
 
 > **📌 Knowledge Base Note**
@@ -154,3 +159,11 @@ Looking Forward
 As we enter Q1 2026, the market is not “back,” nor is it dead. It is quieter, more discerning, and slowly building the cultural infrastructure that any new medium requires. The primitives we highlighted years ago—provenance, permissionless distribution, embedded economics—are unchanged and, if anything, more battle-tested. The next phase will likely belong to works and artists that can transcend crypto’s tribal boundaries and speak to broader questions of creativity, ownership, and preservation in the digital age. Institutional engagement will accelerate gradually. New collectors will enter cautiously. And the pieces that survive this period of refinement will do so not because they were marketed best, but because they matter.
 
 We remain as convinced as ever that digital art on blockchain is not a passing experiment. It is an irreversible expansion of what art can be.
+
+## Related
+
+- [0Xdgb Thecameras](0xdgb-thecameras.md)
+- [Pursuit By Per Kristian Stoveland](pursuit-by-per-kristian-stoveland.md)
+- [Urban Transportation Red Trucks](urban-transportation-red-trucks.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)

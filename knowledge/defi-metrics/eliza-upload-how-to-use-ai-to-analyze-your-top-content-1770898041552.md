@@ -1,3 +1,8 @@
+---
+tags: [defi, protocols, metrics]
+agents: [otaku, eliza]
+last_reviewed: 2026-02-15
+---
 ## Methodology & Framework
 
 **Core Concepts:**
@@ -49,3 +54,10 @@ This piece argues creators should stop guessing and use AI to reverse-engineer t
 The recommended three-step method is concrete and platform-agnostic: 1) pull your top 20 posts by engagement (full text copied into one document); 2) run a “top performer” analysis in an AI model (Gemini, ChatGPT, Claude) using specific, structured prompts that request defined output formats and role assignments; 3) have AI convert the patterns into a one-page content playbook listing winning hooks, topics, and formats. The author emphasizes that surface metrics (views, likes) aren’t enough — you should ask the model to detect emotional triggers, hook sentence structures, recurring topics, and whether audiences prefer personal stories or data-driven arguments.
 
 Examples from the author’s own test show the practical payoff: AI revealed that his top posts opened with a specific credential tied to the topic and named a broken system or false belief readers were stuck in, while weaker posts “eased into the point,” tried to cover too many ideas, or started with context instead of conviction. A cited 2024 HubSpot study supports the approach: marketers using data-driven content strategies were 72% more likely to report positive ROI than those relying on intuition. The author warns the analysis quality hinges on prompt quality — vague prompts yield vague results — and says he built three precise prompts for this workflow (Top Performer Pattern Analysis, Hook Reverse-Engineering, Personal Content Playbook Generator). Paid subscribers are offered those exact prompts. *Your content library IS your game tape.*
+
+
+## Related
+
+- [180145295Long Live The Battery](180145295long-live-the-battery.md)
+- [181420524The Big Six](181420524the-big-six.md)
+- [182081573Stablecoin Supercycle](182081573stablecoin-supercycle.md)

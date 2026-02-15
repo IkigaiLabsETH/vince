@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Pop Wonder Editions
 
 OpenSea Slug: `pop-wonder-editions`
@@ -58,3 +63,10 @@ Pop Wonder Editions is a solid early crypto-art project with a clear voice. The 
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Genesis By Dca](genesis-by-dca.md)
+- [Orbifold By Kjetil Golid](orbifold-by-kjetil-golid.md)
+- [Wavyscape By Holger Lippmann](wavyscape-by-holger-lippmann.md)

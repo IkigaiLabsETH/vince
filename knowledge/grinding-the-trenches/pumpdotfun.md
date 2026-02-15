@@ -1,3 +1,8 @@
+---
+tags: [trading, memecoins, degen]
+agents: [echo, eliza]
+last_reviewed: 2026-02-15
+---
 
 
 ## Methodology & Framework
@@ -496,3 +501,12 @@ In crypto's relentless theater, the next prodigy will emerge with hype in tow. B
 - The rest will keep wondering why the music stopped
 
 In crypto's relentless theater, the next prodigy will emerge, hype in tow. But heed the metrics, the incentives, the portents—and perhaps spare yourself the inevitable burn.
+
+
+## Related
+
+- [180806522The Throne](180806522the-throne.md)
+- [Absolutely Rekt](absolutely-rekt.md)
+- [Treadfi Optimization Framework](treadfi-optimization-framework.md)
+- [Cross Chain Mev](../mev/cross-chain-mev.md)
+- [Mev Supply Chain](../mev/mev-supply-chain.md)

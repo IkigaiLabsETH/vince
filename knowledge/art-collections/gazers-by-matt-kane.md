@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Gazers
 
 OpenSea Slug: `gazers-by-matt-kane`
@@ -58,3 +63,10 @@ Gazers is one of the most conceptually ambitious Art Blocks projects. The moon s
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [24 Hours Of Art](24-hours-of-art.md)
+- [Azuki](azuki.md)
+- [Urban Transportation Red Trucks](urban-transportation-red-trucks.md)

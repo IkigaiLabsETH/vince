@@ -1,3 +1,8 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Home Cooking Equipment & Ideas
 
 Quick meal ideas for evenings at home, organized by cooking equipment.

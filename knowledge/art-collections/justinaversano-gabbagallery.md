@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Justin Aversano — Gabba Gallery
 
 OpenSea Slug: `justinaversano-gabbagallery`
@@ -64,3 +69,10 @@ Aversano is a pioneer of photography NFTs. Twin Flames deserves its place in the
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Jaknfthoodies](jaknfthoodies.md)
+- [Sketchbook A By William Mapan 1](sketchbook-a-by-william-mapan-1.md)
+- [The Eternal Pump By Dmitri Cherniak](the-eternal-pump-by-dmitri-cherniak.md)

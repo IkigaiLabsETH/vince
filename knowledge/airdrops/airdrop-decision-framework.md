@@ -1,3 +1,8 @@
+---
+tags: [general]
+agents: [eliza]
+last_reviewed: 2026-02-15
+---
 ## Methodology & Framework
 
 **Core Analytical Approach:**
@@ -272,3 +277,11 @@ High-Risk Wallet: Sketchy protocols
 - Use category-specific action templates
 - Wallet hygiene prevents catastrophic losses
 - Most airdrops aren't worth it - focus on the top tier
+
+## Related
+
+- [_Template](_template.md)
+- [Text Grok This Boost Activated For The Next 7 Days Trad 1769697076484](text-grok-this-boost-activated-for-the-next-7-days-trad-1769697076484.md)
+- [Why Usdai](why-usdai.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

@@ -1,3 +1,8 @@
+---
+tags: [general]
+agents: [eliza]
+last_reviewed: 2026-02-15
+---
 # OpenClaw Setup & Security Guide
 
 Two paths to running OpenClaw: a **Hetzner VPS** setup for quick, always-on hosting, and a **Raspberry Pi** setup with maximum privacy and hardening (Tailscale, Matrix E2E, Venice AI, prompt-injection defenses).
@@ -692,3 +697,12 @@ You now have an OpenClaw instance that:
 - Only responds to paired users (pairing in both parts).
 
 It’s not perfectly secure—nothing is. It’s better than pasting your life into a web chatbot. Use it with your eyes open, enjoy the convenience, and keep improving your habits and setup.
+
+
+## Related
+
+- [Ai Crypto Overview](../ai-crypto/ai-crypto-overview.md)
+- [Ai Tokens Evaluation](../ai-crypto/ai-tokens-evaluation.md)
+- [Business Idea Openclaw One Click](business-idea-openclaw-one-click.md)
+- [Plan One Click Install](plan-one-click-install.md)
+- [X Research Agent Curated Follows](x-research-agent-curated-follows.md)

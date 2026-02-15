@@ -1,3 +1,8 @@
+---
+tags: [general]
+agents: [eliza]
+last_reviewed: 2026-02-15
+---
 # Business Idea: OpenClaw One-Click & “What Actually Works”
 
 How the guides, one-click install plan, and practical tips could be turned into a profitable business.
@@ -97,3 +102,12 @@ How the guides, one-click install plan, and practical tips could be turned into 
 | Templates/course   | Medium | One-time/recurring | Once content and community exist |
 
 **Concrete next step**: Finish the one-click scripts (Phase 1 of the plan), publish them open-source, and put the “What actually works” + templates behind a one-time paywall. Use that to validate willingness to pay before building managed hosting or a subscription.
+
+
+## Related
+
+- [Instructions Clawdbot](instructions-clawdbot.md)
+- [Plan One Click Install](plan-one-click-install.md)
+- [X Research Agent Curated Follows](x-research-agent-curated-follows.md)
+- [Enforcement Case Studies](../regulation/enforcement-case-studies.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)

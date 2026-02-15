@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Pudgy Penguins
 
 OpenSea Slug: `pudgypenguins`
@@ -58,3 +63,10 @@ Pudgy is less interesting as art than as a case study. The Walmart move and the 
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Ackcolorstudy](ackcolorstudy.md)
+- [Beeple Genesis](beeple-genesis.md)
+- [Day Gardens](day-gardens.md)

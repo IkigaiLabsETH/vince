@@ -1,3 +1,8 @@
+---
+tags: [general]
+agents: [eliza]
+last_reviewed: 2026-02-15
+---
 # Prompt #4: CryptoQuant (On-Chain Data & Flows)
 
 **Priority**: Tier 1 - MVP Critical  

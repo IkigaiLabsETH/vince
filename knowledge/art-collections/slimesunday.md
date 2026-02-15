@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Slimesunday
 
 OpenSea Slug: `slimesunday`
@@ -58,3 +63,10 @@ Slimesunday occupies a clear niche—collage, music, energy. Not overrated. Wort
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Beeple Genesis](beeple-genesis.md)
+- [Inspirals By Radix](inspirals-by-radix.md)
+- [Skulptuur By Piter Pasma](skulptuur-by-piter-pasma.md)

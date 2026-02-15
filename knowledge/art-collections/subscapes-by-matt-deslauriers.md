@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Subscapes
 
 OpenSea Slug: `subscapes-by-matt-deslauriers`
@@ -58,3 +63,10 @@ Subscapes is DesLauriers at his most technical. The open source and the export o
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Hackatao](hackatao.md)
+- [Progression By Jeff Davis](progression-by-jeff-davis.md)
+- [Urban Transportation Red Trucks](urban-transportation-red-trucks.md)

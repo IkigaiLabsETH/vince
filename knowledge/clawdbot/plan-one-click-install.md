@@ -1,3 +1,8 @@
+---
+tags: [general]
+agents: [eliza]
+last_reviewed: 2026-02-15
+---
 # Plan: One-Click OpenClaw Install Flow
 
 A single, repeatable flow that implements the [setup & security guide](instructions-clawdbot.md) and bakes in [practical tips](openclaw-practical-tips.md): private Discord with channels, small/script-like tasks, and safe defaults so OpenClaw is useful from day one without bad loops or overload.
@@ -175,3 +180,12 @@ Repo root could have a single “one-click” entry that points at `knowledge/cl
 6. Optionally add Discord server-creation helper and/or Hetzner Terraform in Phase 3.
 
 This plan ties the one-click flow directly to the security guide and the practical tips so the installed system is both secure and set up for success (channels, small tasks, clear boundaries).
+
+
+## Related
+
+- [Instructions Clawdbot](instructions-clawdbot.md)
+- [Openclaw Practical Tips](openclaw-practical-tips.md)
+- [X Research Agent Curated Follows](x-research-agent-curated-follows.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

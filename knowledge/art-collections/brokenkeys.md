@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Broken Keys
 
 OpenSea Slug: `brokenkeys`
@@ -58,3 +63,12 @@ Broken Keys is ACK at his most personal. The piano hook and the build-up of docu
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Aligndraw](aligndraw.md)
+- [Clonex](clonex.md)
+- [Incomplete Control By Tyler Hobbs](incomplete-control-by-tyler-hobbs.md)
+- [Account Abstraction](../chain-abstraction/account-abstraction.md)
+- [Chain Abstraction Overview](../chain-abstraction/chain-abstraction-overview.md)

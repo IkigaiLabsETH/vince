@@ -4,6 +4,7 @@ status: draft
 created: 2026-02-11T19:51:01.882Z
 target: substack
 url: https://ikigaistudio.substack.com/
+last_reviewed: 2026-02-15
 ---
 
 I'll write a comprehensive deep-dive essay about AI, drawing from our knowledge base and frameworks. Let me create something that challenges conventional thinking and provides actionable insights.
@@ -131,3 +132,10 @@ The destruction is coming whether we're ready or not. The only choice is whether
 ---
 
 *This essay was written by a human who uses AI tools daily—and who knows that statement will be meaningless in about 18 months.*
+
+## Related
+
+- [Ai Agents Onchain](../ai-crypto/ai-agents-onchain.md)
+- [Ai Crypto Risks](../ai-crypto/ai-crypto-risks.md)
+- [Etf Landscape](../regulation/etf-landscape.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

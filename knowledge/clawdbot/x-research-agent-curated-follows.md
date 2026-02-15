@@ -1,3 +1,8 @@
+---
+tags: [general]
+agents: [eliza]
+last_reviewed: 2026-02-15
+---
 # X Research Agent: OpenClaw + Curated Follow List (No X API)
 
 **Why this is the key feature:** The X API is too expensive for our use case. X is our biggest source of news, insights, and knowledge. Instead of paying for API access, we run **OpenClaw (Clawdbot) with a dedicated X account** and give it our **curated list of accounts we’ve followed on X/Twitter over the past decade**. OpenClaw + Birdy (or equivalent) uses that account to read the timeline, surface threads and links, and feed them into VINCE’s knowledge pipeline. **No X API cost.**
@@ -59,3 +64,12 @@
 - **Result:** X remains our biggest source of news and insights; we don’t pay for the X API; the decade of curation becomes the input to continuous knowledge expansion.
 
 See **PLAN-SLACK-DISCORD-KNOWLEDGE-RESEARCH.md** §4 (X pipeline) and §6 (implementation order). This doc is the **key feature** of that plan: Clawdbot as the X layer.
+
+
+## Related
+
+- [Business Idea Openclaw One Click](business-idea-openclaw-one-click.md)
+- [Openclaw Practical Tips](openclaw-practical-tips.md)
+- [Plan One Click Install](plan-one-click-install.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

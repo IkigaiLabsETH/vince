@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Dataland — Biome Lumina
 
 OpenSea Slug: `dataland-biomelumina`
@@ -58,3 +63,12 @@ Biome Lumina is Anadol doing “nature as data” at scale. The triple output an
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Day Gardens](day-gardens.md)
+- [Drift By Isaac Wright](drift-by-isaac-wright.md)
+- [Ethereal Fragments By Pplpleasr](ethereal-fragments-by-pplpleasr.md)
+- [Chain Abstraction Overview](../chain-abstraction/chain-abstraction-overview.md)
+- [Intent Based Trading](../chain-abstraction/intent-based-trading.md)

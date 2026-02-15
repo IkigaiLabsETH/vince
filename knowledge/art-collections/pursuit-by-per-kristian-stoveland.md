@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Pursuit
 
 OpenSea Slug: `pursuit-by-per-kristian-stoveland`
@@ -58,3 +63,12 @@ Pursuit is a solid, compact Stoveland project. It doesn’t have The Harvest’s
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Getijde By Bart Simons](getijde-by-bart-simons.md)
+- [Meebits](meebits.md)
+- [Trichro Matic By Mountvitruvius](trichro-matic-by-mountvitruvius.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Enforcement Case Studies](../regulation/enforcement-case-studies.md)

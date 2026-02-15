@@ -1,41 +1,22 @@
-# Security Knowledge
+# security
 
-## Overview
+Bridge risk, smart contract safety, audit frameworks
 
-Security frameworks, bridge risk assessment, smart contract safety, wallet security, and operational security practices.
+**Files**: 7
 
-**Files**: 6 | **Category**: security
+## Contents
 
----
+- ai-safety-alarm-bells.md
+- bridge-exploit-analysis.md
+- bridge-risk-framework.md
+- operational-security.md
+- security-frameworks.md
+- smart-contract-risk.md
+- wallet-security-framework.md
 
-## Key Files
 
-- [security frameworks](./security-frameworks.md) — General security mental models
-- [bridge risk framework](./bridge-risk-framework.md) — Bridge trust models and risk assessment
-- [wallet security framework](./wallet-security-framework.md) — Hot/cold wallets, multisig, seed management, social engineering
-- [smart contract risk](./smart-contract-risk.md) — Audit evaluation, vulnerability patterns, insurance
-- [bridge exploit analysis](./bridge-exploit-analysis.md) — Major bridge hacks, attack vectors, safer bridging
-- [operational security](./operational-security.md) — Endpoint security, phishing, approvals, signing practices
+## Related Categories
 
----
-
-## Frameworks & Methodologies
-
-- security frameworks
-- bridge risk framework
-- wallet security framework
-- smart contract risk
-- bridge exploit analysis
-- operational security
-
----
-
-## Usage Notes
-
-- Focus on **methodologies and frameworks**, not specific numbers
-- Numbers and prices in files may be outdated — they illustrate concepts
-- Use your actions/APIs to get current data, apply frameworks from knowledge
-
----
-
-*Last updated: 2026-02-15*
+- [privacy](../privacy/)
+- [mev](../mev/)
+- [defi-metrics](../defi-metrics/)

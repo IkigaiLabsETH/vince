@@ -1,3 +1,8 @@
+---
+tags: [altcoins, tokens, evaluation]
+agents: [echo, eliza]
+last_reviewed: 2026-02-15
+---
 
 
 ## Methodology & Framework
@@ -68,3 +73,11 @@ Most new L1s launch with a dream and a whitepaper. Monad launched with a chain t
 
 Everything from here is adoption.
 And adoption, borders or not, feels inevitable.
+
+## Related
+
+- [179919778Real Time Layer 2](179919778real-time-layer-2.md)
+- [180277198Monad Revolution](180277198monad-revolution.md)
+- [182650000The Enlightened Cryptoeconomy](182650000the-enlightened-cryptoeconomy.md)
+- [Mev Protection](../mev/mev-protection.md)
+- [Mev Supply Chain](../mev/mev-supply-chain.md)

@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 
 
 > **📌 Knowledge Base Note**
@@ -162,3 +167,12 @@ Art Blocks has fundamentally changed how generative art is created, collected, a
 - Documentation: https://docs.artblocks.io
 - On-chain Generator: https://www.artblocks.io/marketplace/onchain
 - Contract: 0xa7d8d9ef8D8Ce8992Df33D8b8CF4Aebabd5bD270 (Art Blocks Core)
+
+
+## Related
+
+- [0Xdgb Thecameras](0xdgb-thecameras.md)
+- [Izanami Islands By Richard Nadler](izanami-islands-by-richard-nadler.md)
+- [Progression By Jeff Davis](progression-by-jeff-davis.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)

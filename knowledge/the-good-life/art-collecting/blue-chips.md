@@ -1,3 +1,8 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Blue Chip Collections Reference
 
 This document profiles the blue chip collections we consider core to any serious NFT art collection.

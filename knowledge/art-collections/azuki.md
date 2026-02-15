@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Azuki
 
 OpenSea Slug: `azuki`
@@ -58,3 +63,10 @@ Azuki nailed anime PFP before it was oversaturated. The quality and the ERC-721A
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Incomplete Control By Tyler Hobbs](incomplete-control-by-tyler-hobbs.md)
+- [Pop Wonder Superrare](pop-wonder-superrare.md)
+- [Skulptuur By Piter Pasma](skulptuur-by-piter-pasma.md)

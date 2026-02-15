@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Elevated Deconstructions
 
 OpenSea Slug: `elevated-deconstructions-by-luxpris`
@@ -58,3 +63,12 @@ Elevated Deconstructions is a supporting player in the 2021 moment—less famous
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [24 Hours Of Art](24-hours-of-art.md)
+- [An Overview Digital Art](an-overview-digital-art.md)
+- [The Vault Of Wonders Chapter 1 The Abyssal Unseen](the-vault-of-wonders-chapter-1-the-abyssal-unseen.md)
+- [Enforcement Case Studies](../regulation/enforcement-case-studies.md)
+- [Etf Landscape](../regulation/etf-landscape.md)

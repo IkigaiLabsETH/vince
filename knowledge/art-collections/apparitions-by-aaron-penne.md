@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Apparitions
 
 OpenSea Slug: `apparitions-by-aaron-penne`
@@ -58,3 +63,10 @@ Apparitions is a thoughtful, underrated entry in the 2021 set. The conceptual ho
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [100 Sunsets By Zach Lieberman](100-sunsets-by-zach-lieberman.md)
+- [Non Either By Rafael Rozendaal](non-either-by-rafael-rozendaal.md)
+- [Rare Pepes](rare-pepes.md)

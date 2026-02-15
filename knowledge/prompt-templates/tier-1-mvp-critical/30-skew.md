@@ -1,3 +1,8 @@
+---
+tags: [general]
+agents: [eliza]
+last_reviewed: 2026-02-15
+---
 # Prompt #30: Skew (Derivatives Analytics & Risk Metrics)
 
 **Priority**: Tier 1 - MVP Critical  

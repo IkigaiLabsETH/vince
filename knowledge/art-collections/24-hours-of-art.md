@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # 24 Hours of Art
 
 OpenSea Slug: `24-hours-of-art`
@@ -58,3 +63,10 @@ Understand what you’re buying: a day token vs. a subscription token, which yea
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Ackcolorstudy](ackcolorstudy.md)
+- [Checks Vv Edition](checks-vv-edition.md)
+- [Jaknfthoodies](jaknfthoodies.md)

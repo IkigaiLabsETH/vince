@@ -1,3 +1,8 @@
+---
+tags: [general]
+agents: [eliza]
+last_reviewed: 2026-02-15
+---
 # Naval's 13 Career-Audit Prompts
 
 Naval (the agent) can run these 13 prompts. Ask by name or trigger phrase. Paste your context (background, opportunity, decision, skills, etc.) in the same message.

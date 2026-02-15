@@ -1,3 +1,8 @@
+---
+tags: [general]
+agents: [eliza]
+last_reviewed: 2026-02-15
+---
 # AI 2027 Summary
 
 Scenario-type prediction of superhuman AI impact over the next decade. Source: [ai-2027.com](https://ai-2027.com/). Authors: Daniel Kokotajlo, Scott Alexander, Thomas Larsen, Eli Lifland, Romeo Dean.
@@ -49,3 +54,11 @@ A concrete, quantitative scenario representing the authors' best guess about wha
 ## OpenClaw connection
 
 AI 2027 describes research agents that "scour the Internet to answer your question." OpenClaw + openclaw-agents enable that today: Gateway connects chat apps to AI agents; orchestrator runs alpha, market, onchain, news research. OpenClaw is the practical bridge to the AI 2027 vision.
+
+
+## Related
+
+- [Ai Crypto Risks](../ai-crypto/ai-crypto-risks.md)
+- [Inference Markets](../ai-crypto/inference-markets.md)
+- [Clawterm_Vision](CLAWTERM_VISION.md)
+- [Hip3_Ai_Assets](HIP3_AI_ASSETS.md)

@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Kinoko Dreams
 
 OpenSea Slug: `kinoko-dreams-by-richard-nadler`
@@ -58,3 +63,12 @@ Kinoko Dreams is a coherent, intimate project. The mushroom focus and the embroi
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Aligndraw](aligndraw.md)
+- [Unigrids By Zeblocks](unigrids-by-zeblocks.md)
+- [Xcopy Knownorigin](xcopy-knownorigin.md)
+- [Account Abstraction](../chain-abstraction/account-abstraction.md)
+- [Intent Based Trading](../chain-abstraction/intent-based-trading.md)

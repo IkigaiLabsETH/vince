@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Where My Vans Go
 
 OpenSea Slug: `where-my-vans-go`
@@ -58,3 +63,10 @@ Where My Vans Go earned it. The work is visceral; the backstory matters. Wright 
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Clonex](clonex.md)
+- [Loot For Adventurers](loot-for-adventurers.md)
+- [Slimesunday](slimesunday.md)

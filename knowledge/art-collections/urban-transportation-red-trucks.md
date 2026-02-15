@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Urban Transportation: Red Trucks
 
 OpenSea Slug: `urban-transportation-red-trucks`
@@ -58,3 +63,12 @@ Urban transportation–focused NFT photography is a solid “documentary + art�
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Izanami Islands By Richard Nadler](izanami-islands-by-richard-nadler.md)
+- [Lifeguard Towers Miami](lifeguard-towers-miami.md)
+- [Subscapes By Matt Deslauriers](subscapes-by-matt-deslauriers.md)
+- [Enforcement Case Studies](../regulation/enforcement-case-studies.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)

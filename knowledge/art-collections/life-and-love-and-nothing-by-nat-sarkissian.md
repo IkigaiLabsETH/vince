@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Life and Love and Nothing
 
 OpenSea Slug: `life-and-love-and-nothing-by-nat-sarkissian`
@@ -58,3 +63,12 @@ Life and Love and Nothing is a quiet, serious project. The title does a lot of w
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Lifeguard Towers Miami](lifeguard-towers-miami.md)
+- [Mutant Ape Yacht Club](mutant-ape-yacht-club.md)
+- [Singularity By Hideki Tsukamoto](singularity-by-hideki-tsukamoto.md)
+- [Stablecoin Legislation](../regulation/stablecoin-legislation.md)
+- [Us Regulatory Landscape 2026](../regulation/us-regulatory-landscape-2026.md)

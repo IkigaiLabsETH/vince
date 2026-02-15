@@ -1,3 +1,8 @@
+---
+tags: [lifestyle, bitcoin, kelly]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Gold vs Bitcoin: Hard Money Analysis in the Digital Age
 
 ## Overview

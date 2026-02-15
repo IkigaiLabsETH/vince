@@ -1,3 +1,8 @@
+---
+tags: [equities, stocks, traditional-finance]
+agents: [oracle, eliza]
+last_reviewed: 2026-02-15
+---
 scandisk.SanDisk Corporation (SNDK)MetadataSource: Research synthesis (with links to Wikipedia, Yahoo Finance, Investor Relations, Zacks, Seeking Alpha, and other sources listed below)
 
 > **📌 Knowledge Base Note**

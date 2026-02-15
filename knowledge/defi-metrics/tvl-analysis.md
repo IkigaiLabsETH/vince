@@ -1,3 +1,8 @@
+---
+tags: [defi, protocols, metrics]
+agents: [otaku, eliza]
+last_reviewed: 2026-02-15
+---
 
 
 > **📌 Knowledge Base Note**
@@ -151,3 +156,12 @@ Higher velocity = more active usage of locked capital.
 3. **Track Over Time**: Point-in-time less useful than trends
 4. **Cross-Reference**: Multiple data sources
 5. **Consider Incentives**: Paid TVL vs organic TVL
+
+
+## Related
+
+- [180166429The Carry Trade](180166429the-carry-trade.md)
+- [180496598Yearn Finance](180496598yearn-finance.md)
+- [181420524The Big Six](181420524the-big-six.md)
+- [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)
+- [Global Regulatory Map](../regulation/global-regulatory-map.md)

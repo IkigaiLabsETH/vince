@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # Neural Sediments
 
 OpenSea Slug: `neural-sediments-by-eko33`
@@ -58,3 +63,12 @@ Neural Sediments is underrated in typical “Art Blocks canon” discussions. Ek
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Fvckrender](fvckrender.md)
+- [Meebits](meebits.md)
+- [Rare Pepes](rare-pepes.md)
+- [Enforcement Case Studies](../regulation/enforcement-case-studies.md)
+- [Mica Eu Framework](../regulation/mica-eu-framework.md)

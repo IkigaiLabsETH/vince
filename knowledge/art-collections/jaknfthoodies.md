@@ -1,3 +1,8 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+last_reviewed: 2026-02-15
+---
 # HOODIES by JakNFT
 
 OpenSea Slug: `jaknfthoodies`
@@ -58,3 +63,12 @@ HOODIES is a refreshingly simple project. No fake utility, no trait grind—just
 
 
 *Last updated: January 2026*
+
+
+## Related
+
+- [Grant Yun](grant-yun.md)
+- [Ringers By Dmitri Cherniak](ringers-by-dmitri-cherniak.md)
+- [Ripcache](ripcache.md)
+- [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)
+- [Regulation Frameworks](../regulation/regulation-frameworks.md)
