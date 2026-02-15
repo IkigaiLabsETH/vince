@@ -1,3 +1,7 @@
+---
+tags: [rwa, tokenization, institutional]
+agents: [eliza]
+---
 # RWA vs DeFi Yields
 
 *Last updated: 2026-02-15*

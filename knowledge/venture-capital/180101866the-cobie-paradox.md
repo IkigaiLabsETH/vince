@@ -1,3 +1,7 @@
+---
+tags: [vc, startups, investment]
+agents: [eliza]
+---
 # 180101866.The Cobie Paradox
 ## Metadata
 **Source**: Substack Essay

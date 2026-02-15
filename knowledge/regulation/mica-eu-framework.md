@@ -1,3 +1,7 @@
+---
+tags: [regulation, compliance, legal]
+agents: [oracle, eliza]
+---
 # MiCA: EU Crypto Regulatory Framework
 
 ## Methodology & Framework

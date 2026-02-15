@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Fidenza
 
 OpenSea Slug: `fidenza-by-tyler-hobbs`

@@ -1,3 +1,7 @@
+---
+tags: [ai, crypto, agents]
+agents: [eliza]
+---
 # Decentralized Compute Networks
 
 ## Methodology & Framework

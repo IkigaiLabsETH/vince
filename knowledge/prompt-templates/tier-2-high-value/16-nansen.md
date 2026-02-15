@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #16: Nansen (Smart Money Flows & Wallet Activity)
 
 **Priority**: Tier 2 - High Value  

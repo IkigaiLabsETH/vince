@@ -1,3 +1,7 @@
+---
+tags: [trading, risk-management, strategy]
+agents: [solus, eliza]
+---
 # Risk Management Framework
 
 ## Methodology & Framework

@@ -1,3 +1,7 @@
+---
+tags: [trading, derivatives, perps]
+agents: [solus, eliza]
+---
 > **📌 Knowledge Base Note**
 > 
 > These documents are optimized for RAG: use for **frameworks and context**, not for current data. Numbers and dates are illustrative—check actions/APIs for live data.

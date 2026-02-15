@@ -1,3 +1,7 @@
+---
+tags: [trading, options, derivatives]
+agents: [solus, eliza]
+---
 # Current Options Positions
 
 > **Last Updated**: January 2026

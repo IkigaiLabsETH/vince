@@ -1,3 +1,7 @@
+---
+tags: [trading, options, derivatives]
+agents: [solus, eliza]
+---
 ## Methodology & Framework
 
 **Core Concepts:**

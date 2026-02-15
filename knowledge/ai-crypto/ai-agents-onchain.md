@@ -1,3 +1,7 @@
+---
+tags: [ai, crypto, agents]
+agents: [eliza]
+---
 # AI Agents On-Chain
 
 ## Methodology & Framework

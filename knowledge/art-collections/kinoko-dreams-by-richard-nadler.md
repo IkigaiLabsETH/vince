@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Kinoko Dreams
 
 OpenSea Slug: `kinoko-dreams-by-richard-nadler`

@@ -1,3 +1,7 @@
+---
+tags: [trading, memecoins, degen]
+agents: [echo, eliza]
+---
 # Meteora LP DCA Strategy: Grinding Volatile Memecoins
 
 ## The Problem with Trading Memecoins

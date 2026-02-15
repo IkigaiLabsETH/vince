@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Moonbirds
 
 OpenSea Slug: `moonbirds`

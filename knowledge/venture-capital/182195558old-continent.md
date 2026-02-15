@@ -1,3 +1,7 @@
+---
+tags: [vc, startups, investment]
+agents: [eliza]
+---
 # 182195558.Old Continent
 ## Metadata
 **Source**: Substack Essay

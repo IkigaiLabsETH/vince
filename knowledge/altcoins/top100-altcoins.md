@@ -1,3 +1,7 @@
+---
+tags: [altcoins, tokens, evaluation]
+agents: [echo, eliza]
+---
 # Top 100 Altcoins We Care About
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Rare Pepes
 
 OpenSea Slug: `rare-pepes`

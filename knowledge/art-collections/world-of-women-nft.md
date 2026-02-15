@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # World of Women
 
 OpenSea Slug: `world-of-women-nft`

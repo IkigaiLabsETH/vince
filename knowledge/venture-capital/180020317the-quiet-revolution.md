@@ -1,3 +1,7 @@
+---
+tags: [vc, startups, investment]
+agents: [eliza]
+---
 # 180020317.The Quiet Revolution
 ## Metadata
 **Source**: Substack Essay

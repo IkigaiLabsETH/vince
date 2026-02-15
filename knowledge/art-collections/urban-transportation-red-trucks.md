@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Urban Transportation: Red Trucks
 
 OpenSea Slug: `urban-transportation-red-trucks`

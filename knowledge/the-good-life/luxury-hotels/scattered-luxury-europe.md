@@ -1,3 +1,7 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+---
 # Scattered Luxury Locations - Europe
 
 > **Region**: Various regions across France

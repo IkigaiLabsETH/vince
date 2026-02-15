@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Sketchbook A
 
 OpenSea Slug: `sketchbook-a-by-william-mapan-1`

@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Yamabushi’s Horizons
 
 OpenSea Slug: `yamabushi-s-horizons-by-richard-nadler`

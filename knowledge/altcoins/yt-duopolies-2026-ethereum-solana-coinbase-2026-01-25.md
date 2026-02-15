@@ -1,3 +1,7 @@
+---
+tags: [altcoins, tokens, evaluation]
+agents: [echo, eliza]
+---
 
 
 > **📌 Knowledge Base Note**

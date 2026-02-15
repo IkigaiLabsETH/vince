@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Risk / Reward
 
 OpenSea Slug: `risk-reward-by-kjetil-golid`

@@ -1,3 +1,7 @@
+---
+tags: [ai, crypto, agents]
+agents: [eliza]
+---
 # How to Evaluate AI Tokens
 
 *Last updated: 2026-02-15*

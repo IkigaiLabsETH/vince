@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # OpenClaw: What’s Actually Working (Practical Tips)
 
 Lots of posts make wild claims about OpenClaw. In practice it’s powerful but finicky—great at some things, bad at others. Here’s what’s been working for me so far, and what hasn’t.

@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Cryptoblots
 
 OpenSea Slug: `cryptoblots-by-daim-aggott-honsch`

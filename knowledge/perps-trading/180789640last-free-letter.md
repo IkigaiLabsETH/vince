@@ -1,3 +1,7 @@
+---
+tags: [trading, derivatives, perps]
+agents: [solus, eliza]
+---
 # 180789640.Last Free Letter
 ## Metadata
 **Source**: Substack Essay

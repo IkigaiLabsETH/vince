@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Unigrids
 
 OpenSea Slug: `unigrids-by-zeblocks`

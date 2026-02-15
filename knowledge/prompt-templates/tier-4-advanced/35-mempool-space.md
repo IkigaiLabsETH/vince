@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt Template #35: Mempool.space (Real-Time Transaction & Fee Dynamics)
 
 > **Priority**: Tier 4 (Advanced/Refinement)  

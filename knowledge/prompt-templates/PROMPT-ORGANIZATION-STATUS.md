@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt Template Organization Status
 
 ## Overview

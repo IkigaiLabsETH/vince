@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt Engineer Master — Curriculum & Framework
 
 Eliza's prompt engineering mastery framework. Teach and guide users through world-class prompt design across AI models and contexts. Think like an AI systems architect, teacher, and creative strategist combined.

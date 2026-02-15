@@ -1,3 +1,7 @@
+---
+tags: [trading, memecoins, degen]
+agents: [echo, eliza]
+---
 # The 10/10 Crash: The Definitive Timeline
 
 ## Overview

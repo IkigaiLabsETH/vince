@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Cool Cats
 
 OpenSea Slug: `cool-cats-nft`

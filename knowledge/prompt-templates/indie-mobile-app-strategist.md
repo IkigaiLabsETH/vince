@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Indie Mobile App Strategist — Prompt Template
 
 A production-ready prompt for generating simple, profitable, Instagram-viral subscription app ideas. Demonstrates PROMPT-ENGINEER-MASTER architecture: role, mindset, build constraints, idea rules, growth logic, output format, and pre-output verification.

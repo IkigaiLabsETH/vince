@@ -1,3 +1,7 @@
+---
+tags: [ai, crypto, agents]
+agents: [eliza]
+---
 # AI-Crypto Bear Cases & Risks
 
 *Last updated: 2026-02-15*

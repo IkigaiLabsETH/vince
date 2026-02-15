@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #14: Artemis (Liquidity Flows & Cross-Chain Activity)
 
 **Priority**: Tier 3 - Supporting  

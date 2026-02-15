@@ -1,3 +1,7 @@
+---
+tags: [vc, startups, investment]
+agents: [eliza]
+---
 # Apptronik
 ## Metadata
 **Source**: Internal memo (compiled note; not a primary source)

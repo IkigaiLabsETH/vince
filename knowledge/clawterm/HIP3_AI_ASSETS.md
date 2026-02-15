@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # HIP-3 AI-Related Assets on Hyperliquid
 
 HIP-3 assets are synthetic perps on Hyperliquid. Trade these as perps; xyz for stocks (USDC settled), vntl for AI/tech names (pre-IPO style). For live prices, funding, or positions, ask Vince.

@@ -1,3 +1,7 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+---
 # The Okerson Protocol (Adapted for Yves)
 
 ## Core Philosophy: "Movement Is Medicine, Stress Is Poison"

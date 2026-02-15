@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # nav.al Archive — Essay Index
 
 Naval's long-form writing lives at https://nav.al/archive. This file lists every essay title by year and category so the agent can reference specific pieces.

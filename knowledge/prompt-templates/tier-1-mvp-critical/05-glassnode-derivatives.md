@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #5: Glassnode (Derivatives & Market Snapshot)
 
 **Priority**: Tier 1 - MVP Critical  

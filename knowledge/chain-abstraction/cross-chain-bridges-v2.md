@@ -1,3 +1,7 @@
+---
+tags: [intents, ux, cross-chain]
+agents: [otaku, eliza]
+---
 # Cross-Chain Bridges V2
 
 ## Methodology & Framework

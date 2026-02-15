@@ -1,3 +1,7 @@
+---
+tags: [macro, economy, markets]
+agents: [oracle, eliza]
+---
 ## Methodology & Framework
 
 **Core Concepts:**

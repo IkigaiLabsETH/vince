@@ -1,3 +1,7 @@
+---
+tags: [legal, compliance, regulation]
+agents: [oracle, eliza]
+---
 # DeFi Compliance Toolkit
 
 ## Methodology & Framework

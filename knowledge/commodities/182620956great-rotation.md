@@ -1,3 +1,7 @@
+---
+tags: [commodities, macro, investment]
+agents: [oracle, eliza]
+---
 
 
 ## Methodology & Framework

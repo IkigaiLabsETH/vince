@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Positioning
 
 One-pager and elevator pitch for the project.

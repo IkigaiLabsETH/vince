@@ -1,3 +1,7 @@
+---
+tags: [bitcoin, macro, investment]
+agents: [eliza]
+---
 # 179721083.The Quantum Computer Fud
 ## Metadata
 **Source**: Substack Essay

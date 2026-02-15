@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Business Idea: OpenClaw One-Click & “What Actually Works”
 
 How the guides, one-click install plan, and practical tips could be turned into a profitable business.

@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # The Cameras
 
 OpenSea Slug: `0xdgb-thecameras`

@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Ignition
 
 OpenSea Slug: `ignition-by-ge1doot`

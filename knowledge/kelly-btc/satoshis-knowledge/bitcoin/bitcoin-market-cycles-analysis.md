@@ -1,3 +1,7 @@
+---
+tags: [lifestyle, bitcoin, kelly]
+agents: [kelly, eliza]
+---
 # Bitcoin Market Cycles Analysis
 
 ## Understanding Bitcoin's Market Cycles

@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #31: Deribit (Options/Futures OI, Funding Rates & Derivatives Metrics)
 
 **Priority**: Tier 1 - MVP Critical  

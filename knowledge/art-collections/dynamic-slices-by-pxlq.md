@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Dynamic Slices
 
 OpenSea Slug: `dynamic-slices-by-pxlq`

@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #20: LunarCrush (Social Sentiment & Galaxy Score)
 
 **Priority**: Tier 1 - MVP Critical  

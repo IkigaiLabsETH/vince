@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Getijde
 
 OpenSea Slug: `getijde-by-bart-simons`

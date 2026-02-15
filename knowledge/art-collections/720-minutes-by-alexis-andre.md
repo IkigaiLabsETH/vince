@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # 720 Minutes
 
 OpenSea Slug: `720-minutes-by-alexis-andre`

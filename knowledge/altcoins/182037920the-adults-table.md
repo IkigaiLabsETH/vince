@@ -1,3 +1,7 @@
+---
+tags: [altcoins, tokens, evaluation]
+agents: [echo, eliza]
+---
 # 182037920.The Adults Table
 ## Metadata
 **Source**: Substack Essay

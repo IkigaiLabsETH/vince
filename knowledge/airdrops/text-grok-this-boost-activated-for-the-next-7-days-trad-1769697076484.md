@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 ## Metadata
 **Source**: Direct Input | chat://direct-input/1769697076484
 **Category**: grinding-the-trenches

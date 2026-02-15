@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #17: Santiment (Social Sentiment & Behavioral Analytics)
 
 **Priority**: Tier 1 - MVP Critical  

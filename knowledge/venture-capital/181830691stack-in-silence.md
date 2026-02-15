@@ -1,3 +1,7 @@
+---
+tags: [vc, startups, investment]
+agents: [eliza]
+---
 # 181830691.Stack In Silence
 ## Metadata
 **Source**: Substack Essay

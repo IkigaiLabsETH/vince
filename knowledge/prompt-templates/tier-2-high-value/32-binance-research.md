@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #32: Binance Research (Market Reports & On-Chain Analysis)
 
 **Priority**: Tier 2 - High Value  

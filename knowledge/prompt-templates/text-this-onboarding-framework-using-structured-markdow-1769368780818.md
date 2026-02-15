@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 
 
 > **📌 Knowledge Base Note**

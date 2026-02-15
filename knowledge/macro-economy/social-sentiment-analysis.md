@@ -1,3 +1,7 @@
+---
+tags: [macro, economy, markets]
+agents: [oracle, eliza]
+---
 # Social Sentiment Analysis for Crypto Markets
 
 ## Core Concepts

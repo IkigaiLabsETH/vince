@@ -1,3 +1,7 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+---
 # Wellness Reminders
 
 Quick wellness tips for the GN briefing - rotating reminders for mental health, sleep, meditation, yoga, and exercise.

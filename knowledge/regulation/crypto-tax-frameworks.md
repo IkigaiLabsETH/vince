@@ -1,3 +1,7 @@
+---
+tags: [regulation, compliance, legal]
+agents: [oracle, eliza]
+---
 # Crypto Tax Frameworks (US Focus)
 
 ## Methodology & Framework

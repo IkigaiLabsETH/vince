@@ -1,3 +1,7 @@
+---
+tags: [mev, trading, ethereum]
+agents: [solus, eliza]
+---
 # MEV Protection
 
 ## Methodology & Framework

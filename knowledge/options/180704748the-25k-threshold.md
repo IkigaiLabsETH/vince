@@ -1,3 +1,7 @@
+---
+tags: [trading, options, derivatives]
+agents: [solus, eliza]
+---
 # 180704748.The 25k Threshold
 ## Metadata
 **Source**: Substack Essay

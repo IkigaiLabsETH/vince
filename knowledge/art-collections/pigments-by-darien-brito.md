@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Pigments
 
 OpenSea Slug: `pigments-by-darien-brito`

@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Ikigai Studios Style Guide
 
 > **Voice:** Authoritative yet accessible. We explain complex crypto concepts clearly without dumbing them down. Confident but not arrogant. Forward-thinking but grounded in fundamentals.

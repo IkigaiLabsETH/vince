@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #11: Substack Archives (Past Ikigai BTC Analysis)
 
 **Priority**: Tier 2 - High Value  

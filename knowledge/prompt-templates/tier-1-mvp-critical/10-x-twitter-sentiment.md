@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #10: X (Twitter) Sentiment Analysis
 
 **Priority**: Tier 1 - MVP Critical  

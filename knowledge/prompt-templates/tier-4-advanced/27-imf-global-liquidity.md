@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #27: IMF/Global Liquidity Indicators (Macro Context)
 
 **Priority**: Tier 4 - Advanced  

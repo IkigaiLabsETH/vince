@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Trichro-matic
 
 OpenSea Slug: `trichro-matic-by-mountvitruvius`

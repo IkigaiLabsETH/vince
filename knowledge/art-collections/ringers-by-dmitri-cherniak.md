@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Ringers
 
 OpenSea Slug: `ringers-by-dmitri-cherniak`

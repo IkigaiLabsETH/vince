@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #21: Kaiko (Market Data, Order Books & Liquidity Metrics)
 
 **Priority**: Tier 3 - Supporting  

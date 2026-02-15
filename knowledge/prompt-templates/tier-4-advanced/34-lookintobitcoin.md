@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt Template #34: LookIntoBitcoin (Cycle Positioning Charts)
 
 > **Priority**: Tier 4 (Advanced/Refinement)  

@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # X Research Agent: OpenClaw + Curated Follow List (No X API)
 
 **Why this is the key feature:** The X API is too expensive for our use case. X is our biggest source of news, insights, and knowledge. Instead of paying for API access, we run **OpenClaw (Clawdbot) with a dedicated X account** and give it our **curated list of accounts we’ve followed on X/Twitter over the past decade**. OpenClaw + Birdy (or equivalent) uses that account to read the timeline, surface threads and links, and feed them into VINCE’s knowledge pipeline. **No X API cost.**

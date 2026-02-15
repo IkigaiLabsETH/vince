@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # nav.al Essay Themes — Intent-to-Essay Map
 
 When a user runs one of the 13 career-audit prompts or asks about a core theme, cite the relevant nav.al essays. Point them to https://nav.al/archive.

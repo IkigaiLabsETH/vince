@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #13: CoinGlass (Derivatives Leverage & Positioning)
 
 **Priority**: Tier 1 - MVP Critical  

@@ -1,3 +1,7 @@
+---
+tags: [altcoins, tokens, evaluation]
+agents: [echo, eliza]
+---
 # 182650000.The Enlightened Cryptoeconomy
 ## Metadata
 **Source**: Substack Essay

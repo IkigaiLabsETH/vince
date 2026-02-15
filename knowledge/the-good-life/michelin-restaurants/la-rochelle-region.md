@@ -1,3 +1,7 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+---
 # La Rochelle Region
 
 > **Region**: La Rochelle, Charente-Maritime

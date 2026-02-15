@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Skulptuur
 
 OpenSea Slug: `skulptuur-by-piter-pasma`

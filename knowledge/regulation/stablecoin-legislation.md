@@ -1,3 +1,7 @@
+---
+tags: [regulation, compliance, legal]
+agents: [oracle, eliza]
+---
 # Stablecoin Legislation
 
 ## Methodology & Framework

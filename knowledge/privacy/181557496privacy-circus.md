@@ -1,3 +1,7 @@
+---
+tags: [privacy, security, onchain]
+agents: [otaku, eliza]
+---
 
 
 ## Methodology & Framework

@@ -1,3 +1,7 @@
+---
+tags: [bitcoin, macro, investment]
+agents: [eliza]
+---
 # 179806827.Saylor Bet His Lifes Work
 ## Metadata
 **Source**: Substack Essay

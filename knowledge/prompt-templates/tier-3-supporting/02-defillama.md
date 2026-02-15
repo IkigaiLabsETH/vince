@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #2: DefiLlama (DeFi Ecosystem Analysis)
 
 **Priority**: Tier 3 - Supporting  

@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # The Great Color Study
 
 OpenSea Slug: `ackcolorstudy`

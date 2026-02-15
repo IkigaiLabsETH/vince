@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Pink. Unidentified. Such a Useless Color!
 
 OpenSea Slug: `pink-such-a-useless-color-by-simon-raion`

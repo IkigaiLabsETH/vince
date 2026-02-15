@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #3: DEX Screener (Token Discovery & Liquidity)
 
 **Priority**: Tier 3 - Supporting  

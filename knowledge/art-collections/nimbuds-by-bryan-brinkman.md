@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # NimBuds
 
 OpenSea Slug: `nimbuds-by-bryan-brinkman`

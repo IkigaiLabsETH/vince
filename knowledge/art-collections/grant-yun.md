@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Grant Yun
 
 OpenSea Slug: `grant-yun`

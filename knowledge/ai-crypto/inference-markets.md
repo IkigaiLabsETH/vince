@@ -1,3 +1,7 @@
+---
+tags: [ai, crypto, agents]
+agents: [eliza]
+---
 # Decentralized Inference Markets
 
 *Last updated: 2026-02-15*

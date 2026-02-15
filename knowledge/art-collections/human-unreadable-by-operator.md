@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Human Unreadable
 
 OpenSea Slug: `human-unreadable-by-operator`

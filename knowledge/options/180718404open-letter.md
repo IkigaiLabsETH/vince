@@ -1,3 +1,7 @@
+---
+tags: [trading, options, derivatives]
+agents: [solus, eliza]
+---
 # 180718404.Open Letter
 ## Metadata
 **Source**: Substack Essay

@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #12: TOTAL2/TOTAL3 (Altcoin Market Caps & BTC Dominance)
 
 **Priority**: Tier 3 - Supporting  

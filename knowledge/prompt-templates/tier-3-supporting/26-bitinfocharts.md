@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #26: BitInfoCharts (On-Chain Stats & Rich List)
 
 **Priority**: Tier 3 - Supporting  

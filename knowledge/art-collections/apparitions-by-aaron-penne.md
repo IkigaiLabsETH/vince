@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Apparitions
 
 OpenSea Slug: `apparitions-by-aaron-penne`

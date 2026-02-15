@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Where My Vans Go
 
 OpenSea Slug: `where-my-vans-go`

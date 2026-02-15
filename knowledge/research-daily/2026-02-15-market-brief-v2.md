@@ -1,3 +1,7 @@
+---
+tags: [research, data, daily]
+agents: [eliza]
+---
 # Daily Market Brief — Sunday, February 15, 2026
 
 ## Price Snapshot

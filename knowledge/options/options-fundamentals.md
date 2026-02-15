@@ -1,3 +1,7 @@
+---
+tags: [trading, options, derivatives]
+agents: [solus, eliza]
+---
 # Options Fundamentals for Crypto Trading
 
 ## Core Concepts

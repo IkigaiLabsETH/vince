@@ -1,3 +1,7 @@
+---
+tags: [legal, compliance, regulation]
+agents: [oracle, eliza]
+---
 # Crypto Entity Structures
 
 ## Methodology & Framework

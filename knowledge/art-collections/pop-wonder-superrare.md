@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Pop Wonder (SuperRare)
 
 OpenSea Slug: `pop-wonder-superrare`

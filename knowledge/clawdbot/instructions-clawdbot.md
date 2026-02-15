@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # OpenClaw Setup & Security Guide
 
 Two paths to running OpenClaw: a **Hetzner VPS** setup for quick, always-on hosting, and a **Raspberry Pi** setup with maximum privacy and hardening (Tailscale, Matrix E2E, Venice AI, prompt-injection defenses).

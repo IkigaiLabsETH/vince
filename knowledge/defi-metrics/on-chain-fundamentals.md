@@ -1,3 +1,7 @@
+---
+tags: [defi, protocols, metrics]
+agents: [otaku, eliza]
+---
 # On-Chain Analytics Fundamentals
 
 ## Core Metrics

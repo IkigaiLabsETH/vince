@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Singularity
 
 OpenSea Slug: `singularity-by-hideki-tsukamoto`

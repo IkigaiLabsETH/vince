@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #8: Polymarket (Prediction Markets Analysis)
 
 **Priority**: Tier 2 - High Value  

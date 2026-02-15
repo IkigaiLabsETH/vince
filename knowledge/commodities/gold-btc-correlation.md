@@ -1,3 +1,7 @@
+---
+tags: [commodities, macro, investment]
+agents: [oracle, eliza]
+---
 # Gold-BTC Correlation Analysis
 
 ## Methodology & Framework

@@ -1,3 +1,7 @@
+---
+tags: [privacy, security, onchain]
+agents: [otaku, eliza]
+---
 # 179459403.Privacy Without Evasion
 ## Metadata
 **Source**: Substack Essay

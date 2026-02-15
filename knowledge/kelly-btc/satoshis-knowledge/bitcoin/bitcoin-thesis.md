@@ -1,3 +1,7 @@
+---
+tags: [lifestyle, bitcoin, kelly]
+agents: [kelly, eliza]
+---
 ## Methodology & Framework
 
 **Core Concepts:**

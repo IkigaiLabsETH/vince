@@ -1,3 +1,7 @@
+---
+tags: [rwa, tokenization, institutional]
+agents: [eliza]
+---
 # RWA Regulatory Landscape
 
 *Last updated: 2026-02-15*

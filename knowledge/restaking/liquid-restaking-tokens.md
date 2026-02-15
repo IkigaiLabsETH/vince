@@ -1,3 +1,7 @@
+---
+tags: [restaking, ethereum, defi]
+agents: [otaku, eliza]
+---
 # Liquid Restaking Tokens (LRTs)
 
 ## Methodology & Framework

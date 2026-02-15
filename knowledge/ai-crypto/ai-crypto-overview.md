@@ -1,3 +1,7 @@
+---
+tags: [ai, crypto, agents]
+agents: [eliza]
+---
 # AI x Crypto: Convergence Overview
 
 ## Methodology & Framework

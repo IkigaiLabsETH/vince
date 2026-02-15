@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Orbifold
 
 OpenSea Slug: `orbifold-by-kjetil-golid`

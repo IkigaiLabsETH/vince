@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Non Either
 
 OpenSea Slug: `non-either-by-rafael-rozendaal`

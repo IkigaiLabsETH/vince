@@ -1,3 +1,7 @@
+---
+tags: [mev, trading, ethereum]
+agents: [solus, eliza]
+---
 # Cross-Chain MEV
 
 ## Methodology & Framework

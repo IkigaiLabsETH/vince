@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Elevated Deconstructions
 
 OpenSea Slug: `elevated-deconstructions-by-luxpris`

@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Justin Aversano — Gabba Gallery
 
 OpenSea Slug: `justinaversano-gabbagallery`

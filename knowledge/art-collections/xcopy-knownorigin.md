@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # XCOPY (KnownOrigin)
 
 OpenSea Slug: `xcopy-knownorigin`

@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Mutant Ape Yacht Club
 
 OpenSea Slug: `mutant-ape-yacht-club`

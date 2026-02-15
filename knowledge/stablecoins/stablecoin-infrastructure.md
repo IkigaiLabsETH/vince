@@ -1,3 +1,7 @@
+---
+tags: [stablecoins, defi]
+agents: [otaku, eliza]
+---
 ## Methodology & Framework
 
 **Core Concepts:**

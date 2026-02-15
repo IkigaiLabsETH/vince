@@ -1,3 +1,7 @@
+---
+tags: [regulation, compliance, legal]
+agents: [oracle, eliza]
+---
 # Global Crypto Regulatory Map
 
 ## Methodology & Framework

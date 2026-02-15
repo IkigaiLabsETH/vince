@@ -1,3 +1,7 @@
+---
+tags: [commodities, macro, investment]
+agents: [oracle, eliza]
+---
 # Oil as Macro Signal
 
 ## Methodology & Framework

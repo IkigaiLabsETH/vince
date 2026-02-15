@@ -1,3 +1,7 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+---
 # Landes Coast Fine Dining
 
 > **Region**: Hossegor, Seignosse, Pyla-sur-Mer

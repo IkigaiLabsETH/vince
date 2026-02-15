@@ -1,3 +1,7 @@
+---
+tags: [essays, analysis, thought-leadership]
+agents: [echo, eliza]
+---
 ## Methodology & Framework
 
 **Core Concepts:**

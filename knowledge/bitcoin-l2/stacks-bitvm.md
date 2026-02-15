@@ -1,3 +1,7 @@
+---
+tags: [bitcoin, l2, scaling]
+agents: [eliza]
+---
 # Stacks & BitVM
 
 ## Methodology & Framework

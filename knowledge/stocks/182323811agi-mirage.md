@@ -1,3 +1,7 @@
+---
+tags: [equities, stocks, traditional-finance]
+agents: [oracle, eliza]
+---
 
 
 ## Methodology & Framework

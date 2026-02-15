@@ -1,3 +1,7 @@
+---
+tags: [trading, options, derivatives]
+agents: [solus, eliza]
+---
 # 182045981.The Hype Crash
 ## Metadata
 **Source**: Substack Essay

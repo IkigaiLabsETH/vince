@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Collection Name
 
 OpenSea Slug: `collection-slug`

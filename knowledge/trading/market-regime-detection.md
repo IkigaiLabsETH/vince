@@ -1,3 +1,7 @@
+---
+tags: [trading, risk-management, strategy]
+agents: [solus, eliza]
+---
 # Market Regime Detection
 
 ## Methodology & Framework

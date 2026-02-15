@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # 24 Hours of Art
 
 OpenSea Slug: `24-hours-of-art`

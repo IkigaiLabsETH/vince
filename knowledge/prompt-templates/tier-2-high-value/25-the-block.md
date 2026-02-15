@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #25: The Block (Research Reports & News Aggregation)
 
 **Priority**: Tier 2 - High Value  

@@ -1,3 +1,7 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+---
 # Landes Interior Fine Dining
 
 > **Region**: Magescq, Mont-de-Marsan, St-Paul-lès-Dax, Uza

@@ -1,3 +1,7 @@
+---
+tags: [solana, l1, defi]
+agents: [otaku, eliza]
+---
 > **📌 Knowledge Base Note**
 > Numbers, prices, and metrics are illustrative — focus on methodology and frameworks.
 

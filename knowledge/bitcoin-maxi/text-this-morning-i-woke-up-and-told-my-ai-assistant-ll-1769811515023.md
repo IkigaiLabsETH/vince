@@ -1,3 +1,7 @@
+---
+tags: [bitcoin, macro, investment]
+agents: [eliza]
+---
 ## Metadata
 **Source**: Direct Input | chat://direct-input/1769811515023
 **Category**: bitcoin-maxi

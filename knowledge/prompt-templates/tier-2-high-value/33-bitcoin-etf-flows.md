@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #33: Bitcoin ETF Flows (Delphi Digital Focus)
 
 **Priority**: Tier 2 - High Value  

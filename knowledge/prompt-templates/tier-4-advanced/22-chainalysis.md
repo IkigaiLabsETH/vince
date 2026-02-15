@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #22: Chainalysis (Adoption Metrics & Illicit Flows)
 
 **Priority**: Tier 4 - Advanced  

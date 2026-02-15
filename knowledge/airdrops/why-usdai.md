@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 ## Methodology & Framework
 
 **Core Analytical Approach:**

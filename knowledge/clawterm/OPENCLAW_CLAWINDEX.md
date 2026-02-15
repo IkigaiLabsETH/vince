@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # ClawIndex (OpenClaw ecosystem directory)
 
 ClawIndex is the OpenClaw ecosystem directory at **https://clawindex.org/**.

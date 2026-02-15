@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # HyperHash
 
 OpenSea Slug: `hyperhash-by-beervangeer`

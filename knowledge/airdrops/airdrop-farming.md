@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Airdrop Farming Playbook
 
 > Last updated: January 2026

@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # CrypToadz
 
 OpenSea Slug: `cryptoadz-by-gremplin`

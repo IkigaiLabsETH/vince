@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Progression
 
 OpenSea Slug: `progression-by-jeff-davis`

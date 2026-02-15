@@ -1,3 +1,7 @@
+---
+tags: [vc, startups, investment]
+agents: [eliza]
+---
 ## Metadata
 **Source**: YouTube | https://www.youtube.com/watch?v=bbSBuBZQXTY
 **Category**: venture-capital

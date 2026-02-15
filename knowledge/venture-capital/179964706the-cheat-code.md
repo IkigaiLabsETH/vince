@@ -1,3 +1,7 @@
+---
+tags: [vc, startups, investment]
+agents: [eliza]
+---
 # 179964706.The Cheat Code
 ## Metadata
 **Source**: Substack Essay

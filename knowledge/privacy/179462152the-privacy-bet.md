@@ -1,3 +1,7 @@
+---
+tags: [privacy, security, onchain]
+agents: [otaku, eliza]
+---
 # 179462152.The Privacy Bet
 ## Metadata
 **Source**: Substack Essay

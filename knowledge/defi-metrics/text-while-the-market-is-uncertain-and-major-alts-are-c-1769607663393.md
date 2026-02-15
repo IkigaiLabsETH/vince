@@ -1,3 +1,7 @@
+---
+tags: [defi, protocols, metrics]
+agents: [otaku, eliza]
+---
 ## Metadata
 **Source**: Direct Input | chat://direct-input/1769607663393
 **Category**: defi-metrics

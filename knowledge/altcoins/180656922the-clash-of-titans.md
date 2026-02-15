@@ -1,3 +1,7 @@
+---
+tags: [altcoins, tokens, evaluation]
+agents: [echo, eliza]
+---
 # 180656922.The Clash Of Titans
 ## Metadata
 **Source**: Substack Essay

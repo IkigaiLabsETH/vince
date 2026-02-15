@@ -1,3 +1,7 @@
+---
+tags: [trading, derivatives, perps]
+agents: [solus, eliza]
+---
 ## Metadata
 **Source**: Direct Input | chat://direct-input/1769649330875
 **Category**: perps-trading

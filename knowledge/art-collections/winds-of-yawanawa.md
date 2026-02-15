@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Winds of Yawanawa
 
 OpenSea Slug: `winds-of-yawanawa`

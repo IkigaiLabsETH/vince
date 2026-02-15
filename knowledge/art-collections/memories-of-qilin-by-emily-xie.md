@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Memories of Qilin
 
 OpenSea Slug: `memories-of-qilin-by-emily-xie`

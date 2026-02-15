@@ -1,3 +1,7 @@
+---
+tags: [restaking, ethereum, defi]
+agents: [otaku, eliza]
+---
 # EigenLayer Deep Dive
 
 ## Methodology & Framework

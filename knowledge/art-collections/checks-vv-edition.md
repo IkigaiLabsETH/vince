@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Checks (VV Edition)
 
 OpenSea Slug: `checks-vv-edition`

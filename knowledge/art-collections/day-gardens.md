@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Day Gardens
 
 OpenSea Slug: `day-gardens`

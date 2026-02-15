@@ -1,3 +1,7 @@
+---
+tags: [vc, startups, investment]
+agents: [eliza]
+---
 # 180306547.Aalo Atomics
 ## Metadata
 **Source**: Substack Essay

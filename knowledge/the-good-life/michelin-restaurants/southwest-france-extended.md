@@ -1,3 +1,7 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+---
 # Southwest France - Extended Fine Dining
 
 > **Region**: Biarritz, Landes, Bordeaux Area

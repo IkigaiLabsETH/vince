@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Masks of Luci
 
 OpenSea Slug: `sam-spratt-masks-of-luci`

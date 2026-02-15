@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #9: Zillow/FRED (Macro Overlays - Real Estate in BTC)
 
 **Priority**: Tier 2 - High Value  

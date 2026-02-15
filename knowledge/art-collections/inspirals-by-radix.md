@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Inspirals
 
 OpenSea Slug: `inspirals-by-radix`

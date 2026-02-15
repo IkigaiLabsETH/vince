@@ -1,3 +1,7 @@
+---
+tags: [solana, l1, defi]
+agents: [otaku, eliza]
+---
 # Jupiter: Solana's Aggregation Super-App
 
 ## Methodology & Framework

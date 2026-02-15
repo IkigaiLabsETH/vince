@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #19: IntoTheBlock (On-Chain Indicators & Holder Stats)
 
 **Priority**: Tier 3 - Supporting  

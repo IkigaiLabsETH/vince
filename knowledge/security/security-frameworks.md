@@ -1,3 +1,7 @@
+---
+tags: [security, risk, safety]
+agents: [otaku, eliza]
+---
 ## Methodology & Framework
 
 **Key Concepts:**

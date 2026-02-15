@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Neural Sediments
 
 OpenSea Slug: `neural-sediments-by-eko33`

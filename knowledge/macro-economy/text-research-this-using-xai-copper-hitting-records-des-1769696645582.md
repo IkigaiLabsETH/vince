@@ -1,3 +1,7 @@
+---
+tags: [macro, economy, markets]
+agents: [oracle, eliza]
+---
 ## Metadata
 **Source**: Direct Input | chat://direct-input/1769696645582
 **Category**: macro-economy

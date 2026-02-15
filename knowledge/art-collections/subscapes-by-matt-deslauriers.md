@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Subscapes
 
 OpenSea Slug: `subscapes-by-matt-deslauriers`

@@ -1,3 +1,7 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+---
 # Margaux AOC, Médoc, Bordeaux — Region Deep Dive
 
 ## Overview

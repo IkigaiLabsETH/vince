@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #29: Bitfinex (Exchange Volumes & Lending Rates)
 
 **Priority**: Tier 3 - Supporting  

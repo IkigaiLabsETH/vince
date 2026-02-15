@@ -1,3 +1,7 @@
+---
+tags: [defi, protocols, metrics]
+agents: [otaku, eliza]
+---
 ## Methodology & Framework
 
 **Core Concepts:**

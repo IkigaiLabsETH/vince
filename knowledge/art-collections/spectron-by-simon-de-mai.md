@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Spectron
 
 OpenSea Slug: `spectron-by-simon-de-mai`

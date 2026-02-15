@@ -1,3 +1,7 @@
+---
+tags: [solana, l1, defi]
+agents: [otaku, eliza]
+---
 # Solana vs Ethereum: Objective Comparison
 
 ## Methodology & Framework

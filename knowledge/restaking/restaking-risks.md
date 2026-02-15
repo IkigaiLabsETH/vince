@@ -1,3 +1,7 @@
+---
+tags: [restaking, ethereum, defi]
+agents: [otaku, eliza]
+---
 # Restaking Risks
 
 ## Methodology & Framework

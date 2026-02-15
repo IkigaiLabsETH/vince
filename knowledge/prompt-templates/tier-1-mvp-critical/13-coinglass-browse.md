@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #13 Variant: CoinGlass (Derivatives Vibes & Flows - Browse Page Approach)
 
 **Priority**: Tier 1 - MVP Critical  

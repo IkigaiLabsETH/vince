@@ -1,3 +1,7 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+---
 # Basque Country / Northern Spain Fine Dining
 
 > **Region**: Basque Country, Northern Spain

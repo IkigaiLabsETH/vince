@@ -1,3 +1,7 @@
+---
+tags: [solana, l1, defi]
+agents: [otaku, eliza]
+---
 # Firedancer: Jump Crypto's Solana Validator Client
 
 ## Methodology & Framework

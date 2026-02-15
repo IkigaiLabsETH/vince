@@ -1,3 +1,7 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+---
 # Bordeaux Region Fine Dining
 
 > **Region**: Sauternes, Pauillac, Saint-Emilion, Bouliac

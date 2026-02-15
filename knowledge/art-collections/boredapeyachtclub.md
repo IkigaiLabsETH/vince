@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Bored Ape Yacht Club
 
 OpenSea Slug: `boredapeyachtclub`

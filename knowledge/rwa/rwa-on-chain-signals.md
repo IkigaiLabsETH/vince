@@ -1,3 +1,7 @@
+---
+tags: [rwa, tokenization, institutional]
+agents: [eliza]
+---
 # RWA On-Chain Signals
 
 *Last updated: 2026-02-15*

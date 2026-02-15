@@ -1,3 +1,7 @@
+---
+tags: [trading, options, derivatives]
+agents: [solus, eliza]
+---
 # 181584910.Options Tug Of War
 ## Metadata
 **Source**: Substack Essay

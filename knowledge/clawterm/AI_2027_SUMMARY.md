@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # AI 2027 Summary
 
 Scenario-type prediction of superhuman AI impact over the next decade. Source: [ai-2027.com](https://ai-2027.com/). Authors: Daniel Kokotajlo, Scott Alexander, Thomas Larsen, Eli Lifland, Romeo Dean.

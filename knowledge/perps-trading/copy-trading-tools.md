@@ -1,3 +1,7 @@
+---
+tags: [trading, derivatives, perps]
+agents: [solus, eliza]
+---
 # Copy Trading Tools for Hyperliquid
 
 > **📌 Knowledge Base Note**

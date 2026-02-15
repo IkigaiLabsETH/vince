@@ -1,3 +1,7 @@
+---
+tags: [regulation, compliance, legal]
+agents: [oracle, eliza]
+---
 # US Regulatory Landscape 2026
 
 ## Methodology & Framework

@@ -1,3 +1,7 @@
+---
+tags: [lifestyle, surf, travel]
+agents: [kelly, eliza]
+---
 ## Methodology & Framework
 
 **Core Concepts:**

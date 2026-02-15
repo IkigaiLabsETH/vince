@@ -1,3 +1,7 @@
+---
+tags: [solana, l1, defi]
+agents: [otaku, eliza]
+---
 # MEV on Solana: Jito & the Extraction Economy
 
 ## Methodology & Framework

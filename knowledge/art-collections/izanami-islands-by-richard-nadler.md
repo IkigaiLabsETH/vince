@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Izanami Islands
 
 OpenSea Slug: `izanami-islands-by-richard-nadler`

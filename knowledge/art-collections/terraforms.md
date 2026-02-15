@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Terraforms
 
 OpenSea Slug: `terraforms`

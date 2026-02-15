@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Aerial View
 
 OpenSea Slug: `aerial-view-by-dalenz`

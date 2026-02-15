@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # 100 Sunsets
 
 OpenSea Slug: `100-sunsets-by-zach-lieberman`

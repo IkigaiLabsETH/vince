@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #18: CoinMetrics (Network Data & Economic Indicators)
 
 **Priority**: Tier 3 - Supporting  

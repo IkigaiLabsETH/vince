@@ -1,3 +1,7 @@
+---
+tags: [lifestyle, wine, tasting]
+agents: [kelly, eliza]
+---
 ## Methodology & Framework
 
 **Core Concepts:**

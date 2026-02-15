@@ -1,3 +1,7 @@
+---
+tags: [trading, memecoins, degen]
+agents: [echo, eliza]
+---
 ## Methodology and Framework
 
 **Key Concepts:**

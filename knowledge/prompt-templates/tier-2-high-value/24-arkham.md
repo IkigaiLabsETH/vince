@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #24: Arkham Intelligence (Wallet Tracking & Entity Labels)
 
 **Priority**: Tier 2 - High Value  

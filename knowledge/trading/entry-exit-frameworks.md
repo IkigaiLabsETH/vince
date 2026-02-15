@@ -1,3 +1,7 @@
+---
+tags: [trading, risk-management, strategy]
+agents: [solus, eliza]
+---
 # Entry & Exit Frameworks
 
 ## Methodology & Framework

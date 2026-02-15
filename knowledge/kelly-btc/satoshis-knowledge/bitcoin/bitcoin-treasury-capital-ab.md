@@ -1,3 +1,7 @@
+---
+tags: [lifestyle, bitcoin, kelly]
+agents: [kelly, eliza]
+---
 # Bitcoin Treasury Capital AB (BTC AB)
 
 ## Company Overview

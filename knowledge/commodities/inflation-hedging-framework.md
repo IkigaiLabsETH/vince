@@ -1,3 +1,7 @@
+---
+tags: [commodities, macro, investment]
+agents: [oracle, eliza]
+---
 # Inflation Hedging Framework
 
 ## Methodology & Framework

@@ -1,3 +1,7 @@
+---
+tags: [trading, derivatives, perps]
+agents: [solus, eliza]
+---
 # Tread.fi Complete Strategy Guide
 
 IMPORTANT: always check https://treadtools.vercel.app/

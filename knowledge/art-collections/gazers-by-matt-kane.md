@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Gazers
 
 OpenSea Slug: `gazers-by-matt-kane`

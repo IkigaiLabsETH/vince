@@ -1,3 +1,7 @@
+---
+tags: [bankr, trading, protocol]
+agents: [otaku, eliza]
+---
 ## Methodology & Framework
 
 **Core Concepts:**

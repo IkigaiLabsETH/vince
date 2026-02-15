@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Dataland — Biome Lumina
 
 OpenSea Slug: `dataland-biomelumina`

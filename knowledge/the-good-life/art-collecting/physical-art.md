@@ -1,3 +1,7 @@
+---
+tags: [lifestyle]
+agents: [kelly, eliza]
+---
 # Physical Art Collecting
 
 This document covers our approach to physical art, separate from but complementary to our NFT collection.

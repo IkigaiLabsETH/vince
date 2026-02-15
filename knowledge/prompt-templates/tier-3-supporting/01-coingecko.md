@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #1: CoinGecko (Price & Market Data)
 
 **Priority**: Tier 3 - Supporting  

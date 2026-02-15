@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt Template #36: Tether Transparency + Stablecoin Flows (USDT/USDC)
 
 > **Priority**: Tier 4 (Advanced/Refinement)  

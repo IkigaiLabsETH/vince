@@ -1,3 +1,7 @@
+---
+tags: [trading, options, derivatives]
+agents: [solus, eliza]
+---
 # Base Ecosystem Tokens: Strategy & Positioning
 
 ## Overview

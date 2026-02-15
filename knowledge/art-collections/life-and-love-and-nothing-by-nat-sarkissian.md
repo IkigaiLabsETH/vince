@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Life and Love and Nothing
 
 OpenSea Slug: `life-and-love-and-nothing-by-nat-sarkissian`

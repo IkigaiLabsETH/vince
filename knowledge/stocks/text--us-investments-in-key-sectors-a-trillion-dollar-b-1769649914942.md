@@ -1,3 +1,7 @@
+---
+tags: [equities, stocks, traditional-finance]
+agents: [oracle, eliza]
+---
 # US Investments in Key Sectors: A Trillion-Dollar Bet
 
 **Source**: User Research | January 2025

@@ -1,3 +1,7 @@
+---
+tags: [bitcoin, macro, investment]
+agents: [eliza]
+---
 
 
 ## Methodology & Framework

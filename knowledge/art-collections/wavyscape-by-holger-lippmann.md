@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # WaVyScApE
 
 OpenSea Slug: `wavyscape-by-holger-lippmann`

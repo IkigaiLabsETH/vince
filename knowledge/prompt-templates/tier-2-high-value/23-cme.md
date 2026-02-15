@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #23: CME Group (Futures Data & Institutional Vibes)
 
 **Priority**: Tier 2 - High Value  

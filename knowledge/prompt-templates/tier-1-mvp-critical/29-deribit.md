@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #29: Deribit (Options Chain Data - CRITICAL for 7-Day Options)
 
 **Priority**: Tier 1 - MVP Critical (HIGHEST PRIORITY)  

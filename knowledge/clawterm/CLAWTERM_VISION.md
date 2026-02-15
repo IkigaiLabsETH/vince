@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Clawterm Vision and Cost Narrative
 
 ## Cost Reality

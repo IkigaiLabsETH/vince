@@ -1,3 +1,7 @@
+---
+tags: [defi, protocols, metrics]
+agents: [otaku, eliza]
+---
 # Pendle Protocol
 
 ## Methodology & Framework

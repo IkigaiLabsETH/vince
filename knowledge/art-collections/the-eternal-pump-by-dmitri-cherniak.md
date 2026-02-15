@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # The Eternal Pump
 
 OpenSea Slug: `the-eternal-pump-by-dmitri-cherniak`

@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # The Vault of Wonders: Chapter 1 — The Abyssal Unseen
 
 OpenSea Slug: `the-vault-of-wonders-chapter-1-the-abyssal-unseen`

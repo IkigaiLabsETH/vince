@@ -1,3 +1,7 @@
+---
+tags: [intents, ux, cross-chain]
+agents: [otaku, eliza]
+---
 # Intent-Based Trading
 
 ## Methodology & Framework

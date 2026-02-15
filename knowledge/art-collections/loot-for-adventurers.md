@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Loot (for Adventurers)
 
 OpenSea Slug: `loot-for-adventurers`

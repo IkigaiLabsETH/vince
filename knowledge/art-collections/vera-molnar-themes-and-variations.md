@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Themes and Variations
 
 OpenSea Slug: `vera-molnar-themes-and-variations`

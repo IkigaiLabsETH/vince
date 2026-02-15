@@ -1,3 +1,7 @@
+---
+tags: [regulation, compliance, legal]
+agents: [oracle, eliza]
+---
 # DeFi Regulation Challenges
 
 ## Methodology & Framework

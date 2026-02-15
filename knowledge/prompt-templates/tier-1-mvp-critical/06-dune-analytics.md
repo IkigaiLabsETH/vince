@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #6: Dune Analytics (Deep On-Chain Analysis)
 
 **Priority**: Tier 1 - MVP Critical  

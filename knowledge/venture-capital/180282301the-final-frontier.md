@@ -1,3 +1,7 @@
+---
+tags: [vc, startups, investment]
+agents: [eliza]
+---
 # 180282301.The Final Frontier
 ## Metadata
 **Source**: Substack Essay

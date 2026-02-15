@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Incomplete Control
 
 OpenSea Slug: `incomplete-control-by-tyler-hobbs`

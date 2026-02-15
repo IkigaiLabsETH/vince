@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Prompt #7: Token Terminal (Protocol Fundamentals)
 
 **Priority**: Tier 3 - Supporting  

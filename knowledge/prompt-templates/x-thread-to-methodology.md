@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # X thread → methodology summary
 
 Use this when turning an X (Twitter) thread (or any social explainer) into knowledge. Goal: extract **frameworks and methodology**, not ephemeral facts.

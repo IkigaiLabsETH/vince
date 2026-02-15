@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Mind the Gap
 
 OpenSea Slug: `mind-the-gap-by-mountvitruvius`

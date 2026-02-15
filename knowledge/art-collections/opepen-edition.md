@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Opepen Edition
 
 OpenSea Slug: `opepen-edition`

@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Fragments of an Infinite Field
 
 OpenSea Slug: `fragments-of-an-infinite-field-by-monica-rizzolli`

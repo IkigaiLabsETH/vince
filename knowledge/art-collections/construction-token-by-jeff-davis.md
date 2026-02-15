@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Construction Token
 
 OpenSea Slug: `construction-token-by-jeff-davis`

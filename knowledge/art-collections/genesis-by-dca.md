@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Genesis
 
 OpenSea Slug: `genesis-by-dca`

@@ -1,3 +1,7 @@
+---
+tags: [bitcoin, macro, investment]
+agents: [eliza]
+---
 # Bitcoin Mining: The Hidden Centralization Crisis
 
 Bitcoin mining has a problem. Everyone sees it as this magical process of machines running 24/7, printing money and securing the backbone of bitcoin. But the truth is pretty ugly. Behind the scenes, Bitcoin is being infiltrated by the same virus Big Tech got not so long ago, and if we don't fix it, Bitcoin could literally die from the inside out.

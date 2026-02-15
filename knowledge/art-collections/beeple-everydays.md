@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Beeple Everydays
 
 OpenSea Slug: `beeple-everydays`

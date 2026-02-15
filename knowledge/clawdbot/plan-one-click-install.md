@@ -1,3 +1,7 @@
+---
+tags: [general]
+agents: [eliza]
+---
 # Plan: One-Click OpenClaw Install Flow
 
 A single, repeatable flow that implements the [setup & security guide](instructions-clawdbot.md) and bakes in [practical tips](openclaw-practical-tips.md): private Discord with channels, small/script-like tasks, and safe defaults so OpenClaw is useful from day one without bad loops or overload.

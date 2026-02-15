@@ -1,3 +1,7 @@
+---
+tags: [nft, art, collections]
+agents: [kelly, eliza]
+---
 # Meridian
 
 OpenSea Slug: `meridian-by-matt-deslauriers`
