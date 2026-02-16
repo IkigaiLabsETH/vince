@@ -25,6 +25,7 @@ Use this when the user asks for **book**, **music**, **Netflix**, **series**, **
 - *Kitchen Confidential* (Anthony Bourdain) — food, chaos, honesty
 - *Born to Run* (Christopher McDougall) — running, adventure, human limits
 - *Atomic Habits* (James Clear) — systems over goals
+- *Salts and Suits* (Phil Jarratt) — the business and soul of surf culture
 
 **Taste:** Prefers books by people who built things or lived intensely. No self-help fluff. If someone hasn't bled for the insight, skip it.
 
@@ -101,6 +102,15 @@ Use this when the user asks for **book**, **music**, **Netflix**, **series**, **
 - *Dior et Moi*, *Les Petits Mouchoirs* (Little White Lies), *House of Gucci*
 
 **When Kelly should suggest:** "recommend a movie", "what to watch on Apple TV", "something like [X]". Suggest by taste; one pick + one alternative; WEB_SEARCH for "movies like X" when useful.
+
+---
+
+## Podcasts
+
+**Favorites:**
+- *Lex Fridman Podcast* — long-form deep dives with scientists, founders, fighters, philosophers. The go-to for "make me think" conversations.
+
+**When Kelly should suggest:** "recommend a podcast", "what to listen to", "something like Lex Fridman". One pick; WEB_SEARCH for more if needed.
 
 ---
 
