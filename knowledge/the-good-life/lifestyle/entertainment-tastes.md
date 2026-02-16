@@ -59,6 +59,9 @@ Use this when the user asks for **book**, **music**, **Netflix**, **series**, **
 - *Money Heist* (La Casa de Papel) — smart heist, great ensemble
 - *The Crown* — history, power, restraint
 - *Black Mirror* — tech-anxiety done right
+- *Fargo* — Coen brothers energy, dark and sharp
+- *The Diplomat* — power, politics, smart writing
+- *On the Waterfront* — classic Brando, raw
 
 **Taste:** Loves docuseries about craft and mastery, visually stunning nature docs, well-written international thrillers. Not into sitcoms or reality TV.
 
