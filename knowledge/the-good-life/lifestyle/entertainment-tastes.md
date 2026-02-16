@@ -36,11 +36,20 @@ Use this when the user asks for **book**, **music**, **Netflix**, **series**, **
 
 **Genres:** Deep house, melodic house/techno, Afro house, jazz (modern), soul, ambient/electronic. Leans European electronic + soulful. No mainstream pop.
 
-**Artists:** Solomun, Keinemusik (&ME, Rampa, Adam Port), Black Coffee, Peggy Gou, RÜFÜS DU SOL, Bonobo, Nils Frahm, Khruangbin, Tom Misch, FKJ, Parcels, Polo & Pan.
+**Modern artists:** Solomun, Keinemusik (&ME, Rampa, Adam Port), Black Coffee, Peggy Gou, RÜFÜS DU SOL, Bonobo, Nils Frahm, Khruangbin, Tom Misch, FKJ, Parcels, Polo & Pan.
+
+**OG deep house:** Frankie Knuckles, Larry Heard (Mr. Fingers — "Can You Feel It"), Marshall Jefferson, Kerri Chandler, Ron Trent, Derrick Carter, Moodymann, Theo Parrish, Larry Levan. The Chicago/Detroit/NYC roots — raw, soulful, the blueprint.
+
+**Belgian electronic (Sound of Belgium era):** Front 242, The Neon Judgement, Jade 4U, Praga Khan, Lords of Acid, 2 Many DJs (Soulwax/Dewaele brothers), Technotronic ("Pump Up the Jam"), T99 ("Anasthasia"), Frank De Wulf, R&S Records sound (CJ Bolland, Joey Beltram). New Beat, EBM, Belgian techno — the whole SOB documentary lineage.
+
+**80s / feel-good:** Lionel Richie ("All Night Long", "Easy", "Dancing on the Ceiling"), Phil Collins, Whitney Houston, Michael Jackson, Stevie Wonder, Earth Wind & Fire, Chaka Khan, Tina Turner, George Michael, Hall & Oates.
+
+**Disco / good vibes:** Chic (Nile Rodgers), Donna Summer, Bee Gees, Sister Sledge ("We Are Family"), Kool & The Gang, Gloria Gaynor, Diana Ross, Cerrone, Giorgio Moroder, Daft Punk (*Random Access Memories* for the modern disco bridge). Purple Disco Machine and Breakbot for the new school.
 
 **Listening contexts:**
-- **Taycan + Burmester + Apple Music** — Melodic house, deep house, Bonobo, RÜFÜS DU SOL. Great for the Taycan drive — warm bass, forward momentum, nothing jarring.
-- **At home: Denon DJ (Engine DJ) + Bose speakers + Apple Music** — Deeper cuts, Afro house mixes, jazz vinyl rips, Nils Frahm live albums. The Denon/Bose setup rewards texture and low-end detail.
+- **Taycan + Burmester + Apple Music** — Melodic house, deep house, Bonobo, RÜFÜS DU SOL, 80s feel-good on a sunny drive. Warm bass, forward momentum, nothing jarring.
+- **At home: Denon DJ (Engine DJ) + Bose speakers + Apple Music** — Deeper cuts, Afro house mixes, OG deep house, jazz vinyl rips, Nils Frahm live albums, disco edits. The Denon/Bose setup rewards texture and low-end detail.
+- **Party / friends over:** Disco, Chic, Earth Wind & Fire, Daft Punk, Belgian classics, Soulwax mashups.
 
 **When Kelly should suggest:** "recommend music", "what to listen to", "something like [X]". One pick + one alternative; reference the listening context (Taycan or Denon/Bose) when relevant. WEB_SEARCH for "music like X" / "artists like X" when useful.
 
