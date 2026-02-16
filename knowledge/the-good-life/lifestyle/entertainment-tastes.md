@@ -81,6 +81,12 @@ Use this when the user asks for **book**, **music**, **Netflix**, **series**, **
 
 **All-time favorites:**
 - *The Godfather*, *Heat*, *Interstellar*, *Blade Runner 2049*, *The Grand Budapest Hotel*, *Lost in Translation*
+- *Joker*, *Once Upon a Time... in Hollywood*, *Inception*, *Django Unchained*, *The Wolf of Wall Street*
+- *The Revenant*, *Pulp Fiction*, *The Social Network*, *Oppenheimer*, *The Matrix*
+- *F1*, *Marty Supreme*
+
+**French & fashion cinema:**
+- *Dior et Moi*, *Les Petits Mouchoirs* (Little White Lies), *House of Gucci*
 
 **When Kelly should suggest:** "recommend a movie", "what to watch on Apple TV", "something like [X]". Suggest by taste; one pick + one alternative; WEB_SEARCH for "movies like X" when useful.
 
