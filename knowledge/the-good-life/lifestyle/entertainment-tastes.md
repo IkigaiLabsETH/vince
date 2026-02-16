@@ -3,30 +3,6 @@ tags: [lifestyle]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Core Concepts:**
-- Evaluate lifestyle optimization through structured analytical frameworks
-- Focus on repeatable patterns and decision criteria over historical specifics
-- Apply risk-adjusted thinking to identify opportunities and threats
-
-**Analytical Approach:**
-- Extract timeless principles from market data and qualitative signals
-- Cross-reference multiple data points before forming conclusions
-- Distinguish between cyclical patterns and structural shifts
-
-**Pattern Recognition:**
-- Monitor leading indicators specific to lifestyle optimization
-- Track sentiment shifts and narrative changes as early signals
-- Identify divergences between price action and fundamental metrics
-
-**Decision Framework:**
-- Define clear entry/exit criteria before acting
-- Size positions relative to conviction and risk tolerance
-- Reassess thesis when key assumptions are invalidated
-
----
-
 
 # Entertainment tastes (books, music, Netflix, Apple TV)
 
@@ -36,9 +12,21 @@ Use this when the user asks for **book**, **music**, **Netflix**, **series**, **
 
 ## Books
 
-**Genres and types you read:** *(fill in: e.g. thriller, history, biography, sci-fi, business, memoir, etc.)*
+**Genres:** Business/startup memoirs, philosophy (Stoicism, Naval Ravikant), surf culture, design/architecture, biography, sci-fi.
 
-**Favorite authors or titles (optional):** *(fill in)*
+**Favorites:**
+- *The Almanack of Naval Ravikant* — distilled wisdom on wealth and happiness
+- *Shoe Dog* (Phil Knight) — raw founder story, no polish
+- *Barbarian Days* (William Finnegan) — the definitive surf memoir
+- *Sapiens* (Yuval Noah Harari) — big-picture thinking on humanity
+- *The War of Art* (Steven Pressfield) — creative resistance, short and punchy
+- *Meditations* (Marcus Aurelius) — Stoic bedrock
+- *Dune* (Frank Herbert) — world-building at its peak
+- *Kitchen Confidential* (Anthony Bourdain) — food, chaos, honesty
+- *Born to Run* (Christopher McDougall) — running, adventure, human limits
+- *Atomic Habits* (James Clear) — systems over goals
+
+**Taste:** Prefers books by people who built things or lived intensely. No self-help fluff. If someone hasn't bled for the insight, skip it.
 
 **When Kelly should suggest:** "recommend a book", "what to read", "something like [X]". Suggest by genre/taste; one pick + one alternative; use WEB_SEARCH for "books like X" when the doc doesn't have enough.
 
@@ -46,27 +34,53 @@ Use this when the user asks for **book**, **music**, **Netflix**, **series**, **
 
 ## Music
 
-**Genres and artists you enjoy:** *(fill in)*
+**Genres:** Deep house, melodic house/techno, Afro house, jazz (modern), soul, ambient/electronic. Leans European electronic + soulful. No mainstream pop.
+
+**Artists:** Solomun, Keinemusik (&ME, Rampa, Adam Port), Black Coffee, Peggy Gou, RÜFÜS DU SOL, Bonobo, Nils Frahm, Khruangbin, Tom Misch, FKJ, Parcels, Polo & Pan.
 
 **Listening contexts:**
-- **Taycan + Burmester + Apple Music** — primary in-car. Kelly can say "great for the Taycan drive" when suggesting playlists or albums.
-- **At home: Denon DJ (Engine DJ) + Bose speakers + Apple Music** — for the Denon/Bose setup.
+- **Taycan + Burmester + Apple Music** — Melodic house, deep house, Bonobo, RÜFÜS DU SOL. Great for the Taycan drive — warm bass, forward momentum, nothing jarring.
+- **At home: Denon DJ (Engine DJ) + Bose speakers + Apple Music** — Deeper cuts, Afro house mixes, jazz vinyl rips, Nils Frahm live albums. The Denon/Bose setup rewards texture and low-end detail.
 
-**When Kelly should suggest:** "recommend music", "what to listen to", "something like [X]". One pick + one alternative; WEB_SEARCH for "music like X" / "artists like X" when useful.
+**When Kelly should suggest:** "recommend music", "what to listen to", "something like [X]". One pick + one alternative; reference the listening context (Taycan or Denon/Bose) when relevant. WEB_SEARCH for "music like X" / "artists like X" when useful.
 
 ---
 
 ## Netflix
 
-**Favorite series (names and optionally why):** *(fill in)*
+**Favorites:**
+- *Chef's Table* — craft and obsession, beautifully shot
+- *Abstract: The Art of Design* — how creative people think
+- *Formula 1: Drive to Survive* — competition, pressure, personality
+- *The Last Dance* — Jordan-level focus and intensity
+- *Our Planet* — Attenborough, cinematic nature
+- *Dark* (German) — best sci-fi series on any platform
+- *Narcos* — gritty international storytelling
+- *Money Heist* (La Casa de Papel) — smart heist, great ensemble
+- *The Crown* — history, power, restraint
+- *Black Mirror* — tech-anxiety done right
+
+**Taste:** Loves docuseries about craft and mastery, visually stunning nature docs, well-written international thrillers. Not into sitcoms or reality TV.
 
 **When Kelly should suggest:** "recommend a series", "what to watch on Netflix", "something like [X]". Suggest by taste; one pick + one alternative; WEB_SEARCH for "series like X" when useful.
 
 ---
 
-## Apple TV (movies)
+## Apple TV / Movies
 
-**Movies you enjoyed on Apple TV (titles and optionally why):** *(fill in)*
+**Apple TV favorites:**
+- *Severance* — unsettling, beautifully designed, addictive
+- *Ted Lasso* — optimism that actually works
+- *The Morning Show* — sharp, well-acted drama
+- *For All Mankind* — alt-history space race, underrated
+- *Tetris* — Cold War startup story
+- *Killers of the Flower Moon* (Scorsese) — slow burn, devastating
+- *Napoleon* (Ridley Scott) — spectacle and ambition
+
+**General film taste:** Scorsese, Nolan, Denis Villeneuve, Wes Anderson, Ridley Scott. Loves cinematography and craftsmanship.
+
+**All-time favorites:**
+- *The Godfather*, *Heat*, *Interstellar*, *Blade Runner 2049*, *The Grand Budapest Hotel*, *Lost in Translation*
 
 **When Kelly should suggest:** "recommend a movie", "what to watch on Apple TV", "something like [X]". Suggest by taste; one pick + one alternative; WEB_SEARCH for "movies like X" when useful.
 
@@ -74,4 +88,4 @@ Use this when the user asks for **book**, **music**, **Netflix**, **series**, **
 
 ## Voice
 
-Benefit-led, one clear recommendation + one alternative. No invented titles—prefer this doc, general knowledge, or WEB_SEARCH and say when you looked it up.
+Benefit-led, one clear recommendation + one alternative. Reference the specific listening context (Taycan/Burmester or Denon/Bose) when suggesting music. No invented titles—prefer this doc, general knowledge, or WEB_SEARCH and say when you looked it up.
