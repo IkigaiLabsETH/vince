@@ -93,16 +93,6 @@ Classic oven cooking for reliable results.
 
 ---
 
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
 
 ## Methodology & Framework
 
@@ -119,17 +109,3 @@ Classic oven cooking for reliable results.
 - Use as foundation for your own analysis
 
 **Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
-## Quick Reference by Time
-
-| Time | Thermomix | Green Egg | Oven |
-|------|-----------|-----------|------|
-| 15 min | Hummus, Cauliflower mash | Smash burgers | Salmon sheet pan |
-| 30 min | Risotto, Pasta dough | Reverse sear steak | Sausages + veg |
-| 1 hour | Soup, Curry | Grilled chicken | Roast chicken |
-| 2+ hours | Ragù, Bread | Ribs, Pulled pork | Lasagna, Roasts |
-| Long oven | — | — | Bourguignon, osso buco, confit, lamb shanks, grain bakes |

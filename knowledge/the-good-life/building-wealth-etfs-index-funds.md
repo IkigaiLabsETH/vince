@@ -3,47 +3,8 @@ tags: [lifestyle]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Key Concepts:**
-- **Own Productive Assets Over Time:** Building wealth is not about timing the market, picking winners, or being a good investor. It is about owning productive assets over a long period of time.
-- **Index Funds (ETFs) as Core:** The simplest and most effective approach is broad diversification via All-World ETFs to capture market return and avoid concentration risk.
-- **Passive Beat-and-Hold vs Active Trading:** Fewer than 10% of hedge funds outperform over 20 years. Taxes make passive buy-and-hold far superior; active trading destroys returns.
-- **Compound Interest:** Historically ~8% annual return; money roughly doubles every 10 years. Time in market matters more than timing the market.
-- **4% Rule for Retirement:** Withdraw ~4% of portfolio annually; portfolio size ≈ monthly expenses × 300. Sequence-of-returns risk means 8% expected return is not enough to simply cover expenses.
-
-**Analytical Approach:**
-- Evaluate wealth-building as long-horizon, diversified ownership—not stock-picking or market-timing.
-- Use ETFs for 70–80%+ of portfolio as lower bound; add other assets (Bitcoin 2–5%, precious metals ~10%) as portfolio grows.
-- Treat real estate and crypto as niche/situational; only when portfolio is large and you can commit significant time or expertise.
-
-**Pattern Recognition:**
-- Fear of investing at all-time highs is costly; S&P 500 hits new highs on ~8% of trading days. Start now, stay invested.
-- Lump-sum is statistically better, but dollar-cost averaging over 2–3 years is emotionally valid for large sums.
-- Retirement readiness = understanding sequence-of-returns risk and the 4% rule, not maximizing speed of retirement.
-
-**Strategic Framework:**
-- Invest as diversely as possible (All-World ETF); avoid concentration and active rotation.
-- Start early; small savings rates compound enormously over decades.
-- Use time and compound interest; goal is sustainable withdrawal, not retiring as fast as possible.
-
-**Important Notes:**
-- Focus on methodology and frameworks; specific percentages (8%, 4%, 70–80%) are illustrative rules of thumb.
-- Numbers and examples (e.g. $6,000 × 300) illustrate concepts, not personalized advice.
-- Keep actionable: own productive assets, diversify via ETFs, stay invested, plan for sequence risk.
-
 ---
 
-> **📌 Knowledge Base Note**
->
-> This document contains **rules of thumb and illustrative examples** (e.g. 8% return, 4% rule, doubling every 10 years).
-> - **Numbers and examples are ILLUSTRATIVE** — they communicate frameworks, not guaranteed outcomes or current conditions
-> - **Focus: Methodology and frameworks** — how to think about wealth-building, diversification, and retirement
-> - **Use for:** Strategic thinking, asset allocation logic, retirement planning frameworks, ETF vs active investing
-> - **Do NOT use for:** Current market returns, exact withdrawal rates, or personalized financial advice
->
-> **What this provides:** Wealth-building philosophy, ETF/index-fund strategy, compound interest intuition, 4% rule and sequence-of-returns concepts
-> **What this does NOT provide:** Real-time market data, tax advice, or specific product recommendations (use actions/APIs as needed)
 
 ## Metadata
 

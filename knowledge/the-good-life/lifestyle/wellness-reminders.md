@@ -85,16 +85,6 @@ Principles for performing well for decades: mobile, flexible, strong—built for
 
 ---
 
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
 
 ## Methodology & Framework
 
@@ -111,16 +101,3 @@ Principles for performing well for decades: mobile, flexible, strong—built for
 - Use as foundation for your own analysis
 
 **Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
-## Quick Reference by Time
-
-| Time | Options |
-|------|---------|
-| 3 min | Box breathing, Loving-kindness, Gratitude moment |
-| 5 min | Body scan, Legs up wall, Brain dump, 10 deep breaths |
-| 10 min | Yin flow, AMRAP workout, Journaling + planning |
-| 15 min | Superset circuit, Sun salutations, Upper/lower workout |
