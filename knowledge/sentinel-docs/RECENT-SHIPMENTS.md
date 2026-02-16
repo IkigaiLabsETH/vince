@@ -15,7 +15,7 @@ Reference for Sentinel: what shipped recently and where to check for the latest 
 
 **Bankr:** Token launch is first-class ("deploy a token called X on base" / "launch a token on solana" via BANKR_AGENT_PROMPT). We are Bankr-first; Clanker kept only if a direct Base SDK path is needed.
 
-**Standup/PRD:** standup-deliverables/prds/2026-02-12-prd-v2-1-0-release-notes-sentinel-eliza-upgrades.md — v2.1.0 release notes (Sentinel + Eliza upgrades).
+**Standup/PRD:** docs/standup/prds/2026-02-12-prd-v2-1-0-release-notes-sentinel-eliza-upgrades.md — v2.1.0 release notes (Sentinel + Eliza upgrades).
 
 ---
 
