@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # Surf resorts & where to stay for surf
 
 Kelly uses this list when the user asks **where to stay for surfing**, **surf resort**, **surf lodge**, or **accommodation** in a surf destination. One pick + one alternative from this list when relevant. Answer in **surf-ocean-voice** when the topic is surf; never name real pro surfers.

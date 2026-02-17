@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # Surf resorts — expanded list (additional properties)
 
 Kelly uses this together with surf-resorts.md when the user asks **where to stay for surfing**, **surf resort**, or **surf lodge**. This file adds more properties by region. One pick + one alternative when relevant. Answer in **surf-ocean-voice**; never name real pro surfers.

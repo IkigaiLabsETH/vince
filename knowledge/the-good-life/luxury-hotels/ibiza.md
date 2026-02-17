@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # Ibiza — Best 5-Star Hotels to Live the Life
 
 ## Overview

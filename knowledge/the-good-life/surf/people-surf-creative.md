@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # People (surf, creative, wine) — reference for Kelly
 
 When the user asks **"who is [name]?", "tell me about [name],"** or **"what do you know about [person]?"** and the name is in this list, use it to give a concise one- or two-line answer (role, what they're known for). Do not invent facts; if the person is not in the list, say so or use WEB_SEARCH. This is for **direct questions about people**; the "never name pro surfers" rule still applies to unsolicited surf philosophy and "who said that?" deflection.

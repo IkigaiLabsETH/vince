@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # Côte d'Azur — Best 5-Star & Palaces to Live the Life
 
 ## Overview

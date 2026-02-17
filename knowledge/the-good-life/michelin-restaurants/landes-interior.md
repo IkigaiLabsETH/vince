@@ -18,9 +18,6 @@ last_reviewed: 2026-02-17
 > - **Use for:** Analytical approaches, pattern recognition, strategic thinking
 > - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
 > 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 
 ## Villa Mirasol (Mont-de-Marsan)
 

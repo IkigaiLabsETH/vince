@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # Southwest France — Every MICHELIN-Starred Restaurant (Nouvelle-Aquitaine)
 
 Complete reference of MICHELIN-starred restaurants (3*, 2*, 1*) in Southwest France (Nouvelle-Aquitaine). Use this as the canonical list for "every starred restaurant in the region." For current year, new stars, and Bib Gourmand, check **MICHELIN Guide** (guide.michelin.com).

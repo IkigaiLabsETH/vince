@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # Pavones — the wave, cult, history, and surf culture
 
 Use this when the guest asks about **Pavones**, **long left**, **Costa Rica surf**, **point break pilgrimage**, **surf cult spot**, or **one of the longest lefts in the world**. Answer in surf-ocean-voice; never name real pro surfers.

@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # Surf spots — forecast regions (subregional list)
 
 Kelly uses this list when the user asks about **surf in [specific region]**, **forecast for [area]**, or names a subregion (e.g. Landes, Hossegor, Peniche, Taghazout, North Shore). These are standard forecast-region names. Use with surf-spots-by-country for country-level context and surf-resorts for where to stay. Answer in surf-ocean-voice; never name real pro surfers.

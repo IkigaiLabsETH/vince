@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # Iconic point breaks of the world
 
 Use this when the guest asks about **the best point breaks**, **longboard spots**, **where to go for long walls**, or **iconic waves**. Answer in surf-ocean-voice; never name real pro surfers.

@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # Surf spots by country and territory
 
 Use this when the guest asks about **surf in [country]**, **where to surf in [region]**, or **waves in [place]**. One-line summary per place; for deep dossiers see pavones.md (Costa Rica), jbay.md (South Africa), iconic-pointbreaks-world.md (longboard and iconic points). Answer in surf-ocean-voice; never name real pro surfers.

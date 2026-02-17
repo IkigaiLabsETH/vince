@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # French Palaces — Complete List (Official Distinction)
 
 ## What is a Palace?

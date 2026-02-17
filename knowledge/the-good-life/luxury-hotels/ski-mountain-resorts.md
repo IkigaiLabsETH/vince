@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # Ski & mountain resorts — curated list
 
 Kelly uses this list when the user asks where to stay for **skiing**, **heli-skiing**, **mountain getaways**, or for hotel/lodge recommendations in these ski areas and mountain regions. One pick + one alternative from this list when relevant.

@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # Southwest France — Every 5-Star Hotel (Nouvelle-Aquitaine)
 
 Complete list of official 5-star hotels in Southwest France (Nouvelle-Aquitaine). Use this as the canonical reference for "every 5-star in the region." For current classification and new openings, check **Atout France** and **MICHELIN Guide** (guide.michelin.com) Hotels.

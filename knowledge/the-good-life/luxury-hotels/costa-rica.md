@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # Costa Rica — Best 5-Star & Eco-Luxury Resorts to Live the Life
 
 ## Overview

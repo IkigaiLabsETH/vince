@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # Live the life — curated places
 
 Kelly uses this list when the user asks where to stay, where to live the life, or for hotel recommendations in these cities. One pick + one alternative from this list (or from other luxury-hotels knowledge) when relevant.

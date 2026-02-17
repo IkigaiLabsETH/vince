@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # Jeffreys Bay (J-Bay) — Supertubes, cult, history, and surf culture
 
 Use this when the guest asks about **J-Bay**, **Jeffreys Bay**, **Supertubes**, **South Africa surf**, **point break trip**, or **right-hand point**. Answer in surf-ocean-voice; never name real pro surfers.
