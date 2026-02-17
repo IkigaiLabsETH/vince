@@ -1,97 +1,150 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
----
-
 
 # Curated Open Schedule
 
-**Purpose**: Only suggest restaurants and hotels that are **open today**. This file is the source of truth for day-specific and season-specific availability. Lifestyle suggestions must filter by this schedule.
+**The source of truth for "what's open today."** Kelly must filter every restaurant suggestion by this schedule. Never suggest a place that's closed today.
 
-## Restaurants by Day
+---
+
+## Restaurants by Day of Week
 
 ### Monday
-- Most curated restaurants closed Mon-Tue
-- **Closed Mon–Tue (do not suggest):** Le Relais de la Poste, Côté Quillier (Wed–Sun only).
-- _No lunch suggestions — cook at home or check elsewhere_
+- **Most curated restaurants closed Mon–Tue.**
+- No starred dining available locally.
+- **Default:** Cook at home (Green Egg, Thermomix, oven). See home-cooking.
+- If they insist on going out: check Biarritz or Bayonne for Monday openings (use WEB_SEARCH).
 
 ### Tuesday
-- **Closed Mon–Tue (do not suggest):** Le Relais de la Poste, Côté Quillier (Wed–Sun only).
-- **Auberge du Lavoir** | Garrosse | Lunch 12:00-13:30 | Traditional French, family-friendly | 05 58 08 16 20
-- _TUESDAY DINING DAY — limited local options; Auberge du Lavoir is the confirmed go-to_
+| Restaurant | Location | Hours | Type |
+|------------|----------|-------|------|
+| **Auberge du Lavoir** | Garrosse | 12:00–13:30 | Traditional French, family |
 
-### Wednesday
-- **Maison Devaux** | Rion-des-Landes | Lunch Wed-Sat 12:30-14:00, Sun 12:30-15:00 | Michelin Bib Gourmand
-- **Auberge du Lavoir** | Garrosse | Tue, Wed, Thu, Sun 12:00-13:30 | Traditional French
-- **Le Relais de la Poste** | Magescq | Wed-Sun 12:00-13:30 | 2★ Michelin
-- **Côté Quillier** | Magescq | Wed-Sun 12:00-13:45 | Bistro at Relais de la Poste
-- **La Table du Marensin** | Uza | Lunch Wed, Fri-Sun 12:00-13:30; dinner Thu-Sat 19:00-21:00 | Gastronomic
+- **Still closed:** Le Relais de la Poste, Côté Quillier (Wed–Sun only).
+- Limited options. Auberge du Lavoir is the Tuesday go-to.
+
+### Wednesday ⭐ (best day for dining out)
+| Restaurant | Location | Hours | Type |
+|------------|----------|-------|------|
+| **Le Relais de la Poste** | Magescq | 12:00–13:30 | 2★ Michelin |
+| **Côté Quillier** | Magescq | 12:00–13:45 | Bistro (at Relais) |
+| **Maison Devaux** | Rion-des-Landes | 12:30–14:00 | Bib Gourmand |
+| **Auberge du Lavoir** | Garrosse | 12:00–13:30 | Traditional French |
+| **La Table du Marensin** | Uza | 12:00–13:30 | Gastronomic |
+
+- Full choice. Wednesday is THE day for a great lunch. Pair with a midweek hotel escape.
 
 ### Thursday
-- **Maison Devaux** | Rion-des-Landes | Wed-Sat 12:30-14:00
-- **Auberge du Lavoir** | Garrosse | Tue, Wed, Thu, Sun 12:00-13:30
-- **Le Relais de la Poste** | Magescq | Wed-Sun 12:00-13:30
-- **Côté Quillier** | Magescq | Wed-Sun 12:00-13:45
-- _La Table du Marensin: dinner only Thu (no lunch); lunch Wed, Fri-Sun._
-- _THURSDAY DINING DAY — full choice_
+| Restaurant | Location | Hours | Type |
+|------------|----------|-------|------|
+| **Le Relais de la Poste** | Magescq | 12:00–13:30 | 2★ Michelin |
+| **Côté Quillier** | Magescq | 12:00–13:45 | Bistro |
+| **Maison Devaux** | Rion-des-Landes | 12:30–14:00 | Bib Gourmand |
+| **Auberge du Lavoir** | Garrosse | 12:00–13:30 | Traditional French |
+
+- La Table du Marensin: **dinner only** on Thursday (19:00–21:00), no lunch.
 
 ### Friday
-- All Wednesday restaurants above plus:
-- **La Table du Marensin** | Uza | Lunch Wed, Fri-Sun 12:00-13:30; dinner Thu-Sat 19:00-21:00 | Special occasion
+| Restaurant | Location | Hours | Type |
+|------------|----------|-------|------|
+| **Le Relais de la Poste** | Magescq | 12:00–13:30 | 2★ Michelin |
+| **Côté Quillier** | Magescq | 12:00–13:45 | Bistro |
+| **Maison Devaux** | Rion-des-Landes | 12:30–14:00 | Bib Gourmand |
+| **La Table du Marensin** | Uza | 12:00–13:30 (lunch) + 19:00–21:00 (dinner) | Gastronomic |
+
+- Full choice. Great day for a celebratory lunch to close the week.
 
 ### Saturday
-- Same as Friday — full choice
+| Restaurant | Location | Hours | Type |
+|------------|----------|-------|------|
+| **Le Relais de la Poste** | Magescq | 12:00–13:30 | 2★ Michelin |
+| **Côté Quillier** | Magescq | 12:00–13:45 | Bistro |
+| **Maison Devaux** | Rion-des-Landes | 12:30–14:00 | Bib Gourmand |
+| **La Table du Marensin** | Uza | 12:00–13:30 (lunch) + 19:00–21:00 (dinner) | Gastronomic |
+
+- Same as Friday. Saturday market → lunch at one of these.
+- **Auberge du Lavoir: closed Saturday.**
 
 ### Sunday
-- **Maison Devaux** | Rion-des-Landes | Sun 12:30-15:00
-- **Auberge du Lavoir** | Garrosse | Tue, Wed, Thu, Sun 12:00-13:30
-- **Le Relais de la Poste** | Magescq | Wed-Sun 12:00-13:30
-- **Côté Quillier** | Magescq | Wed-Sun 12:00-13:45
-- **La Table du Marensin** | Uza | Lunch Wed, Fri-Sun 12:00-13:30; dinner Thu-Sat 19:00-21:00
+| Restaurant | Location | Hours | Type |
+|------------|----------|-------|------|
+| **Le Relais de la Poste** | Magescq | 12:00–13:30 | 2★ Michelin |
+| **Côté Quillier** | Magescq | 12:00–13:45 | Bistro |
+| **Maison Devaux** | Rion-des-Landes | 12:30–15:00 (extended) | Bib Gourmand |
+| **Auberge du Lavoir** | Garrosse | 12:00–13:30 | Traditional French |
+| **La Table du Marensin** | Uza | 12:00–13:30 | Gastronomic (lunch only Sun) |
+
+- Full choice including the Lavoir. Devaux has extended Sunday hours.
+
+---
+
+## Quick reference: which days is each restaurant open?
+
+| Restaurant | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|------------|-----|-----|-----|-----|-----|-----|-----|
+| **Le Relais de la Poste** | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Côté Quillier** | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Maison Devaux** | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Auberge du Lavoir** | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ |
+| **La Table du Marensin** | ❌ | ❌ | ✅L | ❌L ✅D | ✅ | ✅ | ✅L |
+
+L = lunch only, D = dinner only, ✅ = both lunch and dinner available.
+
+---
 
 ## Hotels by Season
 
-### Winter (January–February)
+### Winter (December–February) — Palace closures
 
-**Palaces — closed until dates below:**
-- Les Sources de Caudalie: closed until Feb 5
-- Hôtel du Palais: closed until Feb 12
-- Les Prés d'Eugénie: closed until Mar 6
+| Property | Closes | Reopens | Indoor pool |
+|----------|--------|---------|-------------|
+| **Les Sources de Caudalie** | Early Dec | **Feb 5** | Yes (vinothérapie spa) |
+| **Hôtel du Palais** | Early Dec | **Feb 12** | Yes (imperial pool) |
+| **Les Prés d'Eugénie** | Late Nov | **Mar 6** | Yes (thermal spa) |
 
-**Palace indoor pools (winter swim) — exact close and reopen:**
-- **Hôtel du Palais** (Biarritz): closes early December, reopens Feb 12
-- **Les Sources de Caudalie** (Martillac): closes early December, reopens Feb 5
-- **Les Prés d'Eugénie** (Eugénie-les-Bains): closes late November, reopens Mar 6
-- For winter indoor lap swimming, plan stays at Palais or Caudalie from their reopen date (Feb 5 / Feb 12) until they close again (early Dec); they are closed in between.
+**January–early February:** All three palaces are closed. Use winter alternatives:
+- **Villa Mirasol** (Mont-de-Marsan) — open year-round, ~200 EUR
+- **Le Relais de la Poste** (Magescq) — open year-round, 2★ dining
+- **Brindos** (Anglet) — floating lodges, open year-round
+- **Ostape** (Bidarray) — countryside estate, open year-round
 
-**Winter alternatives (open year-round):**
-- Villa Mirasol | Mont-de-Marsan | ~200 EUR
-- Relais de la Poste | Magescq | ~200 EUR + 2★ dining
-- Brindos | Anglet | Floating lodges
-- Ostape | Bidarray | Countryside estate
+**From Feb 5:** Caudalie reopens → book for winter indoor swim.
+**From Feb 12:** Palais reopens → book for ocean + pool.
+**From Mar 6:** Eugénie reopens → book for gastronomy + spa.
 
-### March–November
-- Hôtel du Palais | Biarritz | Ocean + grandeur
-- Les Prés d'Eugénie | Eugénie-les-Bains | 3★ gastronomy
-- Les Sources de Caudalie | Bordeaux | Wine + spa
-- Wednesday preferred for midweek escapes
+### Spring–Autumn (March–November)
+- All three palaces open.
+- **Wednesday midweek escape** = the default recommendation.
+- Off-season (Nov, Mar) has best rates and quietest atmosphere.
 
 ### Special closures
-- **Les Frères Ibarboure** (Bidart): Jan 4–30 annual closure
-- Check individual property before booking
+- **Les Frères Ibarboure** (Bidart): Annual closure **Jan 4–30**.
+- Always verify individual properties before booking — seasonal hours change.
 
-## Fitness / Health
+---
 
-- **Pool season**: April–November
-- **Gym season**: December–March
-- Pool: outdoor swimming, rooftops
-- Gym: indoor training, mobility work
+## Fitness & Health by Season
+
+| Season | Primary | Secondary | Notes |
+|--------|---------|-----------|-------|
+| **Pool season (Apr–Nov)** | Daily 1000m swim (backyard) | Surf, rowing, yoga | Pool heated. Best season. |
+| **Gym season (Dec–Feb)** | Rowing, yoga, indoor swim | Dumbbell circuits, sauna | Pool heating off. Use rower, palace pools, wetsuit. |
+
+### Winter swim dates (palace indoor pools)
+- **Caudalie:** Available from **Feb 5** reopening through early Dec closure.
+- **Palais:** Available from **Feb 12** reopening through early Dec closure.
+- **Eugénie:** Available from **Mar 6** reopening through late Nov closure.
+- **January–early Feb:** All closed. Alternatives: wetsuit backyard swim, rowing, municipal pools (WEB_SEARCH for current options).
+
+---
 
 ## Decision rules
 
-1. **Dining**: Suggest ONLY restaurants listed for today's day.
-2. **Hotels**: In Jan–Feb, suggest only winter alternatives unless past closure date. Midweek (Wed) preferred.
-3. **Health**: Pool Apr–Nov, gym Dec–Mar. Monday mobility, weekend rest/light.
-4. **Friday**: Strike selection day — light lunch, focus on options.
+1. **Restaurant suggestion:** Check today's day → suggest ONLY restaurants listed as open for that day. Prefer landes-locals. Default to lunch.
+2. **Hotel suggestion:** Check season → only suggest open properties. Midweek (Wed) preferred. Verify winter closures.
+3. **Fitness:** Pool Apr–Nov, gym season Dec–Feb. Match activity to season.
+4. **Monday/Tuesday:** Limited dining. Default to home cooking. Don't force a restaurant suggestion.
+5. **Friday:** Celebratory lunch to close the week. Full restaurant choice.
