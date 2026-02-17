@@ -1,7 +1,7 @@
 ---
 tags: [nft, art, collections]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 # Rare Pepes
 
@@ -32,38 +32,6 @@ Rare Pepes live on **Bitcoin** (Counterparty). If you’re used to OpenSea on Et
 Rare Pepes are underrated in mainstream NFT discourse. Ethereum gets the glory; Rare Pepes did it first on Bitcoin. They’re messy, silly, and foundational. If you’re building a “greatest hits” of NFT history, Rare Pepes belong in the first chapter. Not overrated—often *under*rated because they’re not on ETH. Essential for anyone who cares about origins.
 
 ---
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-## Methodology & Framework
-
-**Key Concepts:**
-- Understanding the core thesis and its implications
-- Evaluating risk/reward in context of current conditions
-- Applying the framework to your own analysis
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
-*Last updated: January 2026*
-
 
 ## Related
 
