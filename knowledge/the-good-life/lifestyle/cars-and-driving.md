@@ -44,6 +44,74 @@ Air-cooled heritage, rear-engine character, timeless design. The lineage from th
 
 ---
 
+## 911 T-Hybrid (992.2) — The New Chapter
+
+*Source: The Good Life (thegoodlife.fr, Dec 2025)*
+
+The 992.2 generation brings T-Hybrid technology to the GTS and above — and it changes the game without changing the soul. This is **not** eco-hybridization. This is performance hybridization. The car still attracts France's maximum ecological malus (€70k+ in 2025). Zero green virtue signaling. Pure engineering.
+
+### How it works
+
+Two electric motors — one integrated into the PDK gearbox, one at the turbocharger itself. The turbo motor spools the compressor electrically, eliminating turbo lag entirely. The gearbox motor adds torque fill and harvests energy under braking. A small battery recharges via regenerative braking only — no plug, no charging stops, no range anxiety, no compromise.
+
+The result: **instant throttle response** at any rpm. The boost is about response time and mid-range punch, not efficiency. TGL tested it on Crete and described "fulgurances" (lightning accelerations) — the car "obeys finger and eye."
+
+### Specs
+
+| Spec | 911 GTS T-Hybrid |
+|------|-------------------|
+| **Engine** | 3.6L flat-six boxer + 2 electric motors |
+| **Combined power** | 541 hp / 610 Nm |
+| **0-100 km/h** | 3.1s (Sport Chrono) |
+| **Top speed** | 312 km/h |
+| **Weight** | 1,675 kg (+50 kg vs non-hybrid) |
+| **Gearbox** | 8-speed PDK |
+| **Battery** | Small, regen-only (no plug-in) |
+| **Base price (GTS)** | €180,600 |
+| **Cabriolet** | €194,800 |
+
+### Spirit 70 limited edition
+
+1,500 units worldwide. **Olive Neo** exterior color, psychedelic **Pascha** interior pattern — a nod to 1970s Porsche heritage. €247,200 before malus. A collector's piece that drives like a weapon.
+
+### The verdict
+
+The flat-six sound and rear-engine character remain. Evolution, not revolution — exactly the 911 way. The T-Hybrid doesn't make the 911 something else; it makes it more itself. Faster response, more mid-range torque, same soul.
+
+---
+
+## Electric Alternatives Worth Knowing
+
+*Source: The Good Life (May 2025) — 5 EVs to watch*
+
+The Taycan is home. But when someone asks about the broader EV landscape, these are the ones worth knowing:
+
+- **Alpine A290** — Car of the Year 2025. Based on the Renault 5 platform, 220 hp. The French electric hot hatch. Fun over power — agile, comfortable, daily-drivable. The spiritual successor to the hot hatch tradition.
+- **Tesla Model Y** — Global bestseller, refreshed. Better build quality and comfort than before. The practical family choice. Not exciting, but undeniably effective.
+- **Volvo EX90** — 7-seat luxury SUV. 580 km range, 2.8 tons, pneumatic suspension. The quiet Scandinavian cruiser for families who want space and serenity.
+- **Smart #5** — Family SUV with a 646 hp Brabus variant. Huge interior — camp-in-it size. The surprise package.
+- **DS N°8** — French luxury crossover-berline. 750 km range (!). Bicolor paint, refined cabin. The French answer to luxury EV. Worth watching for the ambition alone.
+
+---
+
+## 2026 Hotel Openings Worth a Drive
+
+*Source: The Good Life (Jan 2026)*
+
+Destinations worth planning a road trip to — new openings across France that justify the drive itself.
+
+| Hotel | Location | Opens | Character |
+|-------|----------|-------|-----------|
+| **COMO Le Beauvallon** | Gulf of Saint-Tropez | Apr 24, 2026 | Historic (1914), COMO Hotels. Gardens, pool, beach club. Overlooking the gulf. ~5-6h from Landes but worth it. |
+| **Zannier Île de Bendor** | Private island, between Marseille & Saint-Tropez | Spring 2026 | Paul Ricard's island reborn. 93 keys, spa, dive center, 8 restaurants. A private island hotel. |
+| **Château La Commaraine** | Pommard, Burgundy | Feb 2026 | First 5-star in Burgundy. 37 rooms in the vineyards. Chef Christophe Raoux. Wine + driving pilgrimage. |
+| **Les Sources de Vougeot** | Château de Gilly-lès-Cîteaux, Côte de Nuits | Mar 2026 | 49 rooms, Caudalie Spa, chef Julien Martin. Heart of Burgundy wine country. |
+| **Villa Florentine** | Lyon | Apr 2026 | Relais & Châteaux, 17th-century convent. Panoramic terraces over Lyon. Perfect stop en route to Alps or Burgundy. |
+
+**Road trip idea:** Landes → Lyon (Villa Florentine) → Burgundy (Château La Commaraine + Les Sources de Vougeot). Three stops, world-class wine, and some of France's best driving roads through the interior.
+
+---
+
 ## Best drives from home
 
 | Route | Time | Character |
