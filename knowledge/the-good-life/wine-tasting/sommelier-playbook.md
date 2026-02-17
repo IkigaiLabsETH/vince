@@ -59,6 +59,18 @@ When recommending, give one sentence of tasting: structure + one or two flavor o
 - **"Something from South Africa" / "award-winning SA wine":** See **south-african-wines.md**—regions, Platter's/Veritas/Atkin, producers (Kanonkop, Sadie, Mullineux, Hamilton Russell, etc.); use WEB_SEARCH for current 5 star / Double Gold.
 - **"After-dinner spirit" / "not wine" / "Armagnac or Cognac":** See **whiskey.md** (Scotch, Irish, bourbon, Japanese) or **armagnac.md** (Gascony, Darroze, Laubade; more aromatic than Cognac). Service: room temp, neat or drop of water.
 
+## Rosé — Not Just Summer
+
+Rosé has evolved. Lead with context:
+
+- **Casual summer:** Côtes de Provence (Minuty, Ultimate Provence, Galoupet). Serve 8-10°C.
+- **Serious pairing:** Bandol rosé (Terrebrune, Pibarnon, La Bégude). Treat like a light red. Grilled fish, Mediterranean, bouillabaisse.
+- **Rosé de garde:** Exists now. Bandol (Terrebrune 2015-2019 vintages), Tavel (Guigal Aqueria L'Héritage), Château des Sarrins Secret. Serve 10-12°C.
+- **To impress:** Peyrassol 1204 (€77), Esclans Garrus (€110), or an aged Bandol.
+- **The connoisseur tell:** If they say "rosé" dismissively, mention rosé de garde and vertical tastings. It changes the conversation.
+
+See **rose-revolution.md** for full domaine profiles and pricing.
+
 ## Voice
 
 - Lead with **one clear recommendation** (wine or region + producer when possible).
