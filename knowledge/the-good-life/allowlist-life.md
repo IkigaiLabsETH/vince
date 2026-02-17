@@ -50,6 +50,9 @@ The curated list. Kelly suggests from here first. No reviews, just the names and
 | **Beaumanoir** | Biarritz (~45 min) | Boutique, design, quiet. | €200–400 | ~45 min via A63 | Suite with terrace | 2 weeks |
 | **Hôtel Les Almadies** | Saint-Jean-de-Luz (~50 min) | Boutique near the beach. | €120–250 | ~50 min via A63 | Top-floor room | 1–2 weeks; summer book early |
 | **La Maison du Lierre** | Biarritz (~45 min) | Small and charming. | €130–230 | ~45 min via A63 | Any room — it's tiny and all good | 1 week |
+| **Les Hortensias du Lac** | Hossegor (~5 min) | 5-star lakeside, Domaine de Fontenille. Source: The Good Life (thegoodlife.fr) | €250–500 | ~5 min | Lakeside room | 2–3 weeks |
+| **Villa Seren** | Hossegor (~5 min) | 4-star eco-responsible, oldest house on lake (1898). Source: The Good Life (thegoodlife.fr) | €200–400 | ~5 min | Lake-view room | 2 weeks |
+| **Hôtel de la Plage** | Biarritz (~45 min) | Overlooking Port-Vieux crique. Source: The Good Life (thegoodlife.fr) | €180–350 | ~45 min via A63 | Sea-view room | 2 weeks |
 
 ### Hotels — Bordeaux & wine country
 
@@ -74,6 +77,15 @@ The curated list. Kelly suggests from here first. No reviews, just the names and
 | **Le Clos d'Emilie** | Near Bordeaux | Quiet, intimate. | €150–250 | ~2h | Any room — small property | 1 week |
 | **Maison Devaux** | Rion-des-Landes (~30 min) | Michelin Bib Gourmand. Lunch spot with rooms. | €90–130 | ~30 min via D824 | Room upstairs — simple but charming | Walk-in often OK |
 
+### Hotels — San Sebastián
+
+| Property | Location | Character | Price/night | Drive from Hossegor | Best room tip | Book ahead |
+|----------|----------|-----------|-------------|---------------------|---------------|------------|
+| **Hotel Maria Cristina** | San Sebastián (~1h15) | Most luxurious. 1912. Luxury Collection. Bar Dry cocktails. Source: The Good Life (thegoodlife.fr) | €400–900 | ~1h15 via A63 | River-view suite | 3–4 weeks |
+| **Villa Soro** | San Sebastián (~1h15) | 25-room mansion, heights of Gros. No restaurant. Source: The Good Life (thegoodlife.fr) | €200–400 | ~1h15 via A63 | Garden-facing room | 2 weeks |
+| **Hotel de Londres y de Inglaterra** | San Sebastián (~1h15) | Historic palace on La Concha bay. Source: The Good Life (thegoodlife.fr) | €300–700 | ~1h15 via A63 | Bay-view room | 3 weeks |
+| **Hotel Astoria7** | San Sebastián (~1h15) | Cinema-themed, quiet. Source: The Good Life (thegoodlife.fr) | €150–300 | ~1h15 via A63 | Any room | 1–2 weeks |
+
 ---
 
 ## Restaurants
@@ -91,6 +103,8 @@ The curated list. Kelly suggests from here first. No reviews, just the names and
 | **L'Ambroisie** | Paris (Place des Vosges) | 3★ | Classic, intimate, romantic. | €200–350 | Required — 3–4 weeks ahead minimum | Formal |
 | **Le Cinq** | Paris (Four Seasons George V) | 3★ | Grand, refined. | €180–300 | Required — 2–3 weeks ahead | Formal |
 | **Arpège** | Paris | 3★ | Alain Passard, vegetable-forward. | €170–280 | Required — 2–4 weeks ahead | Smart-casual |
+| **Arzak** | San Sebastián | 3★ | Elena Arzak, 4th generation. Exotic flavors. Source: The Good Life (thegoodlife.fr) | €150–250 | Required — 2–3 weeks ahead | Smart-casual |
+| **Akelarre** | San Sebastián | 3★ | Pedro Subijana, nueva cocina vasca. Gulf views. Source: The Good Life (thegoodlife.fr) | €150–250 | Required — 2–3 weeks ahead | Smart-casual |
 
 ### Local favorites (Landes & Basque)
 
@@ -109,6 +123,19 @@ The curated list. Kelly suggests from here first. No reviews, just the names and
 | **Orama** | Biarritz area | Check schedule | Contemporary. | €40–60 | Recommended | Smart-casual |
 | **Skiff Club** | Hossegor | Check schedule | Lake-side, casual fine. | €30–50 | Recommended for weekends | Casual |
 | **Haïtza** | Pyla-sur-Mer | Check schedule | Beach, design hotel restaurant. | €40–65 | Required — 2–3 days ahead | Smart-casual |
+| **Bistro Balnéaire** | Hossegor | Check schedule | Lakeside, versatile menu. Source: The Good Life (thegoodlife.fr) | €25–40 | Recommended | Casual |
+| **Spot Palace** | Hossegor | Check schedule | Smash burgers, bobun. No reservations. Source: The Good Life (thegoodlife.fr) | €15–25 | Walk-in only | Casual |
+| **La Nord** | Hossegor | Check schedule | Local produce + world flavors, natural wines. Source: The Good Life (thegoodlife.fr) | €30–50 | Recommended | Casual |
+| **Frenchie Biarritz** | Biarritz (at Regina) | Check schedule | Grégory Marchand (starred Paris chef). Source: The Good Life (thegoodlife.fr) | €50–80 | Required — 1 week ahead | Smart-casual |
+| **Carlos** | Biarritz | Check schedule | Côte des Basques institution. DJ evenings. Source: The Good Life (thegoodlife.fr) | €40–60 | Recommended | Casual |
+| **Petit Grill Basque** | Saint-Jean-de-Luz | Check schedule | Chef Iñaki Aizpitarte (ex-Chateaubriand). Source: The Good Life (thegoodlife.fr) | €40–65 | Required — 2–3 days ahead | Smart-casual |
+| **Hétéroclito** | Guéthary | Check schedule | Comptoir sur l'océan, plancha seafood. Source: The Good Life (thegoodlife.fr) | €30–50 | Recommended | Casual |
+| **Alaïa** | Ciboure/Socoa | Check schedule | On Socoa beach. Ultra-local seafood. Source: The Good Life (thegoodlife.fr) | €40–65 | Required — 2–3 days ahead | Smart-casual |
+| **Topa Sukaldería** | San Sebastián | Check schedule | Andoni Luis Aduriz's Latin-Basque fusion. Source: The Good Life (thegoodlife.fr) | €35–55 | Recommended | Casual |
+| **Bodegón Alejandro** | San Sebastián | Check schedule | Traditional revisited. Menu dégustation €46. Source: The Good Life (thegoodlife.fr) | €35–55 | Recommended | Casual |
+| **Geralds Bar** | San Sebastián | Check schedule | Australian chef, market cuisine, wine bar. Source: The Good Life (thegoodlife.fr) | €30–50 | Recommended | Casual |
+| **Casa Urola** | San Sebastián | Check schedule | Pintxos + restaurant. Grilled meats, seasonal fish. Source: The Good Life (thegoodlife.fr) | €30–50 | Recommended for upstairs | Casual |
+| **La Cuchara de San Telmo** | San Sebastián | Check schedule | Tiny pintxos bar. Arrive early, queues. Source: The Good Life (thegoodlife.fr) | €15–25 | Walk-in only — arrive early | Casual |
 
 ### Wine estates with dining
 
