@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Survivorship Bias:** Understanding that only successful projects are visible in current rankings, while failures are often ignored.
-- **Market Cycles:** Recognizing the cyclical nature of altcoin performance, particularly during bull and bear markets.
-- **Digital Scarcity and Value Creation:** Analyzing the underlying factors that contribute to the long-term sustainability of cryptocurrencies like Bitcoin and Ethereum.
-- **Risk Assessment of Altcoins:** Evaluating the risks associated with investing in altcoins, particularly during downturns.
-- **Moats in Cryptocurrency:** Identifying the inherent advantages that lead to the longevity of certain cryptocurrencies compared to others.
-
-**Analytical Approach:**
-- Employ a **comparative analysis** of historical performance across different market cycles. Analyze the trajectory of top altcoins and their eventual decline to gauge potential risks.
-- Utilize a **risk-reward framework** to evaluate investments, focusing on projects with strong fundamentals and established market presence over speculative ventures.
-
-**Pattern Recognition:**
-- Look for indicators such as **dramatic price fluctuations** in altcoins during bear markets (95-99% drops) compared to Bitcoin (80-85% drops). This can signal impending volatility.
-- Track **development activity and community engagement** regarding altcoins, as these factors often correlate with long-term viability and recovery potential.
-
-**Strategic Framework:**
-- Apply a **"filtering method"** to differentiate between reliable cryptocurrencies (Bitcoin, Ethereum, stablecoins) and high-risk altcoins. Focus on projects with established use cases, solid community backing, and a clear value proposition.
-- Develop a **portfolio strategy** that emphasizes diversification into fundamentally sound assets while minimizing exposure to speculative altcoins, especially in uncertain market conditions.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates to ensure relevance over time.
-- Extract the "how to think" approach to apply to ongoing market evaluations and investment decisions.
-- Keep insights actionable and adaptable to current and future market scenarios.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182233327.The Mirage
 ## Metadata
 **Source**: Substack Essay

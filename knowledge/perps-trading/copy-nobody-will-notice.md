@@ -5,41 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **First Principles Thinking:** Re-evaluating investment theses from foundational concepts rather than relying on market trends or popular narratives.
-- **In-Depth Research:** Emphasizing long-form content that allows for comprehensive analysis over superficial, quick communications.
-- **Audience Engagement:** Focusing on a smaller, more invested audience rather than seeking mass appeal, fostering deeper conversations.
-- **Invalidation Levels:** Identifying points at which previous assumptions or theses can be deemed incorrect, prompting reevaluation.
-- **Private Thought Process:** Shifting focus from public displays of insight to private contemplation and rigorous analysis.
-
-**Analytical Approach:**
-- Approach the topic of trading by grounding your understanding in first principles. Continuously question assumptions and validate them against new data. Use a critical lens to dissect both successes and failures in past strategies, allowing for a more nuanced understanding of market dynamics.
-
-**Pattern Recognition:**
-- Look for signs of superficial engagement in the market, such as trending narratives that lack substantive backing. Identify traders who prioritize depth over breadth, as they are likely to possess a more sustainable edge. Recognize shifts in market sentiment that may indicate an underlying change in fundamentals, especially in previously dismissed sectors like DeFi or Bitcoin collateralization.
-
-**Strategic Framework:**
-- In current trading situations, apply this framework by committing to long-term analysis rather than chasing short-term trends. Focus on building a robust research methodology that prioritizes quality over quantity—aim for detailed, well-sourced materials that can withstand scrutiny. Engage with a small group of dedicated peers to refine your ideas and gain diverse perspectives without the noise of public opinion.
-
-**Important Notes:**
-- This methodology emphasizes the importance of deep understanding over transient data. It encourages traders and analysts to think critically about their beliefs and the evolving market landscape. The goal is to foster a mindset of continuous learning and adaptation, ensuring that strategies remain relevant and informed by rigorous analysis rather than fleeting trends.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180542873.Copy Nobody Will Notice
 ## Metadata
 **Source**: Substack Essay

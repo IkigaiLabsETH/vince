@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Bitcoin DeFi Thesis
 
-## Methodology & Framework
-
-This thesis is evaluated through a **TAM-down lens**: total addressable capital (BTC market cap), demonstrated demand signals (Ordinals, BRC-20), infrastructure readiness (L2 maturity), and risk factors. The question isn't whether Bitcoin *should* have DeFi — it's whether the economic gravity of $1.7T in dormant capital inevitably creates it.
-
----
-
 ## The Dormant Capital Argument
 
 Bitcoin's market cap hovers around $1.7-2T. The vast majority sits idle — held in cold storage, on exchanges, or in long-term HODL wallets. Contrast this with Ethereum, where ~$50B+ is actively deployed in DeFi (lending, DEXs, staking). If even 5% of BTC's market cap entered productive DeFi, that's $85-100B — larger than Ethereum's entire DeFi TVL.

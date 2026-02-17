@@ -86,48 +86,6 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Network Health Assessment:** Evaluating the overall status of the blockchain network through metrics like hash rate, transaction volume, and fees.
-- **Signal Detection:** Identifying key indicators such as mining cycles and user growth to gauge market sentiment and activity.
-- **Historical Contextualization:** Analyzing current metrics against historical trends to identify regime shifts and market patterns.
-- **Congestion Analysis:** Monitoring mempool size and transaction processing times to assess network congestion and operational efficiency.
-
-**Analytical Approach:**
-To effectively analyze blockchain metrics, employ a systematic approach that combines quantitative data extraction with qualitative insights. Start by gathering relevant data from primary sources such as Blockchain.com and supplementary platforms (e.g., Mempool.space, CoinMetrics). Focus on key performance indicators (KPIs) relevant to network security and user activity, and utilize comparative analysis against historical benchmarks to contextualize findings. Implement data parsing and statistical calculations to derive meaningful insights, such as month-over-month (MoM) or year-over-year (YoY) changes.
-
-**Pattern Recognition:**
-Look for recurring signals that indicate market trends, such as:
-- **Mining Conviction:** Sudden increases in hash rate could suggest miner confidence and potential bullish market sentiment.
-- **User Adoption Trends:** Spikes in transaction volume may indicate increased retail or institutional interest, signaling a potential market shift.
-- **Regime Shifts:** Patterns surrounding major events (e.g., halving) can provide insights into future price movements and network dynamics.
-
-**Strategic Framework:**
-Apply this methodology to current market analyses by:
-1. Continuously monitoring key metrics and identifying deviations from historical norms.
-2. Synthesizing findings into a clear snapshot that captures the current network pulse and potential future scenarios.
-3. Using insights to inform investment decisions, risk assessments, and strategic planning, particularly around significant market events or shifts in user behavior.
-
-**Important Notes:**
-- Focus on the methodology for analyzing blockchain metrics rather than specific historical data.
-- Emphasize actionable insights that can be applied to current market conditions.
-- Maintain a concise, structured approach to ensure clarity and relevance in analysis.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: blockchain.com*

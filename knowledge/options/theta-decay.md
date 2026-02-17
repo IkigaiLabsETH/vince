@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Theta Decay:** The erosion of an option's time value, which can be harnessed for profit through strategies like covered calls.
-- **Covered Calls:** A strategy of holding an asset (e.g., Bitcoin) while selling call options to generate income from premiums, ideal in range-bound markets.
-- **Gamma Hedging:** The practice of adjusting positions to manage the risk of price movements, particularly around significant options expiries.
-- **Max Pain Theory:** The concept that the price of an asset will gravitate toward the point of maximum open interest in options, affecting traders' strategies.
-- **On-Chain Platforms:** Utilizing decentralized finance (DeFi) protocols like Hypersurface for automated, trustless option trading.
-
-**Analytical Approach:**
-To navigate the options market effectively, adopt a framework that emphasizes scenario analysis and risk management. Consider market conditions (e.g., liquidity, volatility) and their impact on option pricing. Focus on understanding the underlying mechanics of options, such as theta decay and gamma hedging, and how they influence price movements. This analytical lens allows for informed decision-making and strategy adjustments based on market dynamics.
-
-**Pattern Recognition:**
-Identify key patterns such as price clustering around significant strike prices during options expiries, as well as historical trends in volatility following major gamma unwinds. Look for signs of “pinning” where the price stabilizes around high open interest levels, enabling proactive strategy adjustments. Recognize the implications of liquidity conditions on market behavior, especially around holidays or significant events.
-
-**Strategic Framework:**
-Apply this methodology by routinely assessing market sentiment and positioning in relation to options expirations. Use covered calls as a yield generation tool in stable or mildly bullish environments while preparing to roll positions strategically post-expiry. Emphasize a proactive approach to managing risk through dynamic adjustments based on observed price action and market signals. Always align option strikes with anticipated price movements and broader market conditions to optimize outcomes.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182267164.Theta Decay
 ## Metadata
 **Source**: Substack Essay

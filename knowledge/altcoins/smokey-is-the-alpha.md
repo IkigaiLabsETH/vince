@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Proof-of-Liquidity (PoL)**: A mechanism that aligns incentives within a three-token model, emphasizing the importance of innovative economic structures in altcoins.
-- **Community Sentiment vs. Capital Structure**: Understanding the disparity between community-driven narratives and the underlying financial realities.
-- **Transparency in Leadership**: The significance of founder transparency and its impact on community trust and decision-making.
-- **Market Narratives**: The role of storytelling in shaping perceptions and investor behavior within the crypto ecosystem.
-- **Timelines and Uncertainty**: The importance of context and timing in evaluating the potential outcomes of investments.
-
-**Analytical Approach:**
-- Evaluate altcoins through a lens of community engagement and founder transparency, rather than solely focusing on market metrics. Consider how narratives influence investor sentiment and long-term commitment. Reflect on the implications of governance structures and token unlocks on community trust.
-
-**Pattern Recognition:**
-- Look for signals of founder transparency, such as open communication and responsiveness to community concerns. Identify moments when community sentiment diverges from market performance, particularly during critical unlock events or changes in governance that could affect liquidity and trust.
-
-**Strategic Framework:**
-- When assessing altcoin investments, prioritize understanding the leadership's communication style and the community's sentiment. Assess the underlying economic models for alignment of incentives, especially in terms of tokenomics and governance. Use historical analogs and community narratives to gauge potential outcomes, remaining aware of the speculative nature of altcoin markets.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 179977863.Smokey Is The Alpha
 ## Metadata
 **Source**: Substack Essay

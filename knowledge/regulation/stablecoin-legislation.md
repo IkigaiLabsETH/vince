@@ -5,26 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Stablecoin Legislation
 
-## Methodology & Framework
-
-### Core Concepts
-Stablecoin regulation sits at the intersection of monetary policy, banking law, and crypto innovation. The key variables: reserve composition requirements, issuer licensing (bank vs. non-bank), yield/interest prohibition scope, and federal vs. state authority. The GENIUS Act (2025) established the baseline; the Digital Asset Market Clarity Act seeks to refine it — but the yield question has become the central battleground.
-
-### Analytical Approach
-Follow the money: banks want to protect deposits from stablecoin competition (yield ban = protect banking moat). Crypto firms want stablecoins to function as programmable money with DeFi rewards. The compromise space is narrow — watch for specific carve-outs (liquidity provision, ecosystem participation) vs. blanket prohibitions.
-
-### Pattern Recognition
-- Banks consistently lobby for total yield bans — framing stablecoins as shadow banking
-- Crypto industry accepts restrictions on static "savings account" yields but fights for DeFi-related rewards
-- White House mediation indicates executive branch treats this as must-pass legislation
-- Timeline pressure (midterms) creates urgency but also rushed compromises
-- The GENIUS Act as existing law gives crypto firms leverage: status quo allows yields
-
-### Decision Framework
-**For token/protocol assessment**: Does this stablecoin's yield model survive a blanket prohibition? A narrow carve-out? The answer determines protocol viability under different legislative outcomes. **For market positioning**: Stablecoin legislation passage is bullish for compliant issuers (Circle), potentially restrictive for DeFi yield protocols, and neutral-to-positive for overall market structure confidence.
-
----
-
 ## Legislative Status
 
 **The GENIUS Act** (Guiding and Establishing National Innovation for U.S. Stablecoins) passed in 2025 and represents current law. It established a federal framework for stablecoin issuance, reserve requirements (1:1 backing with high-quality liquid assets), and permitted certain forms of stablecoin rewards. Non-bank issuers can operate under federal or state charters.

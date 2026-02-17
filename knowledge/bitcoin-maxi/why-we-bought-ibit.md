@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Self-Custody vs. Institutional Custody**: Distinguishing between maintaining control of one’s assets versus relying on third-party custodians.
-- **Risk Management**: Evaluating and prioritizing various types of risks, particularly personal safety and asset security.
-- **Market Sentiment and Personal Choice**: Understanding how external events influence individual decision-making in the crypto space.
-- **Adaptive Strategy**: Flexibility in investment strategies based on changing circumstances and risks.
-
-**Analytical Approach:**
-- Approach the topic of cryptocurrency investment by assessing the balance between personal security and asset control. Recognize that while self-custody is a fundamental principle for many in the crypto community, personal safety concerns may necessitate the acceptance of institutional solutions. Evaluate the trade-offs involved in these choices and how they impact risk exposure.
-
-**Pattern Recognition:**
-- Look for patterns of increasing regulatory scrutiny and personal risk factors in regions with high-profile incidents involving crypto holders. Monitor news cycles for emerging threats that may indicate a shift in the safety landscape of cryptocurrency ownership. Recognize that societal trends, such as rising crime rates related to crypto, may prompt shifts in investor behavior.
-
-**Strategic Framework:**
-- Develop a strategy that includes the following steps:
-  1. **Risk Assessment**: Continuously evaluate personal and market risks associated with different custody options.
-  2. **Diversification**: Consider diversifying holdings between self-custody and institutional custody to mitigate risks.
-  3. **Scenario Planning**: Prepare for potential adverse scenarios, including regulatory changes or personal safety threats, and devise contingency plans.
-  4. **Stay Informed**: Regularly update knowledge on market conditions, regulatory changes, and personal safety trends to inform decision-making.
-
-**Important Notes:**
-- Focus on methodology, prioritizing frameworks and analytical approaches over specific metrics or historical data.
-- Apply a mindset that is adaptable to changing external conditions while remaining rooted in core investment principles.
-- Ensure actionable insights are relevant to current and evolving situations in the crypto landscape.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181324143.Why We Bought Ibit
 ## Metadata
 **Source**: Substack Essay

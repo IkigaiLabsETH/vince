@@ -5,45 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Hyperliquid Protocol
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Perps-Native L1**: Hyperliquid is a custom L1 blockchain optimized for perpetual futures trading
-- **Order Book Model**: Unlike AMM-based perps (GMX), uses a central limit order book for better execution
-- **Aggressive Buybacks**: Trading fees fund HYPE token buybacks - one of the most aggressive buyback models in DeFi
-- **HyperEVM**: EVM-compatible execution layer for DeFi applications
-
-**Analytical Approach:**
-- Track daily trading volume and open interest as revenue proxies
-- Monitor HYPE buyback amounts and frequency
-- Compare fee rates to competitors (GMX, dYdX, Vertex)
-
-**Pattern Recognition:**
-- Volume spikes during market volatility drive fee revenue
-- HYPE price correlates with trading activity
-- New perpetual listings drive user acquisition
-
-**Strategic Framework:**
-- Buyback model = revenue directly reduces HYPE supply
-- High volume periods = accelerated buybacks
-- HyperEVM launch could expand ecosystem beyond perps
-
-> **Important**: Numbers and metrics in this document are illustrative. Use CALCULATE_REVENUE_MULTIPLIER and MESSARI_NEWS for current data.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 ## Quick Reference
 
 | Attribute | Value |

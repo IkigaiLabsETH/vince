@@ -36,45 +36,6 @@ Beautiful, expensive, Parisian theatre.
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Threshold Analysis**: Understanding the income threshold (e.g., €25k) where different operational structures (individual vs. SAS) become financially viable.
-- **Cost-Benefit Evaluation**: Weighing the fixed and variable costs of business structures against potential benefits, particularly in the context of crypto trading.
-- **Simplicity vs. Complexity**: Recognizing when simpler, more direct methods (individual taxation) may be more advantageous than complex corporate structures (SAS).
-- **Market Reality vs. Perception**: Differentiating between perceived success (social media bragging) and actual financial viability.
-
-**Analytical Approach:**
-- Evaluate the financial implications of different operational models by conducting thorough cost-benefit analyses. Consider not only immediate tax impacts but also ongoing administrative costs and psychological burdens. Reflect on how simplicity can lead to more effective financial management in uncertain environments, particularly in volatile sectors like cryptocurrency.
-
-**Pattern Recognition:**
-- Look for indicators such as monthly income levels, operational costs, and tax implications to determine if a shift to a more complex structure is warranted. Recognize that many individuals may falsely project success based on external factors (e.g., social media portrayals) rather than actual financial health. Patterns of financial stress often emerge among those who adopt complex structures without sufficient revenue to justify them.
-
-**Strategic Framework:**
-- Apply a phased approach to business structure decisions: 
-   1. Start as an individual trader to minimize costs and simplify taxation.
-   2. Monitor income and operational efficiency closely.
-   3. Transition to a more complex structure (e.g., SAS) only when consistent revenue surpasses a critical threshold, ensuring that the move is financially justified.
-   4. Regularly reassess business structure in response to changing financial conditions and regulatory environments.
-
-**Important Notes:**
-- Emphasize a mindset of simplicity and flexibility in financial strategies, particularly in the rapidly changing crypto landscape.
-- Focus on actionable insights that prioritize financial health and operational efficiency over perceived legitimacy or status. 
-- Use this methodology to guide decisions in both personal finance and entrepreneurial ventures, adapting to evolving market dynamics.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 Chapter Two - Carnegie Club, Manhattan – 11:58 p.m., December 2025
 > 
 You push through the heavy mahogany door and the city dissolves behind you as completely as a bad memory, replaced in a single heartbeat by a cocoon of warm cedar, slow-burning Cuban leaf, and low amber light that feels older than Manhattan itself, while the jazz trio breathes so softly in the corner that every brushed cymbal seems to hang in the air like incense and the upright bass walks a line so lazy you could balance a twenty-three-year-old Pappy Van Winkle on it without spilling a drop.

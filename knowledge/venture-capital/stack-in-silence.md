@@ -39,46 +39,6 @@ last_reviewed: 2026-02-15
 
 ## Legacy Framework (original, verbatim)
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **The Emotional Toll of Success**: Recognizing the psychological shifts that occur after achieving significant milestones, including changes in relationships and personal perception.
-- **Tribal Dynamics in Social Recognition**: Understanding how social circles react to success, often resulting in envy and altered relationships.
-- **Coping with External Expectations**: Navigating societal pressures and opinions about success and how it should be perceived or acted upon.
-- **Guarding Against Extraction**: Identifying and managing relationships that may turn exploitative after achieving success.
-
-**Analytical Approach:**
-- **Reflective Self-Assessment**: Regularly evaluate your emotional responses to success and how they impact your relationships. Consider how your achievements are perceived by others and the implications for your social network.
-- **Contextualizing Success**: Place personal achievements within broader societal narratives to avoid external pressures affecting your self-worth. Recognize that success is often met with mixed emotions from peers, which can lead to relational shifts.
-
-**Pattern Recognition:**
-- **Envy Signals**: Watch for subtle shifts in your social interactions, such as increased communication from acquaintances or unexpected requests for financial support, which may indicate envy or opportunism.
-- **Feedback Loops**: Identify patterns in feedback from peers—both positive and negative—to understand the dynamics at play and anticipate potential relational changes as success unfolds.
-
-**Strategic Framework:**
-- **Developing Emotional Resilience**: Build strategies to safeguard against the emotional fallout of success by creating a supportive network that encourages honest communication and mutual support.
-- **Setting Boundaries**: Clearly define personal and financial boundaries to protect against exploitative relationships, ensuring that your success is not leveraged against you.
-- **Fostering Authentic Connections**: Invest in relationships that are resilient to change and maintain authenticity, focusing on those who understand and support your journey without envy or judgment.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 ---
 
 ## Appendix (original essay, verbatim)

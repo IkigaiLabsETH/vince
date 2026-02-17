@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Bitcoin L2 Landscape
 
-## Methodology & Framework
-
-This overview maps Bitcoin's Layer 2 ecosystem across three dimensions: **trust model** (federated vs. trustless), **execution environment** (on-chain vs. off-chain), and **BTC integration depth** (native BTC settlement vs. wrapped/bridged). The goal is to understand tradeoffs, not pick winners — each L2 optimizes for different constraints.
-
----
-
 ## The Scaling Problem
 
 Bitcoin processes ~7 TPS with 10-minute block times. Its base layer optimizes for security and decentralization, deliberately sacrificing throughput. L2s exist to extend Bitcoin's capabilities without compromising L1 properties.

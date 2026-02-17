@@ -5,43 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Cash-Secured Puts:** Selling options on an asset (Bitcoin) that you are willing to buy, ensuring you have the capital reserved to do so.
-- **Covered Calls:** Holding the asset while selling options to generate income, effectively using the asset's volatility to enhance returns.
-- **Theta Decay:** Understanding how time impacts option pricing and profitability, allowing for consistent income generation.
-- **Risk Management:** Establishing predetermined prices for buying/selling to mitigate losses and ensure strategic entry and exit points.
-- **Volatility Farming:** Utilizing options to capitalize on market volatility rather than relying solely on price appreciation.
-
-**Analytical Approach:**
-- Approach this topic by viewing options trading as a strategic tool for income generation rather than a speculative gamble. Focus on the income derived from premiums while ensuring that your investment decisions align with your long-term beliefs about the asset’s potential. Emphasize a disciplined, systematic methodology that prioritizes risk management and consistent practice over high-risk, high-reward scenarios.
-
-**Pattern Recognition:**
-- Look for signals such as market trends, volatility spikes, and price points that align with your predetermined entry and exit strategies. Recognize patterns in price movements that indicate potential opportunities for selling puts or calls. Monitor historical volatility to assess when premiums might be more lucrative and adjust your strategies accordingly.
-
-**Strategic Framework:**
-- Apply this thinking by constructing a repeatable cycle: Start with cash, sell cash-secured puts to generate income and potentially acquire the asset, then switch to selling covered calls once you own the asset. Maintain a flexible strategy that allows you to adapt to market changes while sticking to your risk thresholds. Use this framework to assess current market conditions and determine optimal strike prices that align with your investment goals.
-
-**Important Notes:**
-- Focus on the methodologies outlined rather than specific market figures or historical data.
-- Cultivate a mindset of patience and discipline, using the provided frameworks to guide decision-making.
-- Ensure that your strategy remains actionable and relevant to current market conditions while avoiding a reliance on outdated metrics.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181099567.The Wheel
 ## Metadata
 **Source**: Substack Essay

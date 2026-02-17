@@ -3,29 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-> **📌 Knowledge Base Note**
-> Numbers, prices, and metrics are illustrative — focus on methodology and frameworks.
-
 # Solana Stablecoin Flows
-
-## Methodology & Framework
-
-### Core Concepts
-Stablecoin deployment on Solana has evolved from USDC-dominant to multi-issuer, with **native USDC** (via Circle's CCTP — Cross-Chain Transfer Protocol), **USDT** (Tether's direct issuance), and **PYUSD** (PayPal's strategic bet on Solana). Stablecoin supply on a chain is a leading indicator of economic activity, institutional confidence, and DeFi capacity. Flows between chains signal where capital sees opportunity.
-
-### Analytical Approach
-Track stablecoin health through: (1) **Supply trends** — growing stablecoin supply = capital inflow and DeFi demand; (2) **Issuer diversity** — multiple native issuers reduce single-point-of-failure risk; (3) **Velocity** — stablecoin transfer volume relative to supply indicates usage intensity (Solana's is exceptionally high); (4) **CCTP flows** — net direction of cross-chain transfers reveals capital migration patterns.
-
-### Pattern Recognition
-- Native USDC issuance (not bridged) was a credibility milestone — Circle choosing to issue directly on Solana validated the chain for institutional settlement.
-- PYUSD's Solana deployment signaled that traditional fintech views Solana as a payments rail, not just a DeFi chain.
-- Stablecoin velocity on Solana consistently exceeds Ethereum's, reflecting the chain's use for high-frequency trading, payments, and DeFi activity.
-- Stablecoin supply drawdowns preceded or coincided with broader risk-off periods; supply expansion preceded DeFi TVL growth.
-
-### Decision Framework
-When reading stablecoin signals: Is supply growing organically (DeFi demand, payments adoption) or artificially (incentivized deposits, temporary yield farming)? Is issuer diversity improving? Are CCTP flows net-positive (capital entering Solana) or net-negative?
-
----
 
 ## Analysis
 

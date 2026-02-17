@@ -5,26 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # MiCA: EU Crypto Regulatory Framework
 
-## Methodology & Framework
-
-### Core Concepts
-The Markets in Crypto-Assets Regulation (MiCA) is the world's first comprehensive crypto regulatory framework, fully effective across the EU since January 2025. It creates three token categories (e-money tokens, asset-referenced tokens, other crypto-assets), mandates exchange/CASP licensing, and imposes strict stablecoin reserve and governance rules. MiCA's significance extends beyond Europe — it sets the global template that other jurisdictions reference.
-
-### Analytical Approach
-Evaluate MiCA impact on three axes: (1) compliance cost and market access barriers for projects, (2) competitive dynamics between compliant and non-compliant stablecoins, (3) regulatory arbitrage opportunities between EU and US/Asia. The Tether/USDT delisting from EU exchanges is the canonical case study.
-
-### Pattern Recognition
-- MiCA compliance favors large, well-capitalized issuers (Circle/USDC) over offshore competitors (Tether/USDT)
-- Exchange licensing creates moats — early MiCA-licensed CASPs gain market share
-- Regulatory clarity attracts institutional capital but reduces retail access to non-compliant assets
-- US projects must decide: comply with MiCA (costly) or cede EU market entirely
-- The "Brussels Effect" — MiCA standards tend to become de facto global minimums
-
-### Decision Framework
-**For token evaluation**: Is this project MiCA-compliant or on a path to compliance? Non-compliance = EU market exclusion. **For exchange assessment**: Licensed CASP status is a competitive moat. **For stablecoin selection**: MiCA-compliant stablecoins (USDC, euro-denominated stables) have structural advantages in EU markets.
-
----
-
 ## What MiCA Covers
 
 **Crypto-Asset Service Providers (CASPs)** — exchanges, custodians, brokers, advisors, and portfolio managers must obtain authorization from their home EU member state's national competent authority. This includes capital requirements, governance standards, complaint handling, and conflict-of-interest policies. Passporting allows a CASP licensed in one member state to operate across all 27.

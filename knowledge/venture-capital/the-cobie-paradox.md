@@ -39,46 +39,6 @@ last_reviewed: 2026-02-15
 
 ## Legacy Framework (original, verbatim)
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Narrative vs. Technology:** Understanding that in venture capital and crypto, the story often outweighs the underlying technology. This highlights the importance of crafting compelling narratives.
-- **Community Engagement:** The significance of building genuine relationships within the community, emphasizing transparency and trust, as opposed to typical transactional VC relationships.
-- **Counter-Narratives:** Recognizing and supporting initiatives that challenge the status quo, such as democratizing access to investment opportunities, allowing broader participation in venture funding.
-- **Operational Involvement:** The value of active participation in product development and customer support as a means to drive user-centric innovation.
-
-**Analytical Approach:**
-- **Evaluate Character vs. Action:** Assess individuals and organizations based on their actions rather than their proclaimed intentions. This requires a critical eye for discrepancies between public persona and private actions.
-- **Historical Contextualization:** Analyze past events to understand current behaviors and trends in the VC space. Look for similar patterns of behavior during pivotal moments in the market.
-
-**Pattern Recognition:**
-- **Behavioral Anomalies:** Identify individuals or entities that display contrary behaviors to typical VC practices, such as those who prioritize community and product improvement over profit extraction. 
-- **Market Sentiment Shifts:** Monitor shifts in community sentiment, especially during crises or market downturns, to predict potential exits or new opportunities.
-
-**Strategic Framework:**
-- **Community-Centric Investment:** Adopt an investment strategy that emphasizes backing projects with strong community engagement and transparent practices. This can include supporting initiatives that level the playing field in funding access.
-- **Long-Term Alignment:** Focus on building relationships with founders who demonstrate commitment to their projects and the community rather than those who chase quick financial gains.
-- **Operational Commitment:** Encourage active involvement in portfolio companies beyond mere financial input. This approach fosters deeper insights and contributes to a more robust product-market fit.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 ---
 
 ## Appendix (original essay, verbatim)

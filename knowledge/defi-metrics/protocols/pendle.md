@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Pendle Protocol
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Yield Tokenization**: Pendle splits yield-bearing assets into Principal Tokens (PT) and Yield Tokens (YT)
-- **Fixed vs Variable Yield**: PT = fixed yield at discount, YT = leveraged variable yield exposure
-- **vePENDLE**: Vote-escrowed PENDLE - lock tokens for boosted rewards and governance
-- **Direct Fee-Sharing**: 80% of protocol fees go directly to vePENDLE holders
-
-**Analytical Approach:**
-- Track TVL growth as indicator of yield market adoption
-- Monitor implied yields across major pools (tells you market expectations)
-- Compare vePENDLE yields to competing ve-model protocols
-
-**Pattern Recognition:**
-- Points seasons (Eigenlayer, LRT points) drive massive TVL inflows
-- PT discounts widen during uncertainty, compress near maturity
-- vePENDLE APY correlates with protocol revenue
-
-**Strategic Framework:**
-- vePENDLE = best way to get protocol revenue exposure
-- PT buyers = fixed yield seekers (like bonds)
-- YT buyers = yield speculators (leveraged bet on rates staying high)
-- Revenue multiplier should be LOW due to direct fee-sharing model
-
-> **Important**: Numbers and metrics in this document are illustrative. Use CALCULATE_REVENUE_MULTIPLIER and MESSARI_NEWS for current data.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 ## Quick Reference
 
 | Attribute | Value |

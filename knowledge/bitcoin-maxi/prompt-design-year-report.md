@@ -5,42 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Onchain Truth vs. Macro Foresight:** Emphasizes the interplay between blockchain data and broader economic indicators, advocating for a dual-lens analysis.
-- **Contrarian Insights:** Encourages questioning prevailing narratives and market euphoria to uncover potential risks and opportunities.
-- **Iterative Experimentation:** Advocates for a mindset of continuous testing and refinement of investment strategies based on evolving market dynamics.
-- **Holistic Interconnectivity:** Recognizes the interconnectedness of crypto, equities, and global macroeconomic trends to inform decision-making.
-
-**Analytical Approach:**
-- Adopt a **systems thinking** approach to understand how different elements within the crypto ecosystem interact. Analyze historical trends not just for their outcomes but for the underlying mechanics that drive them. Use metaphors and analogies to simplify complex concepts, making them more accessible for practical application.
-
-**Pattern Recognition:**
-- Watch for **liquidity flows** and shifts in macroeconomic signals that may indicate market sentiment changes. Identify recurring themes, such as market overreactions or the cyclical nature of hype, to anticipate potential corrections or opportunities. Look for indicators of adoption, such as increased transaction volumes or new integrations of Bitcoin in traditional finance.
-
-**Strategic Framework:**
-- Implement a **contrarian investment strategy** that weighs the risks of market exuberance against the foundational principles of Bitcoin and its potential for resilience. Prioritize investments based on a thorough assessment of both onchain metrics and macroeconomic conditions, allowing for flexibility and adaptation as new data emerges. Develop a disciplined approach to positioning, using options and derivatives to hedge against volatility while capitalizing on upward trends.
-
-**Important Notes:**
-- Focus on methodologies rather than historical data or specific figures.
-- Extract actionable insights that guide current investment strategies and decision-making.
-- Maintain an adaptable and iterative mindset to navigate the evolving landscape of cryptocurrency.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182566635.Prompt Design Year Report
 ## Metadata
 **Source**: Substack Essay

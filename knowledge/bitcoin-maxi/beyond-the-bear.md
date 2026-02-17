@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Exponential Decay**: Understanding Bitcoin's price trajectory through diminishing multiples in bull cycles, emphasizing the need for a measured perspective on future peaks.
-- **Probabilistic Mapping**: Using historical data to create probabilistic forecasts for future price movements, acknowledging uncertainty while anchoring expectations to historical precedents.
-- **Moving Average Fidelity**: Employing key technical indicators, particularly the 200-week Simple Moving Average (SMA), to establish support levels and predict future price movements.
-- **Market Cycles and Timing**: Recognizing cyclical patterns in Bitcoin's price movements, particularly the significance of halving events and their impact on market sentiment and price action.
-- **Institutional Influence**: Assessing the role of institutional investment and macroeconomic factors in shaping Bitcoin's price trajectory and market dominance.
-
-**Analytical Approach:**
-- Adopt a long-term mindset when evaluating Bitcoin's potential, focusing on historical patterns and cycles rather than short-term price fluctuations. Use a combination of technical analysis and macroeconomic indicators to inform decisions, emphasizing data-driven insights over speculative narratives.
-
-**Pattern Recognition:**
-- Identify when Bitcoin approaches significant moving averages, especially the 200-week SMA, as potential turning points. Look for signs of capitulation in bearish phases and subsequent accumulation periods that signal the start of recovery and potential bull runs. Monitor historical price behavior around halving events for predictive insights.
-
-**Strategic Framework:**
-- Apply a structured approach to portfolio management by gradually accumulating Bitcoin during bear markets, particularly when prices dip below key moving averages. Establish clear price targets based on historical data while maintaining flexibility to adjust expectations based on emerging market conditions and institutional behavior. Develop a risk management strategy that incorporates both technical signals and macroeconomic trends to navigate market volatility.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180591411.Beyond The Bear
 ## Metadata
 **Source**: Substack Essay

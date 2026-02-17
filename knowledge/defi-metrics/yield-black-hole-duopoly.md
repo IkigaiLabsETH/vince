@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Yield Leakage:** Understanding how value is siphoned from users to issuers in the stablecoin market, emphasizing the lack of yield sharing with holders.
-- **Market Dominance Analysis:** Evaluating the influence of major players (USDT and USDC) in the stablecoin ecosystem and their implications on market dynamics.
-- **Compliance vs. Innovation:** Contrasting compliant stablecoins (USDC) with those that embrace risk and innovation (USDT), assessing their respective market strategies.
-- **Risk Assessment Framework:** Analyzing the asset backing and collateralization of stablecoins to gauge stability and potential vulnerabilities.
-
-**Analytical Approach:**
-- Employ a critical lens to assess the relationship between stablecoin issuers and users, focusing on the economic incentives that drive yield distribution. Identify discrepancies between issuer profits and user returns to highlight areas of value leakage.
-- Develop a comparative analysis of stablecoins, weighing the benefits of compliance against the risks associated with unregulated assets. This can inform decisions on which stablecoins to favor based on risk tolerance.
-
-**Pattern Recognition:**
-- Monitor shifts in reserve compositions and market behaviors that indicate potential depegging risks or shifts in market dominance. Look for emerging trends in decentralized finance (DeFi) that might disrupt the existing stablecoin duopoly.
-- Identify indicators of yield generation and distribution, such as rising profits for issuers without corresponding increases in user returns, signaling potential opportunities for competitive alternatives.
-
-**Strategic Framework:**
-- Apply the insights derived from yield leakage analysis to evaluate investment opportunities in stablecoins and DeFi platforms. Focus on those that demonstrate innovative yield-sharing mechanisms and compliance with regulatory standards.
-- Develop a dynamic strategy that adapitates based on market movements, regulatory changes, and technological advancements in the DeFi space. This includes regular reassessment of stablecoin fundamentals and market positions.
-
-**Important Notes:**
-- Maintain a focus on the methodologies and frameworks presented, rather than outdated numerical data or specific historical events.
-- Extract actionable insights that can be applied to current market scenarios, facilitating strategic decision-making in the evolving landscape of DeFi and stablecoins.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180093966.Yield Black Hole Duopoly
 ## Metadata
 **Source**: Substack Essay

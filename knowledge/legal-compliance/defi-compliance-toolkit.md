@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # DeFi Compliance Toolkit
 
-## Methodology & Framework
-
-DeFi compliance operates on a **defense-in-depth** model: no single tool is sufficient. The stack combines **blockchain analytics** (transaction-level risk scoring), **sanctions screening** (address-level blocking), and **front-end enforcement** (UI-level access controls). The goal is demonstrating reasonable compliance effort — particularly for front-end operators who may face regulatory liability despite protocol immutability.
-
----
-
 ## Blockchain Analytics Platforms
 
 ### Chainalysis

@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Chain Abstraction Overview
 
-## Methodology & Framework
-
-Chain abstraction is evaluated through three lenses: **user cognitive load** (does the user need to know which chain?), **developer integration burden** (how much multi-chain logic leaks into app code?), and **security model** (what trust assumptions does the abstraction layer introduce?). The goal is a UX where chains are invisible infrastructure — like TCP/IP packets are invisible when browsing the web.
-
----
-
 ## The Problem: Chain-Aware Users
 
 The current multi-chain reality forces users into infrastructure decisions they shouldn't make. Bridging assets, switching RPCs, holding native gas tokens on five chains, understanding finality differences — this is like asking email users to configure SMTP relays. It's a UX failure, not a technical necessity.

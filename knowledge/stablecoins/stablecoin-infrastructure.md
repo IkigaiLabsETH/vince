@@ -3,34 +3,6 @@ tags: [stablecoins, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Core Concepts:**
-- Cross-chain bridging: native burn-and-mint (CCTP) vs. lock-and-mint (Wormhole) — trust assumptions differ dramatically
-- Payment rails: stablecoins as settlement layer competing with SWIFT, ACH, and card networks
-- Merchant adoption: B2B (invoice settlement) leading B2C (point-of-sale) — different infrastructure needs
-- Remittance corridors: stablecoins already cheaper than Western Union for specific routes (US→Philippines, US→LatAm)
-
-**Analytical Approach:**
-- Evaluate bridging solutions on: trust model (who can censor/freeze mid-bridge), speed, cost, and supported chains
-- Assess payment rail adoption through volume data, not partnerships — announcements ≠ usage
-- Map merchant adoption by segment: freelancer platforms, e-commerce, B2B invoicing — each has different stablecoin needs
-- Compare remittance costs: traditional (5-10% fees) vs. stablecoin (0.1-1% on-chain + local cash-out costs)
-
-**Pattern Recognition:**
-- Native issuer bridges (CCTP) win over time because they eliminate wrapped asset risk — USDC bridged via CCTP is native USDC on the destination chain
-- Payment adoption follows B2B → freelancer → consumer pattern — businesses optimize costs before consumers change habits
-- Remittance corridors with weak local banking (Sub-Saharan Africa, Southeast Asia) adopt stablecoins fastest
-- Infrastructure investment (Stripe acquiring Bridge, Visa settling on-chain) signals TradFi conviction in stablecoin rails
-
-**Decision Framework:**
-- For bridging: prefer CCTP for USDC (native, no wrapped risk); use Wormhole/LayerZero for multi-asset needs
-- For payment integration: evaluate local cash-out infrastructure before assuming stablecoin payments "just work"
-- For remittance plays: identify corridors where last-mile cash-out exists (M-Pesa integration, local exchange liquidity)
-- For investment thesis: infrastructure picks-and-shovels (bridge protocols, payment APIs) may outperform individual stablecoins
-
----
-
 ## Cross-Chain Bridging
 
 The multi-chain world created a stablecoin fragmentation problem. USDC on Ethereum isn't the same as USDC on Avalanche if bridged through a third-party bridge — it's a wrapped derivative with bridge contract risk. The 2022 Wormhole hack ($320M) and Nomad exploit ($190M) demonstrated this viscerally.

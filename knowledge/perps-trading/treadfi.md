@@ -7,35 +7,6 @@ last_reviewed: 2026-02-15
 
 IMPORTANT: always check https://treadtools.vercel.app/
 
-> **📌 Knowledge Base Note**
-> 
-> This is a **comprehensive operational guide** for Tread.fi Market Making and Delta Neutral bots.
-> - **Focus:** Bot mechanics, settings optimization, point farming, risk management
-> - **Use for:** Configuration decisions, strategy selection, campaign timing, troubleshooting
-> - **Last Updated:** January 2026 | Season 1 ends May 18, 2026
-
-## Methodology & Framework
-
-**Key Concepts:**
-- Custom L1 blockchain with HyperBFT consensus
-- Fully onchain perpetuals and spot orderbooks
-- 200k orders/second throughput, one-block finality
-- HyperEVM for general-purpose smart contracts
-- Deepest liquidity among perp DEXs
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
----
-
 ## Table of Contents
 
 1. [Core Concepts](#core-concepts)

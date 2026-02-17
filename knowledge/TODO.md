@@ -209,22 +209,6 @@ REQUIREMENTS:
 6. Keep the methodology section 150-300 words
 
 FORMAT EXAMPLE:
-## Methodology & Framework
-
-**Core Analytical Approach:**
-- [Key framework 1]
-- [Key framework 2]
-
-**Pattern Recognition:**
-- [What patterns to look for]
-- [How to identify them]
-
-**Decision Criteria:**
-- [When to act]
-- [Risk considerations]
-
----
-
 HERE IS THE FILE TO ENHANCE:
 
 [PASTE YOUR FILE CONTENT HERE]

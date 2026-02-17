@@ -5,50 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Sentiment Analysis**: Understanding the emotional and psychological state of market participants, particularly during periods of volatility.
-- **Contrarian Investing**: Recognizing when to diverge from popular market sentiment and make investment decisions based on underlying data and trends.
-- **Onchain Data Evaluation**: Utilizing blockchain metrics (e.g., daily active addresses, total value locked) to gauge the health and activity level of cryptocurrencies.
-- **Macro-Economic Indicators**: Assessing how broader economic factors (e.g., Federal Reserve policies, inflation rates) influence crypto markets.
-- **Historical Contextualization**: Drawing parallels between current market conditions and historical events (e.g., dot-com bubble) to inform future expectations.
-
-**Analytical Approach:**
-- Employ a **holistic view** that integrates sentiment, macroeconomic data, and onchain analytics to form a comprehensive picture of the market.
-- Focus on **trend analysis** over a longer-term horizon rather than short-term fluctuations, allowing for better decision-making amidst noise.
-- Utilize **cross-market comparisons** (e.g., BTC vs. gold, stocks) to identify potential divergences or correlations that may signal shifts in investor behavior.
-
-**Pattern Recognition:**
-- Look for **extreme fear or greed indicators** in market sentiment (e.g., fear index) as potential signals for entry/exit points.
-- Monitor **institutional flows** in and out of ETFs and other investment vehicles to gauge market confidence and future trends.
-- Identify **historical price behaviors** during specific macroeconomic conditions (e.g., periods of low yields or high inflation) to anticipate possible outcomes.
-
-**Strategic Framework:**
-- Develop a **risk management strategy** that incorporates both bullish and bearish scenarios, adjusting positions based on market conditions and sentiment shifts.
-- Regularly reassess **dominance metrics** (e.g., BTC dominance) to inform asset allocation between BTC and alternative cryptocurrencies.
-- Create a **feedback loop** that allows for continuous learning from market movements and adapting strategies accordingly, emphasizing the importance of flexibility in approach.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182542021.Holiday Haze
 ## Metadata
 **Source**: Substack Essay

@@ -3,32 +3,6 @@ tags: [trading, derivatives, perps]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
-> **📌 Knowledge Base Note**
-> 
-> These documents are optimized for RAG: use for **frameworks and context**, not for current data. Numbers and dates are illustrative—check actions/APIs for live data.
-
-## Methodology & Framework
-
-**Key Concepts:**
-- **Annualized Rate** = 8h Rate × 3 × 365
-- Example: +0.02% × 3 × 365 = +21.9% annual
-- Risk-free rates (~5%)
-- Historical crypto volatility
-- Option premium yields
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
----
-
 # Funding Rate Interpretation Guide
 
 A practical guide to interpreting perpetual futures funding rates for options strike selection.

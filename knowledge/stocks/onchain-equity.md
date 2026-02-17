@@ -5,43 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Onchain Equity:** Understanding the implications of migrating traditional equity management to blockchain technology through smart contracts.
-- **Open Cap Table Protocol (OCP):** Utilizing open-source standards for equity management, emphasizing interoperability and regulatory compliance.
-- **Decentralization vs. Privacy:** Analyzing the balance between decentralized systems and the need for privacy in institutional settings, particularly in capital markets.
-- **Governance of Blockchain Networks:** Evaluating the role of governance structures that incorporate both innovative builders and established institutions.
-
-**Analytical Approach:**
-- Adopt a systems-thinking approach when assessing blockchain integration into financial markets, recognizing the interplay between technology, regulation, and market needs. Evaluate how governance models can enhance or hinder innovation and adoption. Focus on the implications of technological advancements on traditional finance structures and identify key stakeholders influencing change.
-
-**Pattern Recognition:**
-- Look for signs of institutional adoption of blockchain technology, such as collaborations between blockchain firms and traditional finance entities. Monitor developments in governance structures that signal a shift towards more balanced representation of builders and institutional players. Identify trends in tokenization initiatives and pilot projects that indicate growing acceptance and readiness for mainstream use.
-
-**Strategic Framework:**
-- When evaluating investment or involvement in blockchain-based financial products, assess the underlying technology’s ability to meet regulatory requirements while fostering innovation. Use a multi-stakeholder lens to understand the dynamics at play, considering both the builders and institutional players' perspectives. Apply the principles of interoperability and privacy in assessing new blockchain projects, ensuring they align with market needs and compliance standards.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181997054.Onchain Equity
 ## Metadata
 **Source**: Substack Essay

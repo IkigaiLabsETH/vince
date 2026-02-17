@@ -5,42 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Volatility Premium**: Understanding how implied volatility in assets influences option pricing, particularly in crypto markets where volatility is significantly higher than in traditional assets.
-- **Market Dynamics**: Recognizing the behavioral differences between retail and institutional traders, particularly in their approach to risk and pricing strategies.
-- **Efficiency of Execution**: Evaluating how onchain mechanisms reduce intermediary costs and improve the flow of capital compared to traditional finance.
-- **Continuous Asset Utilization**: Analyzing how onchain strategies can keep assets actively working (e.g., earning fees) rather than simply sitting idle until expiry.
-
-**Analytical Approach:**
-- Approach the evaluation of financial instruments by dissecting the underlying factors that differentiate markets, such as volatility levels, participant types, and operational efficiency. Utilize a multi-layered analysis to understand why onchain options yield higher returns compared to traditional options markets.
-
-**Pattern Recognition:**
-- Look for discrepancies in option pricing between traditional and onchain markets, especially during high volatility periods. Monitor retail trading behaviors that indicate speculative moves and recognize how these can create trading opportunities for more strategically minded participants.
-
-**Strategic Framework:**
-- To apply this thinking, leverage insights from the behavioral economics of trading to identify potential mispricings or inefficiencies in the market. Develop strategies that capitalize on the unique characteristics of crypto options, such as utilizing onchain liquidity pools to enhance returns while managing risk through delta-hedging.
-
-**Important Notes:**
-- Focus on understanding the frameworks and methodologies rather than specific numerical data or historical examples.
-- Extract actionable insights and apply these concepts to current market evaluations and decisions.
-- Emphasize the importance of adapting traditional financial concepts to the unique context of decentralized finance and crypto markets.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180884170.Eating Tradfi Alive
 ## Metadata
 **Source**: Substack Essay

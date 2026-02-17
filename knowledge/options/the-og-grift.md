@@ -5,49 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Covered Calls and Market Dynamics:** Understand how selling covered calls affects asset price movements, especially in concentrated ownership scenarios.
-- **Call Wall Effect:** Recognize how a significant amount of out-of-the-money calls can create resistance levels in asset pricing, leading to a "call wall."
-- **Market Sentiment and Ownership Distribution:** Analyze the impact of ownership diversity on asset performance, contrasting concentrated ownership (e.g., Bitcoin) with dispersed ownership (e.g., Gold).
-- **Dealer Hedging Strategies:** Explore how dealers manage risks through delta-neutral strategies that influence market volatility and price action.
-- **Contrasting Asset Classes:** Compare the mechanics of options markets across different asset classes, such as Bitcoin, Gold, and tech stocks, to inform trading strategies.
-
-**Analytical Approach:**
-- Assess market conditions by identifying the balance between supply and demand, particularly how derivative markets influence underlying asset prices.
-- Use the framework of concentrated versus dispersed ownership to evaluate potential market movements and identify when to expect significant price changes.
-- Employ a scenario analysis approach to foresee how macroeconomic factors, such as ETF approvals or market shocks, could disrupt existing patterns in options trading.
-
-**Pattern Recognition:**
-- Watch for signs of heavy call selling that could indicate price stagnation or bearish sentiment in concentrated ownership assets.
-- Monitor changes in open interest and volume across various strike prices to detect shifts in market sentiment or potential breakouts.
-- Identify periods of low volatility as potential precursors to sharp price movements, particularly when macroeconomic conditions change.
-
-**Strategic Framework:**
-- When analyzing any asset, consider the underlying options market structure and ownership dynamics to inform trading decisions.
-- Develop a risk management strategy that accounts for the unique characteristics of the asset's options market, including potential resistance levels created by call walls.
-- Use insights from contrasting markets (like Gold and Bitcoin) to diversify strategies and enhance decision-making across different asset classes.
-
-**Important Notes:**
-- Focus on the methodologies and frameworks rather than specific historical data points.
-- Emphasize actionable insights that can be applied to current market conditions.
-- Maintain a concise and structured approach to facilitate clear understanding and implementation.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181496407.The Og Grift
 ## Metadata
 **Source**: Substack Essay

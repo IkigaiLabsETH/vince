@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Fragmentation:** Understanding the impact of regulatory differences across regions on startup scalability and investment.
-- **Venture Capital Flow:** Analyzing the disparity in venture capital funding between regions, particularly the U.S. and Europe.
-- **Risk Aversion:** Recognizing how cultural attitudes towards risk influence investment behaviors and funding opportunities.
-- **Decentralized Systems:** Exploring how decentralized technologies like cryptocurrency can thrive in fragmented markets.
-- **Valuation Metrics:** Evaluating how valuations and market sizes affect investment dynamics across different regions.
-
-**Analytical Approach:**
-- To analyze macroeconomic conditions, assess the structural differences between markets, focusing on regulatory environments, funding mechanisms, and cultural attitudes. Use comparative analysis to highlight disparities, such as the ease of scaling in a unified market versus a fragmented one. Emphasize a systems-thinking approach that considers both micro (individual startups) and macro (overall market conditions) perspectives.
-
-**Pattern Recognition:**
-- Look for signs of fragmentation within regional markets, such as differing regulations and funding patterns that can hinder startup growth. Identify trends in venture capital movement, especially shifts towards regions with more favorable investment climates. Monitor emerging sectors and companies that demonstrate resilience despite regulatory challenges, particularly in decentralized finance and tech.
-
-**Strategic Framework:**
-- Apply a strategic lens to investment decisions by evaluating the regulatory landscape and potential scalability of startups in different regions. Utilize a risk-reward framework that considers cultural attitudes towards investment and the likelihood of capital flow. For current investments, prioritize sectors that demonstrate strong growth potential and adaptability in fragmented markets. Leverage insights from decentralized technologies to inform strategies that circumvent traditional barriers.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise and relevant to modern contexts.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 A quiet realization in the age of trillion-dollar AI bets.
 
 I’ve been investing in crypto for over a decade now. Long enough to watch cycles come and go, hype inflate and deflate, and fortunes made (and lost) on nothing more than conviction and timing.

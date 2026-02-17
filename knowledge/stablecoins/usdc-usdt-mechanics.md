@@ -3,33 +3,6 @@ tags: [stablecoins, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Core Concepts:**
-- Minting/redeeming mechanics and who has access
-- Reserve composition: cash vs T-bills vs commercial paper
-- Attestation vs full audit — what each actually proves
-- Issuer risk: Circle (US-regulated) vs Tether (offshore)
-- Blacklisting and censorship capabilities
-
-**Analytical Approach:**
-- Evaluate stablecoins on three axes: transparency, redemption access, and regulatory surface area
-- Treat reserve reports as snapshots, not guarantees — assess frequency, auditor reputation, and granularity
-- Consider jurisdictional risk as a feature, not just a bug (offshore = less seizure risk, more opacity)
-
-**Pattern Recognition:**
-- Tether mints often precede BTC rallies (capital inflow signal)
-- USDC market cap tracks US regulatory sentiment — shrinks during hostile periods
-- Reserve composition shifts (Tether moved from commercial paper to T-bills 2022-2023) signal issuer adaptation
-
-**Decision Framework:**
-- For DeFi collateral: prefer USDC (transparency, composability)
-- For exchange trading pairs: USDT dominates liquidity
-- For large holdings: diversify across both; neither is risk-free
-- Monitor attestation dates — gaps > 45 days are yellow flags
-
----
-
 ## USDC (Circle)
 
 ### How It Works

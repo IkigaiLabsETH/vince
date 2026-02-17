@@ -4,11 +4,6 @@
 **Word Count**: 738
 **Tags**: #user-submitted #direct-input #chat #tweet-like
 
-> **📌 Knowledge Base Note**
-> 
-> These documents are optimized for RAG: use for **frameworks and context**, not for current data. Numbers and dates are illustrative—check actions/APIs for live data.
-
----
 
 # Building a 24/7 AI Trading Assistant with ClawdBot on Mac Mini
 

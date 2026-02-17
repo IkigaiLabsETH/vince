@@ -89,42 +89,6 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Smart Money Identification**: Distinguishing between different types of wallets (e.g., institutions, whales) to understand market sentiment.
-- **On-Chain Analysis**: Utilizing blockchain data to track asset movements and flow dynamics.
-- **Regime Shifts**: Recognizing changes in market behavior, particularly around accumulation and distribution phases.
-- **Historical Contextualization**: Comparing current data trends to historical patterns to derive insights about market cycles.
-
-**Analytical Approach:**
-- Adopt a systematic approach to monitoring Bitcoin’s smart money flows, focusing on labeled wallet activities that represent institutional behavior. Analyze transaction patterns to assess net inflows and outflows, which serve as indicators of market sentiment. Utilize tools like Nansen.ai to gather real-time data and support claims with historical analogs, allowing for a comprehensive view of market dynamics.
-
-**Pattern Recognition:**
-- Look for significant deviations in wallet activities, such as increased whale transactions or unusual exchange net flows. Identify accumulation signals indicated by consistent net inflows and decreased exchange deposits, contrasted with distribution signals demonstrated through large outflows or spikes in exchange deposits. Recognizing these patterns can inform predictions about market trends and potential price movements.
-
-**Strategic Framework:**
-- Develop a framework for ongoing analysis that includes real-time tracking of smart money movements, combined with historical comparisons to establish a narrative around current market conditions. Maintain vigilance for regime shifts by correlating smart money behavior with external market factors (e.g., macroeconomic signals or regulatory changes). Regularly update insights and forecasts based on the evolving data landscape, ensuring adaptability to changing market conditions.
-
-**Important Notes:**
-- Emphasize a data-driven approach, leveraging advanced analytics and tools to derive actionable insights.
-- Focus on understanding the underlying behaviors of market participants rather than just tracking historical data.
-- Maintain a forward-looking perspective, utilizing pattern recognition to anticipate shifts in market sentiment and potential investment opportunities.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: nansen.ai*

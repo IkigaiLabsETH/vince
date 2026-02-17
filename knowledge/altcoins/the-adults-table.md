@@ -134,46 +134,6 @@ The adults’ table awaits.
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Token Governance vs. Equity Ownership**: Understand the distinction between governance tokens and actual equity stakes, emphasizing the implications of this separation.
-- **Alignment of Incentives**: Analyze how true equity-like rights for token holders can address the misalignment of interests between token holders and equity investors.
-- **Cap Table Tokenization**: Explore the concept of tokenizing a company's capitalization table to provide real ownership rights to token holders.
-- **Reinvestment vs. Buybacks**: Evaluate the strategic choice between reinvesting profits for long-term growth versus short-term buybacks and their impact on token value.
-
-**Analytical Approach:**
-- Assess the underlying structures of crypto projects to identify whether they prioritize short-term speculation or long-term value creation. Focus on whether projects offer substantive economic rights to token holders that reflect equity-like claims.
-- Use a comparative lens to evaluate emerging models in the altcoin space, particularly those that bridge governance and ownership, thereby reshaping the value proposition for token holders.
-
-**Pattern Recognition:**
-- Look for projects that implement innovative governance structures that grant real economic rights to token holders, moving beyond traditional utility models.
-- Identify signs of regulatory navigation within projects, such as compliance with securities laws that allow for equity-like rights without classifying tokens as securities.
-- Monitor initiatives that prioritize community ownership and growth, observing how they react to market trends and investor sentiment.
-
-**Strategic Framework:**
-- When evaluating altcoin investments or governance models, apply a framework that weighs the degree of alignment between token holder interests and the company's economic success.
-- Consider the sustainability and growth potential of projects that prioritize reinvestment strategies over buybacks, as these may indicate a stronger commitment to long-term value creation.
-- Engage in scenario planning to predict how regulatory changes might impact the feasibility of equity-like token structures, preparing for shifts in market dynamics accordingly.
-
-**Important Notes:**
-- Focus on methodologies that assess the structural integrity of token governance and ownership.
-- Extract actionable insights that can be applied to assess current and future altcoin projects.
-- Maintain a concise and practical approach to enable quick application in investment or governance analysis.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 Fifteen years in, we’ve poured enormous energy into trust-minimized technology, yet the results can seem underwhelming: countless tokens, but few products with true global impact; markets that often reward short-term attention over durable, compounding value.
 
 This sentiment—eloquently captured in a recent thread by Derek Edws, managing partner at Collab+Currency—is widespread and valid. The core frustration? The persistent disconnect between value created by products and value accrued by tokens, especially for “make money” tokens (productive assets, as opposed to pure stores of value like BTC, ETH, or SOL).

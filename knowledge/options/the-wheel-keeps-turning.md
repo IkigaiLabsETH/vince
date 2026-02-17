@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Long the Wheel**: A strategy focused on selling options to generate income while simultaneously holding an underlying asset.
-- **Market Sentiment Analysis**: Understanding the psychological drivers of market movements, particularly fear and greed.
-- **Onchain Revenue Dynamics**: The ability of protocols to generate consistent revenue regardless of price fluctuations.
-- **Options Trading Mechanics**: Utilizing cash-secured puts and covered calls as risk management tools to enhance returns.
-- **Fundamental vs. Market Price**: Distinguishing between the underlying value of an asset and its market price to guide investment decisions.
-
-**Analytical Approach:**
-- Adopt a long-term perspective that emphasizes fundamentals over short-term price action. Recognize that market fluctuations often lead to irrational behavior, allowing for opportunities to capitalize on undervalued assets. Instead of reacting to market sentiment, focus on the operational performance of the asset.
-
-**Pattern Recognition:**
-- Look for recurring scenarios where significant price drops coincide with increasing fundamentals, such as rising revenue or user engagement metrics. Identify signals of extreme market sentiment (e.g., fear-driven sell-offs) that present potential entry points for accumulating assets at lower prices.
-
-**Strategic Framework:**
-- Implement a consistent options trading strategy that leverages cash-secured puts and covered calls to generate income from volatility, while maintaining a core position in the underlying asset. Regularly assess the market sentiment and adjust strike prices accordingly to maximize premium collection while minimizing risk exposure. Use these strategies to build a resilient investment approach that thrives in both bear and bull markets.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise and relevant for ongoing market analysis.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181413711.The Wheel Keeps Turning
 ## Metadata
 **Source**: Substack Essay

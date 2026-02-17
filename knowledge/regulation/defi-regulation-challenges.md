@@ -5,14 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # DeFi Regulation Challenges
 
-## Methodology & Framework
-
-This analysis maps the core tension in DeFi regulation: decentralized protocols resist traditional regulatory frameworks designed for identifiable intermediaries. We evaluate four enforcement vectors — front-end enforcement, smart contract liability, DAO legal personhood, and travel rule compliance — scoring each on feasibility, effectiveness, and collateral damage to innovation.
-
-**Framework: The Intermediary Gap** — Traditional finance regulates through intermediaries (banks, brokers). DeFi removes them. Every regulatory approach must answer: *who do you hold responsible when there's no central actor?*
-
----
-
 ## Front-End Enforcement
 
 The most pragmatic approach targets the user-facing layer. Regulators can't shut down Uniswap's smart contracts, but they can pressure uniswap.org. The OFAC/Tornado Cash precedent showed this: the website went down even as the contracts remained live.

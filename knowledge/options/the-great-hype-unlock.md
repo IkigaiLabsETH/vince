@@ -5,40 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Asymmetric Bet Framework:** Evaluate investments based on potential upside versus risks, particularly in volatile markets.
-- **Market Sentiment Analysis:** Understand the psychological factors affecting market behavior, especially in contexts of fear and uncertainty.
-- **Supply-Demand Dynamics:** Analyze how new supply impacts market prices in relation to ongoing demand, particularly during unlock events.
-- **Buyback Mechanism:** Leverage buyback strategies to create price stabilization and deflationary effects in token economics.
-
-**Analytical Approach:**
-- Approach the analysis of cryptocurrencies by assessing fundamental metrics such as revenue growth, tokenomic structures, and market sentiment. Focus on how external narratives (e.g., fear of sell-offs) can skew market prices away from their intrinsic value. Always contextualize historical data to identify whether current conditions are indeed reflective of past patterns or are unique to the present scenario.
-
-**Pattern Recognition:**
-- Look for signs of market overreaction, particularly during significant events like token unlocks. Indicators of overreaction include rapid price declines despite stable or growing underlying fundamentals (e.g., revenue growth). Additionally, monitor the behavior of major stakeholders (e.g., team wallets vs. VC overhang) to gauge market stability.
-
-**Strategic Framework:**
-- Apply a multi-faceted approach to investment decisions by integrating sentiment analysis with fundamental assessments. Create a checklist for evaluating potential investments that includes: current supply dynamics, historical behavior around unlock events, buyback activity, and revenue trends. Use this framework to identify opportunities where market prices deviate significantly from underlying value, particularly during periods of heightened fear.
-
-**Important Notes:**
-- Maintain a focus on the methodologies and frameworks rather than specific numerical data or historical dates. The goal is to cultivate a mindset for analysis that allows for actionable insights in rapidly changing markets. This approach should be adaptable to various situations, emphasizing critical thinking and pattern recognition over reliance on outdated metrics.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 179813415.The Great Hype Unlock
 ## Metadata
 **Source**: Substack Essay

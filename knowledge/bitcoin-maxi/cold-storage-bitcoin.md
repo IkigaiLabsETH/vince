@@ -5,45 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Self-Custody vs. Institutional Custody:** Evaluate the trade-offs between maintaining personal control over assets and leveraging institutional products for ease and efficiency.
-- **Diversification Across Asset Classes:** Recognize the importance of spreading investments across various sectors to mitigate risk and capitalize on emerging trends.
-- **Asymmetric Upside Investment:** Focus on assets with the potential for disproportionate returns relative to their risk, particularly in innovative sectors like AI and energy.
-- **Adaptation to Market Dynamics:** Stay flexible in investment strategies as market conditions and technologies evolve, especially in a rapidly changing economic landscape.
-
-**Analytical Approach:**
-- Approach investment decisions with a mindset of calculated risk-taking. Analyze the benefits and drawbacks of different asset classes while considering personal values regarding sovereignty and control.
-- Regularly reassess your portfolio and investment strategy to align with current market trends and technological advancements. Acknowledge that sticking to one narrative may limit potential gains.
-
-**Pattern Recognition:**
-- Monitor macroeconomic indicators that signal shifts in technology and labor markets, such as advancements in AI or other disruptive technologies.
-- Identify emerging sectors that show signs of growth and potential for high returns. Look for companies that innovate and adapt quickly to changing environments.
-
-**Strategic Framework:**
-- Create a diversified investment portfolio that balances traditional assets with high-growth opportunities. Allocate capital to sectors projected to experience exponential growth, such as AI and renewable energy.
-- Maintain exposure to Bitcoin while strategically reallocating portions of your investment into ETFs or equities that align with future trends. This dual approach allows for both stability and the potential for high returns.
-  
-**Important Notes:**
-- Focus on methodologies and frameworks rather than specific historical data or numbers.
-- Emphasize the importance of adaptable thinking in investment strategies to respond effectively to market changes.
-- Ensure actionable insights are relevant to current and future investment landscapes.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182568240.Cold Storage Bitcoin
 ## Metadata
 **Source**: Substack Essay

@@ -3,34 +3,6 @@ tags: [stablecoins, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Core Concepts:**
-- Collateral type determines failure mode: exogenous (external) vs endogenous (self-referential)
-- The "stablecoin trilemma": decentralization, stability, capital efficiency — pick two
-- Design complexity inversely correlates with battle-tested resilience
-- Hybrid models attempt to blend benefits but inherit multiple risk vectors
-
-**Analytical Approach:**
-- For any stablecoin, answer: What happens to the peg if the backing asset drops 50%?
-- Map trust assumptions: who/what do you trust to maintain the peg?
-- Evaluate the arbitrage mechanism: is it permissionless? Does it work under stress?
-- Assess governance attack surface — can parameters be changed to break the system?
-
-**Pattern Recognition:**
-- Pure algorithmic stablecoins have a 100% long-term failure rate so far
-- Crypto-collateralized models survive but require overcollateralization (capital inefficient)
-- Fiat-backed dominates market share (~95%) because simplicity wins
-- Hybrid models are converging toward "mostly collateralized with algorithmic efficiency at the margins"
-
-**Decision Framework:**
-- For safety: fiat-backed (USDC/USDT)
-- For decentralization: crypto-backed (DAI)
-- For yield: RWA-hybrid (USDS, USDe)
-- Avoid: pure algorithmic (no surviving examples at scale)
-
----
-
 ## Taxonomy of Stablecoins
 
 ### Category 1: Fiat-Backed (Fully Reserved)

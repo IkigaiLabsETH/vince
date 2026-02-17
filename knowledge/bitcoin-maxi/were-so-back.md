@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Simple Moving Averages (SMA):** The significance of the 50-week and 200-week SMAs as critical indicators in market cycles.
-- **Market Cycle Analysis:** Understanding the distinct phases of market cycles through historical precedents.
-- **Technical Confirmation:** The importance of consistent technical signals that validate market trends and forecasts.
-- **Macro Context:** Recognizing the influence of broader economic conditions on cryptocurrency price movements.
-- **Behavioral Indicators:** Assessing market sentiment through retail participation and institutional trends.
-
-**Analytical Approach:**
-- Emphasize a multi-faceted analysis that combines technical indicators with market psychology. Focus on historical patterns and adapt strategies based on the behavior of key moving averages. This involves an awareness of both quantitative data (e.g., SMA levels) and qualitative factors (e.g., market sentiment indicators).
-
-**Pattern Recognition:**
-- Look for repeated behaviors in market cycles, particularly concerning the interactions with the 50-week and 200-week SMAs. Notable signals include consecutive weekly closes below the 50-week SMA indicating a bear market initiation, and the resilience of the 200-week SMA as a support level during downturns. Recognize the absence of retail enthusiasm and other liquidity indicators as precursors to market shifts.
-
-**Strategic Framework:**
-- Develop a robust decision-making framework that prioritizes long-term trends over short-term fluctuations. Utilize historical benchmarks to guide expectation management, applying a conservative approach during technical breakdowns. Regularly evaluate macroeconomic signals to contextualize market movements, adjusting strategies to align with emerging trends rather than riding speculative waves.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates. 
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations. 
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180586132.Were So Back
 ## Metadata
 **Source**: Substack Essay

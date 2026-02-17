@@ -67,48 +67,6 @@ If the product is reputation/identity (SocialFi, idOS-type) - complete profile +
 
 ---
 
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-## Methodology & Framework
-
-**Core Analytical Approach:**
-- Prioritize projects using a multi-factor rating system: Evaluate hype (community attention), expected airdrop likelihood, farming priority (effort-reward ratio), and potential size to guide resource allocation.
-- Categorize opportunities by type (e.g., chains, DeFi, perps, social) and apply tailored templates for actions, emphasizing sustained engagement over bursts.
-- Segment wallets by risk levels to isolate activities and minimize exposure: Main for core holdings, farm for routine, high-risk for experimental.
-
-**Pattern Recognition:**
-- Identify durable action patterns: Spread 3-5 meaningful interactions (e.g., deposits, trades, verifications) over 2-6 weeks to maximize signal while minimizing footprint.
-- Spot product-specific signals: For identity-focused projects, prioritize profile completion and verification; for perps, focus on volume distribution across trades; for DePIN, emphasize uptime and task completion.
-- Recognize rotation cycles: In resource-constrained scenarios, rotate through top selections weekly (onboarding, repeats, advanced actions); for maintenance, apply minimal monthly touches to broader lists.
-
-**Decision Criteria:**
-- Act when projects align with high ratings and fit current focus: Concentrate on S/A tiers for active farming, deprioritize others unless meta shifts.
-- Assess risks via wallet segmentation and action spreading: Avoid high-risk if not isolated, evaluate effort vs. reward before committing.
-- Apply when opportunities match capital/time profile: Use rotation for time-rich/low-capital; focus on priorities for capital-rich/time-poor, always integrating real-time data for adjustments.
-
-(This section outlines timeless frameworks for strategic airdrop farming, drawing from core rules, templates, and strategies to inform adaptive decision-making.)
-
-## Quick Farming Templates
-
-| Category | Actions |
-|----------|---------|
-| **Chains (L1/L2)** | 30-100 tx over 6-12 weeks → bridge → use 3-7 dapps → deploy once |
-| **DeFi** | deposit → swap → LP 7-30 days → borrow/repay once → repeat weekly |
-| **Perps** | deposit → 20-80 trades → spread volume → hold some balance |
-| **Social/Identity** | complete profile → verify → daily actions → referrals |
-| **DePIN** | uptime matters → run node/app continuously → complete tasks |
-
----
-
 ## Rating Criteria
 
 - **H** = Hype (community buzz, attention)
@@ -409,25 +367,6 @@ Concentrate on our active priorities:
 | **A (ACTIVE)** | USDai, Tread.fi | DeFi + MM terminal |
 | **Maintenance** | MegaETH, HyperEVM | Keep positions, light activity |
 | **Deprioritized** | PolyMarket, OpenSea, Bungee, Symbiotic, Aztec, Metamask, Farcaster, Infinex, Grvt, Superform, Ritual | Previously S/A tier, not currently farming |
-
-## Methodology & Framework
-
-**Key Concepts:**
-- Minimum: $100k adjusted volume (points eligibility)
-- Bronze: $1M (1.1x multiplier)
-- Silver: $5M (1.2x multiplier)
-- Gold: $10M (1.3x multiplier)
-- Week resets: **Wednesday 00:00 UTC**
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
 
 ## Related
 

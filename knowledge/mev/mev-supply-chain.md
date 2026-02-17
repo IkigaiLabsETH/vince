@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # MEV Supply Chain
 
-## Methodology & Framework
-
-This document maps the infrastructure that routes MEV from user transaction to block inclusion. The framework follows the transaction lifecycle — from mempool to block — through each intermediary, analyzing how Proposer-Builder Separation (PBS) restructured Ethereum's block production market, and where centralization pressures emerge.
-
----
-
 ## The Pre-PBS World
 
 Before PBS, validators did everything: received transactions, ordered them, built blocks, and proposed them. Sophisticated validators could extract MEV directly; unsophisticated ones couldn't. This created centralizing pressure — validators with MEV capabilities earned more, compounding their stake advantage. Flashbots emerged in 2020 to address this by creating a structured MEV marketplace.

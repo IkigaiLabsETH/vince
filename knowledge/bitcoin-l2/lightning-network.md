@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Lightning Network
 
-## Methodology & Framework
-
-Analysis structured around Lightning's **maturity curve**: infrastructure readiness, adoption metrics, protocol evolution (BOLT12), and the emerging tension between its payments-first design and pressure to support broader use cases. Data sourced from mempool.space, 1ML, and ACINQ/LDK reports.
-
----
-
 ## Current State (Early 2026)
 
 Lightning Network has ~5,000+ BTC in public channel capacity (~$500M+ at current prices), with significant private/unannounced capacity on top. The network has matured from experimental to critical infrastructure — embedded in Cash App, Strike, Coinbase, and dozens of exchanges. El Salvador's Chivo wallet runs on Lightning. Nostr's zaps proved micropayments work at scale.

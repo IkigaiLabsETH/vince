@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Geographic Arbitrage**: Leveraging geographical differences in economic conditions, taxation, and lifestyle to optimize personal and financial well-being.
-- **Emotional Resilience in Trading**: Understanding the psychological impact of trading decisions and market fluctuations to maintain composure and strategic focus.
-- **Historical Contextualization**: Analyzing past market behaviors and personal experiences to inform current trading strategies and decision-making processes.
-- **Temporal Analysis**: Recognizing the importance of timing in investment decisions, especially in volatile markets like cryptocurrency.
-- **Community and Network Impact**: The significance of personal relationships and networks in navigating investment opportunities and making informed decisions.
-
-**Analytical Approach:**
-- To think effectively about perps trading, adopt a reflective mindset that incorporates emotional awareness and historical context. Analyze your past trading decisions, understand their emotional triggers, and evaluate how they influenced outcomes. Use this introspection to craft future strategies that are informed by both personal experiences and broader market trends.
-
-**Pattern Recognition:**
-- Look for patterns in market sentiment, such as fear and greed cycles, and relate them to historical events. Recognize the signs of market fatigue or euphoria that may signal opportunities for entry or exit. Additionally, monitor the emergence of new geographical hubs in the crypto space that could indicate shifting market dynamics.
-
-**Strategic Framework:**
-- Apply a strategic framework that emphasizes flexibility and adaptability. As market conditions change, be prepared to pivot your approach based on emerging trends and personal circumstances. Use geographic arbitrage as a lens to evaluate potential investment locations, considering lifestyle factors and tax implications. Lastly, build a robust network of contacts within the crypto space to enhance your decision-making process and capitalize on collective insights.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181982202.Lake Lugano
 ## Metadata
 **Source**: Substack Essay

@@ -5,43 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Max Pain Theory:** Understanding market dynamics where weak hands are flushed out, leaving resilient holders.
-- **2-Year Moving Average Multiplier:** A tool for identifying buy and sell zones based on historical price trends.
-- **Halving Cycles:** Recognizing the impact of Bitcoin's halving events on market behavior and price volatility.
-- **Institutional Influence:** Analyzing how growing institutional involvement alters traditional market patterns and investor psychology.
-
-**Analytical Approach:**
-- Adopt a long-term perspective when evaluating Bitcoin’s market behavior. Focus on identifying critical price points informed by historical trends, rather than getting caught in short-term fluctuations. Use the 2-Year Moving Average Multiplier to discern buy and sell signals and gauge market sentiment. This requires a mindset that embraces patience and resilience, particularly during market downturns.
-
-**Pattern Recognition:**
-- Look for key price thresholds indicated by the 2-Year Moving Average—specifically the “buy zone” around $83k and the sell signal at 5x multiplier (~$416k). Additionally, note the cyclical nature of Bitcoin's price movements in relation to halving events and institutional adoption. Pay attention to shifts in market sentiment during these periods, such as increased buying by institutions or significant price corrections.
-
-**Strategic Framework:**
-- Apply the concepts of max pain and halving cycles to form a strategic investment approach. Develop a plan that incorporates dollar-cost averaging into the “buy zone” while being prepared to exit during periods of extreme greed as indicated by the 5x multiplier. Establish clear criteria for reassessing your position as new data emerges, especially regarding macroeconomic factors such as inflation and regulatory changes.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182466750.Max Pain
 ## Metadata
 **Source**: Substack Essay

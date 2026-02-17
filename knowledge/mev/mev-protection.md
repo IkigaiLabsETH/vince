@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # MEV Protection
 
-## Methodology & Framework
-
-This document is practical: how do you, as a user or protocol, minimize MEV extraction? The framework categorizes protection by layer — transaction submission, execution venue, and protocol design — and evaluates each approach's tradeoffs between UX, cost, and effectiveness.
-
----
-
 ## The Problem
 
 Every transaction you submit to a public mempool is visible to searchers before it's included in a block. Your swap, your liquidation, your NFT mint — all of it is fair game. The default onchain experience is adversarial. Protection requires routing around the public mempool, choosing MEV-aware execution venues, or both.

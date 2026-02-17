@@ -5,42 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **First Principles Thinking:** Re-evaluating investment theses from the ground up, focusing on foundational truths rather than popular narratives.
-- **Deep Research vs. Performance:** Emphasizing thorough analysis and thoughtful writing over quick, attention-grabbing content.
-- **Audience Engagement:** Prioritizing meaningful engagement with a smaller, more invested audience rather than seeking mass appeal.
-- **Reflective Learning:** Conducting autopsies on past decisions to identify missed insights and evolving perspectives.
-
-**Analytical Approach:**
-- Approach perps-trading with a mindset of skepticism towards popular market narratives and trends. Instead, dissect each investment thesis to understand its core principles and underlying assumptions. This involves critically evaluating past mistakes and learning from them, thereby fostering a culture of continuous improvement.
-
-**Pattern Recognition:**
-- Look for signs of market fatigue in popular narratives, such as declining engagement metrics or superficial analysis. Recognize when trends are driven by performative confidence rather than grounded insights. Identify undercurrents of innovation or resurgence in previously dismissed concepts (e.g., Hyperstructures, DeFi) as potential areas for investment exploration.
-
-**Strategic Framework:**
-- Apply this thinking by dedicating time to comprehensive research and writing. Develop a structured process for documenting insights and reflections on trading decisions. Engage with a niche community that values depth over breadth, enabling meaningful dialogue that can refine understanding and strategy. Use platforms that allow for longer-form content to escape the noise of fleeting trends and foster deeper connections.
-
-**Important Notes:**
-- Focus on methodologies rather than specific historical data or prices; maintain an emphasis on how to think critically about perps-trading.
-- Ensure that the insights extracted can be applied to current market situations and evolving trading strategies.
-- Keep the framework actionable and relevant to ongoing developments in the crypto trading landscape.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180542277.Nobody Will Notice
 ## Metadata
 **Source**: Substack Essay

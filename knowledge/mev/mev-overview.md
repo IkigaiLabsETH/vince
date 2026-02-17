@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # MEV Overview
 
-## Methodology & Framework
-
-This document covers MEV from first principles: what it is, how it's extracted, who profits, and why it matters. The framework treats MEV as an emergent property of transparent mempools and deterministic execution — not a bug, but a fundamental feature of permissionless blockchains that must be understood to be managed.
-
----
-
 ## What Is MEV?
 
 Maximal Extractable Value (originally "Miner Extractable Value") is the profit a block producer — or anyone who can influence transaction ordering — can extract by including, excluding, or reordering transactions within a block. On Ethereum post-Merge, validators replaced miners, but the dynamic persists: whoever controls ordering controls value.

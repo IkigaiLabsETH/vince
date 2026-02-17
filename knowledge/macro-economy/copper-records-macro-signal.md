@@ -9,32 +9,6 @@ last_reviewed: 2026-02-15
 **Word Count**: 520
 **Tags**: #user-submitted #direct-input #chat
 
-> **📌 Knowledge Base Note**
-> 
-> These documents are optimized for RAG: use for **frameworks and context**, not for current data. Numbers and dates are illustrative—check actions/APIs for live data.
-
-## Methodology & Framework
-
-**Key Concepts:**
-- Research recent copper mine production data and any reported supply disruptions
-- Monitor copper inventory levels at major exchanges (LME, COMEX)
-- Track correlation between copper moves and broader commodity complex
-- Analyze historical precedents of similar copper price action and subsequent market developments
-- Cross-reference with industrial metals complex (aluminum, zinc, nickel) for confirmation signals
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
----
-
 # Copper Market Analysis: Reading Supply-Demand Signals Through Price Action
 
 **Source**: Direct Input - December 19, 2024

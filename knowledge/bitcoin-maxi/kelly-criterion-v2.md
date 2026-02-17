@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Kelly Criterion**: A mathematical formula that determines the optimal size of a series of bets to maximize long-term growth while managing risk.
-- **Asymmetric Bet**: An investment opportunity where the potential upside significantly outweighs the potential downside, making it a low-risk, high-reward scenario.
-- **Long-term Compounding**: The process of generating earnings on an asset's reinvested earnings, which is crucial for wealth accumulation over time.
-- **Risk Management**: Understanding that often, the greater risk lies in not fully committing to an opportunity when the odds are heavily in favor.
-
-**Analytical Approach:**
-- Assess your investment opportunities through the lens of the Kelly Criterion. Identify whether you possess an edge and calculate the appropriate stake size based on your level of conviction and the asymmetry of the situation.
-- Cultivate a mindset that prioritizes rational analysis over emotional reactions. Acknowledge the psychological barriers that prevent larger investments in asymmetric opportunities, and actively work to overcome them.
-
-**Pattern Recognition:**
-- Look for historical instances where investments have shown consistent exponential growth following a significant downturn or low valuation, particularly in disruptive technologies or assets like Bitcoin.
-- Identify market conditions that signal a potential asymmetry, such as regulatory changes, technological advancements, or shifts in public perception that could favor the asset.
-
-**Strategic Framework:**
-- When evaluating current investment opportunities, apply the Kelly Criterion to determine your stake. If convinced of the asymmetric potential, aim for a substantial commitment (e.g., 70-80%) rather than a conservative approach.
-- Develop a long-term holding strategy that minimizes active management and allows for the compounding effect to take place, reinforcing the notion that patience and adherence to proven methodologies are key to achieving financial independence.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180338122.Kelly Criterion
 ## Metadata
 **Source**: Substack Essay

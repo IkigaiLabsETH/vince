@@ -3,29 +3,6 @@ tags: [trading, derivatives, perps]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Key Concepts:**
-- **MEV in perps:** How to think about extractable value in perpetuals—liquidation ordering, funding arbitrage, front-running, and sandwich risk on DEX perps.
-- **Design and sequencing:** How order flow, sequencing (e.g. private mempools, builder blocks), and fee structure affect who captures MEV and who bears cost.
-- **Regime and positioning:** How MEV and slippage vary by venue, asset, and volatility; use for framework, not for current MEV or fee data.
-
-**Analytical Approach:**
-- For any perp venue: identify **where value can be extracted** (liquidations, funding, order flow) and **who controls sequencing** (validators, builders, off-chain matching).
-- Use **historical examples** (e.g. liquidation cascades, funding flips) as methodology, not as current MEV estimates.
-- Map **slippage and execution** to venue design (AMM vs order book, on-chain vs hybrid) for framework, not live stats.
-
-**Important Notes:**
-- Focus on methodology; use actions/APIs for current MEV, fees, or slippage.
-
----
-
-> **📌 Knowledge Base Note**
->
-> This content provides **frameworks** for thinking about MEV in perps.
-> - **Use for:** Design comparison, risk assessment, execution framework
-> - **Do NOT use for:** Current MEV or fee data (use actions/APIs)
-
 ---
 
 ## Context

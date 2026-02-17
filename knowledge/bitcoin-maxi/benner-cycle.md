@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Benner Cycle:** A historical framework identifying cyclical patterns in markets, particularly highlighting key peaks and troughs based on past economic data.
-- **Bitcoin Halving Rhythm:** The recurring event in Bitcoin's lifecycle that influences market behavior, typically leading to price increases 12-18 months post-halving.
-- **Market Sentiment Analysis:** Understanding the psychological factors driving market behavior, such as retail vs. institutional activity and the impact of liquidity conditions.
-
-**Analytical Approach:**
-- Approach cryptocurrency investment through a cyclical lens, recognizing that historical patterns, like the Benner Cycle, can provide insights into future price movements. However, remain skeptical of rigid adherence to past cycles as markets evolve.
-- Develop a dual-phased strategy for investment: First, recognize when to capitalize on upward price movements; second, prepare for potential downturns by having a clear exit plan.
-
-**Pattern Recognition:**
-- Look for signs of market exhaustion, such as choppy price action, stretched valuations, and diverging investor sentiment (e.g., long-term holders selling while retail investors chase price highs).
-- Monitor liquidity trends and central bank policies, as these can signal shifts in market dynamics and influence the timing of market cycles.
-
-**Strategic Framework:**
-- Implement a proactive trading strategy that involves trimming positions during upward trends to lock in profits. Aim for a target cash position (e.g., 20-30%) as a buffer against potential downturns, allowing for reinvestment opportunities when prices stabilize.
-- Adopt a flexible mindset that accommodates the realities of market fluctuations, focusing on risk management and timely adjustments rather than static holding strategies.
-
-**Important Notes:**
-- Focus on holistic methodologies rather than specific historical data points or current market metrics.
-- Emphasize the importance of adaptive thinking and the ability to recognize and respond to changing market conditions.
-- Ensure the approach remains actionable, guiding decisions based on market signals rather than relying solely on past performance or predictions.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181530571.Benner Cycle
 ## Metadata
 **Source**: Substack Essay

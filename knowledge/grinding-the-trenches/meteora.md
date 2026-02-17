@@ -19,47 +19,6 @@ The result? Most traders buy high and sell low, repeatedly.
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Automated Dollar-Cost Averaging (DCA)**: Utilizing automated liquidity provision to mitigate the challenges of timing the market.
-- **Dynamic Liquidity Market Maker (DLMM)**: A mechanism that allows for concentrated liquidity across price bins, facilitating buying and selling based on market movements.
-- **Impermanent Loss Reframing**: Viewing impermanent loss as an opportunity for forced DCA and profit-taking in volatile markets, particularly with memecoins.
-- **Volatility as an Asset**: Recognizing that high volatility in memecoins can generate more trading fees, benefiting liquidity providers.
-
-**Analytical Approach:**
-- **Market Timing vs. Automated Strategies**: Instead of attempting to predict market tops and bottoms, adopt a strategy that lets the market dictate your trades through automated liquidity provision.
-- **Emotional Decision-Making Avoidance**: Develop frameworks that eliminate the need for emotional responses to market fluctuations by relying on systematic trading strategies.
-- **Focus on Fee Generation**: Concentrate on the aggregated fee revenue from trades rather than solely on asset appreciation.
-
-**Pattern Recognition:**
-- **Volume and Volatility Indicators**: Look for assets with high daily volatility (20-100%+) paired with significant trading volume, as these are likely to provide robust opportunities for liquidity provision.
-- **Market Sentiment Shifts**: Identify shifts in trader sentiment, especially around memecoins, to anticipate potential volume spikes and fee generation opportunities.
-
-**Strategic Framework:**
-- **Liquidity Pool Selection**: Prioritize liquidity pools that exhibit high daily volatility and trading volume, leveraging the fee potential inherent in those assets.
-- **Continuous Monitoring and Rebalancing**: Regularly assess and adjust liquidity positions within selected pools to optimize fee collection and manage risk associated with impermanent loss.
-- **Long-Term View on Volatility**: Embrace a mindset that values volatility as a consistent generator of trading fees, rather than viewing it solely as a risk factor.
-
-**Important Notes:**
-- Focus on methodologies and strategic frameworks rather than specific historical data or metrics.
-- Extract actionable insights for current and future market conditions, applying the principles of automated trading and liquidity provision effectively.
-- Maintain brevity and clarity to ensure concepts are easily understood and implemented.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 ## The Solution: LP as Automated DCA
 
 **Instead of trying to time the market, let the market time you.**

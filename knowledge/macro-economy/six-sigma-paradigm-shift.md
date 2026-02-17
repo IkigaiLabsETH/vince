@@ -5,47 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Sigma Events**: Statistical measurement of price variations around an average using standard deviation. 1-2 sigma = common, 3 sigma = rare, 4 sigma = exceptional, 5 sigma = once per million observations, 6 sigma = once per 500 million.
-- **Market Structure Breaks**: 6-sigma events almost never stem from macro news—they emerge from internal market mechanics: leverage, concentrated positions, margin calls, collateral issues, forced selling/buying.
-- **Cross-Asset Contagion**: When extreme statistical events occur across different asset classes in quick succession, it signals systemic stress rather than isolated incidents.
-- **Monetary Framework Questioning**: Simultaneous instability in long-term rates (state credibility) and precious metals (currency credibility) indicates fundamental regime change.
-
-**Analytical Approach:**
-- Monitor for clusters of high-sigma events across asset classes—isolated events are noise, clustered events are signal. When 5-6 sigma moves occur on Japanese bonds AND precious metals within days, treat as systemic stress indicator. Japanese bond market sits at the heart of global financing; instability there contracts leverage globally, triggering forced selling on some assets and forced buying of protection on others.
-
-**Pattern Recognition:**
-- Historical 6-sigma events: October 1987 crash (Dow -22% single session), COVID March 2020 (S&P -12%, VIX 80), Swiss franc January 2015 (EUR/CHF peg abandonment), WTI negative April 2020.
-- When a financing pillar becomes unstable, watch for: leverage contraction, precious metals as beneficiaries, cross-asset volatility clustering.
-- Silver's narrow, highly financialized market amplifies position imbalances—extreme moves there indicate major pressure adjustments.
-
-**Strategic Framework:**
-- Two consecutive 6-sigma events = regime cracking. Prepare for brutal adjustments across asset classes.
-- Long-term rates speak to state credibility (ability to honor debts without inflation). Precious metals speak to currency credibility itself.
-- When both become unstable simultaneously: monetary framework is being questioned.
-- Gold and silver signal paradigm shifts before consensus recognizes them.
-
-**Important Notes:**
-- Focus on understanding market structure mechanics, not just price levels.
-- 6-sigma events reveal internal system tensions—leverage, collateral, concentration.
-- Use cluster detection as early warning system for regime change.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182700127.Six Sigma Paradigm Shift
 ## Metadata
 **Source**: Market Analysis Alpha

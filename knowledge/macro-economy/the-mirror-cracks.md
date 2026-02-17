@@ -5,43 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Potential Energy in Capital Markets:** Understanding capital as a dormant resource waiting for the right conditions to activate.
-- **Market Psychology Reflection:** Recognizing how trader sentiment and narratives shape market movements rather than fundamental values.
-- **Liquidity Cycles:** Analyzing the ebb and flow of liquidity to anticipate market trends and shifts.
-- **Open Interest Dynamics:** Evaluating leveraged positions and their implications for market stability and volatility.
-- **Narrative Influence:** Identifying the stories that drive market behavior, particularly in speculative assets like cryptocurrencies.
-
-**Analytical Approach:**
-- Approach macroeconomic topics by framing capital not merely as numerical figures, but as potential energy that can influence market dynamics. Assess the psychological aspects of trading, including the narratives that traders construct around price movements. This requires a blend of quantitative analysis (e.g., open interest metrics) and qualitative insights (e.g., trader sentiment).
-
-**Pattern Recognition:**
-- Look for signals in trading behavior that indicate shifts in market sentiment, such as sudden changes in open interest or volatility spikes. Pay attention to the narrative shifts in discussions among traders and analysts that precede significant price movements. Identify cycles of bullish and bearish sentiments and how they correlate with liquidity conditions and market resets.
-
-**Strategic Framework:**
-- Apply this methodology to current market conditions by continually evaluating the interplay between capital availability and trader psychology. Monitor liquidity flows and the sentiment narratives dominating discussions in financial markets. Utilize insights from past market behaviors to inform future predictions and strategies, especially during periods of heightened volatility or market correction.
-
-**Important Notes:**
-- Emphasize methodologies and frameworks over specific historical data or metrics.
-- Focus on developing a mindset that recognizes the underlying forces affecting market movements.
-- Ensure actionable insights can be applied to current and future market assessments, maintaining a forward-looking perspective.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180599249.The Mirror Cracks
 ## Metadata
 **Source**: Substack Essay

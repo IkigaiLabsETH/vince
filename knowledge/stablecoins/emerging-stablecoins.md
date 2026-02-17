@@ -3,34 +3,6 @@ tags: [stablecoins, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Core Concepts:**
-- New stablecoin entrants differentiate on yield, distribution, or mechanism — pure 1:1 fiat-backed is now table stakes
-- Delta-neutral designs (Ethena USDe) introduce basis trade risk as a novel stability mechanism
-- Distribution moats: PayPal's 400M+ users, Binance's exchange captive demand for FDUSD
-- Yield-bearing stablecoins blur the line between stablecoin and structured product — regulatory risk is the key variable
-
-**Analytical Approach:**
-- Evaluate each entrant on: mechanism soundness, distribution advantage, yield sustainability, regulatory exposure
-- Stress-test mechanisms against historical scenarios: negative funding (USDe), bank run (FDUSD), regulatory crackdown (PYUSD)
-- Assess market cap trajectory and velocity — fast growth often means incentivized/unsustainable demand
-- Compare yield sources: T-bill pass-through (USDM, USD0) vs. basis trade (USDe) vs. no yield (PYUSD, FDUSD)
-
-**Pattern Recognition:**
-- Exchange-native stablecoins (BUSD, FDUSD) have captive demand but regulatory half-life — BUSD was killed by SEC action
-- Yield-bearing stablecoins grow fast during bull markets (basis is positive) but face existential risk during prolonged negative funding
-- TradFi-backed entrants (PayPal) grow slowly in crypto-native contexts but may dominate merchant/payment use cases
-- Protocol-native stablecoins with governance tokens (Usual) face reflexivity risk: token price ↔ TVL feedback loops
-
-**Decision Framework:**
-- For trading: use whatever has deepest liquidity on your venue (FDUSD on Binance, USDC elsewhere)
-- For yield: evaluate source sustainability — T-bill pass-through is safest, basis trade is cyclical
-- For long-term holding: avoid mechanism risk; prefer transparent, audited reserves
-- For DeFi composability: check integration depth — how many lending markets, DEXs, and bridges support it?
-
----
-
 ## PayPal USD (PYUSD)
 
 Launched August 2023, issued by Paxos, fully backed by cash and short-term Treasuries. PYUSD's differentiator isn't mechanism — it's distribution. PayPal's 400M+ user base gives it a fiat on/off-ramp advantage no crypto-native issuer can match. Initially Ethereum-only, it expanded to Solana in mid-2024, where adoption accelerated due to low fees.

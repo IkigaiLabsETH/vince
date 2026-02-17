@@ -5,42 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Historical Halving Cycles:** Understanding the cyclical nature of Bitcoin's price movements post-halving events, which typically involve peaks followed by significant downturns.
-- **Asymmetric Risk-Reward:** Identifying high-risk assets with the potential for substantial upside, particularly in recovery phases after market corrections.
-- **Narrative-Driven Investments:** Focusing on assets that resonate with prevailing market narratives, such as technological innovation and macroeconomic themes, which can drive speculative interest.
-- **Market Sentiment Sensitivity:** Recognizing how cryptocurrencies are influenced by market sentiment and liquidity, often leading to exaggerated price movements during volatility.
-
-**Analytical Approach:**
-- Approach the analysis of crypto markets through a cyclical lens, considering historical patterns to anticipate potential future movements. Focus on sentiment and macroeconomic indicators that may signal shifts in market dynamics. Emphasize the importance of high-conviction plays that, while risky, can yield outsized returns if the underlying narratives remain intact.
-
-**Pattern Recognition:**
-- Look for signals of market exhaustion, such as extreme volatility or sentiment shifts that precede significant downturns. Pay attention to key technical levels (e.g., halving zones) and regulatory developments that might impact crypto assets differently. Additionally, observe the correlation between traditional market cycles and crypto performance, especially during economic slowdowns.
-
-**Strategic Framework:**
-- Apply this framework by developing a watchlist of high-conviction assets that align with current market narratives and possess the potential for recovery post-correction. Utilize tools to monitor liquidity trends and sentiment indicators to time entries strategically. Consider the balance between risk management and potential upside, ensuring a calculated approach to speculative investments.
-
-**Important Notes:**
-- Prioritize understanding methodologies over specific numbers or historical data points.
-- Focus on developing a "how to think" mindset regarding market cycles, sentiment analysis, and asset selection.
-- Ensure the insights are actionable and relevant to navigating current and future market conditions.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181946836.Chasing Shadows
 ## Metadata
 **Source**: Substack Essay

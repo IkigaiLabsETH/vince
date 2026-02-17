@@ -3,35 +3,6 @@ tags: [regulation, compliance, legal]
 agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Key Concepts:**
-- **Jurisdictional clarity:** How to think about SEC vs CFTC, securities vs commodities, and stablecoin/DeFi treatment across jurisdictions (e.g. US, EU MiCA).
-- **Regulatory narrative and sentiment:** How regulatory headlines and timelines affect market narrative and positioning; "sell the news" and delay risk.
-- **Leverage and volatility:** How high leverage amplifies reactions to regulatory news; liquidation cascades and funding.
-- **Institutional adoption:** How regulatory clarity or limbo affects institutional flows (ETFs, custody, compliance).
-
-**Analytical Approach:**
-- Assess **timeline and probability** of key events (markups, votes, implementation) rather than assuming passage or failure.
-- Monitor **stakeholder positions** (exchanges, industry, lawmakers) and companion bills that may change the final shape of regulation.
-- Use **scenario framing** (base / bear / bull) for regulatory outcomes and map to portfolio and positioning impact.
-
-**Pattern Recognition:**
-- Regulatory delay often produces short-term selloffs and narrative reset; passage can produce relief rallies or "sell the news" depending on substance.
-- Jurisdictional arbitrage (e.g. EU MiCA vs US) and self-regulation fill gaps when legislation stalls; document where relevant content lives (macro-economy, substack-essays).
-
-**Important Notes:**
-- Focus on methodology, not specific bill text or current legal advice.
-- Use for "how to think" about regulation and markets; not for legal or compliance decisions.
-
----
-
-> **📌 Knowledge Base Note**
->
-> This content provides **frameworks and methodologies** for thinking about regulation and markets.
-> - **Use for:** Analytical approaches, scenario planning, narrative impact
-> - **Do NOT use for:** Legal advice, current bill status, or compliance decisions
-
 ---
 
 ## Context

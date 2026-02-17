@@ -88,42 +88,6 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **On-Chain Indicators**: Metrics such as addresses in/out/near the money, concentration by large holders, and network growth that provide insights into market health.
-- **Holder Demographics**: Differentiating between retail investors, whales, and institutional players to understand market dynamics.
-- **Signal Detection**: Identifying accumulation and distribution phases, as well as regime shifts, to forecast market trends.
-- **Historical Analog Comparison**: Using past market behaviors as benchmarks to interpret current data.
-
-**Analytical Approach:**
-- Utilize on-chain analytics to assess market sentiment by examining the movement and concentration of Bitcoin addresses. Focus on the percentage of addresses in profit versus loss, and identify shifts in large holders' behavior. This comparative analysis should include historical trends to contextualize current data, allowing for a more nuanced understanding of market cycles.
-
-**Pattern Recognition:**
-- Look for key signals such as high in-the-money percentages indicating strong bullish sentiment, or rising concentration of holdings that may suggest increased risk of market manipulation or sell-off. Monitor net network growth metrics to gauge overall market health and investor confidence.
-
-**Strategic Framework:**
-- Implement a multi-source approach by integrating data from IntoTheBlock with supplementary dashboards like Nansen and Glassnode. This triangulation of data ensures a more comprehensive view of market conditions. Regularly update your analysis based on newly available data and historical benchmarks to adapt strategies in real-time. Use structured output formats to communicate findings succinctly and clearly, ensuring that insights can be easily interpreted and acted upon.
-
-**Important Notes:**
-- Prioritize methodologies that emphasize real-time data analysis and historical context to inform trading strategies.
-- Maintain a focus on actionable insights rather than raw data, translating metrics into strategic decisions for current market conditions.
-- Regularly verify and cross-reference findings with alternative sources to enhance reliability and accuracy of insights.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: intotheblock.com*

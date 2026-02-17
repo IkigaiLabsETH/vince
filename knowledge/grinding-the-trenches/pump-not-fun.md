@@ -5,43 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Cost of Production vs. Cost of Speculation**: Understand the disparity between the low cost of creating assets (memecoins) and the high costs associated with trading them.
-- **Attention as a Scarce Resource**: Recognize that in oversaturated markets, attracting and maintaining attention is crucial for value retention.
-- **Market Dynamics and Structural Contradictions**: Identify underlying contradictions within market structures that can lead to unsustainable ecosystems.
-- **Value Incineration**: Acknowledge how excessive supply can dilute value, resulting in a net loss for participants.
-
-**Analytical Approach:**
-- Analyze market conditions by contrasting the production costs of new assets against the speculative costs incurred by investors. This involves scrutinizing the mechanisms that foster unsustainable growth and eventual collapse, focusing on inherent contradictions and market saturation.
-
-**Pattern Recognition:**
-- Look for signs of overproduction in asset creation, such as rapid increases in the number of tokens or assets entering the market. Monitor trading activity, particularly sudden drops in volume or price, indicating a loss of confidence or liquidity. Pay attention to the ratio of unique wallets making small investments versus those achieving significant returns.
-
-**Strategic Framework:**
-- Apply this methodology to assess current market trends by continuously evaluating the balance between asset creation and market speculation. Prioritize understanding the dynamics of attention in any ecosystem, and develop strategies that account for potential oversaturation. Foster a framework that emphasizes sustainable growth through quality and innovation rather than sheer volume.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180530012.Pump Not Fun
 ## Metadata
 **Source**: Substack Essay

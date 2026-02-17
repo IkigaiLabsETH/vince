@@ -3,28 +3,6 @@ tags: [trading, derivatives, perps]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
-> **📌 Knowledge Base Note**
-> 
-> These documents are optimized for RAG: use for **frameworks and context**, not for current data. Numbers and dates are illustrative—check actions/APIs for live data.
-
-## Methodology & Framework
-
-**Key Concepts:**
-- Passive vault depositors do not have a trading league and have an Extra Yield factor of zero.
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
----
-
 Trading perpetuals isn't a team sport where you must pick sides.
 Yet scroll through Crypto Twitter (CT) for five minutes and you'd think otherwise. The maximalist mindset has consumed most traders, eroding the edge they could have gained from simply being curious.
 Post about trying a new perp DEX and you will be met with replies displaying maximalism rather than curiosity. The irony is that the person being attacked is often just trying to find better options to improve their trading, but in the maximalist mindset, exploration equals betrayal.

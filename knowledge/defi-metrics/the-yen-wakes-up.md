@@ -5,42 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Carry Trade Dynamics:** Understanding the implications of low-interest rates on leveraged investments across asset classes.
-- **Market Sentiment Shifts:** Recognizing how central bank communications can rapidly alter market expectations and behaviors.
-- **Liquidity Events:** Identifying triggers that lead to mass liquidations and the cascading effects on asset prices, particularly in crypto markets.
-- **Macro Economic Interdependence:** Analyzing how changes in one economic region (e.g., Japan) can create ripple effects across global markets.
-
-**Analytical Approach:**
-- Approach the analysis of financial markets by focusing on macroeconomic indicators and their psychological impacts on market participants. Consider how central bank policies can create or deflate bubbles, and evaluate the potential for systemic risk based on leveraged positions in various asset classes. Always ask, "What happens when the environment changes?" to anticipate market reactions.
-
-**Pattern Recognition:**
-- Look for signs of policy shifts, such as interest rate announcements or economic forecasts from central banks. Pay attention to market reactions following these announcements, especially in heavily leveraged sectors. Patterns of liquidations often follow these announcements, particularly when funding currencies strengthen unexpectedly.
-
-**Strategic Framework:**
-- Develop a strategy that incorporates the understanding of macroeconomic shifts into investment decisions. Diversify portfolios to mitigate risks associated with sudden liquidity events. Monitor global economic indicators, particularly interest rates and central bank communications, to gauge potential market shifts. Prepare for volatility by establishing exit strategies or using hedging instruments in high-risk investments.
-
-**Important Notes:**
-- Focus on the methodologies and frameworks that guide the analysis of market dynamics, rather than specific numerical data or historical timelines.
-- Extract actionable insights that emphasize critical thinking about market behavior and risk management strategies.
-- Maintain awareness of the broader economic context and its implications for asset pricing and investor sentiment.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180389731.The Yen Wakes Up
 ## Metadata
 **Source**: Substack Essay

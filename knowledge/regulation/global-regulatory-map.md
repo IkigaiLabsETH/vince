@@ -5,14 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Global Crypto Regulatory Map
 
-## Methodology & Framework
-
-This document classifies major jurisdictions on a spectrum from **hostile** to **friendly** based on four dimensions: (1) regulatory clarity, (2) licensing accessibility, (3) tax treatment, and (4) enforcement posture. Ratings reflect the practical environment for crypto businesses and users, not just stated policy. A jurisdiction can have clear rules and still be hostile (e.g., restrictive clear rules).
-
-**Rating scale:** 🟢 Friendly | 🟡 Neutral/Mixed | 🔴 Hostile/Restrictive
-
----
-
 ## 🇺🇸 United States — 🔴 Hostile (Improving)
 
 The US remains regulation-by-enforcement under multiple competing agencies. The SEC claims most tokens are securities (Howey test), the CFTC claims jurisdiction over crypto commodities (BTC, ETH), and FinCEN handles AML/KYC. The lack of comprehensive federal legislation creates uncertainty.

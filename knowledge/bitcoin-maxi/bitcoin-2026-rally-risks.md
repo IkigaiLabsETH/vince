@@ -4,38 +4,6 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-## Methodology & Framework
-
-**Key Concepts:**
-- Traditional cycle-based timing strategies are obsolete
-- Macro analysis (Fed policy, geopolitics, business cycles) now essential for crypto positioning
-- Leverage trading has become increasingly dangerous due to coordinated liquidation events
-- Focus should shift to major cryptocurrencies (BTC/ETH) rather than altcoin speculation
-- Avoid high-leverage positions during geopolitically volatile periods
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
 # The Death of Bitcoin's 4-Year Cycle: Geopolitics Now Drive Crypto Markets
 
 **Source**: [Bitcoin's 2026 Rally Has One MAJOR Problem! | George Tung](https://www.youtube.com/watch?v=JRrAn6lL9vo) - The Wolf Of All Streets  

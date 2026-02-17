@@ -5,14 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Crypto Tax Frameworks (US Focus)
 
-## Methodology & Framework
-
-This document maps US cryptocurrency taxation across asset types and transaction categories. The IRS treats crypto as property (Notice 2014-21), meaning every disposition is a taxable event. We organize by: (1) clear rules, (2) grey areas with emerging guidance, and (3) unresolved debates. Cross-referenced with IRS guidance, proposed regulations, and practitioner consensus through early 2026.
-
-**Framework: The Disposition Trigger** — Any time you dispose of crypto (sell, trade, spend, gift above limits), you realize gains/losses. The complexity comes from tracking cost basis across thousands of micro-transactions, DeFi interactions, and novel asset types.
-
----
-
 ## Capital Gains: The Baseline
 
 Crypto sold within 1 year: **short-term capital gains** (ordinary income rates, up to 37%). Held over 1 year: **long-term capital gains** (0%, 15%, or 20% depending on income). This is settled law.

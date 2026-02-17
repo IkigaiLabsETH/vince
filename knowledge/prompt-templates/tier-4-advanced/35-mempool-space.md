@@ -86,45 +86,5 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Mempool Dynamics:** Understanding the real-time transaction backlog and fee pressure as indicators of network demand.
-- **Fee Market Signals:** Recognizing how fee levels and trends can reflect user behavior, such as FOMO or panic bidding.
-- **Transaction Prioritization:** Differentiating between low, medium, and high priority transactions based on fee rates and expected confirmation times.
-- **Behavioral Drivers:** Identifying external factors (e.g., Ordinals/Runes activity) that influence transaction dynamics.
-- **Comparison to Norms:** Analyzing current data against historical benchmarks to gauge the market's state.
-
-**Analytical Approach:**
-- Adopt a systematic method for data retrieval from Mempool.space, focusing on real-time metrics to gauge network health. This involves extracting core metrics such as recommended fee rates, mempool size, fee band breakdowns, and recent activity trends. Contextualize these metrics by comparing them against historical data to derive insights about user behavior and transaction urgency.
-
-**Pattern Recognition:**
-- Look for specific signals that indicate shifts in user behavior, such as:
-  - A spike in transaction fees coupled with increased mempool size suggesting market congestion.
-  - Elevated RBF (Replace-by-Fee) activity indicating panic bidding or urgency.
-  - Trends in Ordinals/Runes inscriptions that may impact fee markets or transaction priorities.
-
-**Strategic Framework:**
-- Implement a real-time monitoring system that utilizes Mempool.space data to make informed decisions about transaction timing and strategies. Develop a responsive framework that enables adjustment based on observed fee structures and mempool conditions. Consider both immediate implications for transaction urgency and longer-term behavioral shifts that may affect market dynamics.
-
-**Important Notes:**
-- Emphasize the importance of methodical data analysis over anecdotal evidence.
-- Focus on actionable insights derived from real-time monitoring and historical comparisons.
-- Maintain clarity and precision in the interpretation of data to ensure effective decision-making in the ever-evolving Bitcoin network landscape.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Source: Grok Expert Template #35*  
 *Added: 2026-01-XX*

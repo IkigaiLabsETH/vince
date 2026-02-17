@@ -72,40 +72,6 @@ last_reviewed: 2026-02-15
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Cross-Referencing Historical Data**: Utilize archived analyses to identify patterns and sentiments in Bitcoin's market behavior.
-- **Evidence-Based Summarization**: Extract and summarize key theses from past writings to inform current understanding.
-- **Comparative Analysis**: Compare current market conditions with historical data to assess alignment or divergence in market regimes and sentiments.
-- **Contextual Integration**: Embed findings within a larger knowledge retrieval system to enhance decision-making capabilities.
-
-**Analytical Approach:**
-- Approach Bitcoin analysis by systematically retrieving past insights from reliable sources. Focus on identifying core theses regarding market regimes, sentiment, and price outlooks. This involves careful selection of relevant data, ensuring that the summaries capture the essence of the arguments presented. Emphasize a narrative that evolves with historical context while remaining grounded in evidence.
-
-**Pattern Recognition:**
-- Look for recurring themes in Bitcoin market cycles, such as accumulation phases, sentiment shifts, and the characteristics of bull and bear markets. Identify key phrases or metrics that have historically signified transitions between these states. Pay attention to the frequency and context of these indicators to enhance predictive capabilities for future market behavior.
-
-**Strategic Framework:**
-- Apply this methodology by framing current Bitcoin evaluations within the historical context derived from past analyses. When assessing new data or user queries, utilize the compiled historical insights to draw parallels or highlight discrepancies. This framework allows for a structured approach to understanding market dynamics and making informed predictions. Ensure that all comparisons are evidence-based, and be transparent about any uncertainties or lack of alignment with historical precedents.
-
-**Important Notes:**
-- Prioritize methodological thinking over reliance on specific numerical data or dates, as these may become outdated. Focus on how to utilize historical insights to inform current analyses and decision-making processes. Keep the approach actionable and relevant to ongoing market conditions while remaining concise and clear in communication.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: ikigaistudio.substack.com*

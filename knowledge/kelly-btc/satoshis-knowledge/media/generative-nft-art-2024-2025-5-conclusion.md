@@ -3,31 +3,6 @@ tags: [lifestyle, bitcoin, kelly]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Core Concepts:**
-- Evaluate Bitcoin analysis and investment through structured analytical frameworks
-- Focus on repeatable patterns and decision criteria over historical specifics
-- Apply risk-adjusted thinking to identify opportunities and threats
-
-**Analytical Approach:**
-- Extract timeless principles from market data and qualitative signals
-- Cross-reference multiple data points before forming conclusions
-- Distinguish between cyclical patterns and structural shifts
-
-**Pattern Recognition:**
-- Monitor leading indicators specific to Bitcoin analysis and investment
-- Track sentiment shifts and narrative changes as early signals
-- Identify divergences between price action and fundamental metrics
-
-**Decision Framework:**
-- Define clear entry/exit criteria before acting
-- Size positions relative to conviction and risk tolerance
-- Reassess thesis when key assumptions are invalidated
-
----
-
-
 # Conclusion: Towards a Constructive Critique and Revival
 
 The generative art NFT scene of 2024 is in a far humbler place than in 2021. That humbling, while painful for many, might be the best thing that happened to it. It forced the community to confront hard truths: bigger is not always better, hype fades, and what remains is the art and the people who truly believe in it. From here, the path forward is about resetting and rebuilding with intention. Onboarding must become frictionless, so new blood can rejuvenate the collector base. Curation must separate signal from noise, so that great art isn't lost in the shuffle. Platforms and chains must interconnect, so the community isn't fragmented and isolated. Creators must innovate and experiment, to push past the cookie-cutter outputs and truly wow us again. And all participants need to engage with the wider cultural context, earning respect through substance and dialogue.

@@ -9,32 +9,6 @@ last_reviewed: 2026-02-15
 **Word Count**: 662
 **Tags**: #user-submitted #direct-input #chat #tweet-like
 
-> **📌 Knowledge Base Note**
-> 
-> This document provides a **FRAMEWORK** for evaluating DeFi token valuations. The specific multiplier numbers are from December 2024 and will be outdated.
-> 
-> **For live multipliers, use the CALCULATE_REVENUE_MULTIPLIER action** which combines real-time CoinCap (market cap) + DeFiLlama (revenue) data.
-
-## Methodology & Framework
-
-**Key Concepts:**
-- Understanding the core thesis and its implications
-- Evaluating risk/reward in context of current conditions
-- Applying the framework to your own analysis
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
----
-
 # Revenue Meta Token Valuation Framework: Direct Fee Sharing vs Buyback Models
 
 **Source**: Direct Input - December 2024 (multipliers are illustrative - use CALCULATE_REVENUE_MULTIPLIER for live data)

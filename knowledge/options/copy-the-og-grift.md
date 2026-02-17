@@ -5,45 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Covered Calls:** Understanding the mechanics and implications of selling options on owned assets to generate yield.
-- **Market Dynamics:** The impact of concentrated ownership on price action, particularly in markets with limited liquidity.
-- **Call Walls:** The phenomenon where excessive selling of out-of-the-money calls creates upward pressure on prices, hindering significant market movements.
-- **Diverse Demand:** The contrast between asset ownership structures in Bitcoin, Gold, and equities, influencing market behaviors and reactions.
-
-**Analytical Approach:**
-- **Contextual Analysis:** Assess the broader market influences and ownership distributions that affect asset pricing. Recognize that not just the asset itself, but the trading strategies employed by large holders can significantly impact volatility and price direction.
-- **Behavioral Insights:** Consider the motivations of large holders (e.g., avoiding a price crash) and how these affect market dynamics. Analyze how their actions may lead to emergent patterns that are not immediately visible through traditional metrics.
-
-**Pattern Recognition:**
-- **Identify Call Supply Dynamics:** Monitor open interest in out-of-the-money calls across different assets to detect potential "call walls." A disproportionate amount of call selling might indicate resistance levels for price movements.
-- **Diversity of Ownership:** Evaluate the composition of ownership in various assets. A more diverse ownership structure typically correlates with less price manipulation and steadier upward trends.
-
-**Strategic Framework:**
-- **Risk Management:** Incorporate the understanding of options dynamics in trading strategies. Consider hedging positions when significant call selling is detected to mitigate risks from market stagnation or pullbacks.
-- **Market Entry and Exit Points:** Use the analysis of call walls and diverse demand to identify optimal entry and exit points. Recognize that periods of low volatility may provide opportunities for strategic buying ahead of potential breakouts triggered by shifts in market sentiment or external events.
-
-**Important Notes:**
-- Focus on underlying methodologies rather than specific metrics or time frames.
-- Extract insights on how to approach current market situations using the frameworks discussed.
-- Ensure that the analysis remains actionable and relevant to ongoing market developments.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181498284.Copy The Og Grift
 ## Metadata
 **Source**: Substack Essay

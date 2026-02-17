@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Cross-Chain MEV
 
-## Methodology & Framework
-
-This document examines MEV that spans multiple chains or domains — L1 to L2, L2 to L2, and across independent L1s. The framework treats cross-chain MEV as an inevitable consequence of fragmented liquidity and asynchronous settlement, and evaluates emerging infrastructure (shared sequencers, SUAVE, intent-based systems) designed to manage it.
-
----
-
 ## The Multi-Chain Reality
 
 DeFi liquidity is fragmented across dozens of chains: Ethereum mainnet, Arbitrum, Optimism, Base, Solana, and more. The same asset trades at slightly different prices on each chain. These discrepancies are MEV opportunities — and the searchers exploiting them are becoming the connective tissue of the multi-chain economy.

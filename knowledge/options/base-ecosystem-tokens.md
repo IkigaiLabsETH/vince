@@ -92,42 +92,6 @@ Mamo automates the yield engine on Base. When Base AI/agent narrative rotates in
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Ecosystem Positioning**: Understanding the role and influence of tokens within the broader Base ecosystem.
-- **Volatility Trading**: Utilizing market fluctuations and liquidity levels to devise trading strategies.
-- **Attention Dynamics**: Recognizing how market interest can shift rapidly among different tokens and sectors.
-- **On-chain Activity**: Assessing the impact of user engagement and transaction volume on token performance.
-
-**Analytical Approach:**
-- Approach token evaluation through a multi-faceted lens that combines market metrics, thematic narratives, and community engagement. Emphasize the importance of understanding both macro trends (e.g., Bitcoin cycles, altcoin dominance) and micro factors (individual token performance and on-chain metrics). This comprehensive perspective should guide investment decisions and risk assessments.
-
-**Pattern Recognition:**
-- Look for signals indicating shifts in market attention, such as sudden spikes in trading volume or social media mentions, especially around events or product launches. Additionally, monitor for structural changes in liquidity pools and the emergence of new market narratives, such as AI or creator economies, which can catalyze rapid price movements.
-
-**Strategic Framework:**
-- Develop a dynamic watchlist of tokens based on their positioning within the ecosystem and their responsiveness to market trends. Consider factors such as liquidity, market cap, and community engagement. Use this watchlist to identify entry and exit points for trades, leveraging volatility patterns and thematic shifts. Implement risk management strategies to mitigate exposure, especially in lower-cap tokens that may experience more erratic price movements.
-
-**Important Notes:**
-- Prioritize methodologies over specific data points; the goal is to cultivate a mindset that can adapt to rapidly changing market conditions. 
-- Focus on how to apply these frameworks in real-time market analysis and decision-making processes rather than relying on historical performance metrics. 
-- Keep insights actionable and relevant to current market scenarios to maintain a proactive trading stance.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 ### $ENA (Ethena)
 
 **Profile:** Ethena is a synthetic dollar protocol built on Ethereum, offering a crypto-native yield-generating stablecoin.

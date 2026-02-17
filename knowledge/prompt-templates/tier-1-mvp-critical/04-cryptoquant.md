@@ -103,40 +103,5 @@ Side-by-side metrics for both assets
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **On-Chain Metrics**: The use of blockchain data to analyze the behavior of assets (BTC, ETH, stablecoins) in real-time.
-- **Whale Activity Detection**: Identifying large transactions and their implications on market trends.
-- **Cross-Asset Analysis**: Comparing metrics across different cryptocurrencies to gauge relative strength and trends.
-- **Exchange Dynamics**: Understanding flow metrics such as exchange reserves and netflows to assess market sentiment.
-- **Stablecoin Indicators**: Using stablecoin flows as a proxy for potential buy/sell pressures in the market.
-
-**Analytical Approach:**
-- Adopt a systematic method for gathering and interpreting on-chain data from publicly available sources. Emphasize extracting actionable insights from visible metrics while ignoring inaccessible data. Use a structured framework to evaluate and compare different assets on their respective on-chain indicators, focusing on trends and changes over specified time frames (24h, 7d, 30d).
-
-**Pattern Recognition:**
-- Look for significant shifts in exchange reserves and netflows as indicators of accumulation or distribution. Monitor whale movements, particularly large transactions, as they can signal market sentiment changes. Pay attention to stablecoin reserves as they can indicate potential liquidity and buying power in the market. Note divergences in asset flows, particularly between BTC and ETH, to identify trends or potential reversals.
-
-**Strategic Framework:**
-- Implement a routine to gather on-chain data daily, synthesizing it into a clear snapshot. Use the structured output format to communicate findings effectively, ensuring that the analysis is aligned with the core objectives. Maintain a focus on interpreting the implications of the data collected to inform trading strategies and investment decisions. Leverage insights from whale activity and stablecoin movements to assess market conditions and adjust strategies accordingly.
-
-**Important Notes:**
-- Emphasize methodology over specific metrics to maintain relevance over time. Ensure that the approach remains adaptable to current market conditions by regularly reviewing and updating the data collection and analysis processes. Keep the focus on actionable insights that can inform decision-making in real-time market scenarios.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*

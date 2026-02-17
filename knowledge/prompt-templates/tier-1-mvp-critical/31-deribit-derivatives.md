@@ -95,45 +95,6 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Sentiment Analysis**: Understanding options sentiment, skew, gamma exposure, and funding dynamics as indicators of market behavior.
-- **Volatility Regimes**: Identifying shifts in volatility that signal changes in market sentiment or potential trading opportunities.
-- **Derivatives Metrics**: Utilizing open interest, funding rates, and volume metrics to gauge market activity and sentiment.
-- **Comparative Analysis**: Benchmarking Deribit’s metrics against aggregate market data to assess relative strength and potential divergences.
-
-**Analytical Approach:**
-- Adopt a comprehensive data collection strategy by utilizing multiple sources such as Deribit insights, Coinglass, and relevant market reports. Prioritize the extraction of aggregate derivatives metrics to form a holistic view of market conditions.
-- Implement quantitative analyses, including calculating put/call ratios and skew metrics to identify bullish or bearish trends. Use historical data to contextualize current metrics and detect changes over time.
-
-**Pattern Recognition:**
-- Look for key signals such as elevated put/call ratios indicating bearish sentiment, call dominance suggesting bullish outlooks, and sustained positive funding rates that may point to upward price momentum.
-- Monitor DVOL spikes as indicators of increasing market uncertainty or volatility, which often precede significant price movements.
-
-**Strategic Framework:**
-- Develop a structured reporting template that encapsulates key metrics and trends succinctly, facilitating quick decision-making. This template should highlight critical indicators like options open interest, funding rates, and DVOL changes, allowing traders to assess market sentiment efficiently.
-- Regularly compare Deribit-specific data with aggregate market statistics to identify divergences and opportunities, leveraging Deribit’s market share to inform trading strategies and risk management decisions.
-
-**Important Notes:**
-- Emphasize methodology over specific historical figures to maintain relevance in current market conditions.
-- Focus on actionable insights derived from data analysis, allowing for adaptive strategies in dynamic trading environments.
-- Keep the framework flexible to incorporate new metrics or signals as market conditions evolve.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0 (Variant)*  
 *Last Tested: 2026-01-XX*  
 *Source: insights.deribit.com, deribit.com*  

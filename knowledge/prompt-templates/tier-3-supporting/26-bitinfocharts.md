@@ -90,41 +90,6 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Supply Distribution Analysis**: Understanding how Bitcoin supply is concentrated among holders versus being decentralized.
-- **Network Usage Metrics**: Evaluating transaction fees, mempool size, and confirmation times to gauge network activity.
-- **Wallet Growth Tiers**: Analyzing the growth of wallets across various balance thresholds to infer market sentiment.
-- **Regime Shift Detection**: Identifying phases of accumulation versus distribution to anticipate market trends.
-- **Historical Comparisons**: Leveraging historical data to contextualize current market conditions.
-
-**Analytical Approach:**
-- Employ a systematic method for evaluating on-chain metrics through primary data sources, such as BitInfoCharts. Focus on capturing current metrics while comparing these to historical trends to derive insights into market behavior. Analyze key indicators like average transaction fees and wallet distribution over time to understand broader market dynamics and investor sentiment.
-
-**Pattern Recognition:**
-- Look for signals of concentration and decentralization in wallet holdings, as these can indicate shifts in market power. Monitor spikes in transaction fees or changes in mempool size to assess network congestion, which often correlates with increased retail activity. Recognize patterns in wallet growth across different balance tiers to distinguish between accumulation by new investors versus distribution by whales.
-
-**Strategic Framework:**
-- Develop a framework for interpreting on-chain metrics by categorizing data into key themes: concentration (rich list analysis), wallet growth tiers, and network usage. Use a structured output format to summarize insights and trends, enabling quick comprehension and actionable strategies. This framework can be applied to current market assessments by regularly updating and analyzing these metrics to inform trading or holding decisions.
-
-**Important Notes:**
-- Focus on building a robust analytical foundation based on methodologies rather than specific numerical outcomes. Extract actionable insights that can be applied to current market situations. Maintain a concise presentation of findings to facilitate quick decision-making and strategic planning.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: bitinfocharts.com*

@@ -5,41 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Civilizational Asset:** Understanding Bitcoin as a scarce and incorruptible digital asset that serves as a foundation for financial independence and community empowerment.
-- **Global Community:** Recognizing the importance of building networks of like-minded individuals who support mutual growth and innovation outside traditional employment structures.
-- **Emerging Economic Force:** Assessing how aggregated community influence can shape policies and economic landscapes, transforming collective actions into impactful movements.
-
-**Analytical Approach:**
-- Adopt a **holistic viewpoint** that integrates economic, social, and technological aspects when evaluating Bitcoin and its surrounding ecosystem. Consider Bitcoin not just as a currency but as a tool for civilizational change and community development. Analyze how its properties can be leveraged to create decentralized structures and networks.
-
-**Pattern Recognition:**
-- Look for **signs of community engagement** and alignment among participants in the Bitcoin ecosystem, such as increased collaboration on projects and collective investment initiatives. Identify trends where Bitcoin adoption is leading to shifts in regulatory discussions or economic policies, indicating a growing influence of decentralized finance.
-
-**Strategic Framework:**
-- Apply the **Three Pillars Framework** (Civilizational Asset, Global Community, Emerging Economic Force) to evaluate new projects or proposals within the Bitcoin space. This framework can serve as a lens to assess potential impacts on personal wealth, community dynamics, and overall market influence. When engaging with new initiatives, ask how they contribute to these pillars and whether they enhance the ecosystem's resilience and capacity for growth.
-
-**Important Notes:**
-- Focus on methodologies that enhance understanding of the Bitcoin landscape rather than fixating on historical data points or market prices.
-- Extract actionable insights that can be applied to current and future developments in cryptocurrency and decentralized finance.
-- Maintain a forward-thinking mindset that anticipates shifts in technology and community engagement, recognizing how these elements can converge to create significant societal change.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 179968685.A Deep Dive Into Tbso
 ## Metadata
 **Source**: Substack Essay

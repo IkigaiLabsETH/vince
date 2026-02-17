@@ -91,49 +91,6 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Open Interest (OI)**: A measure of market activity indicating the number of outstanding contracts, serving as a conviction proxy for institutional sentiment.
-- **Basis Dynamics**: The relationship between futures prices and spot prices, indicating market sentiment (contango vs. backwardation).
-- **Commitment of Traders (COT)**: A report detailing net positioning of different trader categories, reflecting institutional sentiment towards Bitcoin futures.
-- **Data Comparison & Historical Analogs**: Analyzing current data against historical trends to assess market conditions and potential futures movements.
-- **Regulated vs. Offshore Markets**: Understanding the implications of trading venues on market behavior and institutional confidence.
-
-**Analytical Approach:**
-- Utilize a structured data extraction process from reliable sources (CME Group, Coinglass) to gather relevant market metrics on Bitcoin futures. 
-- Assess market sentiment by analyzing OI and basis dynamics in conjunction with COT reports, allowing for a comprehensive view of institutional positioning.
-- Frame analysis around recent trends and historical parallels, identifying patterns that guide predictions of market behavior.
-
-**Pattern Recognition:**
-- Look for increasing open interest alongside a positive basis as a bullish signal, indicating strong institutional interest and potential upward price movement.
-- Monitor divergences between CME data and aggregate derivatives to identify shifts in market sentiment that may signal future price volatility.
-- Recognize historical analogs, such as previous bull markets, to contextualize current market conditions and potential future scenarios.
-
-**Strategic Framework:**
-- Apply a systematic approach to data collection and analysis, prioritizing the extraction of OI, volume, and basis information to inform investment strategies.
-- Use insights gained from the data to identify strategic entry or exit points in the market, particularly during periods of significant shifts in institutional sentiment.
-- Regularly update your analysis framework to incorporate new data and evolving market conditions, ensuring adaptability in strategy and decision-making.
-
-**Important Notes:**
-- Emphasize the importance of methodology in interpreting market data rather than focusing solely on specific numbers or historical events.
-- Adopt a proactive mindset that continuously seeks patterns and signals to inform trading decisions.
-- Ensure the framework is actionable, enabling swift responses to market changes while maintaining a clear understanding of underlying principles.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: cmegroup.com*

@@ -5,42 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Custodial Risk:** Understand the implications of holding assets on custodial exchanges, including the risks associated with asset ownership and liquidity management.
-- **Market Dynamics:** Recognize the influence of macroeconomic factors and exchange behaviors on market movements and asset valuations.
-- **On-Chain Analysis:** Use on-chain data to assess exchange activity and potential market manipulation by tracing asset flows and transaction patterns.
-- **Behavioral Economics:** Acknowledge the psychological impact of trading losses and the tendency to attribute blame to external entities such as exchanges.
-
-**Analytical Approach:**
-- Employ a critical lens when analyzing exchange actions and market movements, distinguishing between evidence-based conclusions and emotional reactions. Assess claims of manipulation by verifying them against on-chain data and market trends, while maintaining an objective stance on the motivations behind exchange operations.
-
-**Pattern Recognition:**
-- Identify signs of potential market manipulation by monitoring unusual spikes in asset transfers coinciding with market downturns. Look for patterns in liquidation events, especially in relation to exchange-specific activities and broader macroeconomic triggers. Pay attention to communication from exchanges regarding liquidity operations and investigate discrepancies with market behavior.
-
-**Strategic Framework:**
-- Apply a risk management strategy that incorporates both macro and micro analysis of market conditions. Use insights from historical data to inform trading decisions, focusing on the reliability of custodial practices and the behavior of exchanges during periods of volatility. Develop contingency plans for potential exchange failures, and maintain a diversified portfolio to mitigate systemic risks.
-
-**Important Notes:**
-- Focus on the methodologies and analytical frameworks provided, rather than relying on specific historical data or metrics.
-- Extract actionable insights that can be applied to current and future market conditions.
-- Maintain a concise approach to enhance clarity and utility in decision-making processes.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181805268.Biggest Fish
 ## Metadata
 **Source**: Substack Essay

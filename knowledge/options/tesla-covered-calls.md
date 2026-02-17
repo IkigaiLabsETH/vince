@@ -5,48 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Covered Calls:** A strategy involving owning shares and selling call options to generate income from premiums.
-- **Implied Volatility:** Understanding the significance of volatility in options pricing and its impact on premium potential.
-- **Theta Decay:** The principle of time decay in options trading, crucial for maximizing returns in short-dated options.
-- **Risk-Adjusted Returns:** Evaluating strategies that balance potential returns against inherent risks, particularly in volatile stocks like Tesla.
-
-**Analytical Approach:**
-- Assess the volatility of the underlying asset to determine the viability of options strategies. High implied volatility typically results in richer premiums, making covered calls more attractive.
-- Analyze market catalysts and trends that could affect stock prices and volatility. This involves monitoring developments related to the company’s innovations (e.g., AI advancements, Robotaxi progress) that could sustain or increase volatility.
-- Consider the timing of options (e.g., short-dated vs. long-dated) to optimize for theta decay while managing exposure to larger directional moves.
-
-**Pattern Recognition:**
-- Identify key market indicators that signal when to implement covered call strategies, such as significant price movements, earnings reports, or technological advancements.
-- Look for patterns in implied volatility trends, particularly when it remains consistently high relative to historical levels, indicating potential for higher option premiums.
-- Monitor institutional flows and sentiment around the underlying stock to gauge market confidence and potential price movements.
-
-**Strategic Framework:**
-- When faced with a volatile stock, consider implementing a covered call strategy by first assessing your conviction in the stock’s long-term potential. Use technical analysis to set appropriate strike prices (typically 5-10% above current trading prices) that align with market conditions.
-- Regularly review the market environment and adjust strategies as needed, such as rolling options positions to capture ongoing premium opportunities or shifting strike prices based on market movements.
-- Leverage platforms and tools that facilitate efficient execution of options trades, ensuring that you maintain control over strike selection and risk exposure.
-
-**Important Notes:**
-- Concentrate on methodologies rather than specific metrics; the principles outlined can be applied to various trading situations.
-- Emphasize the "how to think" approach to foster flexibility and adaptability in trading strategies.
-- Aim for concise, actionable insights that can be applied to current market conditions without reliance on historical data.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181729376.Tesla Covered Calls
 ## Metadata
 **Source**: Substack Essay

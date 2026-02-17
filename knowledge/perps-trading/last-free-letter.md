@@ -37,41 +37,6 @@ But the right 150 people might just make it wait.
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Dunbar Number**: The concept of maintaining intimate connections within a limited group, emphasizing the importance of community in decision-making.
-- **Pro-Rata Ownership**: The idea of shared ownership in an asset, aligning interests among members of a small group.
-- **Temperature Check**: A strategic assessment of interest and alignment before moving forward with a project or initiative.
-- **Resonance and Alignment**: The need for shared values and vision among participants to ensure the longevity and success of a collaborative venture.
-
-**Analytical Approach:**
-- Assess potential collaborations by gauging the degree of alignment among participants. Consider how shared values and goals (resonance) can influence the stability and success of a collective effort. Evaluate the implications of group dynamics on decision-making processes and ownership structures.
-
-**Pattern Recognition:**
-- Look for signs of community engagement and interest in collaborative ventures, especially in niche markets or emerging areas like tokenized real estate. Identify shifts in participant enthusiasm or hesitation, as these can indicate the readiness of a group to commit to shared ownership or investment projects.
-
-**Strategic Framework:**
-- When considering new initiatives, use the Dunbar Number as a guideline for group size to foster meaningful connections. Conduct periodic temperature checks to assess interest and alignment before advancing projects. Implement a pro-rata ownership model to ensure equitable participation and vested interest among members. This approach can be particularly useful in decentralized finance (DeFi) or community-driven real estate projects.
-
-**Important Notes:**
-- Focus on methodologies that emphasize group dynamics, ownership models, and the importance of community alignment. 
-- Extract insights into how to assess and engage with potential collaborators, rather than fixating on specific historical data or numerical metrics.
-- Make your analysis actionable by applying these concepts to current or emerging opportunities in collaborative ventures and investment strategies.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 Maybe There Is No Gate After All**
 > 
 I might just delete the Fairmint deploy tomorrow and let the Pavones beachfront stay forever un-tokenized. The $5k we burned on that account will officially become the most expensive “what if” in my Notion graveyard. And yet we remain hardcore, almost religious RWA perma-bulls. Tokenized real estate has been our single biggest aha moment since the summer of 2016, when we first saw the light: land on-chain, ownership liquid, friction gone, borders meaningless. We still believe that future is inevitable. Just not, for this particular stretch of jungle and perfect lefts. Some things are worth more when they stay impossible to slice.

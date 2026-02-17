@@ -5,41 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Momentum Trading:** Understanding the psychological aspects of entering trades during high-volatility situations.
-- **Narrative Analysis:** Evaluating the impact of news and market sentiment on asset pricing, especially in the context of disruptive innovations.
-- **Technical Indicators:** Using chart patterns, RSI equivalents, and liquidity metrics to gauge market conditions.
-- **Risk Management:** Implementing strict stop-loss and position sizing strategies to mitigate losses.
-- **Market Reaction Time:** Recognizing the speed at which information influences trading decisions in a 24/7 trading environment.
-
-**Analytical Approach:**
-- Approach trading as a psychological game where understanding market sentiment and crowd behavior is crucial. Assess not only the numbers on the screen but also the underlying narratives driving those numbers. Focus on how news impacts momentum and the potential for price swings when sentiment shifts. 
-
-**Pattern Recognition:**
-- Look for signs of overbought or oversold conditions based on momentum indicators while being cautious of narrative-driven price movements. Identify areas of support and resistance, particularly around psychological price levels (e.g., round numbers). Pay attention to liquidity depth in the order book to gauge market stability and potential volatility during entry and exit points.
-
-**Strategic Framework:**
-- Apply a conservative trading strategy where leverage is controlled (3-5x maximum) and account risk is limited to 1-2% per trade. Use a tiered take-profit strategy to secure profits at key psychological levels while allowing room for further gains. Establish stop-loss orders based on recent market swing lows to protect against sharp reversals, ensuring that the strategy is adaptable to changing market conditions.
-
-**Important Notes:**
-- Focus on the methodology rather than specific historical data or numbers. Extract the "how to think" approach to trading and apply it to current market situations. Remain adaptable and use both psychological insights and technical analysis to inform trading decisions. Keep this framework actionable and relevant to real-time trading scenarios.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181889358.The Mental Grind
 ## Metadata
 **Source**: Substack Essay

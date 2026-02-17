@@ -5,43 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Citizen Journalism vs. Legacy Media:** Understanding the dynamics between independent creators and traditional news organizations.
-- **Editorial Priorities and Constraints:** Analyzing how institutional factors shape news coverage and response.
-- **Digital Regulation and its Impacts:** Exploring the implications of policies like the Digital Services Act on media narratives.
-- **Crisis Response and Information Flow:** Examining how information dissemination shifts during crises and the role of alternative media.
-
-**Analytical Approach:**
-- Adopt a comparative analysis mindset when evaluating the response of different media types to significant events. Focus on identifying the motivations and constraints that influence editorial decisions in legacy media versus the agility of citizen journalism. This involves assessing not only the content created but also the contextual factors that dictate its visibility and impact.
-
-**Pattern Recognition:**
-- Look for instances where traditional media is slow to respond or avoids covering controversial topics, and compare these with the emergence of citizen-led narratives. Signals of a widening gap may include rising engagement metrics for independent content or the absence of coverage from established outlets in times of crisis. Additionally, monitor regulatory changes that could influence the operational landscape of both media types.
-
-**Strategic Framework:**
-- In current situations, apply a dual-lens approach: evaluate both traditional and non-traditional media sources for a holistic understanding of the narrative landscape. Recognize the potential for citizen journalism to fill gaps left by legacy media and consider the implications of digital regulations on speech and information flow. When developing communication strategies or policies, consider how to leverage the strengths of both media types to foster a more informed public discourse.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 In late 2025, a single video—produced by an independent creator with little more than a camera and persistence—ignited a firestorm in the United States. The 43-minute exposé documented alleged systemic abuses in a state’s social welfare programs, visiting sites on the ground and presenting evidence that quickly went viral. Within weeks, it spurred federal investigations, funding suspensions, and high-level White House statements. In America, the story fractured along familiar political lines, dominating airwaves and feeds alike.
 
 

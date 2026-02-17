@@ -5,47 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Emotional Market Cycles:** Understanding the psychological phases of market trends (optimism, euphoria, panic).
-- **Leverage and Risk Management:** The implications of using leverage in trading and the necessity of managing exposure based on market conditions.
-- **Long-term vs. Short-term Thinking:** Evaluating the tension between long-term investment strategies and short-term market fluctuations.
-- **Tax Considerations in Trading:** Recognizing how tax implications can influence trading decisions and strategies.
-
-**Analytical Approach:**
-- Adopt a critical mindset when analyzing market trends and narratives. Be wary of emotional biases that can cloud judgment, particularly during periods of market exuberance. Instead of following the crowd, focus on personal thresholds for risk and return.
-- Develop a disciplined approach to portfolio management, ensuring that decisions are based on objective analysis rather than market hype. Regularly reassess positions in light of changing market conditions.
-
-**Pattern Recognition:**
-- Look for signs of market sentiment shifts, such as extreme price movements, social media sentiment, and trading volume spikes. These can indicate potential reversals or continuations in market trends.
-- Pay attention to the divergence between market fundamentals and price action. A growing disconnect might signal overvaluation or the potential for a market correction.
-
-**Strategic Framework:**
-- Implement a systematic approach to trading that incorporates predefined entry and exit strategies based on risk-reward assessments. 
-- Use a tiered investment strategy that allows for diversification while maintaining liquidity to absorb potential losses.
-- Cultivate a habit of documenting trading decisions and outcomes to build a personal knowledge base, enabling better decision-making in future market engagements.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 179511300.The Long Winter We Didnt See Coming
 ## Metadata
 **Source**: Substack Essay

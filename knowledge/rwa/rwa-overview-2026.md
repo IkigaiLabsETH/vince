@@ -3,27 +3,6 @@ tags: [rwa, tokenization, institutional]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Core Concepts:**
-- **RWA tokenization** refers to representing ownership of off-chain assets (Treasuries, credit, real estate, commodities) as on-chain tokens with enforceable claims on the underlying.
-- **Market structure** is driven by institutional demand for yield, regulatory clarity, and blockchain infrastructure maturity.
-- **Chain selection** reflects trade-offs between institutional trust (Ethereum), cost (Stellar, Solana), and composability (DeFi integrations).
-
-**Analytical Approach:**
-- Track total tokenized value across asset classes separately—Treasuries, private credit, real estate, commodities have different dynamics.
-- Distinguish between **permissioned** (KYC-gated) and **permissionless** (freely transferable) tokenized products—they serve different markets.
-- Evaluate growth by **net new issuance**, not just price appreciation of underlying assets.
-
-**Pattern Recognition:**
-- Institutional adoption follows a pattern: Treasuries first (low risk, clear legal structure), then credit, then equities and alternatives.
-- Chain dominance shifts as fee structures and institutional tooling evolve; Ethereum dominates by AUM, but multi-chain deployment is standard.
-
-**Decision Framework:**
-- When assessing RWA market state: total AUM → growth rate → asset class breakdown → chain distribution → institutional participant quality.
-
----
-
 ## State of RWA Tokenization (February 2026)
 
 The tokenized RWA market has crossed **$15B+ in on-chain value** (excluding stablecoins), up from ~$5B in early 2024. Growth has been driven primarily by tokenized U.S. Treasuries, which represent the largest single category at over **$10B AUM** across 30+ products.
@@ -45,10 +24,5 @@ The tokenized RWA market has crossed **$15B+ in on-chain value** (excluding stab
 **What this means:** RWA tokenization has moved from experiment to institutional infrastructure. The question is no longer "will it happen" but "how fast does it scale beyond Treasuries into credit, equities, and alternatives."
 
 ---
-
-> **📌 Knowledge Base Note**
-> This content provides a **structural overview** of the RWA market.
-> - **Use for:** Market context, trend analysis, institutional landscape
-> - **Do NOT use for:** Exact current AUM figures (use actions/APIs for live data)
 
 *Last updated: 2026-02-15*

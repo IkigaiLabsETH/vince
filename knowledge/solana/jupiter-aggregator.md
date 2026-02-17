@@ -5,18 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Jupiter: Solana's Aggregation Super-App
 
-## Methodology & Framework
-
-**Core Concepts:** Jupiter began as a DEX aggregator — finding optimal swap routes across Solana's liquidity venues — and evolved into a DeFi super-app encompassing limit orders, DCA, perpetual futures, a token launchpad, and an expanding product suite. Its dominance stems from controlling the swap routing layer, the most critical chokepoint in DeFi user flow.
-
-**Analytical Approach:** Assess Jupiter through: (1) market share of Solana DEX routing (moat strength), (2) revenue per product vertical, (3) JUP token value accrual and governance utility, (4) competitive threats from alternative aggregators or protocol-native routing, (5) platform risk — can Jupiter maintain dominance as Solana's frontend?
-
-**Pattern Recognition:** Aggregators that capture the user interface tend to accrue more value than underlying liquidity protocols (1inch vs Uniswap is the cautionary Ethereum tale, though Uniswap's direct traffic proved resilient). Jupiter has avoided 1inch's fate by expanding vertically rather than remaining a pure router. The "super-app" strategy mirrors successful Web2 platforms (WeChat, Grab) — own the user relationship, then expand surface area.
-
-**Decision Framework:** Jupiter's position is strong when: (1) aggregated routing provides measurably better execution than direct DEX access, (2) new products (perps, launchpad) generate independent demand, (3) JUP governance creates community lock-in, (4) integration density (wallets, bots, protocols using Jupiter SDK) raises switching costs.
-
----
-
 ## Product Suite
 
 ### Swap Aggregation (Core)

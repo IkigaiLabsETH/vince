@@ -4,38 +4,6 @@ agents: [echo, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-## Methodology & Framework
-
-**Key Concepts:**
-- 0:00 - Intro
-- 1:12 - Ethereum & Solana duopoly analysis
-- 7:33 - Why Solana is winning consumer crypto
-- 9:27 - L1 valuations and network effects
-- 13:13 - Coinbase & Robinhood competition
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
 # The Duopolies of 2026: Ethereum & Solana, Coinbase & Robinhood, Polymarket & Kalshi
 
 **Source**: [Bankless - The Duopolies of 2026](https://www.youtube.com/watch?v=bsQndyqlj0Q) | Duration: 1:02:55

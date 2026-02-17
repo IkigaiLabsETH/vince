@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Stacks & BitVM
 
-## Methodology & Framework
-
-Evaluation across three axes: **BTC alignment** (how deeply the protocol inherits Bitcoin's security), **trust assumptions** (who can steal/censor), and **developer traction** (TVL, apps, ecosystem momentum). These two projects represent complementary approaches — Stacks adds execution, BitVM adds verification — and together they could form the backbone of BTC-native DeFi.
-
----
-
 ## Stacks
 
 ### Architecture

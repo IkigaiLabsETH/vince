@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Scarcity vs. Abundance**: Understanding the impact of money that is artificially abundant versus those that are inherently scarce, like gold and Bitcoin.
-- **Monetary Policy Dynamics**: Examining how central banks' decisions to create money affect wealth distribution and economic stability.
-- **Long-term vs. Short-term Investment**: Analyzing the shift in investment strategies due to inflationary pressures and monetary policy.
-- **Digital Scarcity**: Recognizing Bitcoin as a form of money with fixed supply, contrasting with traditional fiat currencies.
-- **Systemic Incentives**: Identifying how current economic systems reward certain behaviors (e.g., leverage and borrowing) while penalizing others (e.g., saving).
-
-**Analytical Approach:**
-- Think critically about the underlying mechanics of monetary systems, focusing on the implications of policy decisions rather than surface-level economic indicators. Ask how changes in monetary policy affect long-term societal behavior and investment patterns. Use a historical lens to evaluate the consequences of abandoning physical scarcity.
-
-**Pattern Recognition:**
-- Look for signals of wealth transfer mechanisms, such as rising asset prices that outpace inflation or stagnant wages amid monetary expansion. Monitor changes in legislation related to money creation, debt levels, and investment trends, especially in sectors reliant on borrowing (e.g., real estate, education).
-
-**Strategic Framework:**
-- Apply this thinking by evaluating investments through the lens of monetary policy. Consider how assets respond to inflation and the potential for long-term value preservation in a world of depreciating currencies. Assess the strategic importance of decentralized assets like Bitcoin as a hedge against inflation and state control, and consider their implications in a geopolitical context.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 179745394.The Deleted Line Of Code
 ## Metadata
 **Source**: Substack Essay

@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Carry Trade Dynamics:** Understanding the mechanics of borrowing in a low-interest currency and investing in higher-yield assets.
-- **Market Sentiment and Liquidity Cycles:** Recognizing how shifts in central bank policies influence market behavior and risk appetite.
-- **Deleveraging Pressure:** Identifying the signs of forced selling and margin calls that signal a broader market correction.
-- **Risk Asset Correlation:** Analyzing how various asset classes respond in tandem during market stress, particularly in relation to cryptocurrencies.
-
-**Analytical Approach:**
-- Employ a **macro-to-micro perspective**: Start with broad economic indicators and central bank policies to gauge market sentiment before drilling down into specific asset classes. 
-- Use **historical context** to inform current market dynamics, recognizing that past behavior can provide insight into potential future reactions, especially in cyclical patterns like the carry trade.
-
-**Pattern Recognition:**
-- Monitor key signals such as **interest rate changes** from major central banks, shifts in currency strength (especially the Japanese yen), and changes in **volatility indexes** (like the VIX).
-- Watch for **liquidation clusters** in leveraged positions, particularly in high-risk assets like cryptocurrencies, as they often precede larger market moves.
-
-**Strategic Framework:**
-- Develop scenarios based on potential central bank actions and their historical impacts on markets; assess the implications for various asset classes, particularly in risk-on/risk-off environments.
-- Incorporate stress-testing of investment portfolios under different macroeconomic conditions to prepare for potential deleveraging events.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180447009.Pure Cinema
 ## Metadata
 **Source**: Substack Essay

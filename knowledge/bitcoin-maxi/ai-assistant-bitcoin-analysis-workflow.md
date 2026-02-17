@@ -9,32 +9,6 @@ last_reviewed: 2026-02-15
 **Word Count**: 1071
 **Tags**: #user-submitted #direct-input #chat #tweet-like
 
-> **📌 Knowledge Base Note**
-> 
-> These documents are optimized for RAG: use for **frameworks and context**, not for current data. Numbers and dates are illustrative—check actions/APIs for live data.
-
-## Methodology & Framework
-
-**Key Concepts:**
-- Mac Mini, Linux box, or any always-on machine
-- Bitcoin Core installation capability
-- Node.js environment for Clawdbot
-- AI API key access
-- Basic understanding of Bitcoin wallet operations
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
----
-
 # Setting Up Bitcoin-Maximalist AI Agents on Moltbook
 
 ## Overview

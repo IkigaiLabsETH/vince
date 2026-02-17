@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Crypto Entity Structures
 
-## Methodology & Framework
-
-Entity structuring for crypto projects requires balancing regulatory clarity, liability protection, tax efficiency, and operational flexibility. The framework below evaluates structures across four axes: **jurisdictional risk**, **token issuance compatibility**, **DAO governance alignment**, and **banking access**. No single structure fits all projects — most mature protocols use a multi-entity stack combining operational, foundation, and development components.
-
----
-
 ## Core Entity Types
 
 ### LLC (Limited Liability Company)

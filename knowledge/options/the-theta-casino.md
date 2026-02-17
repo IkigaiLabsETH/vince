@@ -5,45 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Covered Calls and Puts:** Utilizing options strategies to generate income while managing risk.
-- **Delta-Neutral Strategies:** Maintaining a position that seeks to avoid risk from price movements by balancing long and short positions.
-- **Theta Decay and Implied Volatility (IV):** Understanding how time decay of options and fluctuations in IV can be leveraged for consistent premium collection.
-- **Risk Management through Collateralization:** Employing collateral to back options positions, thus enabling sustainable trading without excessive leverage.
-
-**Analytical Approach:**
-- Think like a "premium maxi" rather than a price-focused trader. Focus on the income generated from options premiums rather than the underlying asset's spot price. This mindset shift allows for a more systematic and less emotionally driven trading strategy.
-- Analyze market conditions to determine optimal strike prices for calls and puts, typically positioned 5-7% out-of-the-money (OTM) to maximize the likelihood of profitable outcomes while minimizing risk exposure.
-
-**Pattern Recognition:**
-- Look for signs of high implied volatility (IV), which can indicate potential for significant premium collection. Recognize that periods of market fear or uncertainty (e.g., substantial price dips) often present opportunities for selling options.
-- Identify recurring market behaviors around major events (e.g., token unlocks) and how they influence trader psychology, using this knowledge to inform timing and strategy.
-
-**Strategic Framework:**
-- Implement a weekly routine of selling covered calls and secured puts on assets with high IV, allowing you to capitalize on theta decay. This approach creates a stable income stream while keeping risk manageable.
-- Continuously assess the performance of your positions, adjusting strategies as needed based on market developments and personal risk tolerance. Embrace the concept of "set-it-and-forget-it" to avoid overtrading and maintain a disciplined approach.
-
-**Important Notes:**
-- Focus on the methodologies outlined rather than specific historical data or prices.
-- Apply these frameworks to current and future trading situations, ensuring flexibility and adaptability to changing market conditions.
-- Maintain a strategic mindset that prioritizes income generation through options over speculative trading.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180012109.The Theta Casino
 ## Metadata
 **Source**: Substack Essay

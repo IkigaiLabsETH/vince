@@ -5,48 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Wheel Strategy**: A systematic approach combining covered calls and naked puts to generate income from high-volatility crypto assets.
-- **Asymmetric Capital Efficiency**: Leveraging high implied volatility (IV) in crypto for substantial yield without needing significant capital.
-- **Risk-Reward Optimization**: Balancing potential drawdowns against premium income to enhance overall portfolio returns.
-- **Market Sentiment Analysis**: Monitoring underlying asset fundamentals to inform trading decisions and re-entry points.
-
-**Analytical Approach:**
-- **Contextual Evaluation**: Assess the broader market conditions and fundamentals of the asset (e.g., $HYPE) before positioning. Look for indicators of strength or weakness.
-- **Scenario Planning**: Develop various drawdown scenarios and their potential impact on your positions. This includes understanding how external factors (market trends, protocol developments) could affect performance.
-- **Dynamic Adjustment**: Be prepared to revise strategies based on market movements and asset performance. Utilize a flexible mindset to roll positions and adjust strike prices in response to changing volatility.
-
-**Pattern Recognition:**
-- **Volatility Clusters**: Identify periods of heightened volatility that offer favorable premium yields. Look for historical price patterns that coincide with these clusters.
-- **Fundamental Resilience Signals**: Monitor specific metrics indicating the strength of the underlying protocol during downturns. Key metrics may include transaction volume, protocol upgrades, and community engagement.
-- **Support and Resistance Levels**: Analyze price charts to determine key support and resistance areas that may signal entry or exit points for trades.
-
-**Strategic Framework:**
-- **Incremental Position Building**: Start with a core position and gradually increase exposure based on market conditions and premium opportunities. This approach minimizes risk while maximizing the potential for returns.
-- **Yield Maximization Techniques**: Continuously seek out higher-yielding options and strike prices, adjusting positions as necessary to capture premium income effectively. Prioritize opportunities that provide substantial risk coverage.
-- **Long-Term Thesis Commitment**: Maintain conviction in the fundamental value of the asset while pragmatically adjusting strategies in response to market dynamics. This involves holding a long-term perspective while being agile in execution.
-
-**Important Notes:**
-- Focus on the methodology for strategic trading, not specific numerical examples or historical events.
-- Extract overarching principles and analytical frameworks to apply to current and future market conditions.
-- Aim for actionable insights that can guide decision-making in volatile environments.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # $HYPE Wheel Strategy: From Tradfi Wisdom to Crypto Reality
 
 ## Overview

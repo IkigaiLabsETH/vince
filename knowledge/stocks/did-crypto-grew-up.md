@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Valuation Discrepancies:** Understanding the divide between market price and fundamental business performance, particularly in speculative markets like crypto.
-- **Emotional Arc of Manias:** Recognizing the psychological patterns that drive market behavior through historical analogies.
-- **Revenue-Centric Analysis:** Prioritizing revenue-generating capabilities over speculative narratives when evaluating assets.
-- **Market Corrections:** Identifying triggers (economic events) that precipitate market corrections and the recalibration of valuations.
-- **Narrative vs. Fundamentals:** Distinguishing between the story driving prices and the underlying financial health of an asset.
-
-**Analytical Approach:**
-- Evaluate investments by assessing the strength of their underlying revenue models rather than getting swayed by market hype or speculative narratives. Focus on how businesses generate cash flow and the sustainability of their operations. This involves a critical analysis of financial statements and revenue projections, especially in contrast to market sentiment.
-
-**Pattern Recognition:**
-- Look for signs of irrational exuberance, such as extreme valuation multiples relative to revenue or profits, and a disconnect between market enthusiasm and actual business performance. Historical patterns suggest that periods of rapid price appreciation often precede significant corrections. Monitoring social media sentiment and market discussions can provide insight into prevailing narratives that may not align with fundamentals.
-
-**Strategic Framework:**
-- When approaching investment decisions, implement a dual-lens strategy: one focusing on revenue generation and growth potential, and the other on prevailing market narratives. Create a checklist for evaluating assets that includes metrics like price-to-revenue ratios, market sentiment analysis, and historical precedents of similar market conditions. Prepare to pivot your strategy in response to macroeconomic signals (e.g., interest rate changes, economic downturns) that could catalyze a market correction.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach rather than relying on historical data.
-- Ensure that the insights are actionable and applicable to current market situations.
-- Maintain conciseness to aid in quick understanding and application.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180549862.Did Crypto Grew Up
 ## Metadata
 **Source**: Substack Essay

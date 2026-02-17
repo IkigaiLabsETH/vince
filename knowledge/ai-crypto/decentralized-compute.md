@@ -5,33 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Decentralized Compute Networks
 
-## Methodology & Framework
-
-### Core Concepts
-- **GPU marketplaces**: Two-sided markets matching GPU supply (miners, data centers, consumers) with AI/rendering demand via token incentives
-- **Render Network (RNDR)**: Decentralized GPU rendering — originally for 3D/VFX, expanding to AI inference. Node operators provide GPUs, get paid in RNDR
-- **Akash Network (AKT)**: Decentralized cloud compute — a "supercloud" marketplace for deploying containers on underutilized servers. Reverse auction pricing
-- **io.net (IO)**: Aggregates GPUs from data centers, miners, and consumers into clusters for AI/ML workloads. Focuses on making distributed GPUs work as unified clusters
-- **Gensyn**: Decentralized ML training verification — ensures distributed training produces correct results via probabilistic proofs
-- **Bittensor (TAO)**: Incentive network for AI models — subnets compete to produce intelligence, validators score outputs, miners earn TAO for quality responses
-
-### Analytical Approach
-Evaluate compute networks on: (1) actual GPU utilization rates vs total registered supply, (2) revenue in USD not just token emissions, (3) cost competitiveness vs AWS/GCP, (4) technical ability to handle real AI workloads (not just benchmarks). Most networks have massive registered supply but single-digit utilization.
-
-### Pattern Recognition
-- Supply-side is easy to bootstrap (token incentives attract GPUs); demand-side is hard (enterprises want reliability)
-- Rendering workloads adopted first (embarrassingly parallel); training workloads remain centralized
-- Inference is the sweet spot: latency-tolerant, parallelizable, growing exponentially
-- Token price often inversely correlates with actual utility — high emissions subsidize cheap compute
-
-### Decision Framework
-1. GPU utilization rate: what % of registered compute is actually earning fees?
-2. Revenue per token emitted: is the network paying more in incentives than it earns in fees?
-3. Demand source: real enterprises or just crypto-native degen workloads?
-4. Technical moat: can this network handle workloads that centralized clouds can't or won't?
-
----
-
 ## Render Network (RNDR/RENDER)
 
 Render started as decentralized GPU rendering for 3D artists and studios — a real use case with paying customers before crypto was involved. Artists submit render jobs, node operators process them on consumer/professional GPUs, payment settles in RENDER tokens.

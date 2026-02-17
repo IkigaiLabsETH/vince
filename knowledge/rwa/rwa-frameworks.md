@@ -3,29 +3,6 @@ tags: [rwa, tokenization, institutional]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Key Concepts:**
-- **RWA as asset class:** How to think about tokenized real-world assets—real estate, Treasuries, credit, commodities—and their cashflow, legal structure, and on/off-chain settlement.
-- **Legal and regulatory:** Custody, ownership, and enforceability vary by jurisdiction; regulation (e.g. US stablecoin and RWA bills) may constrain design and issuance.
-- **Yield and risk:** RWA yield often reflects underlying asset and structure (e.g. short-dated Treasuries vs illiquid real estate); map to risk and liquidity framework.
-
-**Analytical Approach:**
-- For any RWA product: identify **underlying asset**, **legal and custody structure**, and **cashflow and redemption** mechanics.
-- Use **regulatory frameworks** (see regulation knowledge) for policy constraints on RWA and stablecoins.
-- Map **yield and liquidity** to underlying asset type and structure; use for methodology, not for current APY or TVL (use actions/APIs).
-
-**Important Notes:**
-- Focus on methodology; use actions/APIs for current RWA TVL, yield, or product lists.
-
----
-
-> **📌 Knowledge Base Note**
->
-> This content provides **frameworks** for thinking about RWA tokenization.
-> - **Use for:** Asset-class comparison, legal and yield framework
-> - **Do NOT use for:** Current RWA TVL, APY, or product data (use actions/APIs)
-
 ---
 
 ## Context

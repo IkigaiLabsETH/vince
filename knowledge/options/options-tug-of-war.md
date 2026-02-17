@@ -251,38 +251,6 @@ If BTC moons, lose only the premium – cheap cost for peace of mind.
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Delta and Vega**: Understanding these two key options metrics is crucial for analyzing price dynamics. Delta measures directional exposure, while Vega gauges sensitivity to volatility.
-- **Covered Call Selling**: The practice of selling call options against existing holdings to generate income while mitigating risk, particularly prevalent among Bitcoin whales.
-- **Dealer Hedging**: Recognizing how market makers adjust their positions in response to massive call selling and how this influences market volatility and price action.
-
-**Analytical Approach:**
-- Adopt a dual-layer analysis: first, evaluate the immediate effects of delta and vega on market conditions, and second, assess the long-term implications of these derivatives strategies on price movements. This involves monitoring the interplay between call selling by whales and dealer hedging practices to understand their cumulative effect on Bitcoin’s market behavior.
-
-**Pattern Recognition:**
-- Look for signs of heavy covered call selling, especially during periods of low volatility, as this may indicate suppressed price movement and the potential for sudden shifts. Additionally, monitor changes in implied volatility (IV) for signals on future price swings; a downward trend in IV suggests a stable market environment that may lead to prolonged consolidation.
-
-**Strategic Framework:**
-- Apply a comparative analysis of different trading venues (e.g., Deribit vs. IBIT) to evaluate how the distinct participant profiles (OGs vs. institutional investors) shape market dynamics. Utilize this insight to inform trading strategies—consider positioning for potential breakouts or retracements based on shifts in delta demand and gamma exposure. 
-
-**Important Notes:**
-- This methodology emphasizes a holistic understanding of options mechanics and market psychology rather than focusing on specific historical data points or outcomes. By mastering these frameworks, traders can better navigate the complexities of the options market and optimize their strategies in real-time.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 Update: The feedback we received from a fellow trader is spot-on and captures the core idea of our article perfectly. It’s praising our explanation of how options dealers’ hedging (especially in crypto on platforms like Deribit) has become a dominant force in driving price action, often overriding fundamentals like news or ETF flows. Let me break down the key parts of his comment step by step.
 
 1. Overall Agreement: Structural Positioning > Fundamentals

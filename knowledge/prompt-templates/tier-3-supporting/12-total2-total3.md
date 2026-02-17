@@ -74,43 +74,6 @@ If any sharp anomalies, breakouts, or divergences appear:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Cap Calculations**: Understanding TOTAL2 and TOTAL3 to assess market segments excluding major cryptocurrencies (BTC and ETH).
-- **BTC Dominance Measurement**: The significance of BTC dominance as an indicator of market trends and liquidity shifts.
-- **Historical Trend Analysis**: Sampling and analyzing historical data for insights into market cycles and performance patterns.
-- **Liquidity Rotation**: Identifying shifts between BTC and altcoins as a sign of market sentiment and potential altseason signals.
-- **Data Integrity and Accuracy**: Emphasizing the importance of accurate data collection and reporting to inform analysis.
-
-**Analytical Approach:**
-- Approach the crypto market by dissecting total market capitalization into its components (BTC, ETH, and altcoins) to derive insights on market dynamics. Use APIs for accurate, real-time data collection while ensuring the reliability of historical data for trend analysis. Focus on how changes in BTC dominance can indicate broader market behavior, such as liquidity absorption by BTC or potential shifts to altcoins.
-
-**Pattern Recognition:**
-- Look for trends in BTC dominance alongside fluctuations in TOTAL2 and TOTAL3. Key signals include rising BTC dominance potentially indicating a liquidity squeeze on altcoins, while declining dominance could suggest a rotation towards altcoins. Historical comparisons, such as those from previous market cycles (e.g., 2017 and 2021), can provide context for current trends.
-
-**Strategic Framework:**
-- Apply this analytical framework to current market conditions by continuously monitoring BTC dominance and market cap metrics. Use historical data to forecast potential market movements and adjust strategies accordingly. For instance, a rising BTC dominance might suggest a conservative approach, while a decline could prompt a focus on altcoin investment opportunities. Incorporate these insights into trading strategies and decision-making processes to enhance market engagement.
-
-**Important Notes:**
-- Prioritize methodology over specific data points or dates, focusing on the "how to think" aspect of market analysis.
-- Ensure that insights derived can be actionable and relevant to ongoing market conditions, adapting as necessary to current dynamics.
-- Maintain clarity and precision in data reporting and analysis to support informed decision-making.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: CoinGecko API*

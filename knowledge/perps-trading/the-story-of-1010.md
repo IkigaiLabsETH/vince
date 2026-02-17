@@ -5,48 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Liquidation Events:** Understanding the mechanics and implications of massive liquidations in perpetual futures and their triggers.
-- **Market Sentiment:** Analyzing how external news and events (e.g., political announcements) can rapidly shift market dynamics and investor behavior.
-- **Leverage Ratios:** Recognizing the impact of high leverage on market volatility, particularly during periods of low liquidity.
-- **Narrative Formation:** The process through which market narratives emerge post-event and how they can obscure the actual causes of market movements.
-
-**Analytical Approach:**
-- Adopt a **cause-and-effect lens**: Examine how specific events (like announcements) lead to cascading effects in the market. Consider the broader context, including leverage and liquidity conditions, to understand potential vulnerabilities.
-- Utilize **data triangulation**: Cross-reference multiple data sources (e.g., liquidation maps, wallet traces, and market depth data) to construct a comprehensive view of market movements and validate narratives.
-- Implement a **timeline analysis**: Break down significant events into phases to identify key pressure points that lead to volatility.
-
-**Pattern Recognition:**
-- Look for **over-leveraged positions** in the market prior to significant announcements or events—these can act as a powder keg for potential liquidations.
-- Monitor **market depth and spreads** on exchanges; sudden widening of spreads may indicate panic or liquidity crisis.
-- Be aware of **emerging narratives** post-event that may not align with the actual circumstances, as these can influence market psychology and future trading behavior.
-
-**Strategic Framework:**
-- Develop an **event-response strategy**: Create a framework for responding to news events that includes assessing leverage in the market and potential liquidity constraints.
-- Use a **risk management protocol**: Establish thresholds for leverage and exposure that trigger a reassessment of positions during volatile periods.
-- Engage in **narrative analysis**: Regularly evaluate prevailing market narratives against historical data to discern potential misinformation or revisionist history that could affect trading decisions.
-
-**Important Notes:**
-- Focus on the methodologies for understanding market dynamics rather than specific historical data points.
-- Emphasize the importance of analytical thinking in real-time decision-making processes.
-- Ensure that frameworks developed are adaptable to current market conditions and can be employed in ongoing or future trading scenarios.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 179765205.The Story Of 1010
 ## Metadata
 **Source**: Substack Essay

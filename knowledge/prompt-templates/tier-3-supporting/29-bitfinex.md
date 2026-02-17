@@ -91,40 +91,6 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Exchange-Specific Metrics**: Understanding metrics unique to Bitfinex, such as spot and derivatives trading volumes, margin lending rates, and leverage buildup.
-- **Market Sentiment Analysis**: Evaluating institutional sentiment signals through lending rates and trading volumes to gauge market confidence.
-- **Comparative Analysis**: Assessing Bitfinex metrics against broader market data to contextualize findings and identify divergences.
-- **Trend Aggregation**: Analyzing historical trends over different time frames (e.g., 7-day, 30-day) to identify significant shifts in market behavior.
-
-**Analytical Approach:**
-- Adopt a data-driven mindset, focusing on quantitative metrics to derive insights rather than relying on qualitative assessments. Utilize structured extraction from primary and supplementary sources to build a comprehensive view of trading activity and lending dynamics on Bitfinex. Prioritize the identification of anomalies and trends in the data that signal shifts in market behavior, such as spikes in trading volumes or lending rates.
-
-**Pattern Recognition:**
-- Look for signs of increased lending demand, indicated by rising lending rates or significant trades in long/short positions. Monitor correlations between high trading volumes and lending rates to identify bullish or bearish market sentiment. Recognize historical patterns, such as those that preceded major price movements, to better anticipate future market shifts.
-
-**Strategic Framework:**
-- Implement a systematic approach to data collection and analysis, where information is categorized into trading volumes, lending rates, and market sentiment. Compare the extracted metrics with aggregate data from platforms like Coinglass to gauge relative performance. Use the insights gathered to inform trading strategies, positioning for potential market movements based on institutional accumulation or caution signals. Continuously update the analytical framework as new data becomes available, ensuring agile responses to market changes.
-
-**Important Notes:**
-- Ensure that the focus remains on the methodologies and frameworks for analysis rather than specific historical data points. The goal is to create an actionable model that can be adapted to evolving market conditions, promoting a proactive rather than reactive stance in trading strategies. Keep the analysis concise and relevant to the current market landscape.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: bitfinex.com*

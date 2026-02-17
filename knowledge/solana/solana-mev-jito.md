@@ -5,18 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # MEV on Solana: Jito & the Extraction Economy
 
-## Methodology & Framework
-
-**Core Concepts:** Maximal Extractable Value (MEV) on Solana differs structurally from Ethereum due to continuous block production (no mempool in the traditional sense), leader-based scheduling, and sub-second block times. Solana's MEV landscape centers on Jito's infrastructure: the Jito Block Engine, bundle marketplace, and tip distribution system.
-
-**Analytical Approach:** Analyze MEV through three lenses: (1) validator economics — how MEV tips augment staking yields, (2) user impact — sandwich attacks, failed transactions, and price impact, (3) systemic effects — does MEV infrastructure improve or degrade network health?
-
-**Pattern Recognition:** MEV on Solana evolved from chaotic spam (2022-2023) to structured extraction via Jito bundles (2024+). The Jito client's temporary removal of the mempool-like feature in late 2023 was a pivotal moment — it didn't eliminate MEV but pushed it into more sophisticated channels. MEV tips spike during high-volatility events, memecoin launches, and liquidation cascades.
-
-**Decision Framework:** Evaluate MEV dynamics by asking: (1) Are validators incentivized to run MEV-extracting infrastructure? (Yes — Jito tips add 1-3%+ APY), (2) Is the extraction primarily harmful (sandwich attacks) or neutral/positive (arbitrage, liquidations)? (3) Are there credible mitigation paths for harmful MEV?
-
----
-
 ## How Solana MEV Works
 
 Unlike Ethereum's PBS (Proposer-Builder Separation) model with discrete block auctions, Solana's continuous block production means the current leader validator has real-time control over transaction ordering. This creates MEV opportunities through:

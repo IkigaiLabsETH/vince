@@ -5,45 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Psychology:** Understanding that market movements reflect internal psychological states rather than external validations.
-- **Risk Perception:** Recognizing the interplay between fear, greed, and decision-making in trading environments.
-- **Self-Reflection in Trading:** The importance of introspection and awareness of personal biases and emotional triggers when experiencing market fluctuations.
-
-**Analytical Approach:**
-- **Emotional Awareness:** Approach trading by first acknowledging your emotional responses to market changes. This involves identifying feelings of terror or greed and understanding how they impact your decision-making process.
-- **Detachment from Outcomes:** Cultivate a mindset that separates market performance from personal validation. This requires reframing losses and gains as reflections of market dynamics rather than personal failures or successes.
-
-**Pattern Recognition:**
-- **Drawdown Signals:** Pay attention to significant drawdowns (20%, 30%, or more) as critical moments for self-assessment and emotional evaluation. These can act as triggers for deeper reflection on your trading thesis and emotional state.
-- **Market Cycle Awareness:** Recognize the cyclical nature of markets and the psychological patterns that emerge during transitional phases, such as the build-up of risk and subsequent drawdowns.
-
-**Strategic Framework:**
-- **Decision-Making Under Pressure:** Develop strategies that allow for calm decision-making during volatile market conditions. This includes setting predetermined rules for risk management and maintaining discipline in the face of emotional turmoil.
-- **Continuous Self-Review:** Implement a routine for reviewing your emotional and psychological responses to market conditions. This practice should include journaling experiences and decisions to identify recurring patterns and biases.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180597661.The Edge Is In The Mirror
 ## Metadata
 **Source**: Substack Essay

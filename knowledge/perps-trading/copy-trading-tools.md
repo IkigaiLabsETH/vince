@@ -5,32 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Copy Trading Tools for Hyperliquid
 
-> **📌 Knowledge Base Note**
-> 
-> This contains **strategic insights** for using copy trading tools on Hyperliquid.
-> - **Focus:** Tool selection, wallet filtering, crowd sentiment analysis
-> - **Use for:** Research, position validation, discovering new trading ideas
-
-## Methodology & Framework
-
-**Key Concepts:**
-- Tracks millions of Hyperliquid wallets
-- Buckets by size and profitability
-- Real-time positioning from top performers
-- Liquidation risk across price ranges
-- Directional bias trends over time
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
 ## The Edge
 
 Perp trading is brutal. 90% of traders lose money.

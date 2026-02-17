@@ -7,12 +7,6 @@ last_reviewed: 2026-02-15
 
 *Last updated: 2026-02-15*
 
-## Methodology & Framework
-
-Compare yields on a risk-adjusted basis across three categories: (1) tokenized "risk-free" — US Treasuries on-chain, the crypto-native equivalent of the risk-free rate; (2) tokenized credit — private lending and structured products with real default risk; (3) native DeFi yields — lending, LPing, staking, and incentivized farming. For each, decompose yield into its sources (interest, fees, token emissions, risk premium) and assess sustainability. The goal: understand what you're actually being paid for and whether the compensation matches the risk.
-
----
-
 ## The Risk-Free Rate in Crypto
 
 Before tokenized Treasuries, crypto had no risk-free rate. The lowest-risk yield was stablecoin lending on blue-chip protocols — but that still carried smart contract risk, oracle risk, and counterparty risk. "Risk-free" was always relative.

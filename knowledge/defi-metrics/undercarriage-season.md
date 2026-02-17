@@ -5,42 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **DePIN (Decentralized Physical Infrastructure Networks):** A framework for understanding decentralized networks that leverage physical devices for revenue generation outside traditional centralized systems.
-- **BTCfi (Bitcoin Finance):** An evolving financial ecosystem utilizing Bitcoin for staking and yield generation, emphasizing innovative methods to leverage dormant capital.
-- **Embodied Robotics:** The integration of physical robotics in operational frameworks, representing a shift towards automation and efficiency in various industries.
-
-**Analytical Approach:**
-- Think critically about the dynamics of underappreciated sectors within the crypto landscape. Focus on identifying areas where traditional systems (like centralized cloud services) are being disrupted by decentralized alternatives. Evaluate innovations that create revenue streams from existing resources (e.g., idle hardware) rather than merely trading existing digital assets.
-
-**Pattern Recognition:**
-- Look for signs of market asymmetry, particularly in sectors that show potential for exponential growth but are currently undervalued or overlooked. Identify projects with tangible usage metrics that indicate real-world adoption and revenue generation, as opposed to speculative hype. Monitor the flow of capital into these sectors and the emergence of new financial products that enhance the utility of established assets.
-
-**Strategic Framework:**
-- Apply a multi-layered analytical lens to assess investment opportunities in the DeFi space. Prioritize projects that demonstrate a clear path to revenue generation and scalability. Use a comparative approach to evaluate how new innovations can disrupt established market players (e.g., how DePIN projects threaten traditional telecoms). Build portfolios that leverage emerging yield-generating mechanisms while managing risk through diversification across innovative sectors.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180746282.Undercarriage Season
 ## Metadata
 **Source**: Substack Essay

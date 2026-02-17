@@ -5,32 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # AI Agents On-Chain
 
-## Methodology & Framework
-
-### Core Concepts
-- **On-chain AI agents**: Autonomous software entities with crypto wallets that execute transactions, manage assets, and interact with protocols without human intervention
-- **Virtuals Protocol**: Platform for launching and trading AI agent tokens on Base — agents have personalities, can trade, post on social media, and generate revenue shared with token holders
-- **ai16z / ELIZA framework**: Open-source TypeScript framework for building AI agents with crypto wallets, social media presence, and plugin-based actions — spawned the "AI agent meta" of late 2024
-- **Agent-to-agent payments**: AI agents paying other agents for services — data, compute, analysis — creating machine-only economic loops
-- **x402 protocol**: HTTP-native payment protocol where AI agents pay for web resources via crypto micropayments in the HTTP 402 response flow
-
-### Analytical Approach
-Separate agents with genuine autonomous behavior from chatbots with wallets. Key test: does the agent make decisions that create or destroy value independently? If a human is approving every transaction, it's a tool, not an agent. Evaluate agent tokens on revenue generation, not social media followers.
-
-### Pattern Recognition
-- Agent launches follow memecoin dynamics: pump on hype, dump when the agent does nothing interesting
-- Framework tokens (ai16z) outperform individual agent tokens over time — picks-and-shovels pattern
-- Revenue-generating agents (trading, MEV, content) retain value; personality-only agents don't
-- Social media presence drives short-term price; on-chain activity drives long-term survival
-
-### Decision Framework
-1. Does the agent generate revenue? How much, how consistently?
-2. Is the agent's behavior genuinely autonomous or human-puppeted?
-3. Token value capture: do holders benefit from agent activity?
-4. Framework vs agent: is this infrastructure or an application?
-
----
-
 ## Virtuals Protocol
 
 Virtuals created the launchpad model for AI agents on Base. Users can create agents with defined personalities, connect them to Twitter/Telegram, and launch tradeable tokens. The protocol takes fees on token trades and agent interactions. Key innovation: the "Initial Agent Offering" — bonding curves for agent tokens that fund development and create liquidity.

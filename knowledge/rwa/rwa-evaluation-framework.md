@@ -3,30 +3,6 @@ tags: [rwa, tokenization, institutional]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Core Concepts:**
-- **RWA protocol evaluation** requires analyzing both the on-chain token layer AND the off-chain legal/custody layer—most risk lives off-chain.
-- **Legal enforceability** is the foundation: a token is only as good as the legal claim it represents and the jurisdiction that enforces it.
-- **Redemption mechanics** determine whether a tokenized asset is truly liquid or just an illiquid wrapper with on-chain transferability.
-
-**Analytical Approach:**
-- Evaluate RWA protocols across six dimensions: **legal structure, custody, oracle/NAV, redemption, compliance, and composability**.
-- Weight dimensions by use case: institutional allocation prioritizes legal + custody; DeFi integration prioritizes composability + redemption speed.
-- Red flags: unregulated jurisdictions with no legal recourse, self-custody of underlying assets, opaque NAV calculations, redemption gates.
-
-**Pattern Recognition:**
-- Higher-quality products tend to: use regulated custodians (BNY Mellon, State Street), register with securities regulators (SEC, MAS, SFC), and offer T+0 to T+1 redemption.
-- Fee structure reveals competitive pressure: management fees converging to 0.15-0.25%, entry/exit fees going to zero.
-- Multi-chain deployment correlates with product maturity and institutional backing.
-
-**Decision Framework:**
-- Tier 1 (highest confidence): SEC-registered or equivalent, regulated custodian, audited NAV, instant redemption, multiple chains.
-- Tier 2: Reg D/Reg S exemption, reputable custodian, daily NAV, T+1 redemption.
-- Tier 3 (exercise caution): Unregulated jurisdiction, self-custody or opaque custody, infrequent NAV updates, gated redemption.
-
----
-
 ## The Six-Dimension RWA Evaluation Framework
 
 ### 1. Legal Structure
@@ -69,9 +45,5 @@ last_reviewed: 2026-02-15
 - Composability adds value but may conflict with compliance requirements.
 
 ---
-
-> **📌 Knowledge Base Note**
-> - **Use for:** Systematic evaluation of any RWA product or protocol
-> - **Do NOT use for:** Product recommendations—apply the framework to current data from actions/APIs
 
 *Last updated: 2026-02-15*

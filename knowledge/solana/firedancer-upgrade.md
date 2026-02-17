@@ -5,18 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Firedancer: Jump Crypto's Solana Validator Client
 
-## Methodology & Framework
-
-**Core Concepts:** Firedancer is an independent, ground-up reimplementation of the Solana validator client, built by Jump Crypto (now Jump Trading's DeFi division). Written primarily in C/C++, it represents the most significant infrastructure upgrade in Solana's roadmap — introducing true client diversity and dramatically higher theoretical throughput.
-
-**Analytical Approach:** Evaluate Firedancer across: (1) performance benchmarks vs existing Agave (formerly Labs) client, (2) client diversity implications for network resilience, (3) deployment timeline and adoption trajectory, (4) second-order effects on the ecosystem (new use cases enabled by higher throughput).
-
-**Pattern Recognition:** Client diversity has been the single biggest improvement in Ethereum's resilience (Geth + Nethermind + Besu + Erigon). Solana historically ran a single client (Solana Labs, now Agave/Anza), making it vulnerable to single-implementation bugs. Firedancer addresses this existential risk. Major infrastructure upgrades in crypto follow a pattern: testnet → limited mainnet → gradual adoption → supermajority threshold.
-
-**Decision Framework:** Track Firedancer readiness by monitoring: (1) testnet stability and validator participation, (2) mainnet-beta deployment timeline from Jump, (3) percentage of stake running Firedancer vs Agave, (4) any consensus divergence incidents between clients.
-
----
-
 ## What Firedancer Changes
 
 ### Performance

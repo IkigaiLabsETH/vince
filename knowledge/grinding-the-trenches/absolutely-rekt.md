@@ -5,48 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Distributed Stupidity:** The phenomenon where retail investors fall prey to decentralized scams and speculative bubbles across numerous platforms, rather than centralized fraud.
-- **Democratization of Fraud:** The shift from centralized, identifiable scams to widespread, permissionless fraudulent activities enabled by blockchain technology.
-- **On-Chain Rug Pulls:** The mechanics of how decentralized token scams operate, where early insiders profit at the expense of late retail investors.
-- **Historical Contextualization:** Analyzing past bear markets to understand the evolution of fraud and retail investor experiences.
-
-**Analytical Approach:**
-- **Contrarian Analysis:** Adopt a skeptical viewpoint when evaluating market trends and narratives. Historical patterns of fraud should inform current assessments, especially looking for signs of decentralized risk.
-- **Systems Thinking:** Examine how changes in regulatory frameworks affect market behavior and investor protection. Identify systemic vulnerabilities in decentralized platforms that may lead to new forms of fraud.
-
-**Pattern Recognition:**
-- **Early Warning Signals:** Monitor social media trends, celebrity endorsements, and sudden spikes in token popularity that may indicate pump-and-dump schemes.
-- **Liquidity Patterns:** Look for tokens with high volatility and low liquidity, as these are often targets for rug pulls. Analyze transaction flows for suspicious activity, particularly large withdrawals by insiders.
-- **Investor Behavior:** Note patterns of retail investor behavior, such as FOMO (fear of missing out) during market hype cycles that precede significant downturns.
-
-**Strategic Framework:**
-- **Risk Mitigation:** Develop strategies to diversify investments and avoid single points of failure, recognizing the potential for distributed scams across various tokens.
-- **Due Diligence:** Implement rigorous vetting processes for new projects, focusing on transparency and community feedback before making investment decisions.
-- **Continual Learning:** Stay informed about ongoing market changes, regulatory developments, and emerging fraudulent tactics to adapt investment strategies proactively.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # Absolutely Rekt: The 2025 Bear Market Reality
 
 ## The Contrarian Take on Retail Losses

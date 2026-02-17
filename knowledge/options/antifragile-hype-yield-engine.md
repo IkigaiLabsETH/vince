@@ -5,47 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Implied vs. Realized Volatility:** Understanding the discrepancies between market expectations (implied volatility) and actual market movements (realized volatility) is crucial for strategy implementation.
-- **Covered Strangle Strategy:** Combining two options strategies (covered calls and cash-secured puts) to minimize risk while generating yield.
-- **Delta Targeting:** Selecting options with a delta of 20-30 to balance premium collection with assignment risk effectively.
-- **Market Regime Adaptation:** Adjusting strategy parameters based on prevailing market conditions (fear vs. calm) to optimize outcomes.
-
-**Analytical Approach:**
-- Focus on the psychological landscape of the market rather than on price prediction. Analyze market sentiment to identify when implied volatility is overstated. This approach allows for strategic premium collection rather than speculative trading.
-- Evaluate risk-reward scenarios based on Delta and assignment probabilities to ensure that the chosen strikes align with long-term bullish positions.
-
-**Pattern Recognition:**
-- Look for spikes in implied volatility during panic phases, which signal potential overpricing of options premiums.
-- Identify calm market periods where implied volatility is low, allowing for tighter strike selection and enhanced yield opportunities.
-- Recognize the cyclical nature of market sentiment; extreme fear usually precedes recovery phases, providing advantageous entry points.
-
-**Strategic Framework:**
-- Implement a weekly ritual to execute the covered strangle strategy, ensuring consistency and discipline in approach. Prioritize efficiency by limiting execution time while maximizing yield potential.
-- Adapt strike selections based on current market sentiment and volatility metrics, leaning towards wider strikes in fearful conditions and tighter strikes in stable markets.
-- Maintain a long-term perspective on held assets while employing short-term strategies to enhance yield without incurring liquidation risk.
-
-**Important Notes:**
-- Focus on the underlying methodologies rather than specific figures or historical data.
-- Emphasize how to apply these concepts in current market contexts, ensuring flexibility and responsiveness to evolving conditions.
-- Keep the framework actionable, enabling practitioners to employ these strategies effectively within the DeFi landscape.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 179713514.Antifragile Hype Yield Engine
 ## Metadata
 **Source**: Substack Essay
