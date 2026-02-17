@@ -1,7 +1,7 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 # Margaux AOC, Médoc, Bordeaux — Region Deep Dive
 
@@ -40,37 +40,6 @@ last_reviewed: 2026-02-15
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Terroir Exploration:** Understanding the unique environmental factors (soil, climate, geography) that contribute to wine quality, emphasizing the importance of location.
-- **Hands-on Craftsmanship:** Valuing artisanal methods and meticulous attention to detail in winemaking, highlighting the benefits of small-scale production.
-- **Innovation within Tradition:** Balancing traditional winemaking practices with innovative approaches to create distinct products.
-- **Branding and Visibility:** Recognizing the impact of heritage and visibility in the wine industry versus the merits of lesser-known producers.
-- **Consumer Perception:** Understanding how market perceptions affect wine valuation and appreciation beyond mere scores or classifications.
-
-**Analytical Approach:**
-- Evaluate the interplay between tradition and innovation in winemaking. Consider how individual producers carve out niches in established regions. Analyze the effectiveness of contrasting large-scale corporate strategies with small, focused artisanal practices.
-- Reflect on the significance of terroir by assessing how environmental and historical contexts shape wine characteristics and market reception.
-
-**Pattern Recognition:**
-- Look for producers who prioritize craftsmanship and maintain a hands-on approach, as they often yield higher quality wines despite lower visibility.
-- Identify emerging trends in consumer preferences towards unique, high-quality offerings over established brands. Monitor how critics' scores align with consumer reception in niche markets.
-- Assess the impact of a producer's narrative (e.g., personal stories, sustainable practices) on brand strength and market positioning.
-
-**Strategic Framework:**
-- When evaluating wines or any artisanal products, consider the underlying story and craftsmanship behind the brand, not just the end product. This approach can be applied to other industries by looking for craftsmanship and authenticity in products.
-- Invest in understanding the nuances of less visible yet high-quality producers; leverage this knowledge to inform purchasing decisions or marketing strategies.
-- Foster innovation by encouraging experimentation within established frameworks, allowing for the development of new products that reflect both respect for tradition and forward-thinking practices.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
 > **📌 Knowledge Base Note**
 > 
 > This essay contains **historical examples and illustrative data** from when it was written.
@@ -81,7 +50,6 @@ last_reviewed: 2026-02-15
 > 
 > **What this provides:** Thinking frameworks, methodologies, analytical approaches
 > **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 
 We opened the Château Prieuré-Lichine 2020, because it was already in the rack and the steak was resting. The cork slid out with that satisfying sigh only a well-cellared Bordeaux gives. One swirl and the room filled with black cherries, warm graphite, and the faintest whiff of the herb garden after rain. On the palate it was everything a modern classified-growth Margaux has learned to be: plush yet precise, medium-full, with tannins like cashmere and a bright, mouth-watering finish that made the next sip involuntary. James Suckling’s 96 points felt conservative. And yet, as often happens when a great wine loosens the tongue, the conversation drifted to the one Margaux we keep talking about even when we’re drinking something else.
 

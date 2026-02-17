@@ -1,7 +1,7 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 # Scattered Luxury Locations - Europe
 
@@ -22,44 +22,6 @@ last_reviewed: 2026-02-15
 > **What this provides:** Thinking frameworks, methodologies, analytical approaches
 > **What this does NOT provide:** Current market data (use actions/APIs instead)
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Address**: 1 Chemin des Échos, 76280 Sainte-Adresse area
-- **Distance**: 641 km
-- **Region**: Normandy, near Le Havre
-- Normandy coast location
-- Historic region
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
-## Normandy Region
-
-### Les Pins de César
-
-**Luxury Hotel | Sainte-Adresse Area**
-
-- **Address**: 1 Chemin des Échos, 76280 Sainte-Adresse area
-- **Distance**: 641 km
-- **Region**: Normandy, near Le Havre
-
-**Details**:
-- Normandy coast location
-- Historic region
-- Coastal luxury
-
-**Best For**: Normandy exploration, coastal stays, historic region
-
----
 
 ## Côte d'Azur Region
 

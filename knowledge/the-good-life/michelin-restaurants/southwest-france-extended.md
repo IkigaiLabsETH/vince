@@ -1,7 +1,7 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 # Southwest France - Extended Fine Dining
 
@@ -22,48 +22,6 @@ last_reviewed: 2026-02-15
 > **What this provides:** Thinking frameworks, methodologies, analytical approaches
 > **What this does NOT provide:** Current market data (use actions/APIs instead)
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Address**: 1135 Xahatoeneko Bidea, 64780 Bidarray
-- **Distance**: 81 km
-- **Chef**: [Chef name]
-- **Stars**: 1 Michelin Star (Lore Ttipia restaurant)
-- **Phone**: +33 5 59 37 91 91
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
-## Auberge Ostape
-
-**1-Star Michelin | Lore Ttipia | 45 Hectares of Nature**
-
-- **Address**: 1135 Xahatoeneko Bidea, 64780 Bidarray
-- **Distance**: 81 km
-- **Chef**: [Chef name]
-- **Stars**: 1 Michelin Star (Lore Ttipia restaurant)
-- **Website**: https://www.ostape.com/
-- **Phone**: +33 5 59 37 91 91
-
-**Details**:
-- 17th-century farm + red-tile houses
-- Restaurant Lore Ttipia (1*): Fire cooking - grilling, smoking, braise
-- Sea/land/mountain inspiration
-- Natural, virtuous cooking
-- 5* hotel: 26 rooms across 5 houses, 45-hectare estate with springs
-- Values: Sustainability, local artisans, traditional savoir-faire
-
-**Best For**: Deep countryside immersion, nature therapy, intimate dining, fire cooking
-
----
 
 ## Ha(a)ïtza
 

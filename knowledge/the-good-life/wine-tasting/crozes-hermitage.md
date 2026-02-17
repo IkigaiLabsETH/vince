@@ -1,35 +1,7 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
----
-
-
-## Methodology & Framework
-
-**Key Concepts:**
-- **Terroir Influence:** Understanding the impact of soil composition, climate, and vineyard location on wine characteristics.
-- **Winemaking Techniques:** Recognizing the methods of fermentation and aging that influence the final product's taste and structure.
-- **Value Proposition:** Evaluating how producers elevate accessible wines to achieve complexity and quality beyond typical expectations.
-
-**Analytical Approach:**
-- **Holistic Evaluation:** Adopt a comprehensive perspective that includes vineyard practices, climatic conditions, and consumer perceptions. Analyze how these elements interplay to create a wine's identity.
-- **Comparative Analysis:** Benchmark the subject wine against similar wines within the same appellation to gauge distinctions in quality, structure, and aging potential. Look for qualitative and quantitative metrics that signify value.
-
-**Pattern Recognition:**
-- **Vintage Trends:** Monitor annual variations in wine profiles and ratings to identify consistent quality markers or emerging trends within specific vintages.
-- **Consumer Preferences:** Track shifts in market demand and feedback to anticipate which characteristics are gaining favor among wine enthusiasts and critics.
-
-**Strategic Framework:**
-- **Long-Term Planning:** When investing in or producing wine, prioritize strategies that focus on vineyard sustainability, quality improvement, and market positioning. Consider how aging potential can enhance a wine's value over time.
-- **Consumer Education:** Develop narratives and educational content that communicate the unique attributes of the wine, emphasizing the producer's philosophy and winemaking practices to build brand loyalty.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach rather than relying on historical data.
-- Apply these frameworks and methodologies to current market dynamics and consumer preferences in the wine industry.
-- Keep insights actionable and relevant for strategic decision-making in wine production and sales.
-
+last_reviewed: 2026-02-17
 ---
 
 > **📌 Knowledge Base Note**
@@ -42,7 +14,6 @@ last_reviewed: 2026-02-15
 > 
 > **What this provides:** Thinking frameworks, methodologies, analytical approaches
 > **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 
 E. Guigal Crozes-Hermitage RougeOverview
 
