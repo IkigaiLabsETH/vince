@@ -5,42 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Covered Call Strategy:** Utilizing short calls against a long position to generate income while maintaining some upside potential.
-- **Implied Volatility Analysis:** Assessing market sentiment through the lens of options pricing to gauge expected price movements.
-- **Scenario Analysis:** Evaluating various potential market outcomes based on historical data and market signals to inform decision-making.
-- **Crowd Sentiment Interpretation:** Leveraging platforms like Polymarket to derive insights on market probabilities and trader sentiment.
-
-**Analytical Approach:**
-- Adopt a disciplined approach to options trading by combining fundamental analysis with technical indicators such as implied volatility and market sentiment. Focus on maximizing yield while managing risk through strategic position sizing and rolling strategies. Always prioritize data-driven decision-making over emotional responses to market fluctuations.
-
-**Pattern Recognition:**
-- Watch for signs of market equilibrium, such as stable ranges in price and implied probabilities that suggest limited volatility. Recognize when crowd sentiment shifts, particularly in periods of high volume on predictive markets, as this can indicate changing investor expectations and potential price movements.
-
-**Strategic Framework:**
-- Implement a proactive income generation strategy by adjusting your strike prices based on market conditions and risk tolerance. Conduct regular scenario analyses to evaluate the potential outcomes of your positions, and use crowd sentiment data to fine-tune your expectations and adjust your strategies accordingly. Always be prepared to pivot your approach based on evolving market conditions while maintaining a long-term perspective on underlying asset fundamentals.
-
-**Important Notes:**
-- Emphasize methodologies and frameworks rather than specific numerical outcomes or historical data points.
-- Focus on the "how to think" approach to foster adaptability and strategic decision-making in current trading environments.
-- Ensure actionable insights can be applied across various market conditions to enhance investment performance.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 Last week, we made a calculated tweak to our $HYPE wheel: we rolled our covered calls from the $27 strike down to $26 for the January 23 expiry.
 
 This move boosted weekly premiums to $2K+, pushing the annualized yield to ~118%—roughly double our prior setup—while still leaving meaningful upside capture if we get the 2026 breakout.

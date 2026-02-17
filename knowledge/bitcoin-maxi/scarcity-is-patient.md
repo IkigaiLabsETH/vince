@@ -5,42 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Death Cross Analysis:** Understanding the significance of moving average crossovers in market cycles as indicators of potential price reversals.
-- **Narrative Dynamics:** Recognizing that market narratives evolve rapidly and can influence investor sentiment, often leading to herd behavior.
-- **Memory as Prophecy:** Utilizing historical price patterns as a reflection of market psychology rather than deterministic forecasts.
-- **Market Sentiment and Liquidity:** Analyzing the impact of market conditions, such as liquidity and emotional response, on price movements.
-
-**Analytical Approach:**
-- Adopt a historical lens to assess current market conditions, focusing on established patterns and behavioral triggers rather than solely relying on real-time data. Monitor moving averages and key technical indicators to gauge potential market shifts while remaining aware of prevailing narratives that might distort perception.
-
-**Pattern Recognition:**
-- Look for recurring technical patterns (e.g., Death Cross) and their historical implications on price movements. Pay attention to shifts in market sentiment during significant liquidity events—particularly during moments of high emotional volatility. Watch for social media sentiment and commentary to gauge collective investor psychology.
-
-**Strategic Framework:**
-- Implement a multi-faceted approach to market analysis that combines technical indicators with narrative evaluation. When entering or exiting positions, consider the broader context and potential emotional reactions of market participants. Develop a framework for decision-making that incorporates historical lessons, such as the influence of large holders and the cascading effects of their actions.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates, to maintain relevance across changing market conditions.
-- Extract the "how to think" approach to empower adaptable strategies in volatile environments.
-- Keep the analysis actionable, allowing for application in both current and future market scenarios.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 179631716.Scarcity Is Patient
 ## Metadata
 **Source**: Substack Essay

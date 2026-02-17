@@ -5,49 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Contrarian Analysis**: Emphasizes questioning prevailing trends and sentiments in the crypto market, particularly around Bitcoin.
-- **On-chain Data Integration**: Leveraging blockchain data to inform macroeconomic insights and identify trends.
-- **Cross-market Correlation**: Understanding how Bitcoin's performance interacts with equities, DeFi, and global liquidity flows.
-- **Iterative Thesis Development**: Continuously refining investment theses through data-driven insights and market observations.
-- **Narrative Crafting**: Using storytelling techniques to communicate complex ideas simply and engagingly.
-
-**Analytical Approach:**
-- Embrace a **macro-focused lens** while analyzing Bitcoin, considering broader economic indicators and trends. Recognize the importance of historical context without being tied to specific numbers. Use frameworks such as **SWOT analysis** (Strengths, Weaknesses, Opportunities, Threats) to evaluate Bitcoin against its competitors and broader market conditions.
-- Foster a **skeptical mindset** toward market hype; apply rigorous questioning to discern between noise and valuable signals. 
-
-**Pattern Recognition:**
-- Look for **liquidity patterns**: Track shifts in liquidity across markets, as they often precede significant price movements in Bitcoin.
-- Identify **historical parallels**: Use past market events (e.g., 2018 downturns, 2021 euphoria) to draw insights about potential future behaviors.
-- Monitor **adoption metrics**: Increased user adoption or institutional interest can signal upcoming bullish trends.
-
-**Strategic Framework:**
-- Apply a **multi-dimensional analysis**: Assess Bitcoin's position within the larger financial ecosystem—considering regulatory changes, technological advancements, and macroeconomic conditions.
-- Develop a **risk management strategy** based on identified patterns and potential market shifts. Use options strategies to hedge against volatility while maintaining exposure to upside potential.
-- Cultivate a **community approach**: Engage with like-minded individuals to share insights and refine analyses, fostering a collaborative environment for deeper understanding.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182566518.Prompt Design Quarterly Report
 ## Metadata
 **Source**: Substack Essay

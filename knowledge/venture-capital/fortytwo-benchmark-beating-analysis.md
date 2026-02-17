@@ -9,32 +9,6 @@ last_reviewed: 2026-02-15
 **Word Count**: 1358
 **Tags**: #knowledge
 
-> **📌 Knowledge Base Note**
-> 
-> These documents are optimized for RAG: use for **frameworks and context**, not for current data. Numbers and dates are illustrative—check actions/APIs for live data.
-
-## Methodology & Framework
-
-**Key Concepts:**
-- **0:00-10:00**: Introduction and hallucination game demonstrating AI accuracy challenges
-- **10:00-15:00**: Deep dive into hallucination problems and FortyTwo's multi-model solution
-- **15:00-20:00**: Discussion of AI's inconsistent performance and prompt injection vulnerabilities
-- **20:00-25:00**: Decentralization philosophy and moral imperative arguments
-- **25:00-30:00**: Competitive advantages and Web3 + AI intersection strategy
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
----
-
 # FortyTwo AI: Decentralized Swarm Intelligence Beating Frontier Models
 
 **Source**: [Ep 16 - FortyTwo the benchmark beating AI putting power in people's hands, built on Monad](https://www.youtube.com/watch?v=bbSBuBZQXTY) - plums channel (38:34)

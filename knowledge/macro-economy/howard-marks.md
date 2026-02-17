@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Inflection vs. Mean-Reversion Bubbles:** Understand the distinction between bubbles that contribute to technological progress (inflection bubbles) and those that are purely speculative (mean-reversion bubbles).
-- **Rhythmic Nature of Bubbles:** Recognize that market phenomena are often cyclical and driven by collective psychology rather than random events.
-- **Collective Vision and FOMO:** Analyze how collective aspirations and fear of missing out (FOMO) can lead to inflated valuations and unsustainable market trends.
-- **Investment Timing and Risk Aversion:** Evaluate the timing of investments within the context of market cycles and the inherent risk aversion of investors.
-
-**Analytical Approach:**
-- Adopt a historical lens when assessing emerging technologies, looking for parallels with past market behaviors to anticipate potential outcomes. 
-- Weigh the potential benefits of technological advancements against the risks of investment losses, considering the long-term potential versus short-term speculation.
-
-**Pattern Recognition:**
-- Monitor investment trends and valuation spikes in emerging technologies for signs of speculative bubbles. Look for indicators such as rapid price increases, high levels of media hype, and disproportionate investment flows relative to traditional metrics of value.
-- Be vigilant for shifts in investor sentiment and behavior, especially when collective optimism overshadows rational analysis.
-
-**Strategic Framework:**
-- Develop a framework for evaluating new technologies by categorizing them into inflection bubbles or mean-reversion bubbles, assessing their potential for long-term growth versus immediate returns.
-- Establish criteria for investment based on historical precedents, focusing on the sustainability of the technology and the market landscape. This includes questioning whether the technology will lead to monopolistic advantages or become commoditized.
-- Craft a risk management strategy that allows for participation in potentially lucrative bubbles while safeguarding against substantial losses through diversification and prudent cash reserves.
-
-**Important Notes:**
-- Focus on methodology over specific data points or historical examples.
-- Extract actionable insights that inform current investment strategies and decision-making processes.
-- Maintain a concise and adaptable approach that can be applied to various contexts in the macroeconomic landscape.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 In the electrifying arena of modern finance, where trillions chase the next big thing, Howard Marks—co-founder of Oaktree Capital Management and a veteran bubble-spotter—has dropped a memo that’s part history thriller, part economic prophecy. Dated December 9, 2025, “Is It a Bubble?” is an 18-page deep dive into the AI frenzy, blending sharp analysis with historical echoes that will make even the most bullish investor pause. Marks, no AI evangelist but a keen observer of human folly, warns that we’re in the grip of a classic “inflection bubble”—one that could propel humanity forward like railroads or the internet, but only after incinerating vast fortunes along the way.
 
 Drawing from his travels in Asia and the Middle East, where clients grilled him on AI’s sustainability, Marks kicks off with a timeless observation: Bubbles aren’t random; they’re rhythmic. “Memories are short, and prudence and natural risk aversion are no match for the dream of getting rich on the back of a revolutionary technology that ‘everyone knows’ will change the world.” Quoting Derek Thompson’s newsletter, he draws a striking parallel to the 1860s railroad boom—a speculative mania that built empires but bankrupted multitudes. History doesn’t repeat, but as Mark Twain allegedly quipped, it rhymes.

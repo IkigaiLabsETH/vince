@@ -1,50 +1,10 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Collective Ownership:** The framework of engaging a small, aligned group to share both investment and lifestyle experiences.
-- **Dunbar's Number:** The cognitive limit to the number of stable social relationships, suggesting an optimal group size for meaningful interactions.
-- **Tokenized Real Estate:** The concept of leveraging blockchain technology to democratize real estate ownership and remove friction from transactions.
-- **Resonance and Alignment:** The focus on shared values and goals among group members to ensure harmony and collective decision-making.
-- **Temperature Check:** A method for gauging interest and commitment before making significant changes or investments.
-
-**Analytical Approach:**
-- Assess the viability of collaborative ventures by determining shared values and objectives among potential stakeholders. Use qualitative assessments, like emotional resonance and alignment of purpose, rather than quantitative metrics. Emphasize relationship-building and community engagement as foundational elements in decision-making.
-
-**Pattern Recognition:**
-- Look for indicators of genuine interest among potential group members, such as their willingness to engage in discussions about ownership and investment. Notice the dynamics of group cohesion and how they affect decision-making processes. Be attentive to the signals of commitment—such as consistent participation in discussions or expressions of shared vision—before proceeding with significant steps like funding or launching initiatives.
-
-**Strategic Framework:**
-- When considering new investments or collaborative projects, apply a phased approach: 
-  1. Conduct a "temperature check" to gauge interest and alignment.
-  2. Formulate a small, committed group (ideally around 150 individuals) for deeper exploration and decision-making.
-  3. Balance the need for autonomy with collective governance by defining clear roles and responsibilities within the group.
-  4. Utilize technology, such as blockchain, to facilitate ownership and ensure seamless participation while remaining mindful of the emotional and relational aspects of the investment.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
 
 
 I’m writing this from the beachfront plot in Pavones, Costa Rica, full moon pouring silver across the longest left-hand wave on Earth, the break peeling empty and perfect while howler monkeys argue in the almond trees behind me. The land is already ours. The LLC is already formed.

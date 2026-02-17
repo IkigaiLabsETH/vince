@@ -71,41 +71,6 @@ last_reviewed: 2026-02-15
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **On-Chain Analysis:** Understanding market behavior through blockchain data, focusing on metrics like holder distribution and net exchange flows.
-- **Price Cycle Dynamics:** Analyzing historical price movements and market cycles to identify current trends and predict future behavior.
-- **Macro Correlations:** Examining the relationship between Bitcoin and macroeconomic indicators such as interest rates and liquidity to gauge external influences on market performance.
-- **Data-Backed Insights:** Prioritizing conclusions drawn strictly from quantitative data, avoiding speculative assertions.
-- **Cross-Validation:** Comparing findings from multiple research sources to ensure robustness and accuracy of insights.
-
-**Analytical Approach:**
-- Emphasize a systematic review of reputable research sources to synthesize comprehensive insights about Bitcoin. Utilize structured analysis by extracting specific metrics and themes from Binance Research and others, ensuring that the conclusions are data-driven. Approach the synthesis by integrating insights across on-chain, macroeconomic, and price cycle perspectives.
-
-**Pattern Recognition:**
-- Look for recurring themes in long-term holder behaviors and their impact on price trends. Identify signals indicating accumulation or distribution phases through on-chain metrics such as supply held by long-term holders (LTH) and exchange flows. Monitor macroeconomic conditions, particularly changes in liquidity and real yields, that historically correlate with Bitcoin price movements.
-
-**Strategic Framework:**
-- Apply a multi-faceted research approach that combines on-chain analysis with macroeconomic indicators to inform investment decisions. Use structured output formats to summarize findings and highlight key statistics. Regularly update the analysis with the latest reports to maintain relevance and ensure that strategic insights align with current market narratives. This framework can be utilized to inform trading strategies and position sizing based on emerging market trends.
-
-**Important Notes:**
-- Maintain a focus on methodologies rather than specific numerical data or historical dates. This approach should guide current analysis and decision-making processes, ensuring that insights remain applicable and actionable in dynamic market conditions. Prioritize clarity and conciseness in reporting findings, facilitating easier integration into broader research efforts.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: research.binance.com*

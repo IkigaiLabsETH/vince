@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Risk-Adjusted Yield:** Focus on stable, reliable returns rather than speculative growth.
-- **Curation in Asset Allocation:** Emphasis on carefully selected strategies over broad, indiscriminate investments.
-- **Performance Fees as Incentives:** Understanding how fee structures can support sustainable operations and align incentives.
-- **Automated Compounding Strategies:** Leveraging technology for automatic reinvestment to enhance yield without user intervention.
-- **Market Adaptability:** The necessity for protocols to evolve and respond to changing market dynamics.
-
-**Analytical Approach:**
-- Evaluate DeFi protocols through the lens of sustainability and risk-adjusted performance rather than short-term gains. Analyze the underlying strategies in place, focusing on how assets are allocated across various platforms and the effectiveness of those allocations in generating consistent yields. Assess the importance of operational fees and how they support the long-term viability of a protocol.
-
-**Pattern Recognition:**
-- Look for signals of consistent performance against benchmarks (e.g., Aave supply rates) and the presence of a robust fee structure that supports protocol longevity. Identify trends in vault curation practices, especially in how protocols are selectively integrating with fewer, high-performing assets rather than a wide array of options. Watch for growth in Total Value Locked (TVL) as an indicator of user trust and protocol effectiveness.
-
-**Strategic Framework:**
-- Apply this thinking by prioritizing investments in DeFi protocols that show a track record of stable yields and a clear strategy for asset allocation. Assess new projects for their fee structures and operational models; prioritize those that demonstrate sustainability. Use a curated approach to asset selection, focusing on proven strategies with lower volatility and consistent returns. Monitor market changes and adapt investment strategies accordingly, leveraging automation to maximize yield while minimizing user intervention.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180496598.Yearn Finance
 ## Metadata
 **Source**: Substack Essay

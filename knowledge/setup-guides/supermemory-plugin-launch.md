@@ -4,11 +4,6 @@
 **Word Count**: 568
 **Tags**: #user-submitted #direct-input #chat
 
-> **📌 Knowledge Base Note**
-> 
-> These documents are optimized for RAG: use for **frameworks and context**, not for current data. Numbers and dates are illustrative—check actions/APIs for live data.
-
----
 
 # Supermemory Plugin for Claude Code: Persistent AI Memory Infrastructure
 

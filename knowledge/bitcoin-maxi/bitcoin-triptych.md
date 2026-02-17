@@ -5,48 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Triptych Framework:** The division of Bitcoin's utility into three distinct categories: $BTC for saving, $MSTR for investing, and $STRC for earning.
-- **Decentralized Financial Ecosystem:** Understanding Bitcoin as part of a larger financial landscape that challenges traditional banking systems.
-- **Deflationary Asset Model:** Recognizing Bitcoin as a hedge against inflation, emphasizing its fixed supply and appreciation over time.
-- **Long-Term Commitment:** The philosophy of HODLing as a strategy for wealth preservation and growth.
-
-**Analytical Approach:**
-- **Holistic Financial Perspective:** Approach Bitcoin not just as a currency, but as a multifaceted asset with unique roles in savings, investment, and income generation. Analyze its impact on personal finance and wealth accumulation.
-- **Contextual Analysis:** Situate Bitcoin’s performance within broader economic trends, such as inflation, geopolitical events, and fiat currency dynamics. Use these contexts to assess its value proposition.
-
-**Pattern Recognition:**
-- **Adoption Metrics:** Monitor increases in Bitcoin adoption rates, network activity, and institutional interest as predictors of its potential value.
-- **Market Sentiment:** Look for shifts in investor sentiment towards cryptocurrencies, particularly during economic downturns or inflationary crises, which may signal increased demand for Bitcoin as a safe haven.
-- **Policy Changes:** Keep an eye on regulatory developments and central bank actions that may influence Bitcoin's utility as a savings vehicle.
-
-**Strategic Framework:**
-- **Portfolio Diversification:** Integrate Bitcoin into investment portfolios with a clear understanding of its roles—allocate funds into $BTC for savings, consider $MSTR for growth investment, and explore $STRC for generating yield.
-- **Long-Term Visioning:** Encourage a mindset that prioritizes long-term financial goals over short-term trading strategies, fostering resilience against market volatility.
-- **Empowerment Through Knowledge:** Equip individuals with the understanding of Bitcoin’s mechanics and market behavior, enabling them to make informed decisions about their financial futures.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # The Bitcoin Triptych: $BTC is for Saving, $MSTR is for Investing, $STRC is for Earning
 
 A simple yet profound mantra has emerged among Bitcoin enthusiasts and investors: **"$BTC is for saving. $MSTR is for investing. $STRC is for earning."**

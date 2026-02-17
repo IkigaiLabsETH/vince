@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Restaking Overview
 
-## Methodology & Framework
-
-This file covers restaking from first principles: what problem it solves, how EigenLayer architected the solution, and where the ecosystem stands today. The framework evaluates restaking through the lens of **capital efficiency** (reusing staked ETH security), **network effects** (AVS adoption flywheel), and **risk-adjusted yield** (incremental return vs. incremental risk). Sources include EigenLayer documentation, on-chain data, and protocol governance discussions.
-
----
-
 ## What Is Restaking?
 
 Restaking allows already-staked ETH (or LSTs like stETH) to be "re-pledged" as security for additional protocols beyond Ethereum's consensus layer. The core insight: Ethereum validators collectively secure ~$50B+ in staked ETH, but that security only protects Ethereum L1. Restaking lets other protocols tap into this economic security pool without bootstrapping their own validator sets from scratch.

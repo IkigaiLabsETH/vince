@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Automated Options-Selling Vaults:** A conceptual model for creating investment products that automate trading strategies, specifically in options markets.
-- **Market Neutrality:** The strategy of engaging in trades that aim to eliminate market risk while capitalizing on inefficiencies.
-- **Bifurcation of Exposure:** Splitting assets into different vaults or strategies to optimize returns based on varying market conditions.
-- **Tokenless Trading Venues:** Platforms that operate without governance tokens, focusing on efficiency and trading fees.
-- **Systematic Execution:** The principle of implementing strategies with precision and consistency, minimizing user intervention.
-
-**Analytical Approach:**
-- Adopt a **systematic mindset** that prioritizes automation and efficiency in financial products. Evaluate existing models critically to identify gaps and inefficiencies. Approach potential innovations by considering user experience and operational simplicity, ensuring that solutions do not overcomplicate user engagement.
-
-**Pattern Recognition:**
-- Monitor for signs of **inefficiency in trading venues**, such as discrepancies in funding rates and trading volumes. Look for emerging platforms that simplify user interactions while providing robust returns. Recognize the introduction of governance tokens and anticipate their impact on market dynamics, especially concerning potential airdrops.
-
-**Strategic Framework:**
-- When assessing new investment opportunities or product designs, apply a **three-tier framework**: 
-  1. **Identify Market Inefficiencies:** Analyze existing products or platforms for areas that lack efficiency.
-  2. **Design for Automation:** Create solutions that automate complex processes, making them accessible to the average user while retaining sophistication.
-  3. **Evaluate User Engagement:** Ensure that products require minimal babysitting from users, focusing on a seamless experience that encourages participation.
-
-**Important Notes:**
-- Emphasize methodologies over specific market metrics; focus on frameworks that guide decision-making rather than historical data.
-- Strive for actionable insights that can be applied to current market scenarios, ensuring relevance in a rapidly evolving landscape.
-- Maintain conciseness and clarity to facilitate understanding and implementation of these strategies.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180787201.The Perp Mirror
 ## Metadata
 **Source**: Substack Essay

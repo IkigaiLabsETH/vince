@@ -157,45 +157,6 @@ And until the next time the conditions line up exactly the same way—higher hig
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-1. **Market Sentiment Dynamics:** Understanding the role of external communications (e.g., political statements) in triggering market reactions.
-2. **Leverage Impact Analysis:** Evaluating the effects of high leverage within trading environments and its potential to create cascading failures.
-3. **Narrative Dissection:** Analyzing prevailing narratives post-event to identify misconceptions or false causations.
-4. **Market Structure Awareness:** Recognizing how order book dynamics and market-maker behavior can exacerbate or mitigate volatility.
-
-**Analytical Approach:**
-- Employ a **holistic view** of market conditions leading up to significant events. Analyze not just the triggers (e.g., tweets) but also the underlying market structure, leveraging conditions, and sentiment indicators to forecast potential volatility.
-- Use **event-driven analysis** to dissect the timeline of critical incidents. Identify phases of market buildup, triggering events, and subsequent fallout to enhance predictive capabilities for future occurrences.
-
-**Pattern Recognition:**
-- Look for **confluence of factors** before significant market events: excessive leverage, thin liquidity, and high sentiment can serve as early warning signals for potential crashes.
-- Monitor **social media and narrative shifts** following market events to discern the accuracy of prevailing explanations and to identify potential scapegoating or misinformation.
-
-**Strategic Framework:**
-- Apply a **risk assessment model** that incorporates leverage ratios, market sentiment, and external noise to guide trading strategies. For instance, when leverage exceeds a certain threshold combined with negative sentiment, consider mitigating exposure.
-- Develop a **post-event debrief protocol** to analyze market reactions and narratives critically. This should include a review of the accuracy of initial explanations and the identification of patterns that could inform future strategies.
-
-**Important Notes:**
-- Focus on understanding the interplay between market conditions and external announcements to enhance predictive accuracy.
-- Extract actionable insights from past events, emphasizing the need to remain vigilant about market structures and trader psychology.
-- Ensure methodologies remain adaptable to evolving market environments and external influences.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 ## Bitcoin's Post-10/10 Paradox
 
 ### The Contradiction

@@ -21,49 +21,6 @@ The rest is the greatest corporate resurrection story ever told.
 
 ---
 
-## Methodology & Framework
-
-## Main
-
-**Key Concepts:**
-- **Digital Bearer Assets**: Understanding the role of cryptocurrencies, particularly Bitcoin, as a hedge against inflation and a means of preserving value.
-- **Corporate Resilience**: The concept of adapting business strategies in response to existential threats, emphasizing bold decision-making during crises.
-- **Risk vs. Reward Assessment**: Evaluating the balance between conventional investment strategies and innovative, higher-risk alternatives in uncertain economic environments.
-
-**Analytical Approach:**
-- Embrace a **first-principles thinking** method to dissect financial challenges. Start from fundamental truths (e.g., inflation eroding cash value) and build innovative solutions (e.g., investing in Bitcoin).
-- Utilize a **scenario analysis** framework to evaluate potential outcomes of various investment strategies, considering both traditional assets and digital currencies.
-- Conduct regular **stress tests** on corporate financial strategies to assess resilience under extreme market conditions and prepare for rapid shifts in the business landscape.
-
-**Pattern Recognition:**
-- Identify trends indicating a shift in investor sentiment toward alternative assets during economic downturns. Look for signs of traditional asset classes losing value or failing to meet inflationary pressures.
-- Monitor regulatory developments around cryptocurrencies, which can signal broader acceptance or potential backlash, affecting market dynamics.
-- Watch for corporate movements, such as treasury reallocations into digital assets, as indicators of confidence in cryptocurrency as a long-term value store.
-
-**Strategic Framework:**
-- Apply a **"fight or die" mentality** when faced with critical business decisions. Evaluate all options thoroughly but be prepared to take decisive action that may deviate from the norm.
-- Develop a **treasury reserve strategy** that includes a diversified approach to asset allocation, integrating traditional assets with emerging digital currencies.
-- Foster a culture of **innovation and agility** within teams, encouraging open discussions about unconventional strategies and empowering leaders to challenge the status quo.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 The house was dark except for the blue-white glow of three monitors.
 
 Fairfax County, Virginia. July 2020. 3:17 a.m.

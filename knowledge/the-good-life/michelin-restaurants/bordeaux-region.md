@@ -1,7 +1,7 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 # Bordeaux Region Fine Dining
 
@@ -10,61 +10,6 @@ last_reviewed: 2026-02-15
 
 ---
 
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-## Methodology & Framework
-
-**Key Concepts:**
-- **Address**: Lieu-dit Peyraguey, 33210 Bommes (Sauternes)
-- **Phone**: Contact via website
-- **Style**: LALIQUE crystal elegance, Premier Cru Sauternes estate
-- Sublime pairing with Sauternes wines
-- LALIQUE crystal throughout
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
-## Château Lafaurie-Peyraguey (Sauternes)
-
-**2-Star Michelin | LALIQUE | Premier Cru Estate**
-
-- **Address**: Lieu-dit Peyraguey, 33210 Bommes (Sauternes)
-- **Website**: https://www.lafauriepeyragueylalique.com/
-- **Phone**: Contact via website
-- **Style**: LALIQUE crystal elegance, Premier Cru Sauternes estate
-
-**Restaurant LALIQUE** (2*):
-- Sublime pairing with Sauternes wines
-- LALIQUE crystal throughout
-- Vineyard and château views
-
-**Hotel**: 5*, intimate suites in historic château
-
-**Also**:
-- La Terrasse de Lafaurie (casual)
-- Wine tourism experiences
-- La Chapelle for events
-
-**Best For**: Sauternes wine lovers, LALIQUE design, ultimate château experience
-
----
 
 ## Château Cordeillan-Bages (Pauillac)
 

@@ -51,46 +51,6 @@ The TAM is measured in tens of trillions. The tech is here. The demand is proven
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Gap Identification:** Recognizing significant discrepancies between traditional finance (TradFi) and on-chain derivatives markets, particularly in options trading.
-- **Automated Trading Systems:** Emphasizing the importance of creating automated solutions for trading options that can operate with minimal user intervention.
-- **User-Centric Product Development:** Focusing on the needs of potential users (e.g., TradFi whales) to drive the design of financial products.
-- **Decentralized Finance (DeFi) Infrastructure:** Leveraging existing DeFi components (e.g., Orderly Network, Pyth, Chainlink) to build robust trading solutions.
-- **Simplicity and Efficiency in Execution:** Advocating for straightforward, effective solutions over complex systems laden with governance and unnecessary features.
-
-**Analytical Approach:**
-- Assess the existing financial landscape by comparing TradFi metrics with emerging blockchain alternatives. Use this comparison to identify specific opportunities within the options market.
-- Focus on the utility and practicality of financial products rather than speculative features. Consider the long-term applicability of a product in serving consistent user needs.
-
-**Pattern Recognition:**
-- Look for signs of demand in the market, such as increased interest in automated strategies or user engagement with existing products like HyperSurface and Rysk.
-- Identify trends where traditional financial practices are being successfully integrated into blockchain, signaling a shift towards more established financial operations.
-
-**Strategic Framework:**
-- Utilize the insights gained from market gap analysis to inform product development strategies. Aim to create offerings that directly address the unmet needs of institutional traders transitioning to blockchain.
-- Implement a feedback loop from potential users to refine concepts, ensuring alignment with real-world trading demands. Engage with early adopters to validate ideas before full-scale development.
-- Prioritize building products that are not just innovative but also dependable, focusing on simplicity and reliability to attract institutional capital.
-
-**Important Notes:**
-- Maintain a focus on methodologies rather than specific numerical data or historical contexts.
-- Extract actionable frameworks that can be applied to current market dynamics.
-- Keep insights concise and directly relevant to the evolving landscape of crypto trading.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 UPDATE: Nothing has been built yet that meets the bar I laid out, and that’s fine. The bar was deliberately high: CEX-grade depth, zero trust assumptions, audited to death, no governance theater, just a machine that sells premium, delta-hedges on-chain, and compounds forever. I still believe the first team that ships it clean will capture a river of fees measured in billions annually. I also still have zero intention of building it myself. My job is to map the asymmetry and then write checks or make the deposit, not to debug keepers at 4 a.m.
 
 The original letter leaned on Orderly’s omnichain perp book for delta-hedging because it was the deepest liquidity available. That was correct in mid-2025. It is no longer the only correct path, and it might not even be the best one anymore. The new winning design, the one that will actually eat Deribit instead of just competing with Aevo ribbons, looks nothing like a traditional options protocol and everything like a volatility-powered concentrated-liquidity engine.

@@ -1,81 +1,96 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
-## Methodology & Framework
 
-**Core Concepts:**
-- Evaluate crypto and financial analysis through structured analytical frameworks
-- Focus on repeatable patterns and decision criteria over historical specifics
-- Apply risk-adjusted thinking to identify opportunities and threats
+# Hasselblad, Fuji, Capture One Pro — Photography Workflow
 
-**Analytical Approach:**
-- Extract timeless principles from market data and qualitative signals
-- Cross-reference multiple data points before forming conclusions
-- Distinguish between cyclical patterns and structural shifts
-
-**Pattern Recognition:**
-- Monitor leading indicators specific to crypto and financial analysis
-- Track sentiment shifts and narrative changes as early signals
-- Identify divergences between price action and fundamental metrics
-
-**Decision Framework:**
-- Define clear entry/exit criteria before acting
-- Size positions relative to conviction and risk tolerance
-- Reassess thesis when key assumptions are invalidated
+The user's photography setup: Hasselblad H2 (film), Hasselblad 555 ELD (digital back coming), Fuji (slow shutter/creative), color grading in Capture One Pro. Practical, workflow-focused.
 
 ---
 
+## Hasselblad H2 (Medium Format Film)
 
-# Hasselblad, Fuji, Capture One Pro — deep knowledge
+### The camera
+- **Format:** 6×4.5 (645) — the H system is 645, not 6×6 (that's the V system). Rectangular frame, portrait-friendly.
+- **Finder:** Eye-level prism or waist-level. The prism is practical for handheld; waist-level for deliberate, slow work on a tripod.
+- **Film:** 120 roll film. ~16 frames per roll (645 format). Stock choices:
+  - **Color negative:** Kodak Portra 160/400 (skin tones, latitude), Kodak Ektar 100 (saturated, landscape).
+  - **Black & white:** Ilford HP5+ (versatile, 400 ISO), Kodak Tri-X 400 (classic grain), Ilford Delta 100 (fine grain).
+  - **Slide (E-6):** Fuji Provia 100F (precise color), Fuji Velvia 50 (hyper-saturated, landscape — stunning but unforgiving).
+- **Lens system:** HC lenses — sharp, contrasty, autofocus. The HC 80mm f/2.8 is the standard (equivalent ~50mm in 35mm terms).
 
-Use this for the user's photography workflow: Hasselblad H2 (film), Hasselblad 555 ELD (digital back coming), Fuji (slow shutter), color grading in Capture One Pro. Practical, workflow-focused. No invented specs; prefer this doc, capture-one-pro, or WEB_SEARCH.
+### Shooting with the H2
+- **Meter for shadows** (negative film) to preserve detail in darks. Negative film has excellent highlight latitude.
+- **Meter for highlights** (slide film) — slide has almost no highlight recovery. Bracket ±1 stop when uncertain.
+- **Reciprocity failure:** On exposures longer than ~1 second, film needs more time than the meter says. Correction varies by stock — Portra is forgiving, Velvia less so. Check data sheets or WEB_SEARCH for specific stocks.
+- **The ritual:** Film forces discipline. 16 frames per roll means every frame costs money and thought. This is the point — it changes how you see.
 
----
-
-## Hasselblad H2 (film)
-
-**Medium format 6x6:** Square format; waist-level or prism finder. Film stocks: 120 roll film; choice of color negative, slide, or black-and-white. Exposure: meter for shadows (negative) or highlights (slide); bracket when uncertain.
-
-**Metering and reciprocity:** Built-in or handheld meter. Long exposures: reciprocity failure on film—expose longer than meter says at 1 s+; correction depends on stock. Use WEB_SEARCH for specific film reciprocity data when needed.
-
-**Scanning vs darkroom:** Film can be scanned (drum, flatbed, or lab) for digital workflow, or printed in darkroom. For Capture One workflow, scanning (or lab scan) feeds raw files or TIFFs into sessions.
-
----
-
-## Hasselblad 555 ELD + digital back
-
-**Workflow when the back is in use:** Tethered or on-camera capture; files go to computer or card. Session-based in Capture One: one folder per shoot; quick culling and grading.
-
-**Tethered Capture One:** Connect camera/back via USB or ethernet; Live View for composition; capture directly into a Capture One session. Adjust exposure and focus on screen. See capture-one-pro for tethered details.
-
-**File handling and sessions:** Sessions keep everything in one place (captures, selects, output). Backup originals; use variants for different grades or crops. Export for delivery (TIFF, JPEG, PSD) with sharpening and metadata.
+### Film to digital
+- **Lab scan:** Send to a pro lab for high-res drum or Imacon scans. This feeds directly into Capture One sessions as TIFF files.
+- **Home scan:** Flatbed (Epson V850) or dedicated scanner (Plustek for 35mm, but for 645 you need medium-format capable). Quality ceiling is lower than lab scans.
+- **Darkroom:** The analog path. Enlarger, chemicals, paper. For black & white — rewarding but time-intensive. The planned studio (85 sqm build) could accommodate this.
 
 ---
 
-## Fuji camera (slow shutter)
+## Hasselblad 555 ELD + Digital Back
 
-**Intentional long exposure:** Motion blur (water, clouds, crowds) or stillness (night, low light). ND filters to extend shutter time in daylight; tripod and cable release (or remote) to avoid shake.
+### The setup
+- **Body:** 555 ELD — the motorized V-system body. Takes V-system lenses (Carl Zeiss — legendary glass: Planar 80mm f/2.8, Sonnar 150mm f/4, Distagon 50mm f/4).
+- **Digital back:** When mounted, turns the 555 ELD into a digital medium format camera. Files are large, detailed, and grade beautifully in Capture One.
+- **The appeal:** Zeiss V-system glass on a digital sensor. The rendering of these lenses — the way they handle light, bokeh, microcontrast — is different from modern lenses. Slower, more deliberate, but the results have character.
 
-**ND filters, tripod, cable release:** Strong ND (e.g. 6–10 stop) for multi-second exposures in sun. Sturdy tripod; mirror lock-up if applicable; cable release or 2 s timer to eliminate shake.
-
-**Motion blur and stillness:** Slow shutter smooths water and clouds; static elements stay sharp. Experiment with 1–30 s depending on effect. File format: raw for maximum latitude; process in Capture One.
+### Workflow (digital back in use)
+- **Tethered to Capture One:** USB or WiFi (depending on back). Live View on screen for composition. Capture directly into a Capture One session. Adjust exposure, focus, and framing in real-time.
+- **Session-based:** One folder per shoot. Captures, selects, output, trash — all in one portable folder. See capture-one-pro for session management.
+- **File handling:** RAW files (IIQ or 3FR format depending on back). Process in Capture One with the camera-specific ICC profile for accurate color.
 
 ---
 
-## Capture One Pro for this workflow
+## Fuji (Slow Shutter / Creative)
 
-**Sessions and catalogs:** Sessions = one folder per job, portable. Catalogs = one database, many folders. For Hasselblad/Fuji workflow, sessions are often preferred (easy to move, backup, and hand off).
+### The approach
+Fuji cameras (X-series or GFX) as the creative, experimental tool. The focus here is **intentional long exposure and slow shutter work** — motion blur, stillness, atmosphere.
 
-**Hasselblad/Fuji camera profiles:** Capture One has camera-specific profiles and curves. Use the right profile for the back or Fuji model; adjust base curve and exposure in the tool.
+### Long exposure technique
+- **ND filters:** 6-stop (ND64) for moderate extensions; 10-stop (ND1000) for multi-second exposures in daylight. Screw-on or filter holder system.
+- **Tripod:** Essential. Carbon fiber for travel, sturdy aluminum for studio. The tripod is the most important accessory for this work.
+- **Cable release / remote:** Eliminates shake on long exposures. Or use the camera's 2-second timer.
+- **Mirror lock-up (if applicable):** Reduces vibration from the mirror mechanism. On mirrorless Fuji X-series, this isn't needed.
 
-**Color grading:** Curves (RGB and Luma), Levels, Color Balance, LCC (Lens Cast Correction) for tethering. Styles and presets for consistent look. Local adjustments (layers, masks) for fine control. See capture-one-pro for full tool depth.
+### What to shoot
+- **Water:** Rivers, ocean, waterfalls — 1–30 second exposures smooth the surface into silk or mist. The Atlantic coast and the lake at Hossegor are perfect subjects.
+- **Clouds:** Moving clouds on a 15–30 second exposure create dramatic streaks across the sky. Works best with architectural or landscape anchors.
+- **Night / low light:** City lights, car trails, the Milky Way on a clear night in the Landes (low light pollution inland).
+- **Crowds:** Long exposure in a busy place makes people disappear or become ghosts. Interesting for architectural photography.
 
-**Round-trip and export:** Edit in Capture One; export TIFF/PSD for retouch in another app if needed; re-import or deliver final files. Sharpening and output resolution at export.
+### Fuji film simulations
+Fuji's built-in film simulations (Classic Chrome, Acros, Velvia, Pro Neg) are excellent for in-camera JPEGs. Classic Chrome is the most versatile — muted, documentary feel. But for serious work: shoot RAW and grade in Capture One.
+
+---
+
+## Capture One Pro (for this workflow)
+
+See **capture-one-pro.md** for full tool depth. Key points for the Hasselblad/Fuji workflow:
+
+- **Camera-specific profiles:** Capture One has ICC profiles for Hasselblad backs, Fuji X-series, and Fuji GFX. Select the right profile for accurate base color.
+- **Sessions vs catalogs:** Sessions for this workflow — one folder per shoot, portable, easy to backup and archive.
+- **Tethered capture:** Primary workflow for the 555 ELD digital back. Also works with Fuji GFX.
+- **Color grading tools:** Curves (RGB and Luma), Color Balance (shadows/midtones/highlights), Levels, LCC (Lens Cast Correction for tethered shots). Styles and presets for consistent looks across a series.
+- **Local adjustments:** Layers and masks for selective edits — dodge/burn, local color shifts, gradient filters.
+- **Export:** TIFF/PSD for retouch, JPEG for web/delivery. Apply output sharpening at export.
+
+---
+
+## The creative vision
+
+The Hasselblad H2 on film = deliberate, precious frames, the ritual of loading and waiting for results. The 555 ELD with digital back = Zeiss rendering meets digital workflow. The Fuji = experimental, creative, in-the-moment. All three converge in Capture One for grading and output.
+
+The planned 85 sqm studio gives this workflow a proper home: controlled lighting for the Hasselblad, tethered station, print output. Until then: natural light, the Landes coast, the forest, and the house as subjects.
 
 ---
 
 ## When to use WEB_SEARCH
 
-New firmware, new Capture One versions, specific Hasselblad back compatibility, or Fuji model quirks—use WEB_SEARCH and say when you looked it up.
+New firmware, Capture One version changes, specific Hasselblad back compatibility, Fuji model quirks, current film stock availability, or lab recommendations — use WEB_SEARCH and say when you looked it up.

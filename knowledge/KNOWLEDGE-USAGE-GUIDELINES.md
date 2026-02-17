@@ -5,26 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Knowledge Base Usage Guidelines
 
-## Methodology & Framework
-
-**Key Concepts:**
-- ❌ "According to knowledge, BTC funding is 0.05%" (outdated number)
-- ✅ "Knowledge explains how to interpret TVL/MCap ratios - here's the methodology..."
-- ❌ "According to knowledge, Ethereum TVL is $50B" (outdated number)
-- ✅ "Knowledge explains how funding rates should inform strike distance - here's the framework..."
-- ❌ "According to knowledge, BTC 7-day IV is 45%" (outdated number)
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
 ## 🎯 Core Principle
 
 **The knowledge base provides THINKING FRAMEWORKS and METHODOLOGIES, NOT current data.**

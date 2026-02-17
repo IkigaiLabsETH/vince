@@ -5,32 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # AI x Crypto: Convergence Overview
 
-## Methodology & Framework
-
-### Core Concepts
-- **Inference markets**: Decentralized networks where AI compute is bought/sold via tokens, creating price discovery for intelligence
-- **GPU tokenization**: Fractional ownership or access rights to GPU clusters, enabling permissionless compute access
-- **Decentralized compute**: Networks like Render, Akash, io.net that aggregate idle GPU supply against growing AI demand
-- **Agent economies**: Autonomous AI agents transacting on-chain — trading, paying for services, coordinating without human intermediaries
-- **Symbiosis thesis**: Crypto provides rails AI needs (payments, identity, coordination); AI provides intelligence crypto needs (automation, analysis, UX)
-
-### Analytical Approach
-Evaluate AI x crypto projects on two axes: (1) does the crypto component solve a real problem for AI, and (2) does the AI component create genuine on-chain value? Most projects fail both tests. The intersection is real but narrow — focus on where decentralization is a feature, not a handicap.
-
-### Pattern Recognition
-- Narrative cycles: AI tokens pump on OpenAI news regardless of on-chain relevance
-- Infrastructure leads applications: compute networks have real demand; agent tokens are mostly speculative
-- The "decentralize everything" fallacy: centralized inference is cheaper and faster for 95% of use cases
-- Value accrues to scarce resources: GPU access > middleware > application layers
-
-### Decision Framework
-1. Is there real compute demand or just token speculation?
-2. Does decentralization add value or just latency?
-3. What's the moat — network effects, supply locks, or just narrative?
-4. Revenue vs emissions: is the protocol self-sustaining?
-
----
-
 ## Why Crypto Needs AI
 
 Crypto's UX is terrible. Smart contracts are rigid. DeFi requires constant human attention. AI fixes all three. Natural language interfaces make wallets usable. AI agents can manage DeFi positions, rebalance portfolios, and execute complex strategies 24/7. More fundamentally, AI enables *adaptive* protocols — systems that respond to conditions rather than following static rules.

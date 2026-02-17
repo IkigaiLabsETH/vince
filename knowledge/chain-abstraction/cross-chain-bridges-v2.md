@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Cross-Chain Bridges V2
 
-## Methodology & Framework
-
-Bridge architectures are evaluated on three dimensions: **security model** (what can go wrong and who loses money?), **capital efficiency** (how much liquidity must be locked to facilitate transfers?), and **speed** (time from user action to confirmed delivery). The evolution from V1 lock-and-mint to V2 intent-based designs represents a fundamental rethinking of all three.
-
----
-
 ## The V1 Era: Lock-and-Mint
 
 First-generation bridges followed a simple pattern: lock assets on the source chain, mint synthetic representations on the destination. Wrapped Bitcoin (WBTC), Multichain (formerly AnySwap), and Ronin Bridge all used variants of this model.

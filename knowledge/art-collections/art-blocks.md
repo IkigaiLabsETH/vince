@@ -1,42 +1,8 @@
 ---
 tags: [nft, art, collections]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
-
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-## Methodology & Framework
-
-**Key Concepts:**
-- **Engine**: Full on-chain generative art with code stored entirely in the smart contract
-- **For Artists**: Work is accessible as long as Ethereum persists
-- **For Institutions**: Code can be pulled directly from the blockchain for preservation and study
-- **Artist**: Snowfro (Erick Calderon)
-- **Year**: 2020
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
-# Art Blocks
 
 ## Overview
 
@@ -167,7 +133,6 @@ Art Blocks has fundamentally changed how generative art is created, collected, a
 - Documentation: https://docs.artblocks.io
 - On-chain Generator: https://www.artblocks.io/marketplace/onchain
 - Contract: 0xa7d8d9ef8D8Ce8992Df33D8b8CF4Aebabd5bD270 (Art Blocks Core)
-
 
 ## Related
 

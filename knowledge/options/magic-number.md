@@ -5,45 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Option Selling Strategies:** Understanding the wheel strategy and its adaptation for different markets, particularly in volatile environments.
-- **Implied Volatility (IV):** Utilizing high IV in crypto markets to maximize premium income while managing risk.
-- **Market Fundamentals:** Emphasizing the importance of underlying asset performance and market resilience during downturns.
-- **Risk Management:** Balancing position sizing and drawdown strategies to protect capital while seeking income.
-
-**Analytical Approach:**
-- **Comparative Yield Analysis:** Evaluate the yield of option strategies across different assets, focusing on the relationship between implied volatility and potential returns. This involves comparing premium income opportunities in crypto against traditional assets like BTC.
-- **Scenario Planning:** Develop multiple scenarios based on market conditions (e.g., bear vs. bull) to anticipate changes in asset performance and adjust strategies accordingly.
-
-**Pattern Recognition:**
-- **Market Rebound Signals:** Identify technical indicators that suggest potential reversals, such as double bottoms or significant support levels. Monitor the volume and momentum of trades to confirm these signals.
-- **Premium Fluctuations:** Track changes in option premiums related to strike prices and market movements, which can indicate shifts in trader sentiment and market conditions.
-
-**Strategic Framework:**
-- **Dynamic Position Management:** Adapt your strategies based on real-time market conditions. This includes adjusting strike prices and rolling options to optimize premium income while managing risk exposure.
-- **Long-Term Thesis Alignment:** Ensure that your trading decisions align with a robust long-term investment thesis to maintain conviction during volatility. This involves continuous evaluation of market fundamentals and the asset's potential growth trajectory.
-
-**Important Notes:**
-- Focus on developing a mindset that prioritizes strategy over specific metrics or historical data.
-- Extract actionable insights that can be applied in various market environments, particularly in dynamic and volatile asset classes.
-- Maintain a concise and flexible approach that allows for quick adjustments based on market signals and personal risk tolerance.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 I saw this post on X the other day and it hit hard:
 
 “$500,000 is the magic number.

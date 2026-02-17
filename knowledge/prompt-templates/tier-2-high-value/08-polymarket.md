@@ -81,44 +81,5 @@ last_reviewed: 2026-02-15
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Prediction Markets**: Utilize active markets to gauge sentiment on various crypto and macroeconomic events.
-- **Time Horizon Categorization**: Segment analysis into short-term, mid-term, and long-term to align trading decisions with market expectations.
-- **Sentiment Scoring**: Translate market odds into a sentiment score to facilitate actionable insights.
-
-**Analytical Approach:**
-- Start by identifying the relevant prediction markets for cryptocurrencies and macro events. Employ a structured data-gathering approach using specific queries to extract current market conditions and probabilities.
-- Utilize comparative analysis by averaging probabilities across similar markets to develop a comprehensive view of sentiment. This enables a clearer understanding of market expectations.
-- Implement a scoring system (0–100) to quantify sentiment, providing a straightforward metric that helps in making informed trading decisions.
-
-**Pattern Recognition:**
-- Look for consistent trends in market probabilities across different time horizons. High probabilities in short-term markets may indicate immediate bullish or bearish sentiment, while mid-term and long-term signals can reveal broader market expectations.
-- Identify significant shifts in sentiment scores that may correlate with upcoming regulatory events or macroeconomic changes, which can serve as leading indicators for market movements.
-
-**Strategic Framework:**
-- Integrate findings from prediction market analyses into a broader trading strategy that considers risk tolerance and market conditions. Use sentiment scores as a filter for trade selection, focusing on high-probability events while maintaining awareness of potential market volatility.
-- Regularly update and assess sentiment snapshots to adapt strategies in real-time, ensuring alignment with evolving market dynamics. This ongoing evaluation will optimize decision-making processes, particularly for time-sensitive trades such as options.
-
-**Important Notes:**
-- Emphasize the methodology of extracting and interpreting market sentiment rather than focusing on historical numerical data.
-- Strive for actionable insights that can be applied to current market situations, enabling proactive and informed trading strategies.
-- Keep the approach flexible to accommodate new data and changing market conditions while adhering to the structured framework outlined.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*

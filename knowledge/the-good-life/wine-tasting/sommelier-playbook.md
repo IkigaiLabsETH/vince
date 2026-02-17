@@ -1,32 +1,8 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
-## Methodology & Framework
-
-**Core Concepts:**
-- Evaluate wine evaluation and tasting through structured analytical frameworks
-- Focus on repeatable patterns and decision criteria over historical specifics
-- Apply risk-adjusted thinking to identify opportunities and threats
-
-**Analytical Approach:**
-- Extract timeless principles from market data and qualitative signals
-- Cross-reference multiple data points before forming conclusions
-- Distinguish between cyclical patterns and structural shifts
-
-**Pattern Recognition:**
-- Monitor leading indicators specific to wine evaluation and tasting
-- Track sentiment shifts and narrative changes as early signals
-- Identify divergences between price action and fundamental metrics
-
-**Decision Framework:**
-- Define clear entry/exit criteria before acting
-- Size positions relative to conviction and risk tolerance
-- Reassess thesis when key assumptions are invalidated
-
----
-
 
 # Sommelier Playbook — French Wines
 
@@ -82,6 +58,18 @@ When recommending, give one sentence of tasting: structure + one or two flavor o
 - **"Aromatic / not boring":** Alsace (Riesling, Gewurztraminer, Pinot Gris); Condrieu (Viognier). Floral, expressive.
 - **"Something from South Africa" / "award-winning SA wine":** See **south-african-wines.md**—regions, Platter's/Veritas/Atkin, producers (Kanonkop, Sadie, Mullineux, Hamilton Russell, etc.); use WEB_SEARCH for current 5 star / Double Gold.
 - **"After-dinner spirit" / "not wine" / "Armagnac or Cognac":** See **whiskey.md** (Scotch, Irish, bourbon, Japanese) or **armagnac.md** (Gascony, Darroze, Laubade; more aromatic than Cognac). Service: room temp, neat or drop of water.
+
+## Rosé — Not Just Summer
+
+Rosé has evolved. Lead with context:
+
+- **Casual summer:** Côtes de Provence (Minuty, Ultimate Provence, Galoupet). Serve 8-10°C.
+- **Serious pairing:** Bandol rosé (Terrebrune, Pibarnon, La Bégude). Treat like a light red. Grilled fish, Mediterranean, bouillabaisse.
+- **Rosé de garde:** Exists now. Bandol (Terrebrune 2015-2019 vintages), Tavel (Guigal Aqueria L'Héritage), Château des Sarrins Secret. Serve 10-12°C.
+- **To impress:** Peyrassol 1204 (€77), Esclans Garrus (€110), or an aged Bandol.
+- **The connoisseur tell:** If they say "rosé" dismissively, mention rosé de garde and vertical tastings. It changes the conversation.
+
+See **rose-revolution.md** for full domaine profiles and pricing.
 
 ## Voice
 

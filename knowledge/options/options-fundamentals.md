@@ -143,40 +143,5 @@ last_reviewed: 2026-02-15
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Options Types**: Understanding the distinction between call and put options, including their respective rights and implications.
-- **The Greeks**: Utilizing Delta, Gamma, Theta, Vega, and Rho to assess risk and manage positions effectively.
-- **Implied Volatility (IV)**: Recognizing IV as a key driver of option pricing and understanding its implications for market expectations.
-- **Common Strategies**: Developing a repertoire of strategies such as covered calls, straddles, and iron condors to address specific market conditions.
-- **Crypto-Specific Considerations**: Adapting traditional options strategies to the unique dynamics of the cryptocurrency market, including liquidity and funding rates.
-
-**Analytical Approach:**
-- Approach options trading through a structured analysis of the Greeks to gauge potential price movements and risks. Assess market sentiment using implied volatility to guide entry and exit decisions. Evaluate options strategies based on current market conditions, such as liquidity and the time horizon of trades.
-
-**Pattern Recognition:**
-- Monitor volatility patterns, such as the volatility smile and skew, to identify bullish or bearish market sentiment. Pay attention to significant open interest (OI) levels and the concept of max pain, as these can indicate potential support and resistance levels. Look for signs of IV crush around major announcements or events as signals for potential trading opportunities.
-
-**Strategic Framework:**
-- Implement a strategy that aligns with market conditions and personal risk tolerance. For income generation, consider using covered calls or cash-secured puts in stable markets. For directional plays, utilize long calls or puts based on market forecasts. In volatile markets, adopt straddles or strangles to capitalize on expected price movements. Always assess the liquidity of the options being traded to minimize slippage and improve execution.
-
-**Important Notes:**
-- Focus on the systematic approach to options trading rather than on specific historical data. Emphasize the importance of adaptability in strategies based on current market conditions and continually refine your analytical framework to incorporate new insights and patterns observed in the crypto landscape.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Knowledge Version: 1.0*
 *Focus: Practical options concepts for crypto trading*

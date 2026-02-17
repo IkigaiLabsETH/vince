@@ -5,40 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Monetary Gravity:** The idea that economic conditions and monetary policy will inevitably influence asset valuations, particularly in non-traditional markets like cryptocurrencies.
-- **Market Sentiment Cycles:** Understanding the emotional and psychological drivers behind market movements, especially during extreme fear and greed phases.
-- **Price Regime Shifts:** Recognizing that traditional metrics and indicators may become obsolete as new economic paradigms emerge, particularly with the rise of digital assets.
-- **Forced Liquidation Events:** The concept that market conditions can lead to sudden and dramatic price drops or spikes resulting from the actions of market participants under financial stress.
-
-**Analytical Approach:**
-- Approach macroeconomic conditions with a focus on the interplay between traditional financial indicators (like Treasury yields) and emerging asset classes (like Bitcoin). Analyze how shifts in monetary policy can create environments conducive to dramatic asset price adjustments. Apply historical precedents to draw parallels with current market conditions, while remaining skeptical of outdated metrics.
-
-**Pattern Recognition:**
-- Look for signals such as extreme fluctuations in the Fear & Greed Index, significant movements in Treasury yields, and unusual trading volumes in cryptocurrencies. These indicators can signify potential turning points in market sentiment and price movements. Pay attention to macroeconomic announcements and their timing relative to market reactions, as they may signal underlying shifts in investor psychology.
-
-**Strategic Framework:**
-- When assessing current market situations, utilize a dual framework: first, gauge the macroeconomic environment for signs of monetary policy shifts; second, evaluate the resilience of digital assets against traditional financial pressures. Develop scenarios based on potential outcomes (e.g., extreme bullish or bearish movements) and prepare strategies that account for forced liquidation scenarios. Stay agile and ready to adapt to rapid changes in market conditions, focusing on the broader narrative rather than specific data points.
-
-**Important Notes:**
-- Emphasize methodologies that inform decision-making rather than relying on historical data or current prices. Develop a mindset that prioritizes understanding underlying economic principles and market psychology. Ensure the analytical frameworks are applicable to the evolving landscape of the macro-economy and digital asset markets.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180061933.Comical 11
 ## Metadata
 **Source**: Substack Essay

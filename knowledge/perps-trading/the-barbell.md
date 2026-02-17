@@ -5,43 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Barbell Strategy:** A portfolio allocation approach emphasizing a mix of high-safety assets (80% Bitcoin) and high-risk, high-reward opportunities (20% stablecoins).
-- **Survival Over Alpha:** Prioritize asset preservation and risk management over chasing high returns, acknowledging that many market participants have faced significant losses.
-- **Weekly Options Engine:** Utilizing options strategies to generate consistent cash flow, maximizing the utility of stablecoins.
-- **Conviction Angel Book:** Investing in projects with proven revenue and user bases, focusing on sustainability rather than speculative hype.
-- **Canonical Allocation:** A long-term asset allocation strategy that anticipates market trends and shifts in the crypto landscape.
-
-**Analytical Approach:**
-- Adopt a mindset of risk mitigation by prioritizing assets with a proven track record of survival, particularly in volatile markets. Evaluate investments not only on growth potential but also on their resilience against market downturns. 
-
-**Pattern Recognition:**
-- Monitor market signals reflecting unsustainable valuations akin to historical bubbles (e.g., ICOs, DeFi). Look for discrepancies in price-to-revenue ratios across major assets, drawing parallels with past market behavior (e.g., Amazon vs. crypto assets). Identify the emergence of on-chain businesses that demonstrate consistent revenue generation.
-
-**Strategic Framework:**
-- Apply the barbell strategy by ensuring a core holding of Bitcoin for stability, complemented by a tactical allocation to stablecoins for flexibility and opportunistic investments. When entering new positions, prioritize projects that have a verifiable business model and existing user engagement. Continuously reassess market dynamics, adjusting allocations based on survival odds and potential market shifts, such as the emergence of dominant players in open L1s and stablecoins.
-
-**Important Notes:**
-- Focus on frameworks and methodologies rather than specific historical data or current metrics. 
-- Use this approach to evaluate investments based on their long-term viability and market trends rather than short-term speculation.
-- Maintain a proactive stance in adjusting portfolio strategies in response to evolving market conditions, ensuring that risk management remains paramount.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180253564.The Barbell
 ## Metadata
 **Source**: Substack Essay

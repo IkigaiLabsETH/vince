@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Tokenized Assets:** Understanding the dynamics of tokenized equities and their liquidity challenges compared to traditional markets.
-- **On-Chain Trading Versus Traditional Finance (TradFi):** Analyzing the differences in trading mechanisms, liquidity, and hedging strategies across platforms.
-- **Slippage and Market Impact:** Recognizing the implications of trading large positions in illiquid markets and the associated risks.
-- **Decentralized Finance (DeFi) Integration:** Exploring the integration of traditional financial instruments in the DeFi space, such as options and futures.
-
-**Analytical Approach:**
-- **Market Assessment:** Evaluate the liquidity and trading volume of tokenized assets versus traditional equities. Use metrics like Total Value Locked (TVL) and secondary trading volumes to gauge market depth and slippage risks.
-- **Scenario Analysis:** Conduct scenario planning based on market conditions that affect trading strategies (e.g., interest rate changes, macroeconomic trends). Assess how these scenarios influence the feasibility of hedging strategies and the choice of trading venues.
-
-**Pattern Recognition:**
-- **Liquidity Signals:** Identify signs of liquidity such as changes in TVL, trading volume spikes in tokenized equities, or emerging platforms gaining traction. Look for shifts in sentiment that may indicate greater market participation.
-- **Hedging Opportunities:** Monitor the development of new financial instruments in DeFi that could offer hedging capabilities, such as synthetic products or decentralized options protocols.
-
-**Strategic Framework:**
-- **Investment Strategy Development:** Craft a strategy that balances exposure to tokenized assets with adequate risk management through diversified platforms and instruments. Develop a tiered approach for position size based on liquidity assessments.
-- **Continuous Monitoring:** Implement a system for regularly reviewing market conditions, liquidity metrics, and emerging DeFi protocols to stay ahead of trading opportunities and risks.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise and relevant to evolving market dynamics.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182197762.Slippage
 ## Metadata
 **Source**: Substack Essay

@@ -21,44 +21,6 @@ We're Bitcoin maxis at core, but we track majors (SOL, ETH, HYPE) and keep an op
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Cap Analysis:** Assess altcoins based on their market capitalization, focusing on those in the top 100 that hold strategic or cultural significance.
-- **Narrative Evaluation:** Understand the underlying narratives that contribute to an altcoin's relevance (e.g., memecoin culture, DeFi innovations).
-- **Fundamental Assessment:** Evaluate the technical fundamentals and institutional interest surrounding altcoins to gauge their potential for growth.
-
-**Analytical Approach:**
-- **Open-Minded Tracking:** Maintain a Bitcoin-centric perspective while actively tracking select altcoins for their potential to outperform BTC during altcoin cycles. This requires a balance of skepticism and openness to new data and trends.
-- **Qualitative Analysis:** Incorporate qualitative factors such as community sentiment, market narratives, and influential endorsements (e.g., notable figures like Elon Musk or Raoul Pal) to inform decisions.
-
-**Pattern Recognition:**
-- **Momentum Indicators:** Look for rapid adoption and market performance as signals for up-and-coming altcoins (e.g., those breaking into the top 100 quickly).
-- **Cultural Relevance:** Monitor the ongoing cultural narratives surrounding tokens, especially in the context of memes or significant events that could impact investor sentiment.
-
-**Strategic Framework:**
-- **Diversification within Altcoins:** Develop a diversified watchlist of altcoins that align with current market narratives and technological advancements. This includes a mix of established projects and emerging ones with strong fundamentals.
-- **Continuous Monitoring:** Regularly update and assess the watchlist based on market movements, technological developments, and shifts in investor sentiment to adapt strategies accordingly.
-
-**Important Notes:**
-- Focus on methodologies and frameworks rather than specific historical data or metrics.
-- Utilize this framework to guide investment decisions and analyses, prioritizing the understanding of trends, narratives, and fundamental strengths.
-- Ensure applicability to current market conditions by remaining adaptable and open to emerging information.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 ### $LINK (Chainlink)
 
 **Why We Care:** Loved by Bitwise and will get ETF. Chainlink is the leading oracle network with strong fundamentals and growing institutional interest, including ETF potential.

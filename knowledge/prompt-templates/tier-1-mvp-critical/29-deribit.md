@@ -136,44 +136,6 @@ Based on ATM IV:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Options Chain Analysis**: Understanding the components of an options chain, including bid/ask prices, open interest, volume, and implied volatility.
-- **Implied Volatility Surface**: Analyzing the IV surface to gauge market sentiment and identify skew patterns between calls and puts.
-- **Open Interest Clusters**: Identifying significant open interest levels to locate potential price support/resistance zones.
-- **Expected Move Calculation**: Using ATM IV to estimate potential price movement over a defined timeframe.
-- **Probability Distribution**: Assessing the likelihood of price staying within certain ranges based on volatility metrics.
-
-**Analytical Approach:**
-To effectively analyze options data, prioritize a structured extraction of key metrics from the Deribit API. Start with the options chain for the closest expiry and systematically gather information on strikes, open interest, volume, and Greeks. This data forms the foundation for deeper analysis of market sentiment and potential price movements. Engage in comparative analysis of the IV surface to identify anomalies or patterns that could signal trading opportunities.
-
-**Pattern Recognition:**
-Look for clusters of high open interest which often indicate significant price levels that market participants are targeting. Pay attention to unusual spikes in volume, as they may suggest increased activity or shifts in sentiment. Monitor the IV skew between calls and puts to identify potential bullish or bearish biases in the market. Recognizing these patterns can help inform trade decisions and risk management strategies.
-
-**Strategic Framework:**
-Apply this methodology to current market conditions by continuously monitoring options data and adapting strategies accordingly. Use the insights gained from the expected move calculations and probability distributions to gauge risk and identify suitable strike selections for covered calls and cash-secured puts. Regularly reassess the IV surface and open interest patterns to remain responsive to market changes, ensuring that strategic decisions are data-driven and timely.
-
-**Important Notes:**
-- Concentrate on developing a repeatable process for data extraction and analysis.
-- Maintain a focus on how analytical insights can directly influence trading strategies.
-- Ensure the methodology remains flexible to adapt to new market conditions or data sources.
-- Keep the framework concise and actionable for immediate application in trading scenarios.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *API Reference: https://docs.deribit.com/*

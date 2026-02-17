@@ -1,7 +1,7 @@
 ---
 tags: [nft, art, collections]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 # HOODIES by JakNFT
 
@@ -32,38 +32,6 @@ Hoodies. Stylised, often minimal. Each piece is unique; the artist controls the 
 HOODIES is a refreshingly simple project. No fake utility, no trait grind—just art and a hard cap. JakNFT committed to the constraint. It’s not a blue chip in the Punks sense, but it’s a solid “collector favourite” with a clear identity. I like it for that.
 
 ---
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-## Methodology & Framework
-
-**Key Concepts:**
-- Understanding the core thesis and its implications
-- Evaluating risk/reward in context of current conditions
-- Applying the framework to your own analysis
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
-*Last updated: January 2026*
-
 
 ## Related
 

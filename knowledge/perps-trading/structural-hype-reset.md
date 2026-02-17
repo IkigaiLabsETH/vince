@@ -4,49 +4,6 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Unlock reality vs. headline:** Unlocked ≠ distributed ≠ sold ≠ sold on the open market. Track actual distribution, staking, OTC vs. on-market flow. Headline unlock numbers often overstate sell pressure by an order of magnitude.
-- **Leverage regime reset:** Structurally one-sided positioning (e.g. crowded longs) invites liquidation cascades and reflexive downside. Exhaustion of aggressive leverage is a necessary (not sufficient) condition for stabilization—not inherently bullish, but removes a major drag.
-- **Large-seller absorption:** Big sell clusters (e.g. Tornado-funded entities, funds) can be absorbed by persistent off-chain buyers. Flow often routes: on-chain seller → market maker (e.g. Wintermute) → CEX → anonymous directional buyer. Market makers arbitrage; they don’t take directional risk.
-- **Structural regime change:** When dominant sell catalysts (unlocks misunderstood, excess leverage, large sellers) resolve or exhaust, the setup shifts from “who is selling?” to “what remains to absorb?”—changing the risk/reward profile even if price has not yet repriced.
-
-**Analytical Approach:**
-- Decompose sell pressure into **sources** (team unlocks, leverage, large holders) and **transmission** (OTC vs. open market, which venues, who absorbs). Same gross supply can have very different price impact depending on execution and absorption.
-- Use on-chain and cross-venue data (HyperCore, Bybit, etc.) to verify flows: who sells where, who buys, whether flow is arbitrage vs. directional.
-- Re-underwrite the thesis when regimes shift: assess whether structural reasons for a decline are still present or have been resolved.
-
-**Pattern Recognition:**
-- **Unlocks:** Look for “actually distributed” and “sold to market” vs. “unlocked” and “staked back.” ~7–10% of headline unlock hitting the market suggests a trickle, not a cliff.
-- **Leverage:** Liquidation heatmaps and OI skew (e.g. Hyperliquid vs. CEXs). Balanced profiles and reduced aggressive longs indicate reset.
-- **Large sellers:** Clusters (e.g. staking patterns, funding source) and execution style (mechanical TWAP, OTC blocks). Identify when such supply is “done or almost done.”
-- **Absorption:** Persistent buy-side (Assistance Fund, known accumulators, anonymous CEX buyers) and market-maker arbitrage flows. Volume and venue shifts (e.g. HyperCore → Bybit) signal who is absorbing.
-
-**Strategic Framework:**
-- **Before:** Price reflecting unknown unlock behavior + excess leverage + large sellers → treat drawdowns as potentially structural.
-- **After:** Unlock reality understood, leverage reset, large sellers exhausted → residual supply more likely absorbed; focus on demand-side catalysts (buybacks, HIP-3, portfolio margin, perps share).
-- **Ongoing:** Don’t use this knowledge for current prices or metrics. Use it for *how to think* about HYPE sell pressure, absorption, and regime changes.
-
-**Important Notes:**
-- Focus on methodologies and frameworks, not specific historical data.
-- Numbers and dates below are illustrative; they support the thinking, not real-time inputs.
-- Use for analytical approaches, pattern recognition, and strategic framing—not for trading or valuation without fresh data.
-
----
-
-> **📌 Knowledge Base Note**
->
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
->
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # Structural HYPE Reset: Sell Pressure, Absorption, and Regime Change
 
 ## Metadata

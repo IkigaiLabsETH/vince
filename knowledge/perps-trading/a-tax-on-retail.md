@@ -5,45 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Liquidity Provider Dynamics**: Understanding the motivations and behaviors of liquidity providers versus retail traders.
-- **Cost-Benefit Analysis of Trading Venues**: Evaluating trading platforms not just on fees but on slippage and overall execution efficiency.
-- **Market Sentiment vs. Reality**: Recognizing the disparity between public sentiment (e.g., fee complaints) and actual trading behavior (e.g., liquidity flow).
-- **Sustainable Business Models in Trading**: Analyzing which business models can endure in the long term based on liquidity retention rather than temporary incentives.
-
-**Analytical Approach:**
-- **Holistic Evaluation**: Assess trading venues by considering both qualitative (trader experience, platform reliability) and quantitative (fees, slippage) metrics. Look beyond surface-level complaints to understand underlying trading behaviors.
-- **Comparative Analysis**: Regularly conduct comparisons between different trading platforms, focusing on performance metrics rather than marketing messages, to identify the most efficient options for larger trades.
-
-**Pattern Recognition:**
-- **Shifts in Liquidity**: Monitor changes in where large trades are being executed to gauge which platforms are truly serving the needs of serious traders.
-- **Fee Structures vs. Trading Volume**: Identify trends where venues with higher fees might actually be gaining market share due to better execution prices, indicating a potential shift in trader priorities.
-
-**Strategic Framework:**
-- **Long-Term Focus**: When evaluating trading strategies or platforms, prioritize those that demonstrate a commitment to sustainable liquidity provision and efficient trading experiences. 
-- **Market Sentiment Analysis**: Utilize tools for sentiment analysis to discern when public opinion diverges from actual trading trends, enabling strategic positioning in trading decisions.
-
-**Important Notes:**
-- Emphasize methodologies over specific metrics or historical data.
-- Cultivate a mindset focused on sustainability and efficiency in trading.
-- Apply insights to adapt to evolving market conditions and trader behaviors.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180903396.A Tax On Retail
 ## Metadata
 **Source**: Substack Essay

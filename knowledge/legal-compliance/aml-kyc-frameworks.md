@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # AML/KYC Frameworks for Crypto
 
-## Methodology & Framework
-
-Anti-money laundering (AML) and know-your-customer (KYC) compliance in crypto follows a **risk-based approach** derived from FATF Recommendations (specifically Recommendations 15 and 16 for virtual assets). The framework operates on three tiers: **identity verification depth**, **transaction monitoring intensity**, and **reporting obligations** — all scaled to the assessed risk level of the user, jurisdiction, and transaction pattern.
-
----
-
 ## KYC Tiers
 
 ### Tier 0 — No KYC (Decentralized Protocols)

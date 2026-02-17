@@ -3,33 +3,6 @@ tags: [stablecoins, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Core Concepts:**
-- Depeg = stablecoin trading away from $1.00 (either direction)
-- Root causes: redemption runs, collateral failure, liquidity crises, confidence spirals
-- Reflexivity: depegs can be self-reinforcing (death spiral) or self-correcting (arbitrage)
-- Contagion: one depeg can trigger others via shared collateral or liquidity pools
-
-**Analytical Approach:**
-- Classify depegs by cause: mechanical (design flaw), liquidity (temporary), confidence (narrative), regulatory (forced)
-- Assess recovery probability based on whether arbitrage mechanisms remain functional
-- Distinguish between "trading below peg on DEX" vs "actual inability to redeem 1:1"
-
-**Pattern Recognition:**
-- Curve pool imbalances are the earliest on-chain warning (>60% one-sided = stress)
-- Large redemptions from authorized participants signal institutional concern
-- Social media FUD velocity correlates with depeg depth for confidence-driven events
-- Cross-stablecoin contagion follows shared collateral chains
-
-**Decision Framework:**
-- Temporary liquidity depeg (<2%): usually an arb opportunity if fundamentals intact
-- Confidence depeg (2-5%): assess redemption mechanism — if functional, likely recovers
-- Mechanical/design depeg (>5%): high risk of death spiral, exit immediately
-- Any depeg + frozen redemptions: treat as potential total loss
-
----
-
 ## Historical Depegs: Case Studies
 
 ### UST/Luna Collapse (May 2022)

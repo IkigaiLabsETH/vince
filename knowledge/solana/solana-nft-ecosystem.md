@@ -3,29 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-> **📌 Knowledge Base Note**
-> Numbers, prices, and metrics are illustrative — focus on methodology and frameworks.
-
 # Solana NFT Ecosystem
-
-## Methodology & Framework
-
-### Core Concepts
-Solana's NFT ecosystem is built on three pillars: **Metaplex** (the standard and tooling layer), **compressed NFTs** (cNFTs using state compression and concurrent Merkle trees), and **marketplace competition** (Tensor, Magic Eden). The chain's low fees and fast finality made it the natural home for high-volume NFT use cases — gaming assets, collectibles, and loyalty programs — where Ethereum's gas costs are prohibitive.
-
-### Analytical Approach
-Evaluate Solana NFTs through: (1) **Cost efficiency** — minting cost per unit (cNFTs at fractions of a cent vs. ETH NFTs at dollars); (2) **Infrastructure maturity** — tooling, indexing, wallet support; (3) **Market structure** — marketplace fees, royalty enforcement, trader behavior; (4) **Use case fit** — which NFT applications are structurally better on Solana vs. Ethereum.
-
-### Pattern Recognition
-- cNFTs collapsed minting costs by 1000x+, enabling million-unit collections for gaming, ticketing, and loyalty — use cases that were economically impossible on Ethereum.
-- Marketplace wars drove fees to zero (Tensor's points-based model), destroying royalty revenue for creators but increasing trading volume.
-- Gaming projects (Star Atlas, Aurory) chose Solana for asset issuance speed but faced the same game quality challenges as all crypto gaming.
-- NFT financialization (Tensor's AMM pools, order books) turned Solana NFTs into quasi-fungible trading instruments.
-
-### Decision Framework
-When analyzing Solana NFT projects: Is the use case cost-sensitive (favors Solana) or prestige-driven (favors Ethereum)? Does the project need millions of assets (cNFTs) or hundreds of high-value pieces? Is the marketplace dynamic sustainable or a race to zero?
-
----
 
 ## Analysis
 

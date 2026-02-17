@@ -5,43 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **On-Chain Metrics:** Understanding the value of on-chain data as both a tool and a potential source of misinformation.
-- **Maximal Extractable Value (MEV):** Recognizing the implications of MEV on transaction costs and ecosystem sustainability.
-- **Total Value Locked (TVL):** Evaluating TVL critically, focusing on the quality of locked assets and their actual engagement rather than just the quantity.
-- **Daily Active Addresses (DAA):** Analyzing user engagement through active addresses while considering potential distortions from bots and incentive structures.
-- **Cross-Chain Flows:** Observing the movement of assets between chains to gauge market sentiment and potential risks.
-
-**Analytical Approach:**
-- Adopt a multi-metric perspective. When analyzing on-chain data, always cross-reference multiple metrics (fees, revenue, TVL, DAA) to build a comprehensive view of the ecosystem's health. Avoid taking any single metric at face value; recognize that they can be misleading when viewed in isolation.
-
-**Pattern Recognition:**
-- Look for discrepancies between high metrics and low activity (e.g., high TVL with low transaction volumes). This can indicate speculative or unsustainable growth. Pay attention to changes in daily active addresses alongside fee structures; significant spikes in DAA without a corresponding rise in fees or volume suggest inflated metrics.
-
-**Strategic Framework:**
-- When assessing a DeFi ecosystem, prioritize metrics that reflect user engagement and sustainable growth (such as revenue and organic TVL growth). Analyze the interplay between fees, MEV, and user retention strategies. Always be wary of superficial gains; focus on the longevity of the ecosystem by identifying the underlying drivers of value.
-
-**Important Notes:**
-- This framework is designed to guide critical thinking about DeFi metrics rather than provide specific historical data points.
-- Emphasize a holistic approach to analysis, ensuring that conclusions are drawn from a synthesis of multiple data sources.
-- Remain adaptable; as the DeFi landscape evolves, continuously refine your methodology to incorporate new insights and shifts in market dynamics.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182519122.Smoke And Mirrors
 ## Metadata
 **Source**: Substack Essay

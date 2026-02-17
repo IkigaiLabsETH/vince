@@ -251,48 +251,6 @@ We're paying attention - and positioning accordingly.
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Perpetual Royalties**: A funding mechanism that allows creators to receive ongoing financial support from trading fees rather than one-off investments.
-- **On-Chain Patronage**: Utilizing blockchain technology to create a transparent and direct funding channel for open-source projects.
-- **Community-Driven Funding**: Shifting the financial backing from traditional venture capital to community support and engagement through memecoins.
-- **Market Cycle Resilience**: Understanding how the model adapts to various market conditions, ensuring continuous funding regardless of market volatility.
-
-**Analytical Approach:**
-- **Evaluate Funding Mechanisms**: Analyze the effectiveness of decentralized funding models versus traditional VC methods, focusing on sustainability and creator autonomy.
-- **Assess Community Engagement**: Consider the role of community participation in driving project success, including active contributions and feedback loops.
-- **Monitor Trading Dynamics**: Study how trading volumes and price fluctuations of associated tokens can impact project viability and funding stability.
-
-**Pattern Recognition:**
-- **Identify Successful Project Traits**: Look for common characteristics in projects that have successfully garnered funding, such as clear purpose, community involvement, and innovative technology applications.
-- **Track Market Sentiment**: Pay attention to community discussions, social media trends, and trading patterns that signal potential project surges or declines.
-- **Correlate Development Milestones with Financial Performance**: Recognize how advancements in project development can influence token performance and creator earnings.
-
-**Strategic Framework:**
-- **Build a Community-Centric Model**: Foster a community-focused approach where feedback and contributions directly influence project direction and funding.
-- **Implement a Real-Time Feedback Loop**: Utilize on-chain technology to provide instant updates and claims for creators, ensuring transparency and accountability.
-- **Adapt to Market Changes**: Develop a flexible strategy that can pivot in response to market conditions, leveraging perpetual royalties to maintain funding stability.
-
-**Important Notes:**
-- This methodology emphasizes the importance of sustainable funding through community engagement and transparent practices.
-- Focus on understanding the mechanics of open-source funding models, rather than specific project outcomes.
-- Apply these concepts to evaluate potential projects and funding strategies in the evolving landscape of decentralized finance and AI development.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Last updated: January 17, 2026*
 *Source: Internal thesis update after initial January 16, 2026 essay on Bags.fm patronage model*
 

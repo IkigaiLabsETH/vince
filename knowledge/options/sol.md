@@ -5,42 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Wheel Options Strategy:** A systematic approach to generating income through selling covered calls and cash-secured puts on assets, promoting capital efficiency and risk management.
-- **Capital Efficiency:** The effective use of capital across multiple assets to maximize returns while maintaining a balanced risk profile.
-- **Implied Volatility:** Understanding and leveraging market conditions that affect option pricing, particularly in choppy or range-bound markets.
-- **Diversification of Assets:** Blending high-conviction assets to enhance income generation and mitigate risks associated with singular asset exposure.
-
-**Analytical Approach:**
-- Adopt a systematic mindset focused on income generation through options while being open to deploying capital across multiple high-potential assets. Assess market conditions (e.g., volatility and trend) to determine the optimal timing and asset selection for options trading. Utilize simulations, such as Monte Carlo methods, to evaluate risks and probabilities of various outcomes.
-
-**Pattern Recognition:**
-- Identify opportunities in markets where implied volatility is elevated, indicating higher premiums for options. Look for market catalysts (e.g., announcements, filings) that may influence asset prices and volatility. Monitor the performance of multiple assets simultaneously to gauge their interdependencies and potential for capital efficiency.
-
-**Strategic Framework:**
-- Implement a diversified wheel strategy by integrating multiple assets (e.g., HYPE and SOL) to create a robust yield-generating mechanism. Set clear risk thresholds and use market signals to guide your entry and exit strategies. Maintain discipline by rolling options or re-entering positions based on market behaviors, ensuring continuous capital deployment and return generation.
-
-**Important Notes:**
-- Focus on methodologies that enhance decision-making and risk management rather than specific historical data.
-- Extract insights on how to approach wealth generation in the current market landscape.
-- Keep the strategies flexible to adapt to evolving market conditions and asset performances.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 Now, as we sit here on January 16, 2026—spot probing $25.50–$26.50, unlocks absorbed, ETF hype simmering—something deeper demands exploration: the sheer, mind-bending effectiveness of this wheel options strategy. With just 1 BTC’s worth of working capital deployed into HYPE tokens and used to write covered calls on Hypersurface, we’re consistently printing $2,000 a week.
 
 That’s not hyperbole; it’s unreal, almost alchemical.

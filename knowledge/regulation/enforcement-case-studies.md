@@ -5,14 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Crypto Enforcement Case Studies
 
-## Methodology & Framework
-
-Each case is analyzed through a **Regulatory Risk Framework** with five dimensions: (1) legal theory used, (2) jurisdictional reach, (3) precedent established, (4) industry impact, and (5) lessons for risk assessment. These cases collectively define the boundaries of what regulators will and won't tolerate.
-
-**Risk Classification:** Cases reveal three tiers of regulatory risk — *existential* (criminal charges, shutdown), *operational* (fines, required changes), and *strategic* (uncertainty that shapes business decisions).
-
----
-
 ## SEC v. Ripple Labs (2020-2025)
 
 **Theory:** XRP sales constituted unregistered securities offerings under the Howey test.

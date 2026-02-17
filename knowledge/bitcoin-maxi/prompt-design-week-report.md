@@ -5,43 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Onchain Truth vs. Macro Foresight:** Understanding the interplay between blockchain data and broader macroeconomic factors to gauge market sentiment and potential outcomes.
-- **Contrarian Analysis:** Embracing a contrarian mindset to identify overvalued assets and underappreciated opportunities within the crypto space.
-- **Holistic Connectivity:** Recognizing the interconnectedness of crypto protocols, equities, and global liquidity flows to form comprehensive market insights.
-- **Iterative Experimentation:** Valuing continuous learning and data-driven refinement of strategies based on market dynamics and behavioral trends.
-
-**Analytical Approach:**
-- Approach the cryptocurrency landscape with a mindset that balances both the micro (individual asset performance) and macro (global economic trends). Emphasize the need for critical thinking that questions prevailing narratives and market hype. Use historical analogies and narratives to contextualize current conditions, allowing for a deeper understanding of market cycles and potential future movements.
-
-**Pattern Recognition:**
-- Identify signals of market exuberance and fear through sentiment analysis, trading volume patterns, and liquidity shifts. Look for divergences between onchain metrics (e.g., wallet activity, transaction volumes) and price movements as potential indicators of market mispricing. Monitor macroeconomic indicators like interest rates and inflation trends that may influence crypto adoption and investment flows.
-
-**Strategic Framework:**
-- Apply a multi-faceted strategy that combines technical analysis, macroeconomic insights, and behavioral finance principles. Use these tools to develop positions based on the anticipated convergence of onchain data and macroeconomic conditions. Foster a "tribe" mentality to build a community around shared insights, promoting collaborative learning and collective decision-making in navigating market complexities.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182565993.Prompt Design Week Report
 ## Metadata
 **Source**: Substack Essay

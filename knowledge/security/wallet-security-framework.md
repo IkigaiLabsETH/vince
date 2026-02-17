@@ -3,30 +3,6 @@ tags: [security, risk, safety]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Core Concepts:**
-- **Attack surface stratification:** Every wallet type carries a distinct threat profile. Hot wallets face network-level attacks (malware, phishing, session hijacking); cold wallets face physical and supply-chain threats. Security is about matching custody model to asset value and access frequency.
-- **Defense in depth:** No single measure is sufficient. Layering hardware isolation, multisig governance, seed phrase compartmentalization, and social engineering awareness creates compounding resistance to compromise.
-
-**Analytical Approach:**
-- Classify holdings by value tier (operational float, medium-term, deep cold) and assign custody models accordingly.
-- Evaluate each wallet's signing pathway: what touches the internet, what requires physical confirmation, what has time-locks or co-signer requirements.
-- Model adversary capabilities: remote attacker (phishing/malware), insider (rogue co-signer), physical attacker (wrench attack), and supply-chain (compromised hardware).
-
-**Pattern Recognition:**
-- Most retail losses come from social engineering, not cryptographic breaks. Fake support DMs, malicious dApp approvals, and clipboard hijackers dominate the threat landscape.
-- Multisig failures often stem from poor key distribution — all keys on the same device, same geography, or same organizational silo defeats the purpose.
-- Hardware wallet users who skip firmware verification or buy from unofficial resellers introduce supply-chain risk that undermines the entire model.
-
-**Decision Framework:**
-- **Hot wallet (MetaMask, Rabby):** Daily DeFi interaction, <5% of portfolio. Accept higher risk, mitigate with transaction simulation and approval hygiene.
-- **Hardware wallet (Ledger, Trezor, Keystone):** Primary holdings. Buy direct from manufacturer only. Verify firmware hashes. Use passphrase (25th word) for plausible deniability.
-- **Multisig (Safe, Squads):** Treasuries and high-value storage. Minimum 2-of-3 with geographically distributed signers. Consider time-locks for large withdrawals.
-- **Cold storage (air-gapped):** Deep cold for long-term holds. Generate keys offline, sign via QR codes (Keystone) or SD card (Coldcard). Never connect to network.
-
----
-
 ### Seed Phrase Management
 
 Seed phrases are the root of all custody. Protect them with the same rigor as the assets they control.

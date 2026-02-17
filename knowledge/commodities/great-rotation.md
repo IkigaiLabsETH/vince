@@ -5,48 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Rotation:** Understanding how capital shifts between asset classes (e.g., from gold to silver to cryptocurrencies) based on market conditions.
-- **Risk Appetite:** Analyzing investor behavior in relation to riskier assets during periods of economic uncertainty.
-- **Cycle Analysis:** Recognizing and utilizing cycles in asset performance (e.g., the correlation between gold and silver peaks) to inform investment decisions.
-- **Momentum Trading:** Identifying trends in asset prices to capitalize on upward or downward movements based on market sentiment.
-
-**Analytical Approach:**
-- Approach market analysis through the lens of capital flow dynamics, assessing how and why money moves from stable assets to riskier investments during economic transitions.
-- Utilize historical data and trends to formulate hypotheses about future asset performance, recognizing that past behaviors can illuminate potential future movements.
-- Incorporate a multi-asset perspective, considering the interrelationships between various commodities and cryptocurrencies to gauge overall market sentiment.
-
-**Pattern Recognition:**
-- Look for signs of asset price peaks and troughs as indicators of market rotation, such as significant price drops following substantial gains (like gold's October drop after its peak).
-- Monitor social media and trading platforms for shifts in sentiment, which often precede actual market movements, to anticipate capital flow into or out of specific assets.
-- Identify cyclical patterns in performance, where assets tend to follow one another in a predictable rotation, as seen with gold, silver, and palladium.
-
-**Strategic Framework:**
-- Develop a proactive investment strategy that emphasizes timely entry and exit points based on market cycles and momentum indicators.
-- Create a diversified portfolio that includes both safe assets and higher-risk investments, adjusting allocations as market sentiment shifts (e.g., moving from gold to altcoins).
-- Use technical analysis alongside sentiment analysis to inform decisions, ensuring a balanced approach that considers both quantitative data and qualitative market signals.
-
-**Important Notes:**
-- Focus on the methodologies for analyzing market behavior rather than specific historical figures.
-- Extract actionable insights for current and future investment strategies based on the principles outlined.
-- Maintain a flexible mindset to adapt strategies as market conditions and investor sentiments evolve.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182620956.Great Rotation
 ## Metadata
 **Source**: Substack Essay

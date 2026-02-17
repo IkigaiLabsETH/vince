@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Kelly Criterion**: A mathematical formula for optimal betting sizes based on perceived edge, emphasizing the distinction between small and substantial bets depending on the identified asymmetry.
-- **Asymmetric Opportunities**: Investments where the potential upside significantly outweighs the downside risk, suggesting a focus on high-reward scenarios.
-- **Long-Term Compounding**: The principle of allowing investments to grow over time, reinforcing the importance of patience and strategic inaction in wealth accumulation.
-- **Fear vs. Risk**: The notion that fear of loss can be a larger threat than the risks associated with making bold investment choices.
-
-**Analytical Approach:**
-- Assess opportunities based on the Kelly Criterion, focusing on the strength of your conviction regarding the edge you perceive. Use a systematic approach to determine the appropriate level of investment: if you believe strongly in an asset's potential, be prepared to allocate a significant portion of your resources. Continually evaluate the asymmetry of the investment rather than letting emotional biases dictate your actions.
-
-**Pattern Recognition:**
-- Identify historical patterns where similar assets or technologies have exhibited exponential growth following certain market cycles (e.g., Bitcoin's historical price surges). Look for signals such as technological advancements, widespread adoption, or macroeconomic factors that suggest a significant shift in market dynamics favoring the asset.
-
-**Strategic Framework:**
-- When faced with an investment decision, employ a framework that includes:
-  1. **Risk Assessment**: Calculate the potential upside versus downside to identify asymmetric opportunities.
-  2. **Investment Sizing**: Use the Kelly Criterion to determine the optimal amount to invest based on your level of confidence in the opportunity.
-  3. **Patience and Inaction**: Resist the urge to frequently adjust your position; instead, allow investments to mature over a long horizon to harness compounding effects.
-  4. **Review and Reflect**: Regularly revisit your beliefs and market conditions, but only adjust your strategy if you uncover new, substantive information that alters your perceived edge.
-
-**Important Notes:**
-- Emphasize the methodology of evaluating investments rather than focusing on specific historical metrics or current market data.
-- Extract actionable insights for contemporary investment situations while maintaining a long-term perspective.
-- Keep the approach concise, focusing on core principles rather than exhaustive historical analysis.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 In 1956, a scientist at Bell Labs named John Kelly figured out something that sounds almost too good to be true: when you have a genuine edge, there is a single “perfect” amount to bet that will make your money grow faster than any other strategy, over and over again, for decades, while still protecting you from ever going completely broke. That perfect amount is called the Kelly Criterion.
 
 

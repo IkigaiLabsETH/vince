@@ -118,39 +118,5 @@ Leaderboard sorted by 30d fees
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **On-Chain Fundamentals**: Understanding and extracting core metrics such as fees, revenue, active users, and total value locked (TVL) for various protocols.
-- **Comparative Analysis**: Evaluating different blockchain protocols against each other to identify market leaders and trends within categories like L1s, L2s, DeFi, and DEXs.
-- **Revenue and Growth Trends**: Analyzing the financial health and user engagement of protocols to assess their investment potential and market position.
-- **Structured Data Output**: Utilizing a standardized format for presenting findings to ensure clarity and consistency in analysis.
-
-**Analytical Approach:**
-- Adopt a systematic methodology for data collection, focusing on key metrics that inform about the protocol's performance and market dynamics. Use parallel browsing to gather information efficiently across multiple protocols, emphasizing the extraction of the latest and most relevant data. Ensure that your analysis connects numeric data to broader market trends and user behaviors.
-
-**Pattern Recognition:**
-- Look for recurring trends in fees, user growth, and transaction counts that can signal shifts in market sentiment or protocol performance. Identify leading protocols and those showing significant changes (positive or negative) in their core metrics, as these can indicate emerging opportunities or risks.
-
-**Strategic Framework:**
-- Apply a comparative lens when assessing protocols, using metrics like the price-to-fees (P/F) ratio to evaluate relative valuation within categories. Use the insights gleaned from fundamentals assessments to form investment theses, focusing on revenue quality, user growth, and valuation status. Leverage these insights to make informed decisions about where to allocate resources or adjust positions in the market.
-
-**Important Notes:**
-- This framework emphasizes the importance of a disciplined and data-driven approach to analyzing blockchain protocols. The focus is on understanding metrics and trends rather than just reporting historical data. By maintaining clarity and consistency in output, you can derive actionable insights that are applicable in real-time market scenarios.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*

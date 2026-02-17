@@ -3,29 +3,6 @@ tags: [security, risk, safety]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Key Concepts:**
-- **Custody and attestation:** How to think about where bridged assets are locked or minted; who validates or attests; single vs multi-party; fraud proofs or delay.
-- **Finality and delay:** How source and destination chain finality and delay periods affect withdrawal and dispute windows; reorg and rollback risk.
-- **Concentration and contagion:** Bridges concentrate value; exploit or insolvency can affect multiple chains and protocols; map dependencies.
-
-**Analytical Approach:**
-- For any bridge: identify **custody model** (locked assets vs mint/burn), **attestation or validation** (who can move funds), and **delay or dispute** (time to withdraw, fraud-proof window).
-- Use **historical exploits** (e.g. bridge hacks) as failure-mode examples for methodology, not as current risk scores.
-- Map **cross-chain dependencies** (which protocols rely on which bridge) for contagion framework.
-
-**Important Notes:**
-- Focus on methodology; use actions/APIs and security resources for current bridge status or TVL.
-
----
-
-> **📌 Knowledge Base Note**
->
-> This content provides **frameworks** for thinking about bridge risk.
-> - **Use for:** Design comparison, custody and attestation, contagion mapping
-> - **Do NOT use for:** Current TVL, bridge status, or operational procedures
-
 ---
 
 ## Context

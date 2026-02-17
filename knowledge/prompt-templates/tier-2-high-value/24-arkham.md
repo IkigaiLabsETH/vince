@@ -93,48 +93,6 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Smart Money Tracking**: Understanding the movements of institutional investors and large entities to gauge market sentiment.
-- **Entity Labeling**: Utilizing known labels (e.g., exchanges, ETFs, whales) to contextualize flow data and enhance analysis.
-- **Comparative Historical Analysis**: Employing past market behaviors as benchmarks to identify current trends and potential outcomes.
-- **Signal Detection**: Identifying accumulation and distribution phases to anticipate shifts in market dynamics.
-
-**Analytical Approach:**
-- Begin with defining core objectives that clarify what specific movements or signals to track. Prioritize entities based on their influence and historical performance.
-- Leverage tools like Arkham Intelligence to extract relevant data, focusing on net flows and large transfers. Efficiently navigate dashboards for maximum insight.
-- Compare current data to historical trends to derive actionable insights, recognizing patterns that indicate potential future movements.
-
-**Pattern Recognition:**
-- Look for signs of accumulation (net inflows into wallets or ETFs) versus distribution (large outflows to exchanges), which can signal institutional behavior.
-- Recognize regime shifts through contrasting flow patterns (e.g., large transfers to exchanges may indicate profit-taking or market caution).
-- Monitor whale movements closely as they often precede significant market actions and may hint at broader investor sentiment.
-
-**Strategic Framework:**
-- Apply a multi-faceted approach: integrate insights from various sources (e.g., Whale Alert, Lookonchain) to validate findings and enhance decision-making.
-- Maintain flexibility in sourcing data, pivoting to alternative platforms if primary data sources become restricted.
-- Articulate insights in a concise format that highlights actionable trends, preparing for strategic responses to market movements based on the data analyzed.
-
-**Important Notes:**
-- Focus on developing a mindset that prioritizes the interpretation of flows over mere data collection.
-- Ensure methodologies remain adaptable to the fast-evolving cryptocurrency landscape, emphasizing real-time analysis and responsiveness.
-- This framework should guide ongoing assessments of market conditions, allowing for informed and timely strategic actions.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: platform.arkhamintelligence.com*

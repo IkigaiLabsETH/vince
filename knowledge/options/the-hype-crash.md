@@ -120,47 +120,6 @@ The real win is the lessons: size conservatively, respect crashes, and never for
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Options Yield Strategies:** Utilizing covered calls and naked puts to generate consistent income while managing risk.
-- **Market Volatility and Implied Volatility (IV):** Understanding how market conditions impact option prices and the importance of IV in decision-making.
-- **Portfolio Diversification vs. Concentration:** Balancing between holding multiple assets versus concentrating on fewer for risk management.
-- **Emotional Resilience in Trading:** Maintaining composure during market downturns to avoid impulsive decisions.
-
-**Analytical Approach:**
-- Assess the current market environment and volatility levels before deploying options strategies. This involves evaluating the historical performance of assets and predicting potential movements based on market sentiment.
-- Continuously monitor the performance of your portfolio against the backdrop of broader market trends, particularly focusing on the correlation between asset classes (e.g., crypto and traditional assets).
-- Use a combination of technical analysis and market sentiment to inform decisions on when to enter or exit positions.
-
-**Pattern Recognition:**
-- Identify signs of market overreactions, such as sharp price declines (panic selling) followed by quick recoveries. This can indicate potential reversal points.
-- Recognize the behavior of options premiums post-market events (e.g., earnings reports, regulatory news) to gauge whether premiums are sustainable or indicative of market fear.
-- Monitor the liquidity and volume in the options market to determine the health and efficiency of the trading environment.
-
-**Strategic Framework:**
-- Implement a "wait and see" approach during periods of high volatility, focusing on capital preservation rather than forced yield generation. Prioritize rolling into new positions only when favorable conditions (high IV and better premiums) arise.
-- Utilize a tiered approach to risk management by diversifying investments across various asset classes while maintaining a core position in a stable asset (e.g., BTC).
-- Develop a clear exit strategy for both winning and losing trades, enabling you to capitalize on gains or minimize losses without emotional interference.
-
-**Important Notes:**
-- Focus on methodologies that emphasize risk management, emotional control, and strategic timing.
-- Extract actionable insights that can be adapted to various trading scenarios in both bullish and bearish markets.
-- Keep the framework adaptable to the evolving landscape of options trading and broader financial markets.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 UPDATE: **Relief Bounce & Strategy Pivot Thoughts
 
 After yesterday’s painful expiry and panic wick to ~$22, HYPE showed real strength overnight and is bouncing ~9% to $24.40 with solid volume ($3B+ 24h) and stable OI ($2.4B). No follow-through selling; buyers defended the low.

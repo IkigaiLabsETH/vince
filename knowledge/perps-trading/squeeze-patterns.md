@@ -3,32 +3,6 @@ tags: [trading, derivatives, perps]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
-> **📌 Knowledge Base Note**
-> 
-> These documents are optimized for RAG: use for **frameworks and context**, not for current data. Numbers and dates are illustrative—check actions/APIs for live data.
-
-## Methodology & Framework
-
-**Key Concepts:**
-- **Long Squeeze**: Crowded longs get liquidated → rapid price crash
-- **Short Squeeze**: Crowded shorts get liquidated → rapid price spike
-- **Covered Calls**: Safer - rapid decline unlikely to breach call strikes
-- **CSPs**: DANGEROUS - rapid decline can breach put strikes immediately
-- **Action**: Widen put strikes significantly or reduce CSP positions
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
----
-
 # Squeeze Patterns in Perpetual Futures
 
 Understanding squeeze dynamics for options risk management.

@@ -5,45 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Memecoin Phenomenon:** Understanding the dynamics of speculative trading and the role of social media in driving market behavior.
-- **Market Manipulation Framework:** Recognizing tactics used by insiders to exploit retail investors, including front-running and coordinated pump-and-dump schemes.
-- **Legal Accountability in Crypto:** Analyzing how regulatory frameworks, such as RICO, can address systemic fraud in decentralized ecosystems.
-
-**Analytical Approach:**
-- **Critical Analysis of Market Narratives:** Approach market phenomena with skepticism, questioning the sustainability of hype-driven trends. Evaluate whether narratives are backed by fundamentals or merely speculative excitement.
-- **Risk Assessment:** Assess risk levels in altcoin investments by identifying the presence of transparent governance, credible teams, and usage metrics. Watch for signs of predatory behavior and unsustainable growth patterns.
-
-**Pattern Recognition:**
-- **Identifying Red Flags:** Look for patterns such as a sudden surge in token launches without substantive backing, excessive marketing, and a lack of clear utility. Pay attention to social media sentiment and the activities of key opinion leaders (KOLs).
-- **Investor Sentiment Analysis:** Monitor the behavior of retail investors during market fluctuations, particularly in response to FOMO (fear of missing out) and FUD (fear, uncertainty, and doubt) campaigns.
-
-**Strategic Framework:**
-- **Due Diligence Protocol:** Implement a rigorous due diligence process before engaging with new tokens. This should include research on the project's fundamentals, team credibility, and community engagement.
-- **Scenario Planning:** Develop hypothetical scenarios for market movements based on historical precedents. Use these scenarios to prepare for potential losses and identify exit strategies in case of market downturns.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise and relevant for ongoing analysis in the crypto landscape.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182545600.The Reckoning
 ## Metadata
 **Source**: Substack Essay

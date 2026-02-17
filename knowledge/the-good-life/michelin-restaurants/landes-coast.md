@@ -1,7 +1,7 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 # Landes Coast Fine Dining
 
@@ -10,54 +10,6 @@ last_reviewed: 2026-02-15
 
 ---
 
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-## Methodology & Framework
-
-**Key Concepts:**
-- **Address**: 121 Boulevard de la Dune, 40150 Soorts-Hossegor
-- **Phone**: +33 5 58 72 29 82
-- **Style**: Modern French, seafood focus, local produce
-- "Balade sur le sable" - 6-course tasting (86€)
-- "L'incontournable Homard Bleu" - full lobster menu (98€)
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
-## Jean des Sables (Hossegor)
-
-**Chef-driven seafood with Basque-Landais flair**
-
-- **Address**: 121 Boulevard de la Dune, 40150 Soorts-Hossegor
-- **Website**: https://www.jeandessables.com/
-- **Phone**: +33 5 58 72 29 82
-- **Style**: Modern French, seafood focus, local produce
-
-**Signature Experience**:
-- "Balade sur le sable" - 6-course tasting (86€)
-- "L'incontournable Homard Bleu" - full lobster menu (98€)
-- Blue lobster smoked en éclade with carrot, ginger, crispy quinoa
-
-**Best For**: Special occasion lunch, seafood lovers, intimate setting
-
----
 
 ## Villa de l'Etang Blanc (Seignosse)
 

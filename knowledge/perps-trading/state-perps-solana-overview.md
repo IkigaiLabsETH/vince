@@ -3,29 +3,6 @@ tags: [trading, derivatives, perps]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
-> **📌 Knowledge Base Note**
-> 
-> These documents are optimized for RAG: use for **frameworks and context**, not for current data. Numbers and dates are illustrative—check actions/APIs for live data.
-
-## Methodology & Framework
-
-**Key Concepts:**
-- **Timeline**: Open testnet by end of month, mainnet end of Q1/early Q2 2025
-- **Analyze Latency Claims**: Verify sub-20ms performance claims against competitors once live
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
----
-
 # BULK: Building State-of-the-Art Perpetuals on Solana
 
 **Source**: [Lightspeed Podcast - Bringing State of the Art Perps to Solana | Jun Bug & kdot](https://www.youtube.com/watch?v=OuixkZ0CzMw)  

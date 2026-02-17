@@ -1,7 +1,7 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 # Blue Chip Collections Reference
 
@@ -36,61 +36,8 @@ This document profiles the blue chip collections we consider core to any serious
 
 ---
 
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-## Methodology & Framework
-
-**Key Concepts:**
-- Creator: Larva Labs (now Yuga Labs)
-- Supply: 10,000
-- Platform: Ethereum (custom contract)
-- The original NFT PFP project
-- Predates ERC-721 standard
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
 
 
-### Autoglyphs
-
-**Overview:**
-- Creator: Larva Labs
-- Supply: 512
-- Year: 2019
-- Platform: Ethereum (fully on-chain)
-
-**Why Blue Chip:**
-- First on-chain generative art
-- Extremely limited supply
-- Art generated at mint time, stored on-chain
-- Minimal aesthetic, maximum history
-
-**Key Traits:**
-- Symbols: +, -, |, \, /, X, O, #
-- All unique, some visually striking
-- Some have rare color schemes
-
-**Collecting Notes:**
-- Floor typically 150+ ETH
-- VERY thin floor (often <10 listed)
-- Rarely available, move fast when they list
-- Grail-tier, multi-generational holds
 
 ---
 

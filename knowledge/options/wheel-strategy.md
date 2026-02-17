@@ -5,45 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Wheel Strategy:** A cyclical trading strategy involving selling cash-secured puts to generate income and transitioning to covered calls on acquired assets.
-- **Premium Income Generation:** Focus on collecting premiums as a primary income source while managing the risk of asset assignment.
-- **Volatility Utilization:** Taking advantage of market volatility to enhance returns without needing precise market timing.
-- **Risk Management:** Balancing potential assignment risks with income goals and maintaining flexibility in asset holdings.
-
-**Analytical Approach:**
-- Evaluate market conditions to identify suitable assets for the wheel strategy, particularly in sideways or mildly trending markets. Consider the interplay of volatility and income generation while being indifferent to long-term asset holding.
-- Use metrics such as Annualized Percentage Returns (APRs) and Sell Probability to guide decisions on strike prices and premium targets. Always cross-check these figures with external market indicators to mitigate risks.
-
-**Pattern Recognition:**
-- Look for patterns in volatility and asset price movements that indicate favorable conditions for put selling and covered calls. Identify cycles of high premium opportunities and assess the likelihood of asset assignment based on market trends.
-- Monitor market sentiment and external indicators that could signal upcoming volatility shifts, which could affect the effectiveness of the wheel strategy.
-
-**Strategic Framework:**
-- Apply the wheel strategy by first identifying assets with strong volatility profiles and favorable APRs for cash-secured puts. Aim for a targeted income level (e.g., $1,000 weekly) while remaining flexible on asset retention.
-- Utilize a disciplined approach to selecting strike prices, focusing on higher-yielding options while ensuring comfort with potential assignments. Always prepare to revert to the put-selling phase with fresh capital if assigned.
-
-**Important Notes:**
-- Focus on methodology and strategic thinking rather than specific numerical data or historical examples.
-- Extract actionable insights and frameworks that can be applied to current market situations.
-- Maintain a concise understanding of the cyclical nature of the wheel strategy and the importance of volatility management in income generation.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182634519.Wheel Strategy
 ## Metadata
 **Source**: Substack Essay

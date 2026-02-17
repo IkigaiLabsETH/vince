@@ -5,25 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # US Regulatory Landscape 2026
 
-## Methodology & Framework
-
-### Core Concepts
-The US crypto regulatory environment is defined by jurisdictional tension between the SEC (securities) and CFTC (commodities), the Howey test as the classification tool, and the political cycle's impact on enforcement posture. Understanding which agency claims authority over a token determines its compliance burden, listing availability, and institutional accessibility.
-
-### Analytical Approach
-Track three vectors: (1) SEC enforcement actions and rulemaking signals, (2) Congressional legislative progress on market structure, (3) CFTC scope expansion. The shift from Gensler-era "regulation by enforcement" to Atkins-era "Project Crypto" is the defining transition — but executive-branch rules without legislative backing remain fragile.
-
-### Pattern Recognition
-- Pro-crypto administrations create windows of regulatory clarity but not permanence
-- Enforcement pauses correlate with speculative excess — monitor for re-tightening signals
-- Bipartisan support is the durability indicator; party-line bills get reversed
-- CFTC advisory groups with crypto executives (Armstrong, Garlinghouse added Feb 2026) signal which assets trend toward commodity classification
-
-### Decision Framework
-**Bull case**: Market structure bill passes with 60+ Senate votes, creating durable commodity/security classification. **Bear case**: Bill stalls on stablecoin yield or DeFi provisions, SEC rules get reversed by future administration. **Base case**: SEC issues rules via Project Crypto, partial legislative progress, regulatory clarity improves but remains fragile.
-
----
-
 ## The Current Landscape
 
 **SEC under Paul Atkins** has pivoted dramatically from the Gensler era. Atkins' "Project Crypto" agenda aims to provide innovation-friendly rules, but he has openly acknowledged to the Senate Banking Committee (Feb 2026) that without Congressional statute, his rules aren't "future-proof" — they can be reversed by a single commission vote. This is the core tension: rapid executive action vs. legislative durability.

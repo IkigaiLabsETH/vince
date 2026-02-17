@@ -3,34 +3,6 @@ tags: [stablecoins, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Core Concepts:**
-- All stablecoin yield comes from someone paying to borrow, trade, or use those dollars
-- Risk/reward spectrum: lending (low) → LP (medium) → leveraged strategies (high)
-- "Real yield" vs "token emission yield" — sustainability test
-- The yield source determines the risk profile
-
-**Analytical Approach:**
-- Always ask: "Who is the borrower and why are they paying this rate?"
-- If you can't identify the yield source, you ARE the yield (or it's unsustainable emissions)
-- Compare yields to risk-free rate (US T-bills) — excess above that = risk premium you're being paid for something
-- Sustainable yield ≈ T-bill rate + modest DeFi premium (1-3%); anything above needs justification
-
-**Pattern Recognition:**
-- Yield compression during bear markets (less borrowing demand)
-- Yield spikes during bull markets (leveraged longs pay to borrow stables)
-- New protocol yields start high (emissions) then decay to sustainable levels
-- "Too good to be true" yields (>20% on stables) almost always have hidden risks
-
-**Decision Framework:**
-- <5% APY: Likely sustainable, suitable for core holdings (lending, T-bill backed)
-- 5-10% APY: Moderate risk, verify yield source (LP fees, basis trade)
-- 10-20% APY: Elevated risk, likely involves IL, smart contract risk, or leverage
-- >20% APY: Almost certainly unsustainable or extremely high risk — proceed with extreme caution
-
----
-
 ## Where Stablecoin Yield Comes From
 
 ### 1. Lending (3-8% APY typical)

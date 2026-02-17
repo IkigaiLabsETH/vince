@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # EigenLayer Deep Dive
 
-## Methodology & Framework
-
-This file dissects EigenLayer's internal mechanics, economic design, and competitive positioning. The analytical framework focuses on **mechanism design** (how incentives align or misalign), **token economics** (EIGEN's dual-token model and governance role), and **moat analysis** (network effects, switching costs, and first-mover advantages). Draws on EigenLayer whitepapers, EIGEN tokenomics documentation, and on-chain operator/AVS data.
-
----
-
 ## Operators
 
 Operators are the execution layer of EigenLayer. They register on-chain, run AVS-specific validation software, and receive delegated stake from restakers. Key dynamics:

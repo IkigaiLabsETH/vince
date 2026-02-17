@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Sentiment Analysis**: Understanding the emotional and psychological factors that drive market movements, particularly in response to earnings reports and macroeconomic changes.
-- **Trend Deviation Recognition**: Identifying deviations from established trends (e.g., tech stocks outperforming crypto) as indicators of broader market shifts.
-- **Valuation Reassessment**: Evaluating stock performance in relation to fundamentals and market conditions, particularly after significant price movements.
-- **Cyclical Behavior**: Recognizing the cyclical nature of markets and investor behavior, including the "buy the rumor, sell the news" phenomenon.
-
-**Analytical Approach:**
-- Adopt a multi-faceted view of market data, combining historical performance, current sentiment, and future forecasts. Analyze not just the numbers themselves but the narratives and contexts surrounding them—consider how macroeconomic factors and sector-specific news affect investor psychology and stock performance.
-
-**Pattern Recognition:**
-- Look for signs of overreaction or underreaction in stock prices relative to earnings reports or market news. For instance, a sudden drop in a stock’s price following an earnings miss can signal a shift in sentiment, particularly if the drop occurs after a significant rally. Observe correlations between tech stocks and broader economic indicators (e.g., interest rates, inflation) to identify leading or lagging patterns within sectors.
-
-**Strategic Framework:**
-- To apply this methodology in current situations, create a checklist for evaluating stocks: 
-  1. Assess recent price movements in the context of historical performance.
-  2. Analyze the sentiment around earnings releases and macroeconomic events.
-  3. Monitor sector rotations and their implications for individual stocks.
-  4. Re-evaluate stock valuations regularly in light of new information, particularly during periods of volatility.
-
-**Important Notes:**
-- Focus on methodology rather than specific numbers or dates; the goal is to develop a robust framework for understanding market dynamics.
-- Extract actionable insights that can be applied to various market conditions—this approach should be flexible and adaptable.
-- Keep the analysis concise and targeted to facilitate quick decision-making in a fast-paced investment environment.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 179675238.The Hidden Bear
 ## Metadata
 **Source**: Substack Essay

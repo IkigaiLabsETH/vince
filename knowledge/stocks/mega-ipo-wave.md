@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Valuation Cycles:** Understanding the rise and fall of company valuations based on market sentiment, historical trends, and investor behavior.
-- **Narrative vs. Metrics:** Distinguishing between the compelling stories behind companies and their actual financial metrics to avoid cognitive biases.
-- **Historical Contextualization:** Utilizing past market events (like the dot-com bubble) to inform present-day investment decisions and expectations.
-
-**Analytical Approach:**
-- Approach investments by assessing the interplay between narrative and valuation. Consider how compelling a company's story is relative to its financial health. Use historical precedents to contextualize current market sentiments, recognizing that past performance can inform future expectations, albeit with caution.
-
-**Pattern Recognition:**
-- Look for signs of excessive optimism or pessimism in market narratives, particularly around major IPOs and tech companies. Watch for inflation of valuations without corresponding fundamentals, which may indicate a bubble. Recognize the psychological factors at play in market movements and investor behavior, such as FOMO (Fear of Missing Out) during bullish phases and panic during downturns.
-
-**Strategic Framework:**
-- Develop a framework for evaluating potential investments by:
-  - Conducting a dual analysis: one focused on the narrative (what the company represents and its market potential) and another on quantitative metrics (financial health, growth trends).
-  - Incorporating a contrarian mindset: Be prepared to challenge prevailing market optimism and recognize when valuations deviate significantly from fundamentals.
-  - Setting personal benchmarks for exit strategies based on both narrative developments and quantitative shifts, ensuring decisions are made thoughtfully rather than reactively.
-
-**Important Notes:**
-- Focus on the methodology of analysis rather than specific data points or historical metrics.
-- Extract a "how to think" framework that applies to current investment climates instead of relying solely on past performance.
-- Maintain a practical and adaptable approach, allowing for adjustments based on emerging market trends and narratives.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182315515.Mega Ipo Wave
 ## Metadata
 **Source**: Substack Essay

@@ -57,42 +57,6 @@ last_reviewed: 2026-02-15
 
 ## Legacy Framework (original, verbatim)
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Asymmetrical Investment Thesis:** Identifying opportunities where the potential upside significantly outweighs the risks, particularly in sectors with historical inertia, like nuclear energy.
-- **Speed to Market:** Understanding the importance of reducing the timeline from concept to operational status, especially in industries where traditional timelines are lengthy and costly.
-- **Productization of Technology:** Viewing advanced technology (e.g., nuclear reactors) as modular products rather than large-scale projects, facilitating scalability and faster deployment.
-- **Demand Dynamics:** Recognizing emerging market needs, such as the rising energy demand from hyperscale AI training, and aligning investment strategies accordingly.
-- **Historical Context as a Benchmark:** Using historical projects as reference points for evaluating current opportunities and understanding market evolution.
-
-**Analytical Approach:**
-- Evaluate investments not solely based on current trends but through the lens of transformative impacts over time. Consider how a company compresses traditional timelines and challenges established industry norms. Assess operational efficiencies and technological advancements that enable rapid deployment.
-
-**Pattern Recognition:**
-- Look for companies or technologies that demonstrate significant time compression in their operational models compared to traditional benchmarks. Identify sectors where demand is mispriced or overlooked, particularly in energy-intensive industries. Monitor partnerships and contracts with major technology players as indicators of market validation.
-
-**Strategic Framework:**
-- When assessing investment opportunities, prioritize those that challenge the status quo through innovative approaches to market entry and product development. Focus on sectors with clear, growing demand that can present asymmetrical risk-reward profiles. Use historical precedents as guideposts while remaining adaptable to new trends and technologies.
-
-**Important Notes:**
-- Emphasize methodologies and frameworks rather than specifics tied to historical data.
-- Concentrate on developing a mindset that focuses on transformative potential and strategic foresight.
-- Ensure insights are actionable for evaluating current and future investment opportunities.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 ---
 
 ## Appendix (original essay, verbatim)

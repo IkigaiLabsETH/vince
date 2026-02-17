@@ -3,29 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-> **📌 Knowledge Base Note**
-> Numbers, prices, and metrics are illustrative — focus on methodology and frameworks.
-
 # Solana: Risks & Bear Cases
-
-## Methodology & Framework
-
-### Core Concepts
-Every investment thesis requires a steel-manned bear case. Solana's bears focus on five vectors: **outage history** (network reliability), **centralization** (validator concentration, hardware requirements), **FTX overhang** (estate SOL holdings and selling pressure), **VC/insider unlocks** (token distribution and sell pressure), and **competitive threats** (Base, Monad, Sui, and Ethereum L2 ecosystem).
-
-### Analytical Approach
-Evaluate bear cases through: (1) **Structural vs. cyclical** — is the risk permanent (design flaw) or temporary (FTX estate selling)? (2) **Severity vs. probability** — high-impact low-probability (full chain halt) vs. moderate-impact high-probability (continued outages)? (3) **Narrative vs. fundamental** — does the bear case affect actual usage or just token price sentiment? (4) **Mitigation trajectory** — is the team addressing the risk, and is progress measurable?
-
-### Pattern Recognition
-- Outages have decreased in frequency and severity over time, but the narrative damage compounds — each new incident reinforces the "Solana goes down" meme regardless of the cause.
-- FTX estate SOL sales created predictable selling pressure; the market's ability to absorb this was a test of demand strength.
-- High hardware requirements create a natural validator oligopoly that pure decentralization metrics (node count) obscure.
-- L2 competition doesn't need to "kill" Solana — it just needs to fragment enough attention, developers, and liquidity to slow Solana's growth.
-
-### Decision Framework
-For each bear case: Is it priced in? Is it improving or worsening? Would it cause a permanent impairment or a temporary drawdown? Does the bull case *require* this risk to resolve, or can Solana succeed despite it?
-
----
 
 ## Analysis
 

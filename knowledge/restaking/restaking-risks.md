@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Restaking Risks
 
-## Methodology & Framework
-
-This file maps systemic risks in the restaking ecosystem using a **risk taxonomy** approach: categorizing threats by origin (smart contract, economic, governance, systemic), estimating severity and likelihood, and identifying cascade pathways where one failure amplifies others. The framework borrows from traditional finance's systemic risk analysis — correlated exposures, leverage stacking, and liquidity mismatches — applied to restaking's novel architecture. Sources include academic research on shared security models, incident post-mortems, and protocol risk documentation.
-
----
-
 ## Leverage Stacking
 
 Restaking creates implicit leverage. The same ETH simultaneously secures Ethereum consensus, one or more AVSs via EigenLayer, and potentially serves as DeFi collateral through an LRT. This isn't leverage in the traditional borrowed-money sense, but it's **obligation stacking** — the same capital backs multiple commitments.

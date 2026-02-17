@@ -3,33 +3,6 @@ tags: [stablecoins, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Key Concepts:**
-- **Reserve quality and composition:** How to think about backing (cash, Treasuries, other assets); redemption mechanics and liquidity; issuer transparency and attestations.
-- **Depeg drivers:** Supply/demand shocks, redemption runs, collateral volatility, and regulatory or legal events that can break the peg.
-- **Design spectrum:** Fully reserved (e.g. USDC) vs algorithmic or hybrid; each implies different failure modes and regulatory treatment.
-
-**Analytical Approach:**
-- For any stablecoin: identify **what backs the peg**, **who can redeem**, and **what could break the peg** (run on redemptions, collateral drop, freeze, or regulatory action).
-- Use **reserve reports and attestations** as inputs to a framework (composition, liquidity, concentration), not as one-line answers; numbers in knowledge are illustrative.
-- Map **regulatory and legal risk** (e.g. reserve seizure, issuer sanction) as a first-order depeg driver where relevant.
-
-**Pattern Recognition:**
-- Historical depegs (e.g. USDC March 2023, UST) illustrate run dynamics, collateral risk, and contagion; use for methodology, not for current peg status.
-- Stablecoin flows (mint/burn, cross-chain) are leading indicators for risk-on/risk-off; use defi-metrics and macro content where flow frameworks are discussed.
-
-**Important Notes:**
-- Focus on methodology and how to interpret reserve and flow data; not on current reserve or peg levels (use actions/APIs for that).
-
----
-
-> **📌 Knowledge Base Note**
->
-> This content provides **frameworks** for thinking about stablecoin design and risk.
-> - **Use for:** Reserve analysis, depeg drivers, design comparison
-> - **Do NOT use for:** Current peg, reserve, or flow data (use actions/APIs)
-
 ---
 
 ## Context

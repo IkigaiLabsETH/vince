@@ -5,42 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Delta-Neutral Trading:** A strategy that involves opening offsetting positions to minimize exposure to price movements, effectively neutralizing risk while still earning rewards.
-- **Funding Rate Farming:** Utilizing the mechanics of funding rates in perpetual futures markets to earn payments while maintaining delta-neutral positions.
-- **Perpetual Futures DEXs (Perp DEXs):** Decentralized exchanges that offer perpetual contracts, allowing traders to engage in low-risk farming activities by generating trading volume.
-- **Volume and Open Interest:** Metrics that are crucial for qualifying for airdrops and rewards, emphasizing the importance of maintaining activity on trading platforms.
-
-**Analytical Approach:**
-- Approach altcoin trading with a focus on minimizing risk through delta-neutral strategies. Evaluate the liquidity of perpetual pairs and the funding rates across different DEXs to inform trading decisions. Continuously assess your positions to ensure they remain balanced and profitable over time.
-
-**Pattern Recognition:**
-- Look for consistent funding rate disparities between DEXs that indicate potential profit opportunities. Identify periods of increased trading volume and open interest as signals for airdrop eligibility. Recognize the importance of maintaining delta neutrality during market fluctuations to avoid unnecessary losses.
-
-**Strategic Framework:**
-- Apply the principles of delta-neutral trading and funding rate farming by first identifying liquid pairs across multiple DEXs. Structure your trades to exploit funding rate differences while ensuring both positions match in size to remain risk-averse. Develop a routine for monitoring and rebalancing positions to sustain profitability and capitalize on airdrop opportunities.
-
-**Important Notes:**
-- Focus on methodology and strategic thinking rather than specific historical metrics or current market data.
-- Emphasize actionable steps that can be adapted to changing market conditions.
-- Encourage disciplined trading practices, such as consistent monitoring and low leverage, to enhance long-term success in altcoin farming.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 Perpetual futures DEXs (Perp DEXs) have become one of the most efficient and relatively low-risk ways to farm airdrops, especially for traders with limited capital. Many early participants in platforms like Lighter and Hyperliquid received solid airdrops simply by generating trading volume and holding positions in the early days of their points programs.
 
 The appeal is clear: the process is straightforward, the mechanics reward consistent activity, and — when done correctly — the directional risk can be almost entirely eliminated. The core idea is to generate trading volume and open interest to earn points while keeping positions delta-neutral (immune to price movements) and, when possible, earning funding rate payments along the way.

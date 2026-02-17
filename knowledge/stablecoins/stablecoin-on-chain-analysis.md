@@ -3,34 +3,6 @@ tags: [stablecoins, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Core Concepts:**
-- Stablecoin mint/burn = fiat capital entering/leaving crypto — the most reliable on-chain macro signal
-- Exchange inflows of stablecoins = buying pressure staging; exchange outflows = capital moving to DeFi or cold storage
-- Whale wallet tracking: large stablecoin movements precede volatility — accumulation vs. distribution
-- Chain distribution shifts reveal ecosystem momentum (Ethereum dominance declining as Solana, Tron, Base gain share)
-
-**Analytical Approach:**
-- Track net mint/burn weekly across USDT, USDC, and DAI — sustained minting = bullish macro regime
-- Monitor exchange stablecoin reserves as a ratio to total stablecoin supply — rising ratio = buy-side pressure building
-- Segment wallet cohorts: >$1M, >$10M, >$100M — whale behavior leads retail by days to weeks
-- Cross-reference chain distribution with DEX volume to validate ecosystem flow narratives
-
-**Pattern Recognition:**
-- Tether mints on Tron often precede USDT mints on Ethereum — Tron is the settlement layer for OTC/emerging markets, Ethereum for institutional
-- USDC burns accelerate during risk-off periods (2022-2023 pattern); USDC mints accelerate during regulatory clarity
-- Stablecoins flowing from Ethereum to L2s (Arbitrum, Base) signal DeFi yield-seeking rotation
-- Exchange stablecoin balances hitting multi-month highs often precede 5-15% BTC rallies within 2-4 weeks
-
-**Decision Framework:**
-- **Bullish signal:** Net mints >$1B/week sustained, exchange stablecoin reserves rising, whale wallets accumulating
-- **Bearish signal:** Net burns, exchange outflows to self-custody (de-risking), whale wallets distributing to exchanges
-- **Neutral/rotation:** Total supply flat but chain distribution shifting — follow the flow to identify which ecosystem is gaining
-- **Confirm with:** Funding rates, OI changes, and spot volume — stablecoin flows are leading, not standalone
-
----
-
 ## Reading Mint/Burn Data
 
 The most underused signal in crypto is stablecoin supply changes. When Circle mints $500M USDC, that represents real fiat entering the system — someone wired dollars to Circle's bank. When Tether mints $1B USDT, capital (ostensibly) flowed into Tether's reserves. Aggregated, net minting across all major stablecoins is the closest thing crypto has to a "capital flow" indicator comparable to fund flow data in equities.

@@ -5,48 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Bitcoin Market Cycle Framework:** The essay outlines a four-act play that defines Bitcoin's price behavior around halving events: accumulation, parabolic euphoria, blow-off top, and mellow bear.
-- **Sentiment Analysis:** The contrast between retail panic and institutional confidence highlights the importance of understanding market psychology and sentiment.
-- **Asymmetrical Risk Assessment:** Evaluating investments based on the potential for significant upside relative to downside risk, especially in the context of institutional capital entering the market.
-- **Historical Contextualization:** Utilizing historical price patterns and moving averages, particularly the significance of the 200-week moving average, to inform future price expectations.
-
-**Analytical Approach:**
-- Adopt a **cyclical perspective** when analyzing Bitcoin's price movements, recognizing the typical stages of market cycles and their implications for investment timing and strategy.
-- Engage in **sentiment tracking** by observing both retail and institutional behavior. This can inform decisions on entry points and potential market reversals.
-- Evaluate **long-term trends** rather than short-term fluctuations, focusing on the underlying fundamentals and institutional interest in Bitcoin as a digital asset.
-
-**Pattern Recognition:**
-- Identify the **four-act cycle** of Bitcoin, noting the transition from accumulation to euphoric peaks and subsequent drawdowns.
-- Monitor the behavior of **whales** and institutional players during market dips, as their actions often indicate confidence in long-term valuation.
-- Watch for significant movements around the **200-week moving average**, which serves as a critical support or resistance level in bear and bull markets.
-
-**Strategic Framework:**
-- Use the **four-act cycle** to inform investment strategies, preparing for accumulation phases ahead of halving events and recognizing euphoric peaks to secure profits.
-- Implement a **risk management strategy** that accounts for potential drawdowns, while positioning for the asymmetry of returns that Bitcoin may offer during recovery phases.
-- Stay informed on institutional trends and regulatory developments, as they can dramatically influence market sentiment and price trajectories.
-
-**Important Notes:**
-- Prioritize methodologies over specific numerical data; focus on frameworks that provide insights into market dynamics.
-- Emphasize the importance of historical patterns and behavioral signals in crafting actionable investment strategies.
-- Keep the analysis adaptable to current market conditions while remaining grounded in historical context and cyclical behaviors.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180326395.The Mellow Bear
 ## Metadata
 **Source**: Substack Essay

@@ -55,45 +55,6 @@ See you there in 2026.
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Yield Generation through Options:** Understanding options trading as a sustainable method for generating yield in a mature market.
-- **Risk Transfer:** The concept of taking on volatility that others want to offload, allowing for transparent compensation for risk.
-- **Covered Calls and Selling Puts:** Leveraging specific strategies that align with market sentiment and personal risk tolerance.
-
-**Analytical Approach:**
-- **Evaluative Thinking:** Assess the current market conditions to determine the viability of options strategies. Analyze both your risk appetite and market sentiment to choose between selling calls or puts.
-- **Long-term View:** Shift from short-term speculative yields to more strategic, long-term positions. Consider how volatility impacts potential returns in a sustainable manner.
-- **Comparative Analysis:** Contrast the traditional yield generation methods (like perps and farming) with options strategies to identify opportunities that align with your investment goals.
-
-**Pattern Recognition:**
-- **Market Maturity Signals:** Recognize signs of market saturation where previous high-yield opportunities diminish, signaling a need to pivot to options trading.
-- **Volatility Trends:** Monitor volatility in the market as a predictor of the effectiveness of selling options. Increased volatility typically opens up more opportunities for yield generation.
-- **Positioning Opportunities:** Identify key price levels for assets where options can be effectively sold, based on historical data and market forecasts.
-
-**Strategic Framework:**
-- **Risk Management Strategy:** Develop a clear framework for selecting and executing options strategies, including defining your risk tolerance and exit points.
-- **Diversification through Options:** Use a combination of covered calls and puts to create a diversified approach to yield generation, allowing for flexibility based on market conditions.
-- **Continuous Learning and Adaptation:** Stay informed of market trends and continuously evaluate the effectiveness of your strategies, adjusting your approach as necessary to optimize yield.
-
-**Important Notes:**
-- Emphasize a strategic mindset over mere opportunism; focus on sustainable yield generation through informed decision-making.
-- Apply these frameworks to current market evaluations, ensuring you adapt to changing conditions and remain alert to new opportunities.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 RFQ on Derive: **
 
 One of the best parts about trading on Derive. RFQ stands for Request for Quote. Think of it like this: instead of just hitting the regular order book (where liquidity might be thin for something complex or chunky), you basically ping the professional market makers directly and say, “Hey, I want to do this trade—give me your best price.” On Derive, it’s built right into the platform. You describe what you want—could be a simple option, a multi-leg spread, or even a bigger block size—and the system sends it out to participating market makers. They shoot back firm, executable quotes super fast. 

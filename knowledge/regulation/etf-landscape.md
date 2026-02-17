@@ -5,26 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Crypto ETF Landscape
 
-## Methodology & Framework
-
-### Core Concepts
-Crypto ETFs represent the primary bridge between traditional finance and digital assets. The key variables: approval status (spot vs. futures), flow dynamics (net inflows/outflows), AUM accumulation, fee competition, and the pipeline of new asset ETF applications. ETF flows are both a demand indicator and a price driver — but the relationship is not linear. Understand the supply absorption model: ETF buying removes supply from exchanges, creating a structural bid.
-
-### Analytical Approach
-Track four layers: (1) daily/weekly net flows across all BTC and ETH ETFs, (2) AUM as percentage of total crypto market cap, (3) the approval pipeline (which assets, which issuers, which deadlines), (4) secondary effects — basis trade unwinding, redemption cascades, and institutional rebalancing cycles. Don't treat ETF flows as a simple bull/bear signal; context matters (quarter-end rebalancing, tax-loss harvesting, rotation between crypto assets).
-
-### Pattern Recognition
-- Initial ETF launches see front-loaded inflows (FOMO), then normalize to steady-state
-- GBTC-to-ETF rotation dominated early BTC ETF flow data — net new demand was lower than headline inflows suggested
-- Fee wars compress margins quickly; iShares (BlackRock) dominates due to brand and liquidity
-- Altcoin ETF applications follow a predictable cycle: filing → media hype → SEC review → approval/denial
-- Spot ETF approval for an asset is a one-time structural catalyst; subsequent price impact comes from sustained flows
-
-### Decision Framework
-**Flow analysis**: Sustained multi-week inflows = genuine demand signal. Single-day spikes may be basis trade or rebalancing. **ETF pipeline**: Approval probability assessment — regulatory posture (pro-crypto SEC), asset classification (commodity vs. security), market manipulation concerns, and custody infrastructure readiness. **Price impact model**: New ETF approval creates ~2-4 weeks of demand shock, then normalizes. Long-term impact depends on inclusion in model portfolios and wealth management platforms.
-
----
-
 ## Bitcoin Spot ETFs
 
 **Launched January 2024**, the US BTC spot ETFs became the most successful ETF launch in history. By late 2025, combined AUM reached $115-165B range, holding approximately 7% of total BTC supply. BlackRock's iShares Bitcoin Trust (IBIT) dominates with the largest AUM and tightest spreads.

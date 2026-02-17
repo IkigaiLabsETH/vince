@@ -1,7 +1,7 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 # Landes Interior Fine Dining
 
@@ -10,64 +10,6 @@ last_reviewed: 2026-02-15
 
 ---
 
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-## Methodology & Framework
-
-**Key Concepts:**
-- **Address**: 24 Avenue de Maremne, 40140 Magescq
-- **Phone**: +33 5 58 47 70 25
-- **Brand**: Relais & Châteaux (since 1999)
-- **Chef**: Jean Coussau (+ daughter Clémentine)
-- Coussau family since 70 years at Magescq
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
-## Le Relais de la Poste (Magescq)
-
-**2-Star Michelin | 54 Years Starred | Family Legacy**
-
-- **Address**: 24 Avenue de Maremne, 40140 Magescq
-- **Website**: https://www.relaisposte.com/
-- **Phone**: +33 5 58 47 70 25
-- **Brand**: Relais & Châteaux (since 1999)
-- **Chef**: Jean Coussau (+ daughter Clémentine)
-
-**The Story**:
-- Coussau family since 70 years at Magescq
-- 2 Michelin stars since 1971 (54 years!)
-- Bernard Coussau pioneered fresh foie gras in the region
-- Locavore before it was trendy
-
-**Restaurants**:
-- **Table Gastronomique** (2*) - legendary foie gras chaud, Gascon cuisine
-- **Auberge Côté Quillier** - bistro in 1970s pavilion, relaxed. Gault&Millau 2025: first toque (11/20 Table Gourmande).
-
-**Hotel**: 4*, 16 rooms + suites, 7-hectare park, own vineyard, padel, spa
-
-**Must-Try**: The legendary hot foie gras
-
-**Best For**: Gascon gastronomy pilgrimage, countryside luxury
-
----
 
 ## Villa Mirasol (Mont-de-Marsan)
 

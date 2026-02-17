@@ -7,12 +7,6 @@ last_reviewed: 2026-02-15
 
 *Last updated: 2026-02-15*
 
-## Methodology & Framework
-
-Analyze tokenized asset regulation across four dimensions: (1) classification — is a tokenized asset a security, commodity, or new category; (2) issuance requirements — registration, prospectus, accreditation gates; (3) custody and settlement — who holds the underlying, how is ownership legally enforceable; (4) cross-border friction — which frameworks enable vs block international tokenized asset flows. Focus on the US (SEC), EU (MiCA), Singapore (MAS), and Switzerland (FINMA) as the four regimes that matter most for institutional adoption.
-
----
-
 ## United States — SEC
 
 The SEC's position has been consistent: **most tokenized real-world assets are securities.** Putting a Treasury bill, a loan, or a revenue share on-chain doesn't change its legal nature. The Howey test applies regardless of the technology layer.

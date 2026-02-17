@@ -82,47 +82,6 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Institutional Demand Tracking:** Monitoring net inflows/outflows in Bitcoin ETFs to gauge institutional sentiment and market conviction.
-- **Flow Analysis:** Utilizing cumulative and historical flow data to identify trends and potential regime shifts in the Bitcoin market.
-- **Data Triangulation:** Employing multiple data sources to validate findings and mitigate the impact of paywall limitations on data access.
-- **Anomaly Detection:** Implementing statistical measures to identify significant deviations in flow patterns that may signal market changes.
-
-**Analytical Approach:**
-- **Trend Identification:** Analyze daily, 7-day, and 30-day net flows to establish short-term and medium-term trends in institutional investment behavior. This allows for the detection of accumulation phases versus profit-taking scenarios.
-- **Historical Contextualization:** Compare current data with historical analogs to provide context for the present conditions, enriching the understanding of potential future movements.
-- **Quantitative Analysis:** Use coding techniques to parse and clean raw data, enabling efficient calculation of moving averages, streaks, and percentage changes. This quantitative framework supports data-driven conclusions.
-
-**Pattern Recognition:**
-- **Flow Dynamics:** Look for sustained inflows over a defined period as indicators of institutional confidence. Conversely, identify periods of significant outflows or stagnation as potential caution signals.
-- **Anomaly Signals:** Pay attention to outlier events, such as unusually high inflow days, which may indicate shifts in market dynamics or investor sentiment.
-
-**Strategic Framework:**
-- **Decision-Making Framework:** Leverage identified flow trends and anomalies to inform trading strategies, such as timing entry points or setting stop-loss levels based on institutional sentiment signals.
-- **Market Sentiment Analysis:** Use flow data as a proxy for macro sentiment, integrating these insights into broader market evaluations and forecasts.
-- **Feedback Loop Integration:** Continually update strategic positions based on real-time flow data and historical comparisons, ensuring adaptive responses to market changes.
-
-**Important Notes:**
-- Emphasize a methodology focused on data interpretation and trend analysis rather than specific historical data points.
-- Approach the analysis with a mindset geared toward identifying actionable insights that inform current investment strategies.
-- Maintain conciseness and clarity to ensure the methodology is easily applicable to ongoing market assessments.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: members.delphidigital.io (primary), farside.co.uk, sosovalue.xyz (alternatives)*

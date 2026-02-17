@@ -129,47 +129,6 @@ Because through the fog of disillusionment and uncertainty, lies the opportunity
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Expectations vs. Fundamentals:** In markets, surpassing expectations lifts prices; failing to do so depresses them. Forward returns tend to be inversely correlated with how far expectations were pulled forward. After 2021's excess, rationalization created a reset.
-- **Structural Fixes:** Revenue cyclicality, regulatory uncertainty, dual equity–token misalignment, poor disclosure, and missing valuation frameworks have been widely recognized. Many are being addressed (single-token consolidation, clearer onchain vs. offchain revenue split, better data providers).
-- **Secular vs. Cyclical Growth:** Valuable use cases (P2P platforms, stablecoins, permissionless exchanges, derivatives, collateral markets, asset creation, fundraising, DePIN) are demonstrating compounding growth independent of crypto price action.
-- **Winning Blockchains:** Ethereum, Solana, and Hyperliquid are solidifying as standards. Network effects, permissionless design, and global distribution support some of the fastest-growing applications; they may underpin the financial superapp TAM.
-- **Institutional and Enterprise Adoption:** Production-grade tokenization, stablecoins, and infrastructure built on public chains are accelerating. Regulatory clarity shifts focus from "is this legal?" to revenue, cost, and business-model opportunities.
-- **Mispriced Multi-Year Opportunity:** With a 4-year altcoin bear market and low analyst expectations (e.g., under 20% growth), the upside for leading projects may be underpriced if growth goes exponential.
-- **Inevitable but Selective:** Crypto as an idea whose time has come does not mean every token succeeds. Greater competition and delivery pressure will wash out weaker players; a small set of native winners will capture outsized value.
-
-**Analytical Approach:**
-- Assess the cryptoeconomy in its own macro and technological context rather than relying solely on historical analogies (dotcom, EM). Treat it as many interconnected but distinct stories.
-- Distinguish cyclical revenue (tied to asset prices) from secular use cases with compounding growth. Evaluate token economics for alignment (single token, clear revenue attribution) and disclosure quality.
-- Use cash-flow–based valuation as the default; treat BTC/ETH-style store-of-value as rare exceptions. Model what happens if growth goes exponential when few are doing so.
-
-**Pattern Recognition:**
-- Look for: easing regulation, consolidation of equity/token structures, improving disclosure, institutional and enterprise product launches on public chains, and low sell-side/buy-side growth assumptions.
-- Be wary of: projects with purely cyclical revenue, unresolved dual ownership, poor disclosure, or no path to cash flows. Expect more public failures among weaker players as competition intensifies.
-
-**Strategic Framework:**
-- Focus on leading projects with secular use cases, clearer alignment, and improving disclosure. Avoid betting on "your favorite coin" without fundamental support.
-- Treat extended bear markets and widespread skepticism as potential setups for mispriced upside in quality names—especially when analysts cap growth assumptions.
-- Balance conviction in the long-term thesis with selectivity: crypto can be inevitable while many tokens go to zero. Favor quality over breadth.
-
-**Important Notes:**
-- This methodology emphasizes frameworks and narrative structure, not current prices or metrics. Use it to think about cycles, structural fixes, secular vs. cyclical growth, and how to identify mispriced opportunity. Always pair with up-to-date data from actions/APIs when making decisions.
-
----
-
-> **📌 Knowledge Base Note**
->
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** — they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** — learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking, secular vs. cyclical growth, token alignment, winning blockchains
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
->
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 ---
 
 Disclaimer: This isn't financial advice. I'm not your financial advisor. I could be completely wrong about everything. Crypto is volatile, risky, and could go to zero. Do your own research. Sleep well tonight.

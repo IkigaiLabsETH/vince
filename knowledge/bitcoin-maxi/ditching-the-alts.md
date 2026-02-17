@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Asymmetric Risk/Reward:** Understanding the potential for high returns versus the inherent risks in volatile markets like crypto.
-- **Market Cycles:** Recognizing the patterns of bull and bear markets and their psychological impacts on traders.
-- **Diversification vs. Concentration:** Evaluating the balance between spreading investments across various assets (alts) and focusing on core, stable assets (like Bitcoin).
-- **Market Sentiment Analysis:** Assessing how news, speculation, and market sentiment can influence price movements and investor behavior.
-- **Real-World Value vs. Speculative Assets:** Differentiating between investments that offer tangible value and those driven purely by speculation.
-
-**Analytical Approach:**
-- Adopt a **long-term perspective** when assessing investments, focusing on fundamentals rather than short-term price volatility. Analyze historical data to identify recurring trends and behaviors, which can inform future decisions. Emphasize the importance of understanding market psychology and the emotional rollercoaster that often accompanies trading.
-
-**Pattern Recognition:**
-- Look for **consolidation phases** following sharp price movements, as these often precede significant shifts—either bullish or bearish. Monitor **liquidation spikes** and social media sentiment for signs of market panic or euphoria. Track the performance of altcoins relative to Bitcoin to gauge overall market health and investor confidence.
-
-**Strategic Framework:**
-- Apply a **risk management strategy** by assessing the correlation between crypto assets and traditional stocks. Consider reallocating resources based on market conditions, favoring stable investments when volatility is high. Develop a checklist that includes evaluating the utility of tokens, team credibility, and market trends before making investment decisions. Use a **decision matrix** to weigh potential investments against their risk and reward profiles.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181627137.Ditching The Alts
 ## Metadata
 **Source**: Substack Essay

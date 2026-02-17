@@ -5,41 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Shiller CAPE Ratio:** A valuation metric that compares stock prices to average earnings over the last decade, adjusted for inflation, to assess market overvaluation.
-- **Hype Cycle Awareness:** Understanding the historical context of market bubbles and the risks of investing during periods of excessive optimism.
-- **Sector-Specific Investment Focus:** Identifying and investing in sectors with significant potential for growth, such as robotics, while being mindful of associated risks.
-
-**Analytical Approach:**
-- Assess the market's current valuations using metrics like the Shiller CAPE ratio to determine if stocks are overpriced. Compare current conditions to historical bubbles to gauge potential future performance. Maintain a long-term perspective, especially in sectors with transformative potential, while being cautious about current valuations and market sentiment.
-
-**Pattern Recognition:**
-- Look for signals indicating market corrections, such as rising tariffs, weaker earnings reports, or geopolitical tensions. Recognize the slow grind of market declines rather than expecting abrupt crashes. Identify early-stage companies within promising sectors that are making tangible progress, while being wary of high valuations and cash burn rates.
-
-**Strategic Framework:**
-- Apply a disciplined investment strategy that prioritizes sectors poised for long-term growth, like robotics, while avoiding the pitfalls of chasing market trends. Diversify investments across private and public companies to balance risks and rewards. Regularly revisit valuations and market conditions to adjust positions and maintain a defensive posture during overvalued periods.
-
-**Important Notes:**
-- Emphasize methodologies for assessing market conditions rather than focusing on outdated numbers.
-- Extract actionable insights that can adapt to current market scenarios, promoting a proactive rather than reactive investment strategy.
-- Keep the analysis concise and relevant for ongoing investment decision-making.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182421223.Robotics Reckoning 46a
 ## Metadata
 **Source**: Substack Essay

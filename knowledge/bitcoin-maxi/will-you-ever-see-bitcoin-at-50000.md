@@ -5,43 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Bitcoin Cycle Analysis:** Understanding Bitcoin's historical price cycles as a predictor of future behavior, characterized by bull runs followed by significant corrections.
-- **Halving Events:** Recognizing the impact of Bitcoin halving on supply dynamics and market sentiment, which historically correlates with price increases.
-- **Supply Shock Theory:** Analyzing how institutional demand (e.g., ETFs) influences supply and price, leading to potential scarcity-driven price movements.
-- **Market Maturity:** Assessing the evolution of the market's participant base and its effect on volatility and price resilience over time.
-- **Behavioral Economics in Crypto:** Observing market psychology, such as panic selling and FOMO (Fear of Missing Out), and its cyclical nature in cryptocurrency markets.
-
-**Analytical Approach:**
-- Approach Bitcoin as a cyclical asset, leveraging historical price behavior to anticipate future movements. Use the framework of previous cycles to understand potential corrections and bull runs, focusing on the interplay between market maturity and institutional adoption.
-
-**Pattern Recognition:**
-- Watch for recurring patterns such as the post-halving price surges followed by significant drawdowns. Identify signals of market sentiment shifts, including panic selling during corrections and strong accumulation phases post-correction, which indicate potential buy zones.
-
-**Strategic Framework:**
-- Apply the cycle analysis framework to current market data by assessing the proximity to the next halving and institutional inflows. Monitor on-chain metrics for accumulation patterns and liquidity trends to gauge market sentiment. Utilize a risk management strategy that anticipates potential drawdowns and prepares for periods of volatility, ensuring long-term positions align with historical recovery patterns.
-
-**Important Notes:**
-- Focus on methodologies that guide decision-making rather than relying on specific past prices or metrics.
-- Extract actionable insights for navigating current market conditions through a historical lens, emphasizing behavioral patterns and institutional dynamics.
-- Maintain a forward-looking perspective that incorporates both the cyclical nature of Bitcoin and evolving market structures.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 179474452.Will You Ever See Bitcoin At 50000
 ## Metadata
 **Source**: Substack Essay

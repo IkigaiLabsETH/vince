@@ -1,47 +1,10 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **18-Year Real Estate Cycle:** A cyclical model predicting recovery and expansion followed by a peak and subsequent correction.
-- **Long-Term Market Cycle Phases:** Classifies periods into “A” (panics), “B” (good times), and “C” (hard times) to guide asset management strategies.
-- **Speculative “Winner’s Curse” Phenomenon:** Describes market conditions where overconfidence leads to unsustainable price surges before corrections.
-
-**Analytical Approach:**
-- **Cyclical Thinking:** Adopt a long-term perspective by identifying where current market conditions fall within established cycles. Assess historical patterns to anticipate potential turning points. 
-- **Contextual Analysis:** Evaluate the current economic environment against historical data, recognizing that past performance and cycles can inform future expectations without relying on outdated metrics.
-
-**Pattern Recognition:**
-- **Market Signals:** Monitor key indicators such as mortgage rates, inventory levels, and price-to-income ratios as they reflect the health of the real estate market. Look for signs of a “final blow-off top” characterized by rapid price increases amid waning demand.
-- **Demographic Trends:** Keep an eye on household formation rates, birth rates, and generational shifts that can impact demand dynamics over the long term.
-
-**Strategic Framework:**
-- **Investment Timing:** Utilize the identified cycles to strategize buying and selling assets. In the “B” phase, consider optimizing asset sales, while preparing for potential acquisition opportunities in the “C” phase.
-- **Risk Management:** Develop a risk framework that accounts for structural headwinds such as affordability constraints and demographic shifts. Implement strategies to mitigate exposure during anticipated downturns.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
 
 
 Two longstanding cycle theories in real estate and economic history point to 2026 as a pivotal year—one that could mark the end of the post-pandemic boom and the start of a prolonged period of stagnation or decline.

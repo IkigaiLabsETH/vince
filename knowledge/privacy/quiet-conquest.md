@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Value Capture vs. Value Creation**: Understand who benefits from technological advancements in various sectors (e.g., AI, crypto) and recognize that not all innovations translate to direct financial gains for their creators.
-- **Vertical Integration**: Analyze the advantage of companies that control their entire production and service delivery chain, as seen in Amazon's AI strategy.
-- **Lock-in Strategies**: Identify mechanisms that increase customer switching costs, ensuring long-term client retention and revenue stability.
-- **Operational Efficiency**: Evaluate the impact of improved performance metrics on profitability and market perception, particularly in capital-intensive sectors.
-
-**Analytical Approach:**
-- Assess the competitive landscape by distinguishing between infrastructure providers (like Ethereum) and those who effectively capture value (like Visa or Amazon). Utilize comparative analysis to evaluate the sustainability of business models across different sectors.
-- Examine the integration of technology and service delivery, focusing on how firms leverage their assets to create a moat against competitors.
-
-**Pattern Recognition:**
-- Look for indicators of vertical integration in up-and-coming tech firms. Identify whether companies are moving towards controlling their supply chains or remain dependent on third-party technologies.
-- Monitor shifts in market sentiment regarding established players versus new entrants. Track how operational efficiencies translate to stock performance or market valuations.
-
-**Strategic Framework:**
-- Apply a value capture lens when evaluating investments or competitive strategies in altcoins or tech companies. Consider how a company’s structure can lead to long-term revenue versus short-term hype.
-- Develop a checklist for assessing a company’s moat: consider vertical integration, cost advantages, and customer lock-in strategies before making investment decisions or strategic partnerships.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the “how to think” approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182136217.Quiet Conquest
 ## Metadata
 **Source**: Substack Essay

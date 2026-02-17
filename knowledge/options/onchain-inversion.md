@@ -5,49 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Onchain Inversion:** The shift from perpetual futures to options as the primary instrument in the crypto derivatives market, indicating a maturation of the market.
-- **Asymmetric Payoff Structures:** The importance of non-linear risk and reward mechanisms in trading strategies, particularly in options.
-- **Tokenization of Real Assets:** The process of converting physical assets into digital tokens, highlighting the potential for vast market growth.
-- **Market Convergence:** The anticipated migration of onchain trading volumes to levels comparable to traditional finance, particularly in options and tokenized assets.
-
-**Analytical Approach:**
-- **Evaluate Market Dynamics:** Assess the historical dominance of perpetual futures within the crypto space and contrast it with the broader financial landscape, focusing on growth trends in options.
-- **Identify Drivers of Change:** Analyze the factors leading to the rise of options and tokenized assets, such as retail investor behavior and the increasing acceptance of innovative financial products.
-- **Consider Volume Discrepancies:** Recognize the significance of volume gaps between traditional finance and onchain markets as indicators of potential future growth or shifts in trader preference.
-
-**Pattern Recognition:**
-- **Emergence of Retail Interest:** Monitor the growth of retail participation in options trading, particularly zero-days-to-expiration contracts, as a precursor to market shifts.
-- **Volume Migration Signals:** Look for signs of increasing onchain trading volumes in options and tokenized assets, which may indicate a broader acceptance and adoption of these products.
-- **Regulatory Developments:** Pay attention to regulatory changes that could facilitate the introduction and growth of new trading instruments in the crypto space.
-
-**Strategic Framework:**
-- **Scenario Planning:** Develop multiple scenarios based on potential market shifts, such as increased adoption of options or tokenized assets, and strategize accordingly.
-- **Investment Diversification:** Consider diversifying trading strategies to include options and tokenized assets, leveraging their asymmetric payoff structures.
-- **Market Positioning:** Position within the onchain ecosystem to capitalize on expected growth trends, ensuring that strategies align with evolving market dynamics.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180715679.Onchain Inversion
 ## Metadata
 **Source**: Substack Essay

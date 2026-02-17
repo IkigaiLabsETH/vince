@@ -5,48 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **BTC as a Macro Anchor:** Understanding Bitcoin's role as a response to fiat instability and its potential to serve as a reliable asset during economic uncertainty.
-- **Onchain and Options Metrics:** Utilizing onchain metrics (Total Value Locked, Daily Active Addresses) and options market data (implied volatility, annualized returns) as indicators of market sentiment and potential alpha generation.
-- **Equities Correlation:** Analyzing the interdependencies between Bitcoin and traditional equity markets to identify potential spillover effects and risk factors.
-- **Adoption Dynamics:** Recognizing the lags in adoption and ecosystem development as critical to predicting Bitcoin’s market performance and resilience.
-
-**Analytical Approach:**
-- Adopt a **contrarian mindset** to evaluate market sentiment, focusing on the discrepancies between perceived value and intrinsic metrics. Use historical examples as cautionary tales rather than definitive predictions. 
-- Continuously **cross-reference macroeconomic indicators** (yields, PMI, DXY) with Bitcoin metrics to gauge market direction and potential volatility.
-- Implement a **narrative-driven analysis** that integrates personal experiences and market anecdotes to humanize trends and engage with community sentiment.
-
-**Pattern Recognition:**
-- Monitor the **correlation trends** between Bitcoin and equity indices, noting any divergence that could signal shifts in market dynamics or liquidity flows.
-- Identify key **thresholds and signals** such as significant changes in active addresses, hash rate fluctuations, or large-volume options trades, which may indicate impending market movements.
-- Recognize **adoption milestones** and ecosystem developments that may shift public perception and market behavior regarding Bitcoin.
-
-**Strategic Framework:**
-- Develop a **holistic view** by synthesizing onchain metrics, macroeconomic indicators, and market narratives to anticipate shifts in Bitcoin's market position.
-- Create a **dynamic research digest protocol** that includes real-time data analysis, sentiment scanning, and historical context evaluation to inform trading strategies and investment decisions.
-- Foster a mindset of **adaptive learning**, leveraging both quantitative data and qualitative insights to refine strategies over time, especially during market volatility.
-
-**Important Notes:**
-- Focus on methodologies and analytical frameworks rather than specific historical data.
-- Emphasize the "how to think" approach to enhance decision-making in current market scenarios.
-- Ensure the insights are actionable and applicable, enabling strategic responses to evolving market conditions.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182535881.Crafting Alpha
 ## Metadata
 **Source**: Substack Essay

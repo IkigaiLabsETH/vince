@@ -89,48 +89,6 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-1. **Liquidity Regime Signals**: Understanding the flow dynamics of BTC/wBTC through bridging activity and net flows to identify market sentiment.
-2. **Cross-Chain Activity Analysis**: Evaluating how assets move between chains to gauge ecosystem health and user behavior.
-3. **Comparative DEX Activity**: Analyzing decentralized exchange (DEX) trading volumes alongside bridge flows to determine liquidity distribution.
-4. **Ecosystem Ranking Metrics**: Assessing the position of BTC in the broader crypto ecosystem based on bridge volume and flow metrics.
-5. **Temporal Trend Analysis**: Analyzing historical data over varying time periods to identify changes in liquidity patterns and market trends.
-
-**Analytical Approach:**
-- Begin by collecting real-time and historical data from reliable sources like the Artemis Terminal. Focus on quantitative metrics such as inflows, outflows, and net flows. Use this data to create a comprehensive picture of liquidity dynamics.
-- Employ comparative analysis with DEX trading volumes to contextualize bridge activity within the broader market. This includes examining how liquidity is utilized between centralized and decentralized platforms.
-- Look for anomalies or spikes in data, such as sudden increases in inflows or shifts to L2 solutions, as these can indicate important market transitions or investor sentiment changes.
-
-**Pattern Recognition:**
-- Monitor for sustained net outflows or inflows to identify shifts in investor behavior, particularly towards Layer 2 solutions or back to the native Bitcoin chain, which may suggest broader market trends.
-- Look for correlations between bridge activity and DEX trading volume. For instance, a decline in bridge volumes relative to DEX activity may imply that liquidity is being retained within trading pools rather than being used for cross-chain transactions.
-- Recognize historical patterns that align with current data trends to forecast potential market movements, such as the accumulation of Bitcoin during periods of low liquidity in the past.
-
-**Strategic Framework:**
-- Utilize the insights derived from liquidity flows and DEX activity to inform trading strategies and investment decisions. For example, if net inflows to Bitcoin are observed alongside high DEX trading volumes, it might indicate a bullish sentiment and potential price appreciation.
-- Implement a feedback loop where ongoing data analysis informs market positioning. Regularly revisit the metrics and adjust strategies based on emerging trends and signals.
-- Leverage this methodology to evaluate new projects and protocols that enhance cross-chain functionality, as these may offer competitive advantages in liquidity management and market positioning.
-
-**Important Notes:**
-- The focus should remain on the methodologies and frameworks applicable to current market analysis rather than specific historical data points or figures.
-- Ensure to maintain a flexible approach that adapts to new data and insights, allowing for timely responses to market changes.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: artemis.xyz*

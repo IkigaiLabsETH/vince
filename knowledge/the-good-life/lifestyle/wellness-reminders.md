@@ -1,103 +1,124 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
+
 # Wellness Reminders
 
-Quick wellness tips for the GN briefing - rotating reminders for mental health, sleep, meditation, yoga, and exercise.
-
-## Mental Health
-
-Short practices for mental clarity and emotional regulation.
-
-- **5-min Journaling**: Write 3 things that went well today - ends the day on gratitude
-- **Brain Dump**: Write everything on your mind, then close the notebook - externalize the thoughts
-- **Gratitude Moment**: Name 3 specific good things from today, no matter how small
-- **Tomorrow's Top 3**: Write down the 3 most important things for tomorrow - sleep with clarity
-
-## Sleep Optimization
-
-Evidence-based tips for better sleep quality.
-
-- **No Screens 30 min Before Bed**: Blue light suppresses melatonin production
-- **Cool Room (18-19°C)**: Core body temperature drop triggers sleep
-- **Same Bedtime Daily**: Circadian rhythm thrives on consistency, even weekends
-- **No Caffeine After 2pm**: Half-life of 5-6 hours means it's still in your system at bedtime
-- **Magnesium Before Bed**: Natural muscle relaxant and sleep supporter
-- **Dark Room**: Block all light sources - melatonin needs darkness
-
-## Meditation
-
-Quick practices for calm and focus.
-
-- **5-min Body Scan**: Start at toes, move up to head, notice each area without judgment
-- **Box Breathing (4-4-4-4)**: Inhale 4s, hold 4s, exhale 4s, hold 4s - activates parasympathetic
-- **10 Deep Breaths**: Simple but effective - focus only on the breath
-- **Loving-Kindness (3 min)**: Send well-wishes to yourself, someone you love, and someone neutral
-
-## Yoga Flows
-
-Short sequences for flexibility and recovery.
-
-- **10-min Yin (Hips & Shoulders)**: Pigeon, thread the needle, seated twist - hold 2 min each
-- **Legs Up the Wall (5 min)**: Passive inversion for leg recovery and calm
-- **Cat-Cow + Child's Pose (5 min)**: Gentle spinal mobility before bed
-- **Sun Salutation A (3 rounds)**: Full body activation in under 10 minutes
-- **Forward Folds Only (5 min)**: Standing fold, seated fold, wide-leg fold - calms the nervous system
-
-## Dumbbell Workouts
-
-Quick strength sessions with minimal equipment.
-
-### 10-min AMRAP (As Many Rounds As Possible)
-- 10 Goblet Squats
-- 10 Push Presses
-- 10 Bent-Over Rows
-
-### Superset Circuit (15 min)
-- 3x10 Goblet Squats + Shoulder Press
-- 3x10 Romanian Deadlifts + Bent-Over Rows
-- 3x10 Lunges + Bicep Curls
-
-### Quick Upper Body (10 min)
-- 3x12 Chest Press (floor)
-- 3x12 Bent-Over Rows
-- 3x12 Shoulder Press
-- 3x15 Bicep Curls
-
-### Quick Lower Body (10 min)
-- 3x15 Goblet Squats
-- 3x12 Romanian Deadlifts
-- 3x10 Lunges (each leg)
-- 3x15 Calf Raises
-
-## Longevity and functional fitness
-
-Principles for performing well for decades: mobile, flexible, strong—built for long-term activity, not bulk.
-
-- **Functional fitness**: Stay mobile, flexible, and strong—built for decades of activity, not bulk. Favour movement quality and range over heavy lifting for size.
-- **Daily stretching and movement**: Underpin long-term performance. Consistency beats intensity when the goal is longevity.
-- **Morning ritual**: Warm lemon water first thing; then a solid breakfast or smoothie (fruit, protein, greens). When conditions are good, move first (swim, surf) then refuel.
-- **Eight hours' sleep**: Cool, dark room; consistent bedtime. Recovery is when the body adapts.
-- **Mental health as longevity**: Reflection, journaling, or professional support when needed—mental health is part of the long game.
-- **Recovery and nutrition**: The base for long-term surfing, swimming, and activity. Listen to your body; experiment with what works and learn from it.
+Rotating tips for the daily briefing — mental health, sleep, movement, nutrition, and longevity. Kelly picks one or two relevant reminders per day based on context (time, season, recent activity).
 
 ---
 
+## Sleep (the foundation)
 
-## Methodology & Framework
+- **Same bedtime daily** — circadian rhythm thrives on consistency, even weekends. Aim for 8 hours.
+- **Cool room (18–19°C)** — core body temperature drop triggers sleep onset.
+- **Dark room** — block all light. Melatonin needs darkness. Blackout curtains or eye mask.
+- **No screens 30 min before bed** — blue light suppresses melatonin. Read, stretch, or sauna instead.
+- **No caffeine after 14:00** — half-life of 5–6 hours means it's still active at bedtime.
+- **Magnesium before bed** — glycinate or threonate. Natural muscle relaxant and sleep supporter.
+- **Evening sauna (no cold after)** — the gradual cooling triggers melatonin. See sauna-recovery.
+- **Evening tea** — Dammann caffeine-free (rooibos, herbal, fruit). Ritual signals wind-down.
 
-**Key Concepts:**
-- **5-min Journaling**: Write 3 things that went well today - ends the day on gratitude
-- **Brain Dump**: Write everything on your mind, then close the notebook - externalize the thoughts
-- **Gratitude Moment**: Name 3 specific good things from today, no matter how small
-- **Tomorrow's Top 3**: Write down the 3 most important things for tomorrow - sleep with clarity
-- **No Screens 30 min Before Bed**: Blue light suppresses melatonin production
+---
 
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
+## Mental health & clarity
 
-**Pattern Recognition:**
+- **5-min journaling:** Write 3 things that went well today. Ends the day on gratitude, not anxiety.
+- **Brain dump:** Write everything on your mind, then close the notebook. Externalize the noise.
+- **Tomorrow's top 3:** Write the 3 most important things for tomorrow. Sleep with clarity, not open loops.
+- **10 deep breaths:** Simple but effective. Full inhale through nose, slow exhale through mouth. Activates parasympathetic.
+- **Box breathing (4-4-4-4):** Inhale 4s, hold 4s, exhale 4s, hold 4s. Navy SEAL stress protocol. Works in 2 minutes.
+- **Body scan (5 min):** Toes to head, notice each area without judgment. Grounding before sleep or after a long screen day.
+
+---
+
+## Movement (daily, non-negotiable)
+
+### Pool season (Apr–Nov)
+- **Morning swim (1000m+)** — the anchor. See swimming-daily-winter-pools for sets and tips.
+- **Post-swim yoga** — lats, pecs, hip flexors, thoracic. 20 min. See daily-yoga-surfers-vinyasa.
+- **Surf when it's on** — everything else waits. Pre-surf warm-up + post-surf recovery.
+- **Evening:** Walk, stretch, or yin yoga.
+
+### Gym season (Dec–Feb)
+- **Rowing** — 30 min steady state or intervals. Indoor cardio that builds swim fitness. See water-rowing-surf-swim-fit.
+- **Morning vinyasa** — 20–30 min with Kassandra. Maintains flexibility and breath.
+- **Indoor swim** — palace pools (Caudalie from Feb 5, Palais from Feb 12) or wetsuit in the backyard.
+- **Dumbbell circuit** — when energy is high and you want strength work.
+- **Sauna** — especially valuable in winter. Post-activity or evening.
+
+---
+
+## Strength (minimal equipment, maximum function)
+
+Goal: mobile, flexible, strong — built for decades of surf, swim, and life. Not bulk.
+
+### 10-min AMRAP (As Many Rounds As Possible)
+- 10 goblet squats
+- 10 push presses
+- 10 bent-over rows
+
+### Superset circuit (15 min)
+- 3×10 goblet squats + shoulder press
+- 3×10 Romanian deadlifts + bent-over rows
+- 3×10 lunges + bicep curls
+
+### Quick upper body (10 min)
+- 3×12 floor press
+- 3×12 bent-over rows
+- 3×12 shoulder press
+- 3×15 bicep curls
+
+### Quick lower body (10 min)
+- 3×15 goblet squats
+- 3×12 Romanian deadlifts
+- 3×10 lunges each leg
+- 3×15 calf raises
+
+---
+
+## Nutrition principles
+
+- **Morning ritual:** Warm lemon water first thing. Then solid breakfast or smoothie (fruit, protein, greens).
+- **When conditions are good:** Move first (swim, surf), then refuel. Fasted morning movement is fine for 1000m.
+- **Post-swim:** Protein within 30 min. Eggs, yogurt, smoothie — whatever is easy.
+- **Hydration:** Water throughout the day. Electrolytes after swim or sauna (sodium, potassium, magnesium).
+- **Local meat quality:** The Landes has exceptional poultry (poulet fermier), duck, and local beef. Use it — home cooking with quality product beats supplements.
+- **Anti-inflammatory:** Omega-3 (fish, walnuts), turmeric, olive oil. The daily swim + diet combination is naturally anti-inflammatory.
+
+---
+
+## Longevity mindset
+
+- **Functional fitness over aesthetics.** Stay mobile, flexible, and strong — built for decades of activity. Movement quality and range over heavy lifting for size.
+- **Daily stretching and movement** underpin long-term performance. Consistency beats intensity when the goal is longevity.
+- **8 hours sleep.** Recovery is when the body adapts. Non-negotiable.
+- **Mental health is longevity.** Reflection, journaling, touch grass, creative practice — the mind needs maintenance too.
+- **Recovery = nutrition + sleep + movement variety.** Listen to the body. Experiment with what works and learn from it.
+- **The weekly audit:** Did I swim every day? Did I eat well? Did I sleep 8 hours? Did I step away from screens? If three of four are no — next week needs adjusting.
+
+---
+
+## Quick yoga flows (for the briefing)
+
+- **10-min yin (hips & shoulders):** Pigeon, thread the needle, seated twist — hold 2 min each.
+- **Legs up the wall (5 min):** Passive inversion for leg recovery and calm. Post-swim, post-row, or before bed.
+- **Cat-cow + child's pose (5 min):** Gentle spinal mobility. Good for any time.
+- **Sun Salutation A × 3 rounds:** Full body activation in under 10 minutes. Morning kickstart.
+- **Forward folds only (5 min):** Standing fold, seated fold, wide-leg fold. Calms the nervous system.
+
+See daily-yoga-surfers-vinyasa for full sequences.
+
+---
+
+## How Kelly uses this
+
+Pick **one or two** reminders per daily briefing based on:
+- **Time of day:** Morning = movement, nutrition. Evening = sleep, wind-down, sauna.
+- **Season:** Pool season = swim-focused. Gym season = rowing, yoga, indoor swim, strength.
+- **Recent context:** Been grinding → suggest recovery (sauna, yin, walk). Slept badly → sleep tips. Haven't moved → movement reminder.
+- **Weather:** Rain/cold → indoor options (rowing, yoga, sauna, creative session). Beautiful day → pool, surf, walk.
+
+Don't lecture. One concrete suggestion. "Post-swim sauna today — you've earned it" not "remember to prioritize your recovery."

@@ -5,45 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Ethena Protocol
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Synthetic Dollar**: USDe is a crypto-native stablecoin that doesn't rely on traditional banking - it uses delta-hedging to maintain its peg
-- **Delta-Neutral Strategy**: Collateral (stETH, wBTC) is paired with short perpetual futures positions to neutralize price exposure
-- **Yield Generation**: Returns come from staking rewards + perpetual funding rates (can be 15-30%+ when funding is positive)
-- **Treasury Model**: Protocol revenue flows to reserve/treasury, ENA governance token has no direct fee-sharing
-
-**Analytical Approach:**
-- Monitor USDe supply growth as indicator of protocol adoption
-- Track funding rates across major venues (Binance, Bybit, OKX) - negative funding = reduced yields
-- Watch the ENA/USDe ratio for governance token valuation relative to TVL
-
-**Pattern Recognition:**
-- Funding rate inversions (negative) cause yield compression and potential redemptions
-- Major integrations (Aave, Hyperliquid) drive supply expansion
-- High open interest across perps venues = higher funding = higher yields
-
-**Strategic Framework:**
-- USDe attractive when funding rates are positive and elevated (>10% annualized)
-- sUSDe = staked USDe that earns the yield (non-stakers subsidize stakers)
-- ENA is a governance token with treasury exposure, not direct revenue share
-
-> **Important**: Numbers and metrics in this document are illustrative. Use CALCULATE_REVENUE_MULTIPLIER and MESSARI_NEWS for current data.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 ## Quick Reference
 
 | Attribute | Value |

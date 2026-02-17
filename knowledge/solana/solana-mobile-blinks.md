@@ -3,29 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-> **📌 Knowledge Base Note**
-> Numbers, prices, and metrics are illustrative — focus on methodology and frameworks.
-
 # Solana Mobile & Blinks
-
-## Methodology & Framework
-
-### Core Concepts
-Solana's mobile-first strategy spans hardware (**Saga phone**, **Chapter 2**), protocol primitives (**Actions API**, **Blinks** — blockchain links), and payment infrastructure (**Solana Pay**). The thesis: crypto adoption requires meeting users where they are (mobile), reducing transaction friction to a single tap, and embedding blockchain interactions into existing surfaces (social media, websites, QR codes).
-
-### Analytical Approach
-Evaluate through: (1) **Distribution** — does the mobile strategy create new user acquisition channels or just serve existing crypto users? (2) **UX reduction** — how many steps between intent and on-chain action? (3) **Developer adoption** — are builders creating Actions/Blinks, or is it foundation-driven? (4) **Revenue model** — does the mobile strategy generate sustainable economics?
-
-### Pattern Recognition
-- Saga phone's initial sales were slow, but the BONK airdrop to Saga holders created speculative demand that sold out remaining inventory — hardware as airdrop vehicle.
-- Blinks embed transaction signing into any URL-sharing surface (Twitter/X, Discord, websites), collapsing the "go to dApp, connect wallet, sign transaction" flow into one click.
-- Solana Pay evolved from simple payment QR codes to a programmable transaction request protocol — merchants can encode arbitrary Solana transactions in a QR code.
-- The mobile dApp store (on Saga) bypasses Apple/Google gatekeeping, enabling crypto-native apps without app store restrictions.
-
-### Decision Framework
-When assessing mobile/Blinks impact: Does this reach non-crypto users or only improve UX for existing ones? Is the friction reduction meaningful enough to change behavior? Can Actions/Blinks achieve distribution without relying on platform cooperation (Twitter embedding, etc.)?
-
----
 
 ## Analysis
 

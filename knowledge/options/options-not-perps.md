@@ -5,45 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Perpetual Contracts vs. Options**: Understanding the differences in scalability, liquidity, and user engagement between these two financial instruments.
-- **Product-Market Fit**: Recognizing that selling covered calls represents a favorable alignment of market needs and product offerings, especially in crypto.
-- **Open-Source vs. Custom Solutions**: Differentiating between platforms that replicate existing systems quickly versus those that require unique, complex development.
-
-**Analytical Approach:**
-- Evaluate the scalability potential of financial products by examining the ease of replication in their underlying technology. Analyze how streamlined systems attract more users and liquidity compared to artisanal solutions that demand extensive resources to develop.
-- Consider user psychology and behavioral economics; assess how immediate gratification (e.g., high leverage trading) influences trading behaviors over more stable, long-term strategies (e.g., covered calls).
-
-**Pattern Recognition:**
-- Look for signals indicating when new options platforms begin to adopt modular, user-friendly solutions, which can suggest a shift in market dynamics.
-- Monitor the proliferation of perpetual platforms to gauge market saturation and the likelihood of a subsequent rise in options trading as technology evolves.
-
-**Strategic Framework:**
-- When entering a new trading space, prioritize identifying scalable, replicable models that can quickly capture market share. Assess whether the product aligns with sustainable user behavior or whether it caters to speculative trading.
-- Develop strategic partnerships or invest in technology that enhances the functionality of options trading platforms, focusing on modular systems that allow for rapid deployment and flexibility.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180266396.Options Not Perps
 ## Metadata
 **Source**: Substack Essay

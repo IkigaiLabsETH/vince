@@ -1,49 +1,10 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Nomadic Lifestyle Analysis:** Understanding the dynamics of temporary living environments and their effects on well-being and productivity.
-- **Long-Term Viability Assessment:** Evaluating locations based on sustainability and personal fulfillment over time.
-- **Cost-Benefit Living Evaluation:** Weighing living costs against lifestyle quality in various locales.
-- **Community and Infrastructure Importance:** Assessing the role of local amenities, culture, and support systems in enhancing the living experience.
-
-**Analytical Approach:**
-- Approach the topic by examining both the transient and permanent aspects of living in various locations. Consider how a place's environment, culture, and community can influence long-term satisfaction and productivity. Use a comparative lens to identify which attributes lead to burnout and which foster enduring contentment. 
-
-**Pattern Recognition:**
-- Look for signals indicating a location's potential for burnout: overcrowding, rapid cost increases, and the presence of transient cultures (like heavy tourism). Conversely, identify characteristics of sustainable living environments, such as affordability, stability in community dynamics, and consistent quality of life indicators (e.g., food quality, safety, internet accessibility).
-
-**Strategic Framework:**
-- Apply a framework of identifying "hidden gems" in real estate that offer long-term appeal. This involves:
-  1. **Research:** Analyze less popular locations for their potential to provide a high quality of life at a lower cost.
-  2. **Test Visits:** Spend extended periods in candidate locations to gauge personal fit and lifestyle alignment.
-  3. **Community Engagement:** Integrate into local communities to assess cultural and infrastructural support.
-  4. **Evaluate Lifestyle Balance:** Regularly assess how well a location meets both personal and professional needs, adjusting choices based on evolving priorities.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
 
 
 I’ve been chasing the nomadic life for years—laptop lifestyle, endless flights, and that constant hunt for the “perfect” spot. But here’s the truth: every hyped destination eventually wears you down. The honeymoon fades, the crowds arrive, costs skyrocket, or the vibe just turns repetitive.

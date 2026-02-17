@@ -51,48 +51,6 @@ last_reviewed: 2026-02-15
 
 ## Legacy Framework (original, verbatim)
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Practical Robotics Development:** Focus on building robots that address immediate industrial needs rather than pursuing cutting-edge features that may not be market-ready.
-- **Iterative Learning from Past Projects:** Leverage experience from previous projects (like NASA contracts) to inform the design and functionality of new products.
-- **Partnerships for Enhanced Capabilities:** Collaborate with technology leaders (e.g., Google DeepMind, Texas Instruments) to integrate advanced AI and manufacturing technologies, enhancing the product's value proposition.
-- **Market Viability Over Hype:** Prioritize cost-effectiveness, reliability, and safety in product design to ensure market adoption, rather than succumbing to the pressures of industry hype.
-
-**Analytical Approach:**
-- Evaluate venture opportunities by assessing the alignment of technology with practical applications. Consider whether the product addresses a clear market need and its potential for scalability and profitability.
-- Analyze competitors not just by their technological prowess, but by their readiness to deploy products and their ability to generate revenue in the current market landscape.
-
-**Pattern Recognition:**
-- Watch for trends in industrial automation investments, especially those emphasizing cost reduction and efficiency improvements. Identify partnerships that signal a commitment to integrating advanced technology in practical applications.
-- Recognize the importance of revenue generation in early-stage companies; successful ventures often show early signs of monetization, setting them apart from those reliant solely on funding.
-
-**Strategic Framework:**
-- When assessing a new venture, apply a checklist:
-  1. Does the technology solve a real-world problem?
-  2. Are there existing partnerships that enhance the product's capabilities?
-  3. Is the company demonstrating a path to profitability?
-  4. How does the product differentiate itself from competitors in terms of cost, reliability, and safety?
-- Use this framework to guide investment decisions, strategic planning, and resource allocation in robotics and related fields.
-
-**Important Notes:**
-- Focus on methodology and strategic thinking rather than specific historical data.
-- Emphasize actionable insights that can be applied to current market conditions and new ventures.
-- Maintain a forward-looking perspective, leveraging lessons from past experiences to inform future decisions.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 ---
 
 ## Appendix (original memo, verbatim)

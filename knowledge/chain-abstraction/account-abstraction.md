@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Account Abstraction (ERC-4337)
 
-## Methodology & Framework
-
-Account abstraction is evaluated through **user experience gains** (what UX patterns become possible?), **security model changes** (how does the trust surface shift from EOAs to smart accounts?), and **ecosystem readiness** (tooling, bundler infrastructure, paymaster availability). ERC-4337 is assessed as both a standard and a live infrastructure layer.
-
----
-
 ## The EOA Problem
 
 Ethereum's original account model forces every user into the same box: an externally owned account (EOA) controlled by a single private key. Lose the key, lose everything. No spending limits, no social recovery, no batched transactions, no gas abstraction. Every interaction requires ETH for gas. This is the UX equivalent of requiring users to understand TCP handshakes before browsing the web.

@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Convertible Deposits**: A novel financial product that allows users to earn yield without owning the underlying asset, combining aspects of traditional yield generation with DeFi innovations.
-- **Yield Generation Mechanisms**: Understanding the mechanics of traditional methods like covered calls and cash-secured puts, and how they compare to DeFi strategies.
-- **Risk Mitigation**: The concept of preserving principal while gaining exposure to potential upside in volatile markets.
-- **Tokenomics**: The economic model behind token issuance and redemption, particularly in the context of DeFi protocols.
-
-**Analytical Approach:**
-- Assess financial instruments not only on their yield but also on their risk profile and the terms of engagement. Think in terms of a dual-layer analysis: yield versus risk, and potential upside versus downside exposure. Evaluate how emerging technologies can disrupt traditional yield methods.
-
-**Pattern Recognition:**
-- Look for signals in market behavior that indicate shifts in asset volatility, such as sudden price spikes or drops. Identify patterns where new financial products successfully integrate traditional finance principles with DeFi innovation, particularly in risk-reward dynamics.
-
-**Strategic Framework:**
-- When evaluating new DeFi products, consider the following steps:
-  1. **Identify**: Understand the core functionality of the product—what it promises and how it operates.
-  2. **Compare**: Benchmark against traditional financial products to gauge relative risk and reward.
-  3. **Evaluate Terms**: Analyze the conditions attached to yield generation and what happens in various market scenarios.
-  4. **Monitor**: Continuously observe market changes and product performance to adjust strategies accordingly.
-
-**Important Notes:**
-- Stay focused on the methodologies and frameworks rather than specific historical data or metrics.
-- Cultivate a mindset geared toward adaptability and continuous learning, especially in rapidly evolving environments like DeFi.
-- Ensure actionable insights can be generalized to apply to current and future financial products.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180458194.Convertible Deposits
 ## Metadata
 **Source**: Substack Essay

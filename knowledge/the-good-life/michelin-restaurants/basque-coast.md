@@ -1,7 +1,7 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 # Basque Coast Fine Dining
 
@@ -10,61 +10,6 @@ last_reviewed: 2026-02-15
 
 ---
 
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-## Methodology & Framework
-
-**Key Concepts:**
-- **Address**: Paseo Padre Orcolaga, 56, 20008 Donostia-San Sebastián
-- **Phone**: +34 943 311 209
-- **Chef**: Pedro Subijana (3 stars since 2007, 2 stars for 25 years before)
-- Born 1970 on slopes of Monte Igueldo
-- Anticonformist, perfectionist spirit
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
-## Akelarre (San Sebastian)
-
-**3-Star Michelin | Pedro Subijana | Atlantic Views**
-
-- **Address**: Paseo Padre Orcolaga, 56, 20008 Donostia-San Sebastián
-- **Website**: https://akelarre.net/
-- **Phone**: +34 943 311 209
-- **Chef**: Pedro Subijana (3 stars since 2007, 2 stars for 25 years before)
-
-**The Legend**:
-- Born 1970 on slopes of Monte Igueldo
-- Anticonformist, perfectionist spirit
-- Views over Cantabrian Sea
-
-**Hotel**: Boutique hotel opened 2017
-- Superior Horizon rooms
-- Junior Suite Panoramic
-- Akelarre Suite Oceanic
-
-**Also**: Espazio Oteiza bar-restaurant, Lore Ttipia spa
-
-**Best For**: Ultimate Basque gastronomy pilgrimage, once-in-a-lifetime experience
-
----
 
 ## Nobu Hotel San Sebastian
 

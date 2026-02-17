@@ -5,48 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Liquidation Dynamics**: Understanding the mechanics of forced closures in leveraged trading, particularly in high-volatility environments like cryptocurrency.
-- **Opacity vs. Transparency**: The implications of reporting practices in major exchanges, highlighting the contrast between platforms like Binance and more transparent alternatives.
-- **Cascading Risks**: Recognizing how interconnected market events (e.g., geopolitical shifts, policy changes) can trigger rapid liquidations across various assets.
-- **Market Sentiment Analysis**: Evaluating trader behavior and sentiment shifts that contribute to volatility and subsequent liquidation events.
-
-**Analytical Approach:**
-- Employ a holistic view that integrates macroeconomic factors, trader psychology, and market structure. Analyze how external shocks (e.g., policy changes) interact with internal market mechanisms (e.g., leverage and margin calls). 
-- Utilize a multi-layered approach to data analysis, combining quantitative metrics (liquidation volumes, trading volumes) with qualitative insights (market sentiment, exchange transparency).
-
-**Pattern Recognition:**
-- Watch for rapid spikes in liquidation volumes, particularly following significant geopolitical events or economic announcements. 
-- Identify market trends tied to specific exchanges; for instance, anomalies in Binance’s reporting can signal potential market instability.
-- Look for correlations between high-leverage trading and sudden price drops, particularly in reaction to external shocks or regulatory news.
-
-**Strategic Framework:**
-- Develop a risk management strategy that includes monitoring market sentiment and external factors that could lead to abrupt price movements. 
-- Prioritize transparency in trading platforms when evaluating investments; favor exchanges with clear reporting practices to mitigate information asymmetry risks.
-- Use scenario analysis to anticipate potential liquidation events based on historical triggers, allowing for proactive adjustments in trading strategies.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182619266.Hidden Tsunami
 ## Metadata
 **Source**: Substack Essay

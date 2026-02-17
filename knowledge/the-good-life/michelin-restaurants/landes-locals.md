@@ -1,7 +1,7 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 # Landes Local Favorites
 
@@ -29,70 +29,6 @@ last_reviewed: 2026-02-15
 
 ---
 
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-## Methodology & Framework
-
-**Key Concepts:**
-- Style: Refined bistronomy in a renovated setting
-- Vibe: Highly rated for both cuisine and ambiance
-- Notes: Often listed as "La Villa Pomade" or shortened to "La Pommade"
-- Open: TBD. Call 05 58 47 25 76 or check villa-pomade.com for current hours (site may be under maintenance).
-- Use case: Regular lunch when you want something refined
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
-## Regular Go-To Spots
-
-### Villa Pomade
-**178 Avenue d'Albret, 40370 Rion-des-Landes, France**
-
-- Style: Refined bistronomy in a renovated setting
-- Vibe: Highly rated for both cuisine and ambiance
-- Notes: Often listed as "La Villa Pomade" or shortened to "La Pommade"
-- Open: TBD. Call 05 58 47 25 76 or check villa-pomade.com for current hours (site may be under maintenance).
-- Use case: Regular lunch when you want something refined
-
-### Maison Devaux
-**70 Rue du Commerce, 40370 Rion-des-Landes, France**
-
-- Style: Michelin Bib Gourmand modern French/fusion
-- Vibe: Seasonal menu, warm atmosphere
-- Notes: Contemporary take on local ingredients
-- Open: **Wed-Sat 12:30-14:00, Sun 12:30-15:00** (CLOSED Mon-Tue)
-- Phone: 05 58 72 46 79
-- Use case: Special lunch in town
-
-### Auberge du Lavoir
-**21 Rue de l'Airial, 40110 Garrosse, France**
-
-- Style: Convivial French cuisine
-- Vibe: Family-friendly spot near Morcenx
-- Notes: Great reviews for traditional dishes, single service only
-- Open: **Tue, Wed, Thu, Sun 12:00-13:30** (CLOSED Mon)
-- Phone: 05 58 08 16 20
-- Use case: Relaxed lunch, good for groups
-- **TUESDAY DINING DAY GO-TO** (only confirmed local open Tue)
-
----
 
 ## Domaine d'Uza (Lakeside Options)
 

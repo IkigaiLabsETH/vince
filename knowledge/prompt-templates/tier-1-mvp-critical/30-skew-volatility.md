@@ -89,45 +89,6 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Volatility Skew**: Understanding the relationship between put and call options pricing, particularly the 25Δ and 10Δ risk reversal metrics, to gauge market sentiment.
-- **Implied Volatility (IV) Metrics**: Utilizing current and historical IV data to assess market expectations of future volatility and sentiment towards asset price movements.
-- **Term Structure Analysis**: Evaluating the IV across various expiration dates to identify market expectations for volatility over time, including contango and backwardation conditions.
-- **Cross-Verification**: Employing multiple data sources, such as Skew.com and Deribit, to ensure data consistency and reliability.
-
-**Analytical Approach:**
-- Begin by extracting relevant IV and skew data from designated dashboards, focusing on key metrics that reveal market sentiment. Analyze changes in these metrics over time to identify shifts in sentiment, such as increased demand for downside protection or bullish conviction.
-- Utilize data cleaning and parsing methods to ensure accuracy in calculations, particularly for skew metrics derived from raw IVs. This quantitative analysis should be complemented by qualitative interpretations to contextualize findings.
-
-**Pattern Recognition:**
-- Look for significant shifts in skew metrics that may indicate changing market conditions. For example, a steep negative skew suggests heightened downside fear, while a positive skew indicates bullish sentiment. Track historical parallels to identify recurring patterns that can inform current market assessments.
-- Monitor term structure changes; a transition from contango to backwardation may signal an impending shift in market dynamics.
-
-**Strategic Framework:**
-- Apply a systematic approach to assess the current volatility landscape by regularly updating the BTC options volatility skew snapshot. Use this as a baseline to compare against historical trends and similar market conditions.
-- Formulate strategic insights based on the data, considering the implications for spot BTC movement and potential gamma or volatility breakout risks. This can guide trading strategies and risk management practices.
-
-**Important Notes:**
-- Maintain a focus on the methodologies and frameworks that underpin market analysis rather than specific data points or historical events.
-- Emphasize actionable insights that can be applied to current and future market conditions, ensuring that the analysis remains relevant and practical.
-- Keep explanations concise and clear, enabling quick reference for traders and analysts alike.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0 (Variant)*  
 *Last Tested: 2026-01-XX*  
 *Source: skew.com*  

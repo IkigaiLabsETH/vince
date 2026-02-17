@@ -89,42 +89,6 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Quality Assessment:** Evaluating CEX (Centralized Exchange) market conditions through metrics like order book depth and slippage.
-- **Signal Detection:** Identifying trading conditions and potential market regime shifts based on liquidity metrics.
-- **Comparative Analysis:** Juxtaposing CEX liquidity with decentralized exchange (DEX) contexts to provide a holistic market view.
-- **Data Aggregation and Interpretation:** Systematically collecting and analyzing data to derive actionable insights regarding market trends.
-
-**Analytical Approach:**
-To effectively analyze market liquidity and quality, leverage a structured approach that synthesizes quantitative data and qualitative insights. Begin by defining clear objectives that focus on key liquidity indicators and market conditions. Utilize reliable data sources such as Kaiko for robust insights on order books and trading volumes. Adopt a systematic data extraction and analysis methodology, ensuring that you continuously update your understanding of market dynamics as conditions evolve.
-
-**Pattern Recognition:**
-Look for specific patterns that indicate shifts in liquidity and volatility. For instance, an increase in aggregated order book depth may signal bullish market conviction, while a thinning depth can forecast potential volatility. Monitor changes in slippage rates, which can indicate market fragility or strength. Recognizing historical parallels can also provide context for current market behavior, guiding predictions about future movements.
-
-**Strategic Framework:**
-Apply this analytical thinking to inform trading strategies and risk management. For instance, when aggregated depth is high and slippage is low, consider positioning for larger trades, as this suggests a favorable market environment. Conversely, if depth is decreasing and slippage is rising, exercise caution and reassess trading strategies, particularly for sizable transactions. Always maintain a comparative lens by analyzing how CEX conditions stack against DEX liquidity to inform your execution strategies.
-
-**Important Notes:**
-- Prioritize methodology over historical data, focusing on actionable insights relevant to current market conditions.
-- Utilize a structured framework to ensure comprehensive market analysis, enabling informed decision-making based on liquidity dynamics.
-- Keep the approach adaptable to changing market conditions, allowing for continuous refinement of strategies based on emerging data.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: kaiko.com*

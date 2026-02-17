@@ -5,45 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Fear & Greed Index**: Utilize this index to gauge market sentiment and predict potential reversals.
-- **Token Supply Dynamics**: Assess the impact of token unlock schedules and market supply pressure.
-- **Revenue Generation vs. Market Share**: Compare protocol revenues with market share metrics to identify strength and resilience.
-- **Buyback Mechanism**: Understand how buyback strategies can influence token scarcity and market prices.
-- **Bear vs. Bull Narrative Construction**: Evaluate both bullish and bearish narratives to form a comprehensive market outlook.
-
-**Analytical Approach:**
-- Adopt a dual perspective when assessing market conditions. Start with a bearish viewpoint to uncover potential risks and supply pressures, then pivot to a bullish analysis that considers strong revenue generation and buyback mechanisms. This reflective process allows for a systemic evaluation of both sides of the market narrative, fostering a balanced investment outlook.
-
-**Pattern Recognition:**
-- Monitor the **Fear & Greed Index** for extreme levels that typically precede market reversals. Look for historical patterns where significant price drops are followed by accumulation phases, particularly among "strong hands" in the market.
-- Identify trends in the token unlock schedules and correlate them with price movements to predict short-term supply shocks and their potential impact on market sentiment.
-
-**Strategic Framework:**
-- Develop a framework for decision-making that emphasizes regular re-evaluation of investment theses in light of market changes. This involves using options trading as a strategy to hedge risks while maintaining exposure to potential upside. 
-- Incorporate revenue metrics and buyback strategies as key indicators of a protocol's health, allowing for strategic entry and exit points based on their performance against market pressures.
-
-**Important Notes:**
-- Emphasize methodologies and frameworks over specific historical data.
-- Focus on actionable insights that can be applied to current market analysis.
-- Encourage continuous learning and adaptation based on evolving market conditions.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181141677.The Hype Dip
 ## Metadata
 **Source**: Substack Essay

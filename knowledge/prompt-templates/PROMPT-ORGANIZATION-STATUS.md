@@ -13,48 +13,6 @@ last_reviewed: 2026-02-15
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Prompt Categorization:** Organizing prompts into tiers based on criticality (MVP Critical, High Value, Supporting, Advanced) to prioritize analytical efforts.
-- **Data Utilization:** Emphasizing the use of historical examples and illustrative data to frame concepts without relying on current metrics.
-- **Knowledge Base Integration:** Leveraging a structured knowledge base to consolidate insights from various analytical sources.
-
-**Analytical Approach:**
-- **Framework Adoption:** Use a systematic approach to evaluate and categorize prompts based on their relevance and potential impact on decision-making.
-- **Holistic Analysis:** Integrate multiple data sources (sentiment analysis, on-chain data, derivatives metrics) to form a comprehensive market perspective.
-- **Iterative Refinement:** Continuously refine the prompt library by identifying gaps in data or emerging trends, ensuring the methodology evolves alongside market dynamics.
-
-**Pattern Recognition:**
-- **Signal Identification:** Look for recurring themes in sentiment across social media platforms and on-chain data flows to gauge market sentiment and participant behavior.
-- **Trend Analysis:** Monitor the interplay between derivatives data and market movements to identify leading indicators of potential price shifts.
-- **Behavioral Metrics:** Analyze wallet activity and smart money flows to discern patterns indicative of market confidence or caution.
-
-**Strategic Framework:**
-- **Data-Driven Decision Making:** Apply organized insights from the prompt library to inform strategy in trading, investment, or market analysis.
-- **Scenario Planning:** Utilize historical data to simulate potential market scenarios and assess the impact of various external factors on market behavior.
-- **Continuous Learning:** Commit to ongoing education and adaptation by regularly revisiting and updating the prompt library with new findings and analytical techniques.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise and relevant for practical application.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 ## ✅ Completed (36 Prompts) - 100% COMPLETE! 🎉
 
 ### Tier 1: MVP Critical (12 prompts - includes variants)

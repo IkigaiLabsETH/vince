@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Value Accrual in DeFi:** The principle that the worth of a protocol is heavily influenced by its market position and economic throughput capabilities.
-- **Competitive Moat:** The idea that being the top player in a specific vertical provides protective advantages against competitors.
-- **Liquidity Ownership:** The strategic importance of controlling liquidity to enhance protocol sustainability and profitability.
-- **Market Share Dominance:** Achieving a significant share within a vertical to ensure long-term viability and cash flow.
-- **Real-Yield Distribution:** Utilizing protocol revenue for buybacks or distributions to create sustainable value for token holders.
-
-**Analytical Approach:**
-- Evaluate protocols based on their market positioning and throughput potential. Use a competitive analysis to determine if a protocol is the leader in a specific vertical. Consider the sustainability of its economic model over various investment horizons, rather than just short-term price movements.
-- Assess the technological advantages of a protocol, focusing on latency, cost-efficiency, and user experience compared to competitors.
-
-**Pattern Recognition:**
-- Look for protocols that are achieving significant market share (70-90%) within specific verticals, particularly in high-volume areas like perpetual futures or options trading.
-- Identify signs of liquidity ownership, such as strategies that involve buybacks or distribution of real yields, which signal a commitment to maintaining protocol health and enhancing token value.
-
-**Strategic Framework:**
-- When entering the DeFi market or evaluating existing protocols, prioritize those that have a clear, actionable playbook: focus on a high-potential vertical, ensure superior product performance, and maintain liquidity control.
-- Formulate strategies around aggressive buybacks or yield distributions to maximize value creation, while continuously monitoring competitors for shifts in market dynamics.
-
-**Important Notes:**
-- The focus here is on methodologies and frameworks rather than historical data or current market conditions.
-- Emphasize “how to think” about DeFi metrics and protocols, applying these frameworks to assess ongoing and future opportunities in the market.
-- Maintain an adaptable mindset, as the DeFi landscape can shift rapidly, necessitating continual reassessment of strategies and methodologies.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180135562.Defi Value Repricing
 ## Metadata
 **Source**: Substack Essay

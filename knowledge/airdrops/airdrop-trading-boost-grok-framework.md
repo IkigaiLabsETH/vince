@@ -9,32 +9,6 @@ last_reviewed: 2026-02-15
 **Word Count**: 425
 **Tags**: #user-submitted #direct-input #chat
 
-> **📌 Knowledge Base Note**
-> 
-> These documents are optimized for RAG: use for **frameworks and context**, not for current data. Numbers and dates are illustrative—check actions/APIs for live data.
-
-## Methodology & Framework
-
-**Key Concepts:**
-- **2× Points Multiplier**: Seven-day campaign specifically targeting $kHYPE trading activity
-- **Upfront USDT Payments**: Traders receive immediate compensation, reducing risk exposure
-- **Volatility as Feature**: Campaign frames market volatility as beneficial for points accumulation
-- **Flexible Positioning**: "Position on your terms" suggests customizable risk parameters
-- **Time-Limited Incentive**: Seven-day window creates urgency and concentrated activity
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
----
-
 # Hyperliquid Points Boost Campaign Analysis
 
 **Source**: Direct Input - December 19, 2024

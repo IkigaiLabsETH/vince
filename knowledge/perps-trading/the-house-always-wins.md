@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Hyperliquidity Provider (HLP):** A mechanism that allows capital-rich participants to profit while minimizing risk through community-owned yield.
-- **Perpetual Futures (Perps):** Understanding the inherent risks and structure of perps trading, including leverage, funding rates, and liquidations.
-- **House Edge Dynamics:** Recognizing how protocols profit from trader behaviors and how HLP shifts this paradigm to benefit the community.
-
-**Analytical Approach:**
-- Evaluate trading strategies by assessing the risk-reward balance inherent in leveraged trades. Analyze funding rates and potential liquidation events as critical metrics that influence trader profitability.
-- Consider the market psychology of traders—how emotions drive decisions in volatile environments and how this can be exploited by protocols.
-
-**Pattern Recognition:**
-- Watch for high volatility periods in the market where large intraday price swings (wicks) can lead to liquidations. Identify trends in funding rates that may indicate prevailing market sentiment (bullish or bearish).
-- Look for signs of community sentiment towards long-term yield strategies, especially in environments where traditional trading strategies are failing.
-
-**Strategic Framework:**
-- Employ a risk-averse strategy by using HLP or similar yield-generating protocols rather than engaging in high-leverage trading. This can serve as a foundation for capital preservation while participating in crypto markets.
-- Develop criteria for evaluating new trading platforms or decentralized exchanges (DEXs) based on their fee structures, community governance mechanisms, and potential for democratizing profits.
-
-**Important Notes:**
-- Focus on the methodologies and frameworks presented rather than specific historical data or current market conditions.
-- Apply the extracted concepts to analyze current trading environments and inform future trading decisions.
-- Emphasize a long-term perspective in strategy development, favoring sustainable yield over speculative gains.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 179719342.The House Always Wins
 ## Metadata
 **Source**: Substack Essay

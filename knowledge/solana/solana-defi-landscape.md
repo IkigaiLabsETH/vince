@@ -5,18 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Solana DeFi Landscape
 
-## Methodology & Framework
-
-**Core Concepts:** Solana DeFi operates fundamentally differently from EVM DeFi due to the chain's architecture — 400ms block times, low fees, and global state enable order-book DEXs, high-frequency rebalancing, and composability patterns impossible on Ethereum. The DeFi stack is less forked/cloned and more natively designed for Solana's strengths.
-
-**Analytical Approach:** Evaluate each protocol on: (1) product-market fit evidenced by organic volume/TVL, (2) revenue sustainability without token incentives, (3) moat and defensibility, (4) team execution track record, (5) token value accrual mechanisms.
-
-**Pattern Recognition:** Solana DeFi winners tend to be aggregators and infrastructure layers (Jupiter, Jito) rather than isolated liquidity venues. Protocols that embrace Solana's speed — offering features like limit orders, DCA, and perps — outperform simple AMM forks. The ecosystem rewards vertical integration.
-
-**Decision Framework:** Prioritize protocols with: real revenue > token emissions, growing market share within their vertical, strong composability (other protocols building on top), and teams that ship consistently. Be skeptical of TVL driven purely by points programs.
-
----
-
 ## Major Protocols
 
 ### Jupiter — The Aggregation Layer

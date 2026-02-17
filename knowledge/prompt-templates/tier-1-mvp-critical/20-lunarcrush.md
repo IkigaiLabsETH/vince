@@ -122,41 +122,6 @@ Compare galaxy scores to historical extremes, sentiment percentages
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Social Momentum Assessment**: Evaluating the community engagement and sentiment around specific cryptocurrencies.
-- **Galaxy Score**: A metric reflecting a coin's social activity and engagement, indicative of community strength.
-- **Sentiment Analysis**: Understanding the bull/bear sentiment to gauge market psychology and investor behavior.
-- **Trend Detection**: Identifying patterns in social engagement and coin performance to foresee market movements.
-- **Cross-Validation**: Using multiple data sources to enhance reliability of insights.
-
-**Analytical Approach:**
-To analyze social sentiment in cryptocurrencies, adopt a multi-faceted approach. Begin by systematically gathering data from relevant platforms like LunarCrush and Santiment. Focus on key metrics such as galaxy score, social volume, and sentiment ratios. Utilize a combination of qualitative assessments (e.g., trending narratives) and quantitative analysis (e.g., historical trends) to build a comprehensive view of market dynamics. This will allow for a robust understanding of the factors influencing social momentum.
-
-**Pattern Recognition:**
-Look for cyclical trends in social engagement, such as the emergence of FOMO (fear of missing out) or hype cycles that precede price movements. Pay attention to shifts in dominance among assets, noting any rotation from major coins (like BTC) to altcoins, which can indicate changing investor sentiments. Identify extreme sentiment indicators that may signal contrarian trading opportunities.
-
-**Strategic Framework:**
-Apply this methodology by consistently monitoring the identified metrics and adjusting trading strategies based on the detected patterns. When assessing coins, prioritize those with a high galaxy score and positive sentiment, while being wary of those exhibiting drastic shifts in social momentum. Use insights from historical data to inform predictions about potential future movements, and always cross-reference findings with multiple sources to validate trends.
-
-**Important Notes:**
-This framework emphasizes a proactive mindset in analyzing social sentiment rather than merely reacting to market changes. Focus on the underlying methodologies to interpret data effectively, ensuring that insights remain relevant and actionable in the fast-paced crypto environment. Stay aware of the limitations of free data tiers and pivot to alternative sources when necessary for a well-rounded analysis.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: lunarcrush.com*

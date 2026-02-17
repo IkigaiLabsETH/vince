@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Liquid Restaking Tokens (LRTs)
 
-## Methodology & Framework
-
-This file analyzes the liquid restaking token landscape through **protocol mechanics** (how each LRT wraps the restaking process), **risk layering** (each abstraction adds a risk surface), and **competitive positioning** (market share, differentiation, sustainability). LRTs are evaluated on: TVL, peg stability, operator curation strategy, DeFi composability, and fee structure. Sources include protocol documentation, Dune dashboards, and DeFi Llama data.
-
----
-
 ## What Are LRTs?
 
 Liquid Restaking Tokens are receipt tokens representing a position in EigenLayer (or competing restaking protocols). They solve a UX and capital efficiency problem: without LRTs, restaked ETH is locked and illiquid. LRTs make restaked positions tradeable, composable in DeFi (lending, LPing), and accessible without running operator infrastructure.

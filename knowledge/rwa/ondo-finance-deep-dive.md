@@ -3,27 +3,6 @@ tags: [rwa, tokenization, institutional]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
-## Methodology & Framework
-
-**Core Concepts:**
-- **Ondo Finance** positions itself as the institutional-grade bridge between TradFi and DeFi, offering tokenized exposure to traditional financial products.
-- **Product suite** spans yield-bearing stablecoins (USDY), institutional treasury access (OUSG), and planned tokenized equities—each targeting different market segments.
-- **Vertical integration** strategy: Ondo is building its own L1 (Ondo Chain) to control the full stack from issuance to settlement.
-
-**Analytical Approach:**
-- Evaluate Ondo across three axes: **product-market fit** (AUM growth, user adoption), **competitive positioning** (vs. BUIDL, BENJI, USYC), and **strategic vision** (Ondo Chain, tokenized equities).
-- Assess whether vertical integration (own chain) creates value or fragments liquidity.
-- Track ONDO token economics separately from product fundamentals—token value ≠ protocol value.
-
-**Pattern Recognition:**
-- Ondo's growth pattern: launch institutional product (OUSG) → launch retail-accessible product (USDY) → expand chains aggressively → announce infrastructure layer (Ondo Chain).
-- USDY's low minimum ($1) and wide chain deployment (12 chains) drive user count; OUSG's institutional structure drives credibility.
-
-**Decision Framework:**
-- For Ondo evaluation: product AUM trajectory → competitive moat (legal structure, partnerships) → Ondo Chain execution risk → token value accrual mechanism.
-
----
-
 ## Ondo Finance: Product Deep Dive
 
 **OUSG (Ondo Short-Term U.S. Government Treasuries)** — $717M AUM
@@ -61,9 +40,5 @@ last_reviewed: 2026-02-15
 **Competitive landscape:** BlackRock (BUIDL) dominates institutional, Franklin Templeton (BENJI) leads U.S. retail registered funds, Hashnote (USYC) competes on yield. Ondo's edge is breadth of accessibility and chain coverage.
 
 ---
-
-> **📌 Knowledge Base Note**
-> - **Use for:** Ondo product analysis framework, competitive positioning
-> - **Do NOT use for:** Current AUM, yield, or token price (use actions/APIs)
 
 *Last updated: 2026-02-15*

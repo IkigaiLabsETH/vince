@@ -3,29 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-> **📌 Knowledge Base Note**
-> Numbers, prices, and metrics are illustrative — focus on methodology and frameworks.
-
 # Solana Validator Economics
-
-## Methodology & Framework
-
-### Core Concepts
-Solana validators produce blocks, vote on consensus, and earn rewards from three sources: **inflation rewards** (staking yield from new SOL issuance), **priority fees** (tips from transactions), and **MEV tips** (Jito bundles and searcher payments). Running a validator requires significant hardware (high-core CPU, 512GB+ RAM, NVMe storage, 1Gbps+ bandwidth) and operational expertise. The delegation landscape is dominated by liquid staking protocols (Marinade, Jito) and large stake pools, creating a power-law distribution.
-
-### Analytical Approach
-Evaluate validator economics through: (1) **Unit economics** — monthly hardware/bandwidth cost vs. expected revenue at a given stake level; (2) **Commission dynamics** — how commission rate affects delegation attractiveness; (3) **MEV revenue share** — Jito tips as a growing percentage of total validator income; (4) **Centralization risk** — Nakamoto coefficient and geographic/provider concentration.
-
-### Pattern Recognition
-- Break-even stake for a solo validator is roughly 50-100K SOL depending on hardware costs and commission — this creates a natural barrier to entry.
-- MEV tips have grown from negligible to a significant revenue stream, making Jito client adoption near-universal.
-- Commission compression: top validators compete on low commission (0-5%), squeezing margins for smaller operators.
-- Stake concentration follows power laws: top 20 validators often control >33% of stake, creating liveness concerns.
-
-### Decision Framework
-When evaluating validator health: What's the Nakamoto coefficient trend? Are MEV tips centralizing toward superminority validators? Is hardware cost scaling faster than revenue growth (especially with Firedancer's requirements)? Does liquid staking improve or worsen decentralization?
-
----
 
 ## Analysis
 

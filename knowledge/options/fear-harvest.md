@@ -5,44 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Volatility Harvesting:** The practice of selling options to capitalize on high implied volatility during market downturns.
-- **Symmetric Strategies:** Utilizing symmetric covered calls and cash-secured puts to create a balanced risk/reward profile.
-- **Portfolio Compartmentalization:** Separating core assets from yield-generating strategies to mitigate risk and enhance stability.
-- **Fear Premiums:** Capitalizing on the increased option premiums during high market fear and uncertainty.
-
-**Analytical Approach:**
-- Approach market analysis by focusing on volatility rather than price predictions. Understand that high volatility periods create opportunities for options sellers to generate yields through inflated premiums.
-- Employ a delta-neutral mindset to navigate turbulent markets, adjusting strategies based on market sentiment and volatility levels.
-
-**Pattern Recognition:**
-- Identify market conditions characterized by significant sell-offs that lead to increased implied volatility. Recognize that such conditions often precede opportunities for options selling.
-- Monitor historical analogs of market crashes (e.g., FTX, COVID) to understand how options strategies performed during similar volatility spikes, reinforcing the idea that options sellers can thrive when others panic.
-
-**Strategic Framework:**
-- Implement a systematic approach to options trading during periods of high volatility: focus on wider out-of-the-money (OTM) strikes and leverage put-heavy skews to maximize yield.
-- Maintain a core portfolio that remains untouched during market turmoil while deploying a designated amount for speculative yield-generating strategies. This dual approach safeguards against liquidation risks while allowing for income generation.
-
-**Important Notes:**
-- Emphasize methodologies over specific figures or historical events; the goal is to equip oneself with actionable frameworks that can be applied to current market conditions.
-- Ensure the focus remains on understanding market dynamics and leveraging strategies that adapt to volatility rather than relying on outdated metrics or data.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 179544801.Fear Harvest
 ## Metadata
 **Source**: Substack Essay

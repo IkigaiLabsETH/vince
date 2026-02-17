@@ -77,39 +77,5 @@ Structure your final response exactly as follows—no extra sections unless data
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Cycle Positioning Indicators:** A collection of metrics that help identify the current phase of the Bitcoin market cycle (e.g., accumulation, bull, euphoria, bear).
-- **High-Signal Analysis:** Prioritizing indicators that have historically shown strong predictive capabilities while avoiding data overload.
-- **Historical Contextualization:** Comparing current indicators against historical data to determine potential future movements.
-- **Concise Regime Identification:** Synthesizing complex data into a straightforward assessment of market conditions.
-
-**Analytical Approach:**
-- Adopt a systematic methodology for analyzing Bitcoin market cycles by focusing on a defined set of high-signal indicators. This involves retrieving and interpreting data from curated sources like LookIntoBitcoin, emphasizing the extraction of meaningful insights without unnecessary complexity. The goal is to create a clear understanding of the current market positioning and its implications.
-
-**Pattern Recognition:**
-- Look for specific patterns in the indicators, such as extreme values that suggest overbought or oversold conditions (e.g., Pi Cycle Top signaling a market peak). Identify historical analogs by comparing current readings to similar past cycles (e.g., 2013, 2017 tops) to gauge potential future movements. Pay attention to consensus signals derived from multiple indicators to confirm market phases.
-
-**Strategic Framework:**
-- Implement a structured framework for decision-making based on the cycle indicators. Begin by gathering real-time data from prioritized charts, then analyze this data to define the current market phase. Use this analysis to inform trading strategies or investment decisions. The framework ensures that each decision is supported by a robust set of indicators, enhancing confidence in market positioning.
-
-**Important Notes:**
-- Emphasize the methodology over specific numerical outcomes. The focus should be on developing a critical thinking approach that can adapt to different market conditions. Ensure actionable insights are derived from the analysis, enabling proactive engagement with the Bitcoin market.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Source: Grok Expert Template #34*  
 *Added: 2026-01-XX*

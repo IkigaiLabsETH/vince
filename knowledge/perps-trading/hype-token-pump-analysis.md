@@ -9,32 +9,6 @@ last_reviewed: 2026-02-15
 **Word Count**: 474
 **Tags**: #user-submitted #direct-input #chat
 
-> **📌 Knowledge Base Note**
-> 
-> These documents are optimized for RAG: use for **frameworks and context**, not for current data. Numbers and dates are illustrative—check actions/APIs for live data.
-
-## Methodology & Framework
-
-**Key Concepts:**
-- Monitor institutional endorsement patterns across other DEX tokens for similar setups
-- Track DAT accumulation patterns as leading indicator for institutional adoption plays
-- Research correlation between exchange listing announcements and subsequent institutional validation
-- Analyze volume patterns in new asset classes (equities, commodities) as adoption metrics
-- Study timing relationships between large holder distributions and institutional endorsement cycles
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
-
-
----
-
 # HYPE Token Pump Analysis: Institutional Adoption and Market Dynamics
 
 **Source**: Direct Input - January 2025

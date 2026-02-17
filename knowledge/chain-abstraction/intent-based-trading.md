@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Intent-Based Trading
 
-## Methodology & Framework
-
-Intent-based systems are analyzed across three axes: **expressiveness** (what outcomes can users declare?), **solver competition** (how open and efficient is the auction?), and **execution guarantees** (who bears the risk of failed fills?). The core thesis: separating *what* users want from *how* it gets executed unlocks better pricing, MEV protection, and cross-chain composability.
-
----
-
 ## The Intent Primitive
 
 Traditional DEX trading is imperative: the user specifies exact execution steps — approve token, call swap function, set slippage, choose pool. Intent-based trading inverts this. The user declares an outcome ("I want at least 2000 USDC for my 1 ETH within 10 minutes") and a network of **solvers** competes to fulfill it.

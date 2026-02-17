@@ -5,45 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Onchain Infrastructure:** Understanding the integration of traditional business structures with blockchain technology, particularly through platforms like Coinbase's Developer Platform.
-- **Tokenization and Equity Management:** Utilizing programmable equity and tokenization to enhance fundraising and community ownership.
-- **Regulatory Compliance:** Recognizing the importance of compliance in crypto ventures, especially for non-US founders using structures like US LLCs.
-- **Decentralized Finance (DeFi) Tools:** Leveraging DeFi components such as stablecoins and onchain wallets for financial operations.
-
-**Analytical Approach:**
-- Evaluate the intersection of traditional business models and blockchain technology. Consider how platforms can facilitate the transition from conventional to decentralized finance, focusing on the ease of use, compliance, and integration.
-- Analyze the operational efficiencies brought by cryptocurrency infrastructure, including the impact of programmable assets on fundraising and ownership distribution.
-
-**Pattern Recognition:**
-- Look for trends in the adoption of crypto solutions that offer regulatory safeguards, especially among non-US residents entering the market. Identify emerging startups that leverage tools like tokenization for innovative asset management.
-- Monitor the evolution of API-driven platforms that simplify crypto functionality for businesses, as this can indicate broader market acceptance and potential shifts in business operations.
-
-**Strategic Framework:**
-- For entrepreneurs, assess whether the integration of crypto tools enhances business flexibility and reduces overhead. Consider forming a US entity to unlock access to advanced crypto infrastructure and mitigate operational barriers.
-- Develop a roadmap for incorporating programmable equity and tokenized assets into business strategies, focusing on community alignment and engagement. This can involve creating custom stablecoins or utilizing onchain tools that align with brand identity.
-
-**Important Notes:**
-- Focus on the methodologies that facilitate the understanding of crypto-native projects rather than specific historical data.
-- Emphasize actionable strategies that can be applied in current market conditions, highlighting the significance of adaptability in leveraging emerging technologies.
-- Maintain a clear distinction between conceptual frameworks and empirical data, ensuring the guidance remains relevant and forward-thinking.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 Forward-thinking entrepreneurs—particularly non-US residents building crypto-native projects—are increasingly turning to a powerful combination of tools: Coinbase’s Developer Platform and its dedicated Tokenize offering, a US LLC formed through services like doola, and Fairmint’s onchain equity management.
 
 This stack represents a seamless bridge between traditional business structures and the onchain world, enabling everything from branded stablecoin issuance to tokenized real-world assets (RWAs), programmable equity, and borderless community ownership.

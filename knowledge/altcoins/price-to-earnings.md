@@ -5,47 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Pricing Dynamics:** Understanding how altcoins are priced in relation to perceived value and future potential, including the concept of "margin of safety."
-- **Network Effects vs. User Experience:** Evaluating the impact of user engagement on the effectiveness and stickiness of blockchain protocols.
-- **Capital Allocation Strategies:** Recognizing the importance of acquiring existing profitable businesses to enhance on-chain value creation.
-- **Comparative Valuation Analysis:** Utilizing historical analogies (e.g., dot-com era valuations) to assess current altcoin valuations.
-
-**Analytical Approach:**
-- **Critical Evaluation of Assumptions:** Challenge prevailing narratives that equate adoption with immediate price increases. Analyze the underlying economic fundamentals driving valuations rather than speculative hype.
-- **Performance Metrics Focus:** Shift from traditional crypto metrics like total value locked (TVL) to more substantive indicators such as real GDP on-chain and stable revenue models.
-- **Scenario Analysis:** Explore varying outcomes based on differing market conditions, such as shifts in user behavior and regulatory environments.
-
-**Pattern Recognition:**
-- **Identifying Overvalued Assets:** Look for altcoins with significantly high price-to-sales ratios that lack a corresponding basis in user growth or revenue generation.
-- **Assessing Competitive Landscapes:** Monitor emerging protocols that could disrupt established players by offering better speed, cost, or user experience.
-- **User Engagement Trends:** Track user behavior, especially movements between speculative activities and legitimate use cases, to gauge sentiment shifts.
-
-**Strategic Framework:**
-- **Adopt a Long-Term View:** Rather than reacting to short-term price movements, focus on the long-term viability of protocols based on their foundational economics and user adoption strategies.
-- **Integrate Real-World Assets:** Consider strategies that involve merging traditional businesses with blockchain technology to enhance on-chain activity and revenue generation.
-- **Iterative Learning and Adaptation:** Implement a feedback loop where lessons learned from market reactions inform future investment and operational strategies.
-
-**Important Notes:**
-- This methodology emphasizes the importance of understanding the strategic and economic frameworks underlying the altcoin market rather than relying on outdated numerical data.
-- Focus on actionable insights that can inform decision-making in the current crypto landscape.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 It started with a single Substack from Santi (Inverse Finance):
 
 “ We finally got every headline we prayed for (ETFs, Stripe stablecoins, friendly regs) and prices still went down → the “adoption = moon” trade is dead. Everything except Bitcoin is priced to absolute perfection on $1–3B of hyper-cyclical casino fees → 200–400× P/S for Ethereum, still 20–60× for Solana. That’s not “early,” that’s priced like God with zero margin of safety. Staking rewards aren’t earnings, they’re dilution. Real revenue = fees/MEV, and 95%+ of it comes from perps, memecoins, and liquidations → Vegas, not SaaS. Crypto has no real network effects yet: more users = worse UX, mercenary liquidity, forkable code, zero stickiness. We’re priced at 5–50× Meta’s market cap per user while delivering the opposite of Facebook’s flywheel. Value is leaking from L1s → L2s → apps → user aggregators. The fat-protocol thesis is inverted.”

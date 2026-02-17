@@ -5,49 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Wheel Options Strategy**: A cyclical trading approach involving selling cash-secured puts and transitioning to covered calls to generate income.
-- **Theta Decay**: The time erosion of option value that benefits sellers, especially in sideways markets.
-- **Probability Heuristic**: Using a 30% strike probability (delta of -0.30) to balance potential assignment and income generation.
-- **Market Sentiment Analysis**: Understanding broader market dynamics and liquidity conditions to inform trading decisions.
-
-**Analytical Approach:**
-- **Cyclical Income Generation**: Approach trading as a cycle where income is generated through premiums from put selling and covered calls, rather than focusing purely on asset price direction.
-- **Risk Management Framework**: Develop a strategy that includes a cash-secured buffer to mitigate risks of leverage while maximizing potential gains from market volatility.
-- **Market Context Evaluation**: Assess the broader market environment to ensure that trades are not made in isolation but consider liquidity and sentiment conditions, particularly in volatile markets like crypto.
-
-**Pattern Recognition:**
-- **Volatility Indicators**: Monitor Bitcoin's volatility to identify favorable conditions for implementing the wheel strategy, aiming for periods of sideways movement.
-- **Strike Price Selection**: Look for options with a strike price reflecting a 30% probability of being in-the-money at expiration, ensuring a balance between income potential and risk of assignment.
-- **Market Sentiment Shifts**: Recognize shifts in market sentiment that could affect liquidity—such as capital moving to safer assets or emerging trends in other sectors (like AI)—to adapt the strategy accordingly.
-
-**Strategic Framework:**
-- **Iterative Assessment**: Regularly review and adjust your strategy based on market performance, utilizing APR and sell probability metrics to determine optimal strike prices and trade sizes.
-- **External Market Checks**: Implement quick external checks to validate market conditions before executing trades, ensuring informed decision-making that adapts to current situations rather than relying on historical data.
-- **Continuous Learning Loop**: Maintain a feedback loop where each cycle of the wheel strategy informs future decisions, enhancing your approach as you gather more data and experience in varying market conditions.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 182459383.Options Strategy
 ## Metadata
 **Source**: Substack Essay

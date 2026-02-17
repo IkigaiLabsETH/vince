@@ -7,12 +7,6 @@ last_reviewed: 2026-02-15
 
 *Last updated: 2026-02-15*
 
-## Methodology & Framework
-
-Evaluate tokenized private credit protocols through three lenses: (1) underwriting quality — who borrows, what collateral backs it, and how defaults are handled; (2) yield sustainability — whether returns compensate for actual credit risk or rely on token incentives; (3) structural transparency — how much on-chain visibility exists into loan performance vs opaque off-chain pools. Compare stated APYs against realized net returns after defaults and fees.
-
----
-
 ## The Protocols
 
 **Centrifuge** pioneered the model: real-world assets (invoices, real estate loans, trade receivables) tokenized into NFTs, pooled via Tinlake, and funded by DAI from MakerDAO. The key innovation was tranching — senior tranche holders (DROP tokens) get lower yield but first claim on repayments; junior tranche (TIN) absorbs losses first but earns more. This mirrors traditional structured finance, brought on-chain.

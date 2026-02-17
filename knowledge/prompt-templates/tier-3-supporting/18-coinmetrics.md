@@ -85,47 +85,6 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Network Fundamentals:** Understanding key metrics like active addresses, transaction volume, and hash rate as indicators of network health and activity.
-- **Economic Signals:** Recognizing economic indicators such as NVT ratio and fee market dynamics to assess the valuation of Bitcoin.
-- **Historical Comparison:** Utilizing historical data to identify cycles and patterns that may inform future market behavior.
-- **Data Visualization and Extraction:** Employing various tools and sources to gather, visualize, and analyze network data for actionable insights.
-
-**Analytical Approach:**
-- **Metric Evaluation:** Systematically assess Bitcoin's network metrics by extracting both current and historical data from reliable sources, focusing on trends over time to understand shifts in network activity and valuation.
-- **Trend Analysis:** Calculate changes in key metrics (e.g., year-over-year growth, anomalies) to identify significant trends that could indicate market sentiment or shifts in investor behavior.
-- **Contextual Interpretation:** Develop insights based on the combined analysis of metrics, economic signals, and historical patterns, allowing for a more nuanced understanding of the current market state.
-
-**Pattern Recognition:**
-- **Valuation Indicators:** Look for signals like NVT compression (indicating undervaluation) and surges in active addresses (signifying increased adoption) to assess market sentiment.
-- **Cycle Phases:** Identify similarities in current data patterns to historical cycles (like those from 2020-2021) to predict potential future movements and cycle stages.
-- **Market Resilience:** Monitor hash rate and fee trends to gauge the network's robustness and security, which can impact investor confidence and market pricing.
-
-**Strategic Framework:**
-- **Data-Driven Decision Making:** Leverage real-time and historical data analysis to inform trading strategies and investment decisions, focusing on critical metrics that reflect network health.
-- **Scenario Planning:** Utilize historical analogs to develop various market scenarios, preparing for potential outcomes based on observed data patterns and economic indicators.
-- **Continuous Monitoring:** Regularly review key metrics and economic signals to stay informed about shifts in the market landscape, allowing for timely adjustments to strategies based on evolving data.
-
-**Important Notes:**
-- This methodology emphasizes systematic data analysis and interpretation rather than focusing on specific numerical outcomes. 
-- The aim is to cultivate a mindset that prioritizes understanding market dynamics through quantitative metrics and historical context, making it applicable and actionable in real-time situations.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*  
 *Source: coinmetrics.io*

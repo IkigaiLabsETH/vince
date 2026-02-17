@@ -5,18 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Solana Ecosystem Overview
 
-## Methodology & Framework
-
-**Core Concepts:** Solana is a high-throughput L1 blockchain using Proof-of-History (PoH) combined with Tower BFT consensus. Its architecture prioritizes speed and low cost, enabling use cases that are economically unfeasible on higher-fee chains. Understanding Solana requires evaluating it as an integrated system — hardware requirements, validator economics, and application-layer activity are deeply intertwined.
-
-**Analytical Approach:** Evaluate the ecosystem through quantitative on-chain metrics (TVL, volume, transactions, active addresses) and qualitative factors (developer momentum, institutional adoption, network reliability). Compare against Ethereum and emerging L2s to contextualize growth.
-
-**Pattern Recognition:** Solana's growth cycles correlate with memecoin/speculation waves (2024 pump.fun era), DeFi innovation cycles (Jupiter, Marinade), and infrastructure upgrades (QUIC, local fee markets). Post-FTX recovery demonstrated network antifragility — the ecosystem rebuilt without its largest backer.
-
-**Decision Framework:** When assessing Solana ecosystem health, weight: (1) non-speculative transaction share trending up, (2) TVL composition quality (real yield vs incentivized), (3) developer retention and new project launches, (4) validator set decentralization trajectory.
-
----
-
 ## Current State of the Network
 
 Solana has established itself as the leading alternative L1 by most activity metrics. As of early 2025, the network processes 40-65M daily transactions (including vote transactions; non-vote typically 15-30M), with peaks during high-activity periods pushing well beyond. TPS averages 2,000-4,000 in practice, with theoretical capacity far higher.

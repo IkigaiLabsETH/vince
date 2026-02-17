@@ -3,29 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
-> **📌 Knowledge Base Note**
-> Numbers, prices, and metrics are illustrative — focus on methodology and frameworks.
-
 # Solana Token Extensions (Token-2022)
-
-## Methodology & Framework
-
-### Core Concepts
-Token-2022 is Solana's next-generation token program that adds programmable compliance and feature-rich token primitives at the protocol level. Unlike ERC-20 wrapper patterns on Ethereum, extensions are native to the mint — no proxy contracts, no upgrade patterns, just built-in capabilities. Key extensions: **confidential transfers** (homomorphic encryption on balances), **transfer hooks** (arbitrary CPI on every transfer), **permanent delegate** (issuer retains revocation power), **interest-bearing tokens** (on-chain accrual display), **transfer fees** (protocol-level fee on moves), **non-transferable tokens** (soulbound), and **metadata pointers** (on-chain metadata without Metaplex).
-
-### Analytical Approach
-Evaluate Token-2022 through three lenses: (1) **Compliance readiness** — does the extension satisfy a real regulatory requirement (KYC gating, freeze authority, clawback)? (2) **Adoption friction** — do wallets, DEXs, and infrastructure support the extension today? (3) **Competitive moat** — does this give Solana a structural advantage over EVM chains for institutional issuance?
-
-### Pattern Recognition
-- Confidential transfers enable privacy-preserving payroll and settlement — the first credible on-chain alternative to private banking rails.
-- Transfer hooks unlock composable compliance: whitelist checks, sanctions screening, and tax withholding executed atomically with every token movement.
-- Permanent delegate mirrors traditional securities law where issuers can force-recall shares — critical for tokenized equity and debt.
-- Interest-bearing display tokens let wallet UIs show accrued yield without rebasing — cleaner UX than Aave aTokens.
-
-### Decision Framework
-When assessing a Token-2022 project: Does it use extensions because they solve a genuine problem, or as a novelty? Real signal: RWA issuers choosing Solana *because* of transfer hooks and permanent delegate. Noise: memecoins adding transfer fees for tax redistribution gimmicks.
-
----
 
 ## Analysis
 

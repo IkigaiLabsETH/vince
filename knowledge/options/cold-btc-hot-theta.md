@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Layered Asset Allocation:** A dual-structure approach where core wealth is stored in BTC, while liquid assets are managed in stablecoins for yield generation.
-- **Hedging through Options:** Utilizing covered calls and cash-secured puts as a strategy to earn premiums on deployed capital without the complexities of high-frequency trading.
-- **Native Liquidity:** Emphasizing the importance of using on-chain assets that facilitate instant liquidity and reduce operational risks associated with cross-chain interactions.
-
-**Analytical Approach:**
-- **Risk Management through Diversification:** Evaluate the geographic distribution of digital assets to mitigate single points of failure. Consider the implications of asset custody and security in a decentralized environment.
-- **Yield Optimization:** Focus on identifying stablecoin opportunities that offer reliable returns without active management. Analyze metrics of platforms to ensure they are audited and backed by real reserves.
-- **Simplicity in Execution:** Adopt strategies that are straightforward and require minimal oversight, reducing the cognitive load on decision-making and operational execution.
-
-**Pattern Recognition:**
-- **Market Volatility Trends:** Monitor the volatility of underlying assets in relation to the premiums offered in the options market. Identify opportunities where the risk-reward ratio is favorable for deploying capital.
-- **Liquidity Shifts:** Watch for changes in the liquidity landscape of stablecoins on HyperEVM, as well as shifts in trading volumes that may indicate market sentiment or potential arbitrage opportunities.
-
-**Strategic Framework:**
-- **Portfolio Structuring:** When designing a portfolio, prioritize a core holding of resilient assets, complemented by a yield-generating "bucket" of stablecoins that leverages decentralized finance (DeFi) mechanisms.
-- **Execution Strategy:** Implement a systematic approach to deploying assets into yield-generating protocols, ensuring that all transactions remain within a single blockchain ecosystem to maximize efficiency and minimize risk.
-- **Continuous Assessment:** Regularly evaluate the effectiveness of the strategies employed against market conditions, adjusting allocations and methods as necessary to maintain optimal yield and risk management.
-
-**Important Notes:**
-- Focus on the methodology of asset management rather than specific numerical values or historical data.
-- Emphasize the "how to think" approach to current investment decisions, ensuring that strategies are adaptable to changing market conditions.
-- Keep insights actionable and relevant for contemporary applications within the crypto and DeFi landscapes.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180176569.Cold Btc Hot Theta
 ## Metadata
 **Source**: Substack Essay

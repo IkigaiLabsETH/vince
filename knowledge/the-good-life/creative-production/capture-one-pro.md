@@ -1,155 +1,129 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 
+# Capture One Pro — Photo Editing & Tethered Shooting
 
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
+The user's photo editing software for the Hasselblad (H2 film scans + 555 ELD digital back) and Fuji workflow. Professional raw processing, color grading, and tethered capture.
 
-## Methodology & Framework
+---
 
-**Key Concepts:**
-- Industry-leading color accuracy
-- Custom color profiles for major camera brands
-- Advanced color grading tools
-- Skin tone rendering excellence
-- Superior detail extraction from raw files
+## Why Capture One (over Lightroom)
 
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
+- **Color science:** Industry-leading. Camera-specific ICC profiles for Hasselblad, Fuji, and every major brand. Skin tones are noticeably better — richer, more accurate, less work to get right.
+- **Tethered shooting:** The standard for studio work. Real-time preview, Live View for composition, instant adjustments during the shoot. Essential for the Hasselblad 555 ELD digital back.
+- **Raw processing:** Superior detail extraction, highlight/shadow recovery, noise reduction. Gets more out of a raw file than any competitor.
+- **Local adjustments:** Layers system with brushes, gradients, radial masks, luminosity masks, color range masks. Non-destructive. More powerful than Lightroom's masking.
+- **Sessions:** Self-contained project folders. Ideal for shoot-based workflows — easy to backup, transfer, archive.
 
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
+---
 
+## Workflow: Sessions vs Catalogs
 
-# Capture One Pro
+### Sessions (preferred for this workflow)
+- One folder per shoot. Contains: captures, selects, output, trash.
+- Portable — move the folder, everything comes with it.
+- Ideal for assignment/project work: "2026-02-15 Hasselblad Studio Test."
+- Easy backup: copy the session folder to external drive. Done.
 
-## Overview
+### Catalogs
+- Single database, many folders. Better for large, permanent photo libraries.
+- Cross-project organization, smart albums, keyword search.
+- Use for: the long-term archive of all photography work.
 
-Capture One Pro is professional photo editing software known for exceptional color science, tethered shooting capabilities, and powerful raw processing. It's the choice of professional photographers who demand the highest quality output and efficient workflows.
+**Recommendation:** Work in sessions for each shoot; periodically import selects into a master catalog for the archive.
 
-## Core Strengths
+---
 
-### Color Science
-- Industry-leading color accuracy
-- Custom color profiles for major camera brands
-- Advanced color grading tools
-- Skin tone rendering excellence
+## Tethered shooting (the 555 ELD workflow)
 
-### Raw Processing
-- Superior detail extraction from raw files
-- Advanced noise reduction
-- Exceptional highlight and shadow recovery
-- Lens correction profiles
+1. **Connect:** USB or WiFi from the Hasselblad 555 ELD digital back to the computer.
+2. **Live View:** See the scene in real-time on the computer screen. Adjust composition, focus, and exposure before capturing.
+3. **Capture:** Trigger from Push 3 the camera or from Capture One. Files land directly in the session folder.
+4. **Instant review:** Full-size preview appears immediately. Adjust exposure, white balance, crop on screen. Client or collaborator can see the results live.
+5. **LCC (Lens Cast Correction):** Shoot a blank LCC frame (diffuser over lens) to correct for color cast and vignetting from the specific lens/back combination. Apply to all subsequent captures. Important for digital backs.
 
-### Tethered Shooting
-- Industry-standard for studio photography
-- Real-time image preview
-- Live View for precise composition
-- Instant adjustments during shoot
+---
 
-## Key Features
+## Color grading tools (the core)
 
-### Color Editing
-- Color Balance tool for precise adjustments
-- Color Editor for targeted color manipulation
-- Advanced curves with luma and RGB channels
-- Levels adjustments with precision
+### Color Balance (3-way)
+- **Shadows / Midtones / Highlights** — independent color wheels. The primary grading tool.
+- Adjust hue and saturation in each tonal range. This is where you create a look.
+- Example: warm midtones (golden skin) + cool shadows (blue-tinted depth) = cinematic portrait.
 
-### Local Adjustments
-- Layers system for non-destructive editing
-- Brush, gradient, and radial masks
-- Luminosity masking
-- Color range masking
+### Color Editor
+- **Advanced tab:** Select any color range (by hue, saturation, lightness) and adjust independently.
+- Target a specific color — shift a sky blue, correct a skin cast, adjust green foliage — without affecting anything else.
+- Local and global modes.
 
-### Organization
-- Sessions for shoot-based workflow
-- Catalogs for library management
-- Smart Albums for automatic organization
-- Keyword and rating systems
+### Curves
+- **RGB curves:** Overall contrast and exposure. S-curve for punch.
+- **Luma curve:** Adjusts luminance without affecting saturation. Better for contrast adjustments than RGB curves when you want to preserve color.
+- **Per-channel (R, G, B):** Precise color shifts. Add blue to shadows, warmth to highlights.
 
-### Output
-- Export recipes for batch processing
-- Print module for precise output
-- Soft proofing for color accuracy
-- Multiple format and size outputs
+### Levels
+- Input and output levels per channel. Quick white/black point adjustments.
 
-## Workflow Philosophy
+### Styles and presets
+- Save any combination of adjustments as a style. Apply to future images with one click.
+- Stack multiple styles. Build a personal library of looks.
+- Share styles across sessions and catalogs.
 
-### Session-Based
-- Ideal for commercial/assignment work
-- Self-contained project folders
-- Easy backup and transfer
-- Client-specific organization
+---
 
-### Catalog-Based
-- Better for large photo libraries
-- Central database management
-- Cross-project organization
-- Long-term archive solution
+## Local adjustments (layers)
 
-## Professional Features
+- **Layers:** Up to 16+ layers per image, each with independent adjustments.
+- **Brush mask:** Paint adjustments onto specific areas (dodge, burn, local color).
+- **Gradient mask:** Linear or radial gradients for sky, foreground, vignettes.
+- **Luminosity mask:** Target adjustments by brightness range — darks, midtones, highlights.
+- **Color range mask:** Select a color range to mask — adjust only blue sky, only skin, only red elements.
+- **Refine edge:** Feather and refine masks for natural blending.
 
-### Style System
-- Create and save adjustment presets
-- Stack multiple styles
-- Share styles across projects
-- Build consistent look libraries
+---
 
-### Annotations
-- Draw directly on images
-- Add notes for retouchers
-- Client feedback workflow
-- Collaboration tools
+## For the Hasselblad / Fuji workflow
 
-### Keyboard Customization
-- Fully customizable shortcuts
-- Tool-specific key assignments
-- Workflow optimization
-- Speed up repetitive tasks
+### Hasselblad 555 ELD (digital back)
+- Select the correct ICC camera profile for the back. Capture One has specific profiles for Hasselblad backs — they're better than generic profiles.
+- Tethered workflow (see above).
+- Files: IIQ or 3FR format (depending on back model). Full raw latitude.
 
-## Comparison to Alternatives
+### Hasselblad H2 (film scans)
+- Import lab scans (TIFF) or home scans into a session.
+- Grade as you would a raw file — curves, color balance, local adjustments all work on TIFFs.
+- Not the same latitude as raw, but Capture One's tools still outperform other editors on TIFF.
 
-### vs Lightroom
-- Better color science and skin tones
-- Superior tethering capabilities
-- More powerful local adjustments
-- Steeper learning curve
-- Perpetual license option
+### Fuji (slow shutter / creative)
+- Camera-specific Fuji profiles and film simulation matches.
+- Import raw files; grade for the long-exposure look — cooler shadows, slightly muted highlights for water/cloud blur.
+- Capture One's noise reduction handles high-ISO Fuji files well.
 
-### vs Raw Processing in Camera
-- Non-destructive editing
-- Greater flexibility in post
-- Professional output options
-- Consistent cross-camera workflow
+---
 
-## Ideal Use Cases
+## Export and output
 
-- Portrait and fashion photography
-- Product and commercial shoots
-- Architecture and real estate
-- Fine art photography
-- High-volume event work
-- Tethered studio sessions
+- **Export recipes:** Batch process to multiple formats/sizes simultaneously (TIFF for archive, JPEG for web, PSD for retouch).
+- **Sharpening at export:** Apply output-specific sharpening (screen vs print) in the recipe.
+- **Soft proofing:** Preview how the image will look in a specific color space (sRGB for web, Adobe RGB for print).
+- **Print:** Built-in print module for precise output. ICC profiles for paper/printer combinations.
 
-## Learning Priorities
+---
 
-1. Master the color tools (Color Balance, Color Editor)
-2. Understand layers and masking
-3. Build efficient keyboard shortcuts
-4. Create personal style library
-5. Optimize export workflows
+## Learning priorities
+
+1. **Master Color Balance and Curves.** These two tools handle 80% of grading. Learn to see warm/cool, and to shape light with the Luma curve.
+2. **Understand sessions.** Set up a clean session template. Use it every shoot.
+3. **Learn tethered capture.** The 555 ELD workflow depends on it.
+4. **Build a style library.** Save your best looks. Apply consistently.
+5. **Local adjustments.** Brush dodge/burn; gradient sky; luminosity masks for highlight control.
+6. **Keyboard shortcuts.** Customize for speed. B for brush, E for eraser, D for next image, A for select — build muscle memory.
+
+---
+
+## When to use WEB_SEARCH
+
+New Capture One versions (features change), Hasselblad back compatibility, Fuji support updates, specific style packs, or printing ICC profiles — use WEB_SEARCH and say when you looked it up.

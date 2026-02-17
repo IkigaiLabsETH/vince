@@ -5,48 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Benchmarking Against Bitcoin:** Establish BTC as the primary metric for evaluating performance and portfolio success.
-- **Survivor Bias Awareness:** Recognize the influence of survivor bias in performance evaluations, particularly in crypto portfolios.
-- **Inverse Indicator Strategy:** Utilize prominent figures' predictions as contrarian signals for market movements.
-- **Satellite Portfolio Strategy:** Implement a small, active segment of the portfolio (20%) focused on higher-risk investments alongside a larger stable base (80%) in BTC.
-
-**Analytical Approach:**
-- **Long-Term Focus:** Emphasize a long-term perspective on BTC's value as the ultimate store of wealth, dismissing short-term noise and speculative volatility.
-- **Contrarian Thinking:** Adopt a contrarian mindset by monitoring market influencers' narratives and positioning against them for potential profit opportunities.
-- **Performance Tracking:** Continuously track and analyze the performance of various portfolios and strategies, especially those that aim to outperform BTC, to identify effective patterns and pitfalls.
-
-**Pattern Recognition:**
-- **Market Reaction to Influencer Predictions:** Look for consistent market movements that occur after major predictions from key figures in the crypto space, using these as indicators for potential reversals.
-- **Hype Cycles in Crypto:** Identify when the market becomes overly enthusiastic or pessimistic, allowing for strategic entry or exit points based on sentiment shifts.
-
-**Strategic Framework:**
-- **Portfolio Allocation:** Maintain a core BTC holding while experimenting with a small percentage of high-risk assets that may yield outsized returns.
-- **Timing Entry Points:** Use the analysis of influencer narratives to determine ideal timing for market entry, often waiting until the market sentiment has shifted away from the initial hype.
-- **Adaptability:** Stay flexible in your investment approach, ready to pivot based on evolving market conditions and influential narratives.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180513790.The Ultimate Game
 ## Metadata
 **Source**: Substack Essay

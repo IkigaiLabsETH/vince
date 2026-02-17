@@ -118,42 +118,5 @@ Quick performance leaderboard
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Snapshots**: Understanding the importance of real-time data for asset valuation and market conditions.
-- **Dominance Metrics**: Utilizing BTC and ETH dominance as indicators of market sentiment and asset performance.
-- **Trend Analysis**: Identifying trending assets and performance outliers to inform investment decisions.
-- **Comparative Analysis**: Evaluating assets side-by-side to assess strength and market positioning.
-- **Historical Performance Metrics**: Leveraging historical data to inform current trends and potential future performance.
-
-**Analytical Approach:**
-- Adopt a multi-dimensional view of market data, focusing on both macro (total market cap, dominance) and micro (individual asset performance) indicators. Use API data to gather real-time insights, ensuring a comprehensive understanding of market dynamics. Regularly compare historical performance to current metrics to identify shifts in trends.
-
-**Pattern Recognition:**
-- Look for consistent patterns in price movements and market cap changes, especially during key market events or announcements. Monitor for shifts in BTC and ETH dominance to gauge market risk appetite. Recognize recurring trends in top gainers and losers to forecast potential breakout assets.
-
-**Strategic Framework:**
-- Develop a systematic approach to market analysis by integrating real-time snapshots with historical performance reviews. Create decision-making protocols based on asset comparisons, ensuring clear criteria for identifying potential investments or divestments. Utilize insights from trending data to pivot strategies quickly in response to market sentiment changes.
-
-**Important Notes:**
-- Prioritize methodologies that emphasize ongoing data collection and analysis over static historical assessments.
-- Focus on actionable insights that can be applied to current market scenarios rather than solely on past data.
-- Maintain a flexible mindset to adapt strategies based on emerging trends and performance metrics.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0*  
 *Last Tested: 2026-01-XX*

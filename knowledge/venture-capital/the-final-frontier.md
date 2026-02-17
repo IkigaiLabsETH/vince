@@ -55,41 +55,6 @@ last_reviewed: 2026-02-15
 
 ## Legacy Framework (original, verbatim)
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Decentralization vs. Centralization:** Understanding the balance between decentralized systems and the central authorities that can exert control.
-- **Root of Trust:** Identifying the foundational elements that establish trust in digital environments, particularly in cryptographic systems.
-- **Phase Change:** Recognizing significant shifts in technology that fundamentally alter capabilities and security paradigms.
-- **Tamper-Resistance:** Exploring methods to ensure systems remain secure against physical and digital tampering.
-
-**Analytical Approach:**
-- Approach challenges in the blockchain and cryptography space by critically evaluating existing solutions and their vulnerabilities. Consider the implications of moving critical infrastructure to less accessible environments (e.g., space) to enhance security. Analyze not just the technical aspects but also the potential societal and regulatory implications of such radical innovations.
-
-**Pattern Recognition:**
-- Look for signals indicating a shift in trust paradigms, such as emerging technologies that challenge existing centralized systems. Monitor advancements that propose physical separation from regulatory control or tampering. Identify trends in cryptographic breakthroughs that suggest a movement towards more secure environments.
-
-**Strategic Framework:**
-- When developing or investing in new technologies, prioritize solutions that fundamentally alter the landscape rather than incremental improvements. Assess how moving to a more secure physical environment (like low Earth orbit) can redefine trust and operational capabilities. Evaluate the potential for applications that leverage these advancements, such as confidential smart contracts or decentralized finance mechanisms that are immune to traditional regulatory pressures.
-
-**Important Notes:**
-- Emphasize methodology over historical context; focus on how to think critically about emerging technologies and their implications.
-- Extract actionable insights that can be applied to current and future situations, guiding strategic decisions in the venture capital space.
-- Maintain a focus on the conceptual frameworks and analytical approaches that enable innovative thinking and strategic foresight.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 ---
 
 ## Appendix (original essay, verbatim)

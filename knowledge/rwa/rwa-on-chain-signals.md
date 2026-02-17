@@ -7,12 +7,6 @@ last_reviewed: 2026-02-15
 
 *Last updated: 2026-02-15*
 
-## Methodology & Framework
-
-Read RWA on-chain data through three signal categories: (1) supply dynamics — total value tokenized, growth rate, mint/burn cadence as proxies for institutional demand and redemption pressure; (2) holder distribution — wallet concentration, new vs returning holders, institutional vs retail patterns; (3) flow analysis — where RWA tokens move (DeFi integration, DEX liquidity, cross-chain bridges) as indicators of composability adoption and secondary market depth. Combine on-chain data with off-chain context (rate environment, regulatory news) to avoid false signals.
-
----
-
 ## Supply Growth = Institutional Demand
 
 Total tokenized RWA supply is the single most important macro signal. Unlike DeFi tokens where supply inflation is programmatic, RWA token supply grows only when **someone deposits real capital to mint new tokens backed by real assets.**

@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Total Addressable Market (TAM):** Understanding the scope of potential economic value, particularly in emerging sectors like robotics.
-- **Market Disruption Potential:** Evaluating how new technologies can displace traditional industries and create significant economic shifts.
-- **Diversity of Winners:** Recognizing that not all markets are winner-take-all; multiple companies can thrive in a growing sector.
-- **Physical Limitations in Technology:** Acknowledging the tangible constraints and requirements of robotics versus software-based solutions.
-
-**Analytical Approach:**
-- **Holistic Market Assessment:** Analyze the broader implications of emerging technologies by looking at the total economic value they could disrupt or augment. This involves calculating conservative estimates of market capture to gauge potential impacts.
-- **Comparative Analysis:** Examine the robotics sector against established industries (like automotive) to contextualize growth potential and valuation. Use historical market valuations as benchmarks for future projections in robotics.
-
-**Pattern Recognition:**
-- **Investment Trends:** Monitor venture capital flows and startup emergence in robotics. Look for signals such as increased funding rounds, partnerships with established companies, and technological breakthroughs.
-- **Market Maturity Signals:** Identify indicators of market maturation such as product launches, shifts in consumer behavior towards automation, and legislative changes favoring robotics.
-
-**Strategic Framework:**
-- **Long-Term Value Estimation:** When assessing investments in robotics companies, prioritize long-term potential over short-term gains. Use scenario planning to forecast different market capture rates and their implications for valuation.
-- **Diversification Strategy:** Build a portfolio that includes several players in the robotics field rather than betting on a single company. This minimizes risk while capitalizing on the expected growth of the sector.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 181318708.Trillion Dollar Wave
 ## Metadata
 **Source**: Substack Essay

@@ -95,43 +95,6 @@ See you on dry land.
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Adoption vs. Valuation Disconnect**: The idea that market prices for altcoins may not reflect real user adoption and network value.
-- **Network Effects and Stickiness**: The importance of user retention and the quality of user experience as altcoins scale.
-- **Capital Allocation Strategy**: The approach to leveraging crypto valuations to acquire real-world assets and convert them into crypto-native businesses.
-- **Real GDP on-chain**: A proposed metric for evaluating the actual economic activity occurring on blockchain networks.
-
-**Analytical Approach:**
-- Evaluate altcoin investments not just on speculative trading metrics but on fundamental business models and real economic value creation. Consider the broader implications of network effects and user retention in assessing the viability of altcoins.
-- Analyze the competitive landscape by comparing altcoins based on their unique value propositions and operational efficiencies rather than just market sentiment. This involves scrutinizing the moat and market positioning of each cryptocurrency.
-
-**Pattern Recognition:**
-- Look for signs of market saturation or overvaluation in altcoins, especially when speculative trading dominates rather than utility and real-world applications. Identify when altcoins are priced as if they are the dominant player without evidence of strong network effects or user engagement.
-- Monitor shifts in capital allocation strategies within the crypto space, particularly those targeting the acquisition of traditional businesses to integrate them into blockchain ecosystems.
-
-**Strategic Framework:**
-- When evaluating altcoin investments, prioritize those that demonstrate a clear pathway to real economic impact and user adoption. Focus on projects that are developing sustainable business models and real-world integration.
-- Assess whether the altcoin in question is leveraging its valuation to acquire tangible assets or creating revenue-generating models that can withstand market volatility. Use the concept of “real GDP on-chain” as a guiding principle for investment decisions.
-
-**Important Notes:**
-- This methodology emphasizes the need to think critically about the true value and operational sustainability of altcoins rather than getting caught up in hype and speculative trends.
-- The focus should remain on actionable insights that can guide current and future investment strategies in the evolving crypto landscape.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 Yearn (YFI) **– 4× P/S. The auto-compounding yield brain that quietly earns 8-18% blended APYs with zero leverage or memecoin exposure. Recurring vault fees survive every cycle; the cockroach at the cheapest multiple in DeFi.
 
 **Aave (AAVE)** – 7.5× P/S. DeFi’s JPMorgan: $54B TVL, institution-grade audits, MiCA-ready, default collateral backbone. When tokenized real-world assets need to borrow, they borrow here. Still stupidly cheap for the category king.

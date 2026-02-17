@@ -55,46 +55,6 @@ Freedom still tastes like salt air and unspent UTXOs.
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Revenue-Generating Protocols**: Focus on decentralized finance (DeFi) protocols that demonstrate consistent revenue generation rather than speculative hype.
-- **Institutional Interest**: Recognize the significance of institutional adoption and investment as a strong indicator of a protocol's viability.
-- **Market Resilience**: Evaluate protocols based on their ability to withstand market volatility and maintain user trust over time.
-- **Evolving Fundamentals**: Stay alert to rebranding and protocol upgrades that can signal new opportunities or shifts in the market landscape.
-
-**Analytical Approach:**
-- Adopt a contrarian mindset by evaluating which DeFi projects have demonstrated sustained performance despite market sentiment. Look for protocols that shift the narrative from hype to tangible utility and revenue. This involves assessing the underlying mechanics of the protocols, including their tokenomics and operational strategies.
-- Conduct a qualitative analysis on user engagement and community sentiment, alongside quantitative metrics such as total value locked (TVL) and annualized revenue.
-
-**Pattern Recognition:**
-- Identify early signs of institutional investment, such as significant increases in TVL or partnerships with established financial entities. 
-- Monitor for rebranding efforts or protocol upgrades that can breathe new life into existing projects. 
-- Recognize shifts in governance and fee structures that may enhance user incentives, such as the implementation of a fee switch in protocols like Uniswap.
-
-**Strategic Framework:**
-- Implement a multi-faceted evaluation strategy that combines financial metrics with qualitative insights. Use a checklist to assess protocols based on their revenue generation, market resilience, and user community engagement. 
-- Develop a watchlist of promising projects based on their ability to adapt to market conditions and generate revenue, while remaining wary of speculative trends that lack foundational support.
-- Create a risk management strategy that includes diversifying investments across protocols with different risk profiles, emphasizing those with established track records and robust governance structures.
-
-**Important Notes:**
-- Concentrate on methodologies that inform decision-making rather than specific case studies.
-- Emphasize the development of a critical thinking framework that can be applied to emerging DeFi projects.
-- Maintain a focus on actionable insights that can guide current investment strategies in the evolving DeFi landscape.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
 UPDATE
 
 In a major regulatory milestone for the DeFi sector, Aave founder and CEO Stani Kulechov announced on December 16, 2025, that the U.S. Securities and Exchange Commission (SEC) has officially closed its four-year investigation into the Aave Protocol without recommending any enforcement action.

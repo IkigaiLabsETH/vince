@@ -5,40 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Funding Rates Dynamics**: Understanding the relationship between positive and negative funding rates and market sentiment.
-- **Crowded Trades**: Identifying when the market sentiment is overly bullish or bearish, leading to potential reversals.
-- **Short Squeeze Mechanism**: Recognizing the conditions that trigger significant price movements due to short covering.
-- **Market Sentiment Indicators**: Utilizing funding rates as a real-time gauge of trader psychology and positioning.
-
-**Analytical Approach:**
-- Approach trading by focusing on the emotional states of market participants as reflected in funding rates. Analyze how extreme funding conditions indicate crowded trades that can lead to sharp price movements. Use historical patterns as a guide for probability rather than certainty, accepting that while past performance informs potential future outcomes, it does not guarantee them.
-
-**Pattern Recognition:**
-- Look for sustained periods of negative funding rates followed by a shift to positive rates as a signal for potential price increases. Identify the duration and depth of negative funding as key indicators of pain within the short positions. Conversely, observe extreme positive funding rates that persist for days to signal potential market tops and profit-taking opportunities.
-
-**Strategic Framework:**
-- Implement a systematic trading strategy based on funding rate signals. Establish a threshold (e.g., negative funding below -0.01% for several days) to trigger entry points for long positions. Use aggregator tools like CoinGlass for real-time monitoring and set alerts to stay informed about funding rate shifts. Develop a clear exit strategy that considers both funding dynamics and market conditions to optimize trade management.
-
-**Important Notes:**
-- Maintain a focus on the methodologies and frameworks discussed, rather than relying on specific historical data or metrics. Adapt the insights gained to current market conditions while continuously monitoring shifts in trader sentiment as indicated by funding rates. Ensure that actions taken are informed by the frameworks rather than emotional or impulsive reactions to market movements.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180456007.Oi Funding Rates
 ## Metadata
 **Source**: Substack Essay

@@ -5,46 +5,6 @@ last_reviewed: 2026-02-15
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Cycle Analysis:** Understanding the crypto space through phases of boom (gold rush) and bust (die-off), emphasizing the importance of recognizing when a market is experiencing a contraction.
-- **Institutional Adoption vs. Retail Participation:** Differentiating between the influence of institutional investors and the declining role of retail investors in the crypto ecosystem.
-- **Survivorship Bias:** Recognizing that only a small fraction of investors from speculative phases remain, and their motivations have shifted from speculation to genuine belief in the technology.
-- **Subculture Dynamics:** Analyzing the shrinking but potentially lucrative subcultures within crypto, focusing on niche markets that could thrive post-die-off.
-
-**Analytical Approach:**
-- Approach the crypto market with a long-term perspective that prioritizes understanding underlying fundamentals rather than short-term price movements. Recognize the shift from speculative trading to a focus on utility and real-world asset integration.
-- Evaluate market trends by observing the behavior and sentiment of different investor cohorts—distinguishing between institutions, degens, and retail participants.
-
-**Pattern Recognition:**
-- Monitor metrics such as trading volumes, the emergence of new financial products (like ETFs), and the behavior of active wallets to identify shifts in market sentiment.
-- Look for signals indicating institutional participation in the market, such as assets under management (AUM) in Bitcoin ETFs and the growth of tokenized funds.
-
-**Strategic Framework:**
-- Apply a focused investment strategy that capitalizes on the emerging subculture of crypto enthusiasts and institutional needs. Identify opportunities in areas such as staking derivatives and tokenized private credit that may yield significant returns despite broader market contractions.
-- Use scenario planning to anticipate future trends in the crypto landscape, preparing for both potential growth and decline in different segments of the market.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 # 180268594.Great Die Off
 ## Metadata
 **Source**: Substack Essay

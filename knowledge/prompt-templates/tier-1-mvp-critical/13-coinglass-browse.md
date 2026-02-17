@@ -88,48 +88,6 @@ Example:
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Market Sentiment Analysis**: Understanding the prevailing mood of market participants through funding rates and open interest.
-- **Leverage Dynamics**: Assessing the buildup of leverage in the market to gauge risk and potential price movements.
-- **Comparative Historical Analysis**: Drawing parallels from past market regimes to inform current strategies and predictions.
-- **Signal Detection**: Identifying key signals like overheating conditions and flush risks that can indicate market turning points.
-
-**Analytical Approach:**
-- Utilize a combination of web-based data extraction techniques to gather real-time metrics, focusing on key indicators such as open interest, funding rates, and long/short ratios. 
-- Engage in systematic data cleaning and parsing to ensure accuracy and consistency. 
-- Calculate averages and changes to distill insights, emphasizing the identification of anomalies that may signal market shifts.
-
-**Pattern Recognition:**
-- Look for patterns in funding rates and open interest that historically correlate with bullish or bearish phases. 
-- Monitor for sustained high funding rates (e.g., above 0.05%) and all-time highs in open interest as indicators of potential market overheating.
-- Recognize the importance of shifts in long/short ratios, especially when accompanied by significant liquidation spikes, to anticipate potential market reversals.
-
-**Strategic Framework:**
-- Apply a multi-faceted approach to market analysis by integrating real-time data collection with historical context. 
-- Use the derived insights to inform trading strategies, such as adjusting positions based on detected market sentiment and leverage conditions.
-- Regularly update your analytical framework to include recent trends and anomalies, ensuring it remains relevant to ongoing market conditions.
-
-**Important Notes:**
-- Emphasize methodologies that focus on real-time data extraction and analysis rather than historical figures.
-- Ensure a proactive stance by continuously monitoring key indicators and adapting strategies accordingly.
-- Maintain clarity in documentation, particularly regarding data sources and any limitations encountered during analysis.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 1.0 (Variant)*  
 *Last Tested: 2026-01-XX*  
 *Note: Prefer API version (`13-coinglass.md`) when possible*

@@ -5,12 +5,6 @@ last_reviewed: 2026-02-15
 ---
 # Token Classification
 
-## Methodology & Framework
-
-Token classification determines which regulatory regime applies to a digital asset. The analysis follows a **substance-over-form** approach — marketing language and labels are irrelevant; what matters is the token's functional characteristics, distribution method, and the reasonable expectations of purchasers. The primary analytical tools are the **Howey test** (US), **financial instrument classification** (EU/MiCA), and **FINMA token taxonomy** (Swiss, widely adopted internationally).
-
----
-
 ## The Three-Category Taxonomy
 
 ### Security Tokens

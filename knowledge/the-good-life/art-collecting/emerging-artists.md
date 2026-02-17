@@ -1,7 +1,7 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 # Emerging Artists to Watch
 
@@ -11,57 +11,8 @@ This document tracks emerging artists and projects on our radar. These are Tier 
 
 ---
 
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-## Methodology & Framework
-
-**Key Concepts:**
-- Known for: Anticyclone (Factory)
-- Style: Flowing organic forms
-- Notes: Strong community, consistent releases
-- Status: Watching for next drop
-- Known for: Fragments of an Infinite Field (Curated)
-
-**Analytical Approach:**
-- Apply these frameworks to interpret current market conditions
-- Focus on the thinking patterns, not specific numbers
-- Use as foundation for your own analysis
-
-**Pattern Recognition:**
-- Historical examples illustrate concepts, not predict outcomes
-- Look for similar patterns in current data using your tools
-- Combine with real-time data from actions/APIs
 
 
-## Art Blocks Factory Standouts
-
-### Artists with Curated Potential
-
-**William Mapan**
-- Known for: Anticyclone (Factory)
-- Style: Flowing organic forms
-- Notes: Strong community, consistent releases
-- Status: Watching for next drop
-
-**Monica Rizzolli**
-- Known for: Fragments of an Infinite Field (Curated)
-- Style: Nature-inspired generative
-- Notes: Established, but newer works interesting
-- Status: May have already arrived (Tier 2)
-
-**Larva Labs Alumni**
-- Various projects post-Punks/Glyphs
-- Historical significance potential
-- Watch: Any on-chain generative drops
 
 ---
 

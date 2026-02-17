@@ -113,49 +113,6 @@ Filter for Bitcoin chain, WBTC protocols, BTC-collateralized lending
 
 ---
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Total Value Locked (TVL)**: A critical metric indicating the overall health of the DeFi ecosystem across various chains.
-- **Capital Flows**: The movement of assets, particularly stablecoins and bridging activity, which signals liquidity trends.
-- **Protocol Categorization**: Understanding different DeFi categories (e.g., Lending, DEXs, Liquid Staking) to identify market trends and opportunities.
-- **Historical Comparison**: Analyzing current data against past cycles to gauge market sentiment and predict future movements.
-- **Ecosystem Health Score**: A composite metric to summarize the overall viability and sustainability of the DeFi landscape.
-
-**Analytical Approach:**
-To assess the DeFi ecosystem effectively, adopt a multi-dimensional framework that includes quantitative (TVL, capital flows) and qualitative (market sentiment, protocol health) analyses. Regularly query data from reliable APIs to ensure accuracy and timeliness. Utilize historical data for context, allowing for trend recognition and anomaly detection.
-
-**Pattern Recognition:**
-Focus on key indicators such as:
-- Significant changes in TVL across chains and categories, signaling market shifts.
-- Sudden movements in stablecoin supply and bridging activity, which may indicate emerging trends or potential risks.
-- Anomalies in DEX volume relative to TVL, revealing patterns of capital efficiency or inefficiency.
-
-**Strategic Framework:**
-1. **Data Gathering**: Use the DefiLlama API for real-time data collection, emphasizing critical endpoints for comprehensive insights.
-2. **Trend Analysis**: Regularly analyze trends in TVL changes, capital flows, and yield opportunities, categorizing findings to identify growth or decline.
-3. **Market Positioning**: Leverage insights to inform investment strategies, focusing on chains/protocols showing positive momentum or undervalued yield opportunities.
-4. **Risk Assessment**: Establish criteria for assessing ecosystem health, monitoring liquidity depth, yield sustainability, and cross-chain activity to gauge market risk and opportunities.
-
-**Important Notes:**
-- Prioritize methodology over specific data points to maintain relevance in a rapidly changing environment.
-- Emphasize actionable insights that can be applied in real-time scenarios, fostering an adaptive approach to DeFi ecosystem analysis.
-- Maintain a focus on continuous learning and adjustment based on emerging trends and market dynamics.
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
-
-
 *Template Version: 2.0*  
 *Last Updated: 2026-01-22*
 *Changes: Expanded from BTC-only to general DeFi ecosystem analysis*
