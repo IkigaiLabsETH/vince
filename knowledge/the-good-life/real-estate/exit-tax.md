@@ -1,52 +1,10 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Taxation as a Barrier:** Understanding how different tax structures can influence the decision-making process of expatriates.
-- **Psychological Impact of Taxation:** Recognizing the emotional and psychological ramifications of high taxation on lifestyle and residency choices.
-- **Legislative Changes:** Analyzing how shifts in government policy can create opportunities or challenges for individuals considering relocation.
-- **Wealth Redistribution Dynamics:** Evaluating how taxation policies may redistribute wealth and affect socio-economic status among expatriates.
-- **Exit Strategies:** Formulating strategies for navigating exit taxes and understanding the implications of leaving a high-tax jurisdiction.
-
-**Analytical Approach:**
-- **Scenario Planning:** Utilize scenario analysis to envision potential future tax scenarios that could impact expatriates. Consider both short-term and long-term implications.
-- **Comparative Analysis:** Regularly compare tax structures of different jurisdictions to identify more favorable living conditions. This involves assessing both direct taxes (like capital gains) and indirect taxes (like VAT).
-- **Cost-Benefit Evaluation:** Critically assess the trade-offs between lifestyle benefits and the costs imposed by taxation in different countries.
-
-**Pattern Recognition:**
-- **Shifts in Tax Legislation:** Monitor legislative trends that indicate potential increases in tax burdens, especially on expatriates or crypto-assets.
-- **Exodus Trends:** Identify patterns in residency change among high-net-worth individuals in response to fiscal policies. Look for increases in applications for residency in low-tax jurisdictions.
-- **Public Sentiment:** Gauge public sentiment around taxation and wealth distribution, as it may signal upcoming policy changes that could affect expatriates.
-
-**Strategic Framework:**
-- **Long-Term Tax Planning:** Develop a long-term tax strategy that anticipates changes in tax law and how they may impact personal wealth and asset management.
-- **Diversification of Assets:** Diversify asset holdings across jurisdictions with varying tax implications to mitigate risks associated with high taxation.
-- **Exit Strategy Development:** Create a clear exit strategy that considers potential exit taxes, benefits of maintaining assets, and ways to legally minimize tax liabilities upon relocation.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
 
 
 If you’re thinking of moving to France, planning to live the life, stop scrolling for that stone house in Provence. Read this first, before you move out the USA.

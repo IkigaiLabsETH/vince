@@ -1,49 +1,10 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Innovation Exoduses:** The movement of talent and resources from high-tax regions to those with more favorable conditions for business and innovation.
-- **Institutional Embrace of Crypto:** The growing integration of cryptocurrency within traditional financial systems, signifying maturity in the market.
-- **Regulatory Environment:** The impact of state-level regulations on the viability and attractiveness of locations for crypto businesses.
-- **Cultural Vitality vs. Economic Viability:** The juxtaposition of a region's cultural appeal against its economic practicality for business operations.
-
-**Analytical Approach:**
-- To analyze the shifting dynamics in real estate and crypto, consider the interplay between economic incentives (such as taxes and regulations) and cultural factors (such as vibrancy and community). Evaluate how these elements influence the decision-making of startups and investors. Focus on the narrative of decline versus growth in specific locales to understand broader market shifts.
-
-**Pattern Recognition:**
-- Look for signals indicating an "innovation exodus," such as increased startup registrations in lower-tax states, migration patterns of tech talent, or significant investments in local infrastructure. Monitor media coverage and social sentiment regarding the attractiveness of different regions for crypto activities, especially in relation to regulatory changes.
-
-**Strategic Framework:**
-- When evaluating potential investment opportunities or business locations, apply a multi-faceted framework that considers:
-  1. **Tax Burdens:** Assess how state and local taxes may affect profitability.
-  2. **Regulatory Landscape:** Analyze the implications of local laws on crypto operations.
-  3. **Market Maturity:** Identify the level of adoption and integration of crypto within the local financial ecosystem.
-  4. **Cultural Factors:** Evaluate the vibrancy and community support for innovation, as these can influence talent retention and attraction.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
 
 
 I still catch myself daydreaming about Pacific Coast Highway drives at golden hour, windows down, In-N-Out fries on the passenger seat. California will always feel like home. Yet when I landed in Miami last month, stepped into a packed rooftop meetup in Brickell, and watched builders from half a dozen countries swap ideas over cafecitos, something shifted. The energy was undeniable. But the map is being redrawn—and the arrows point south.

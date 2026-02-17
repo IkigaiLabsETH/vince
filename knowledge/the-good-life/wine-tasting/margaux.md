@@ -40,16 +40,6 @@ last_reviewed: 2026-02-17
 
 ---
 
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
 
 We opened the Château Prieuré-Lichine 2020, because it was already in the rack and the steak was resting. The cork slid out with that satisfying sigh only a well-cellared Bordeaux gives. One swirl and the room filled with black cherries, warm graphite, and the faintest whiff of the herb garden after rain. On the palate it was everything a modern classified-growth Margaux has learned to be: plush yet precise, medium-full, with tannins like cashmere and a bright, mouth-watering finish that made the next sip involuntary. James Suckling’s 96 points felt conservative. And yet, as often happens when a great wine loosens the tongue, the conversation drifted to the one Margaux we keep talking about even when we’re drinking something else.
 

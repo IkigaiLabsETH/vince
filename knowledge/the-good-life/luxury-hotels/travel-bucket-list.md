@@ -1,7 +1,7 @@
 ---
 tags: [lifestyle, travel, hotels]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-16
+last_reviewed: 2026-02-17
 ---
 
 # Travel Bucket List — Relais & Châteaux + 5-Star Only

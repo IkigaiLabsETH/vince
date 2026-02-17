@@ -1,52 +1,10 @@
 ---
 tags: [lifestyle]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-15
+last_reviewed: 2026-02-17
 ---
 
 
-## Methodology & Framework
-
-**Key Concepts:**
-- **Revelation Over Addition:** Emphasizes the importance of uncovering existing beauty and potential in spaces rather than adding new elements.
-- **Functional Versatility:** The design serves multiple purposes (studio, office, pool house) highlighting adaptability in function.
-- **Sensory Experience:** Prioritizes sensory elements (light, sound, texture) to create an immersive environment that enhances user experience.
-- **Sustainable Design:** Integrates eco-friendly materials (e.g., hempcrete, geothermal heating) to promote sustainability in construction.
-- **Minimalism and Flexibility:** Advocates for a minimalist approach that allows for flexibility in furniture arrangement and space usage.
-
-**Analytical Approach:**
-- **Holistic Assessment:** Evaluate spaces through a lens of existing strengths and character. Consider how current structures and materials can be enhanced rather than replaced.
-- **User-Centric Design:** Focus on how occupants will interact with the space. Analyze user needs and behaviors to inform design decisions that promote functionality.
-- **Environmental Integration:** Examine how designs can harmoniously blend with their surroundings, enhancing the natural landscape while serving practical purposes.
-
-**Pattern Recognition:**
-- **Transformation Opportunities:** Look for spaces or elements that have potential for transformation rather than those that seem outdated or unusable.
-- **Synergy Between Spaces:** Identify how different areas can complement each other in functionality and aesthetics, creating a seamless flow.
-- **Sensory Enhancement:** Recognize elements that can improve the sensory experience in any environment, such as light, sound, and touch, to elevate overall engagement.
-
-**Strategic Framework:**
-- **Iterative Design Process:** Adopt a cyclical approach where feedback informs continuous improvement, allowing for adjustments based on user experience and interaction.
-- **Prioritize Sustainability:** Integrate eco-friendly materials and techniques at every stage of design and renovation to promote environmental responsibility.
-- **Emphasize Functionality:** Ensure that every design choice serves a clear purpose, enhancing the utility of the space while maintaining aesthetic appeal.
-
-**Important Notes:**
-- Focus on methodology, not specific numbers or dates.
-- Extract the "how to think" approach, not historical data.
-- Make it actionable and applicable to current situations.
-- Keep it concise (200-400 words total).
-
----
-
-> **📌 Knowledge Base Note**
-> 
-> This essay contains **historical examples and illustrative data** from when it was written.
-> - **Numbers, prices, and metrics are OUTDATED** - they illustrate concepts, not current conditions
-> - **Focus: Methodology and frameworks** - learn HOW TO THINK about topics, not what the numbers were
-> - **Use for:** Analytical approaches, pattern recognition, strategic thinking
-> - **Do NOT use for:** Current prices, up-to-date metrics, real-time data
-> 
-> **What this provides:** Thinking frameworks, methodologies, analytical approaches
-> **What this does NOT provide:** Current market data (use actions/APIs instead)
 
 
 # 179503552.The House That Breathes

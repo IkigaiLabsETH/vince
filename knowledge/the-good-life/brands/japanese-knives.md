@@ -1,7 +1,7 @@
 ---
 tags: [lifestyle, kitchen]
 agents: [kelly, eliza]
-last_reviewed: 2026-02-16
+last_reviewed: 2026-02-17
 ---
 
 # Japanese Kitchen Knives
