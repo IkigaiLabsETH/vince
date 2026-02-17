@@ -194,3 +194,11 @@ Nearly half the files (47) are pure financial/crypto analysis with no lifestyle 
 1. Moving TRIM files to a separate `satoshi-only` knowledge directory
 2. Setting `agents: [eliza]` (removing kelly) on TRIM files
 3. REVIEW files should be manually inspected — many have genuine lifestyle crossover worth keeping
+
+---
+
+## Trim Executed — 2026-02-17
+
+**Action:** Moved 54 TRIM files from `knowledge/kelly-btc/` to `knowledge/satoshi-private/`.
+
+Files were relocated (not deleted) via `git mv` so they remain available for crypto/finance agents while being removed from Kelly's RAG context. See `knowledge/satoshi-private/README.md` for details.
