@@ -28,51 +28,51 @@ The curated list. Kelly suggests from here first. No reviews, just the names and
 
 ### Palaces — Southwest France (the big three)
 
-| Property | Location | Why | Winter closure |
-|----------|----------|-----|----------------|
-| **Les Prés d'Eugénie** | Eugénie-les-Bains (~1h) | Michel Guérard 3★; thermal spa; countryside magic | Closed late Nov → reopens **Mar 6** |
-| **Hôtel du Palais** | Biarritz (~45 min) | Grande Plage, Napoleon III grandeur, La Rotonde, imperial indoor pool | Closed early Dec → reopens **Feb 12** |
-| **Les Sources de Caudalie** | Martillac (~1h45) | La Grand'Vigne 2★; vinothérapie spa; vineyard setting | Closed early Dec → reopens **Feb 5** |
+| Property | Location | Why | Winter closure | Price/night | Drive from Hossegor | Best room tip | Book ahead |
+|----------|----------|-----|----------------|-------------|---------------------|---------------|------------|
+| **Les Prés d'Eugénie** | Eugénie-les-Bains (~1h) | Michel Guérard 3★; thermal spa; countryside magic | Closed late Nov → reopens **Mar 6** | €350–800 (off-season ~€350, peak ~€800) | ~1h via D924 | Empress Suite — garden view, private terrace | 3–4 weeks; off-season 1 week OK |
+| **Hôtel du Palais** | Biarritz (~45 min) | Grande Plage, Napoleon III grandeur, La Rotonde, imperial indoor pool | Closed early Dec → reopens **Feb 12** | €500–1,200 (off-season ~€500, summer €1,200+) | ~45 min via A63 | Ocean-facing Superior — worth the upgrade over courtyard | 4–6 weeks summer; 2 weeks off-season |
+| **Les Sources de Caudalie** | Martillac (~1h45) | La Grand'Vigne 2★; vinothérapie spa; vineyard setting | Closed early Dec → reopens **Feb 5** | €400–900 (off-season ~€400) | ~1h45 via A63/A62 | Île aux Oiseaux suite — vineyard panorama, most private | 3–4 weeks; midweek often available 1 week out |
 
 ### Hotels — Southwest France & Basque
 
-| Property | Location | Character |
-|----------|----------|-----------|
-| **Le Relais de la Poste** | Magescq (~20 min) | 2★ Michelin; classic French relais. Open year-round. Wed–Sun. |
-| **Brindos** | Anglet (~40 min) | Floating lodges on a lake. Open year-round. |
-| **Villa Magnan** | Bidart (~40 min) | Smaller, intimate, Basque coast. |
-| **Le Regina Biarritz** (Regina Experimental) | Biarritz (~45 min) | Art deco, modern vibe, Experimental Group. |
-| **Sofitel Biarritz Le Miramar Thalassa** | Biarritz (~45 min) | Thalasso spa, ocean views. |
-| **Villa de l'Etang Blanc** | Seignosse (~10 min) | Lakeside, quiet, pine forest. |
-| **L'Auberge Basque** | Saint-Pée-sur-Nivelle (~50 min) | Basque farmhouse, starred restaurant. |
-| **L'Auberge du Cheval Blanc** | Bayonne (~30 min) | Gastronomy + Basque soul. |
-| **Ostape** | Bidarray (~1h) | Countryside estate, rolling hills, pool. |
-| **Beaumanoir** | Biarritz (~45 min) | Boutique, design, quiet. |
-| **Hôtel Les Almadies** | Saint-Jean-de-Luz (~50 min) | Boutique near the beach. |
-| **La Maison du Lierre** | Biarritz (~45 min) | Small and charming. |
+| Property | Location | Character | Price/night | Drive from Hossegor | Best room tip | Book ahead |
+|----------|----------|-----------|-------------|---------------------|---------------|------------|
+| **Le Relais de la Poste** | Magescq (~20 min) | 2★ Michelin; classic French relais. Open year-round. Wed–Sun. | €150–250 | ~20 min via D652 | Room with garden view — quiet side | 1–2 weeks; weekends book early |
+| **Brindos** | Anglet (~40 min) | Floating lodges on a lake. Open year-round. | €250–500 | ~40 min via A63 | Floating lodge (not main building) — the whole point | 2–3 weeks |
+| **Villa Magnan** | Bidart (~40 min) | Smaller, intimate, Basque coast. | €150–300 | ~40 min via A63 | Sea-view room | 1–2 weeks |
+| **Le Regina Biarritz** (Regina Experimental) | Biarritz (~45 min) | Art deco, modern vibe, Experimental Group. | €200–450 | ~45 min via A63 | Upper floor ocean view | 2 weeks |
+| **Sofitel Biarritz Le Miramar Thalassa** | Biarritz (~45 min) | Thalasso spa, ocean views. | €250–500 | ~45 min via A63 | Ocean-facing with thalasso package | 2–3 weeks |
+| **Villa de l'Etang Blanc** | Seignosse (~10 min) | Lakeside, quiet, pine forest. | €120–220 | ~10 min | Lake-view suite | 1 week; walk-in sometimes OK off-season |
+| **L'Auberge Basque** | Saint-Pée-sur-Nivelle (~50 min) | Basque farmhouse, starred restaurant. | €180–350 | ~50 min via A63 | Garden suite — views of La Rhune | 2 weeks |
+| **L'Auberge du Cheval Blanc** | Bayonne (~30 min) | Gastronomy + Basque soul. | €150–280 | ~30 min via A63 | River-facing room | 1–2 weeks |
+| **Ostape** | Bidarray (~1h) | Countryside estate, rolling hills, pool. | €200–400 | ~1h via A63/D918 | Hilltop villa — most privacy | 2 weeks |
+| **Beaumanoir** | Biarritz (~45 min) | Boutique, design, quiet. | €200–400 | ~45 min via A63 | Suite with terrace | 2 weeks |
+| **Hôtel Les Almadies** | Saint-Jean-de-Luz (~50 min) | Boutique near the beach. | €120–250 | ~50 min via A63 | Top-floor room | 1–2 weeks; summer book early |
+| **La Maison du Lierre** | Biarritz (~45 min) | Small and charming. | €130–230 | ~45 min via A63 | Any room — it's tiny and all good | 1 week |
 
 ### Hotels — Bordeaux & wine country
 
-| Property | Location | Character |
-|----------|----------|-----------|
-| **Le Grand Hôtel Bordeaux** | Bordeaux (city) | Grand, central, Le Pressoir d'Argent by Gordon Ramsay. |
-| **InterContinental Bordeaux** | Bordeaux (city) | Modern luxury, Le Bordeaux restaurant. |
-| **Yndo Hotel** | Bordeaux (city) | Boutique, design, intimate. |
-| **Château Cordeillan-Bages** | Pauillac (~1h) | Wine country relais, vineyard setting. |
-| **Château Smith Haut Lafitte** | Pessac-Léognan (~1h45) | Wine + Les Sources de Caudalie spa (same estate). |
-| **Hostellerie de Plaisance** | Saint-Émilion (~45 min from Bordeaux) | Right bank wine village, terrace, 2★. |
-| **Château Grand Barrail** | Saint-Émilion (~45 min from Bordeaux) | Wine estate hotel, pool. |
-| **Le Saint-James** | Bouliac / Bordeaux (~20 min) | Jean Nouvel architecture, panoramic views. |
+| Property | Location | Character | Price/night | Drive from Hossegor | Best room tip | Book ahead |
+|----------|----------|-----------|-------------|---------------------|---------------|------------|
+| **Le Grand Hôtel Bordeaux** | Bordeaux (city) | Grand, central, Le Pressoir d'Argent by Gordon Ramsay. | €350–700 | ~2h via A63/A62 | Opera-view suite — front of building | 3–4 weeks |
+| **InterContinental Bordeaux** | Bordeaux (city) | Modern luxury, Le Bordeaux restaurant. | €300–600 | ~2h via A63/A62 | Upper-floor river view | 2–3 weeks |
+| **Yndo Hotel** | Bordeaux (city) | Boutique, design, intimate. | €200–400 | ~2h via A63/A62 | Suite — only 12 rooms, all great | 2 weeks |
+| **Château Cordeillan-Bages** | Pauillac (~1h) | Wine country relais, vineyard setting. | €250–500 | ~2h30 via A63/N215 | Vineyard-view room | 2 weeks |
+| **Château Smith Haut Lafitte** | Pessac-Léognan (~1h45) | Wine + Les Sources de Caudalie spa (same estate). | €400–900 | ~1h45 via A63/A62 | See Caudalie entry | See Caudalie |
+| **Hostellerie de Plaisance** | Saint-Émilion (~45 min from Bordeaux) | Right bank wine village, terrace, 2★. | €300–600 | ~2h30 via A63/A62/D670 | Terrace suite — church view | 3–4 weeks |
+| **Château Grand Barrail** | Saint-Émilion (~45 min from Bordeaux) | Wine estate hotel, pool. | €200–450 | ~2h30 via A63/A62 | Château room over annex | 2 weeks |
+| **Le Saint-James** | Bouliac / Bordeaux (~20 min) | Jean Nouvel architecture, panoramic views. | €200–400 | ~2h via A63/A62 | Terrace room — city panorama | 2 weeks |
 
 ### Hotels — Elsewhere
 
-| Property | Location | Character |
-|----------|----------|-----------|
-| **Villa Mirasol** | Mont-de-Marsan (~45 min) | Open year-round. ~200 EUR. Good winter alternative. |
-| **Domaine des Étangs** | Massignac, Charente (~2.5h) | Design + nature. Art collection. Quiet. |
-| **Château de la Treyne** | Lot valley (~2.5h) | Relais on the Dordogne. Romantic, great kitchen. |
-| **Le Clos d'Emilie** | Near Bordeaux | Quiet, intimate. |
-| **Maison Devaux** | Rion-des-Landes (~30 min) | Michelin Bib Gourmand. Lunch spot with rooms. |
+| Property | Location | Character | Price/night | Drive from Hossegor | Best room tip | Book ahead |
+|----------|----------|-----------|-------------|---------------------|---------------|------------|
+| **Villa Mirasol** | Mont-de-Marsan (~45 min) | Open year-round. Good winter alternative. | ~€200 | ~45 min via D824 | Suite with garden | 1 week; walk-in often OK |
+| **Domaine des Étangs** | Massignac, Charente (~2.5h) | Design + nature. Art collection. Quiet. | €350–800 | ~2.5h via A63/N10 | La Grange — converted barn, most character | 3–4 weeks |
+| **Château de la Treyne** | Lot valley (~2.5h) | Relais on the Dordogne. Romantic, great kitchen. | €300–600 | ~2.5h via A62/A20 | River-view room — balcony over the Dordogne | 3–4 weeks; summer book 6 weeks |
+| **Le Clos d'Emilie** | Near Bordeaux | Quiet, intimate. | €150–250 | ~2h | Any room — small property | 1 week |
+| **Maison Devaux** | Rion-des-Landes (~30 min) | Michelin Bib Gourmand. Lunch spot with rooms. | €90–130 | ~30 min via D824 | Room upstairs — simple but charming | Walk-in often OK |
 
 ---
 
@@ -80,43 +80,80 @@ The curated list. Kelly suggests from here first. No reviews, just the names and
 
 ### Michelin-starred / fine dining
 
-| Restaurant | Location | Stars | Notes |
-|------------|----------|-------|-------|
-| **Le Relais de la Poste** | Magescq | 2★ | Wed–Sun lunch. The top local. |
-| **La Grand'Vigne** | Caudalie, Martillac | 2★ | At Les Sources de Caudalie. |
-| **Hostellerie de Plaisance** | Saint-Émilion | 2★ | Terrace over the village. |
-| **Le Pressoir d'Argent** | Grand Hôtel Bordeaux | 2★ | Gordon Ramsay. City Bordeaux. |
-| **La Grande Maison de Bernard Magrez** | Bordeaux | 2★ | Pierre Gagnaire. Intimate. |
-| **Restaurant LALIQUE** | Château Lafaurie-Peyraguey, Sauternes | 2★ | Wine estate dining. |
-| **L'Ambroisie** | Paris (Place des Vosges) | 3★ | Classic, intimate, romantic. |
-| **Le Cinq** | Paris (Four Seasons George V) | 3★ | Grand, refined. |
-| **Arpège** | Paris | 3★ | Alain Passard, vegetable-forward. |
+| Restaurant | Location | Stars | Notes | €/person lunch | Reservation | Dress code |
+|------------|----------|-------|-------|----------------|-------------|------------|
+| **Le Relais de la Poste** | Magescq | 2★ | Wed–Sun lunch. The top local. | €80–150 | Required — call 2–3 days ahead | Smart-casual |
+| **La Grand'Vigne** | Caudalie, Martillac | 2★ | At Les Sources de Caudalie. | €90–160 | Required — book with hotel or 1 week ahead | Smart-casual |
+| **Hostellerie de Plaisance** | Saint-Émilion | 2★ | Terrace over the village. | €80–140 | Required — 1 week ahead | Smart-casual |
+| **Le Pressoir d'Argent** | Grand Hôtel Bordeaux | 2★ | Gordon Ramsay. City Bordeaux. | €100–180 | Required — 1–2 weeks ahead | Smart-casual |
+| **La Grande Maison de Bernard Magrez** | Bordeaux | 2★ | Pierre Gagnaire. Intimate. | €90–160 | Required — 1 week ahead | Smart-casual |
+| **Restaurant LALIQUE** | Château Lafaurie-Peyraguey, Sauternes | 2★ | Wine estate dining. | €100–180 | Required — 1–2 weeks ahead | Smart-casual |
+| **L'Ambroisie** | Paris (Place des Vosges) | 3★ | Classic, intimate, romantic. | €200–350 | Required — 3–4 weeks ahead minimum | Formal |
+| **Le Cinq** | Paris (Four Seasons George V) | 3★ | Grand, refined. | €180–300 | Required — 2–3 weeks ahead | Formal |
+| **Arpège** | Paris | 3★ | Alain Passard, vegetable-forward. | €170–280 | Required — 2–4 weeks ahead | Smart-casual |
 
 ### Local favorites (Landes & Basque)
 
-| Restaurant | Location | Day | Notes |
-|------------|----------|-----|-------|
-| **Côté Quillier** | Magescq | Wed–Sun | Bistro at Relais de la Poste. |
-| **Maison Devaux** | Rion-des-Landes | Wed–Sun | Bib Gourmand. |
-| **Auberge du Lavoir** | Garrosse | Tue–Thu, Sun | Traditional French. Family. |
-| **La Table du Marensin** | Uza | Wed, Fri–Sun lunch; Thu–Sat dinner | Gastronomic. |
-| **La Table d'Aurélien Largeau** | Near Hossegor | Check schedule | Fine bistro. |
-| **L'Impertinent** | Biarritz area | Check schedule | Creative. |
-| **Briketenia** | Guéthary | Check schedule | Basque coast institution. |
-| **Zoko Moko** | Saint-Jean-de-Luz | Check schedule | Modern Basque. |
-| **Les Frères Ibarboure** | Bidart | Check schedule (Jan 4–30 closed) | Basque family, starred. |
-| **Lore Ttipia** | Saint-Jean-de-Luz area | Check schedule | Traditional Basque. |
-| **Orama** | Biarritz area | Check schedule | Contemporary. |
-| **Skiff Club** | Hossegor | Check schedule | Lake-side, casual fine. |
-| **Haïtza** | Pyla-sur-Mer | Check schedule | Beach, design hotel restaurant. |
+| Restaurant | Location | Day | Notes | €/person lunch | Reservation | Dress code |
+|------------|----------|-----|-------|----------------|-------------|------------|
+| **Côté Quillier** | Magescq | Wed–Sun | Bistro at Relais de la Poste. | €30–50 | Recommended — call day before | Casual |
+| **Maison Devaux** | Rion-des-Landes | Wed–Sun | Bib Gourmand. Locavore, modern bistrot. | €25–40 | Recommended — call day before | Casual |
+| **Auberge du Lavoir** | Garrosse | Tue–Thu, Sun | Traditional French. Family. | €20–30 | Not required — walk-in OK | Casual |
+| **La Table du Marensin** | Uza | Wed, Fri–Sun lunch; Thu–Sat dinner | Gastronomic. | €40–65 | Required — call 2–3 days ahead | Smart-casual |
+| **La Table d'Aurélien Largeau** | Near Hossegor | Check schedule | Fine bistro. | €35–55 | Recommended | Smart-casual |
+| **L'Impertinent** | Biarritz area | Check schedule | Creative. | €35–55 | Recommended | Smart-casual |
+| **Briketenia** | Guéthary | Check schedule | Basque coast institution. | €45–70 | Required — 3–4 days ahead | Smart-casual |
+| **Zoko Moko** | Saint-Jean-de-Luz | Check schedule | Modern Basque. | €35–55 | Recommended | Casual |
+| **Les Frères Ibarboure** | Bidart | Check schedule (Jan 4–30 closed) | Basque family, starred. | €50–80 | Required — 1 week ahead | Smart-casual |
+| **Lore Ttipia** | Saint-Jean-de-Luz area | Check schedule | Traditional Basque. | €35–55 | Recommended | Casual |
+| **Orama** | Biarritz area | Check schedule | Contemporary. | €40–60 | Recommended | Smart-casual |
+| **Skiff Club** | Hossegor | Check schedule | Lake-side, casual fine. | €30–50 | Recommended for weekends | Casual |
+| **Haïtza** | Pyla-sur-Mer | Check schedule | Beach, design hotel restaurant. | €40–65 | Required — 2–3 days ahead | Smart-casual |
 
 ### Wine estates with dining
 
-| Estate | Location | Notes |
-|--------|----------|-------|
-| **Château Lafaurie-Peyraguey** | Sauternes | Restaurant LALIQUE (2★). Wine + dining immersion. |
-| **La Terrasse de Lafaurie** | Sauternes | Bistro at the same estate. Casual. |
-| **La Maison d'Estournel** | Saint-Estèphe | At Cos d'Estournel. |
+| Estate | Location | Notes | €/person lunch | Reservation | Dress code |
+|--------|----------|-------|----------------|-------------|------------|
+| **Château Lafaurie-Peyraguey** | Sauternes | Restaurant LALIQUE (2★). Wine + dining immersion. | €100–180 | Required — 1–2 weeks ahead | Smart-casual |
+| **La Terrasse de Lafaurie** | Sauternes | Bistro at the same estate. Casual. | €30–50 | Recommended | Casual |
+| **La Maison d'Estournel** | Saint-Estèphe | At Cos d'Estournel. | €50–80 | Required — 1 week ahead | Smart-casual |
+
+---
+
+## Booking Playbook
+
+### Best booking channels by property
+
+| Property | Best channel | Notes |
+|----------|-------------|-------|
+| **Les Prés d'Eugénie** | Phone direct: +33 5 58 05 06 07 | Website booking works but phone gets better rooms; mention any occasion |
+| **Hôtel du Palais** | Phone direct or Hyatt.com (it's Hyatt Unbound) | Hyatt points/status applies; phone for suite upgrades |
+| **Les Sources de Caudalie** | Phone direct: +33 5 57 83 83 83 | Book spa + room package by phone — not all packages online |
+| **Le Relais de la Poste** | Phone direct: +33 5 58 47 70 25 | Small property — always call |
+| **Brindos** | Phone or website | Request specific floating lodge by phone |
+| **Other hotels** | Booking.com or hotel website | Compare both; direct sometimes includes breakfast |
+
+### Cancellation policy tips
+
+- **Palaces:** Typically free cancellation 48–72h before arrival. Peak season (Jul–Aug) may require 7-day notice or prepayment.
+- **Smaller hotels (Relais, Brindos, Villa):** Usually 24–48h free cancellation.
+- **Always book refundable rate** unless price difference is >20%. The flexibility is worth it.
+- **Credit card hold** is standard for all palaces — they charge on no-show.
+
+### When to book (lead times by season)
+
+| Season | Palaces | Starred restaurants | Smaller hotels |
+|--------|---------|---------------------|----------------|
+| **Peak (Jul–Aug)** | 6–8 weeks | 2–3 weeks | 3–4 weeks |
+| **Shoulder (Apr–Jun, Sep–Oct)** | 3–4 weeks | 1 week | 2 weeks |
+| **Off-season (Nov–Mar)** | 1–2 weeks | 2–3 days | 1 week or walk-in |
+
+### Midweek pricing advantage
+
+- **Palaces save 30–40%** midweek (Tue–Thu) vs. Fri–Sun. On a €600/night weekend rate, expect ~€400 midweek.
+- **Restaurants:** No price difference, but **much easier reservations** and more attentive service midweek.
+- **Wednesday** is the sweet spot: all restaurants open, best hotel rates, quietest atmosphere.
+- **Avoid:** Friday–Saturday at palaces unless celebrating. You pay more for worse service-to-guest ratio.
 
 ---
 
