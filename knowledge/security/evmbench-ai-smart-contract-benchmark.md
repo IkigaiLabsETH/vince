@@ -1,10 +1,16 @@
 # EVMbench: AI Agents and Smart Contract Security
 
-**Source:** [OpenAI – Introducing EVMbench](https://openai.com/index/introducing-evmbench/), with Paradigm. [Paper (PDF)](https://cdn.openai.com/evmbench/evmbench.pdf)
+**Sources:**
+
+- [OpenAI – Introducing EVMbench](https://openai.com/index/introducing-evmbench/)
+- [Paradigm – EVMbench: An Open Benchmark for Smart Contract Security Agents](https://www.paradigm.xyz/2026/02/evmbench)
+- [Joint academic paper (PDF)](https://cdn.openai.com/evmbench/evmbench.pdf)
 
 ## What It Is
 
 EVMbench is a benchmark that evaluates AI agents’ ability to **detect**, **patch**, and **exploit** high-severity smart contract vulnerabilities on EVM. It draws on 120 curated vulnerabilities from 40 audits (mostly Code4rena competitions) and extends into payment-oriented contracts (e.g., Tempo L1 stablecoin flows).
+
+Tasks use **real vulnerabilities** from open code audits plus **custom tasks from unreleased contracts**. Each task is **containerized** so agents operate in realistic environments. Each task includes an **answer key** to verify the benchmark itself is solvable. Paradigm extended the harness into an **auditing agent** at [paradigm.xyz/evmbench](https://paradigm.xyz/evmbench).
 
 ## Why It Matters for DeFi / On-Chain Ops
 
@@ -22,9 +28,14 @@ EVMbench is a benchmark that evaluates AI agents’ ability to **detect**, **pat
 
 ## Benchmark Results (Reference)
 
+- When Paradigm started, top models exploited &lt;20% of critical, fund-draining Code4rena bugs. Today, GPT‑5.3‑Codex exploits **over 70%** — a rapid rate of improvement.
 - Exploit: GPT‑5.3‑Codex ~72.2%; earlier models ~31.9%.
 - Detect and patch remain below full coverage; many vulnerabilities are still hard for agents to find or fix.
 - Agents perform best when the objective is explicit (e.g., “continue iterating until funds are drained”); weaker on exhaustive auditing and subtle patch tasks.
+
+## Paradigm's View
+
+A growing portion of audits in the future will be done by agents. The benchmark, harness, and auditing agent serve as both a preview and an accelerant. OtterSec contributed significant frontend implementation.
 
 ## Limitations (Per EVMbench Paper)
 
