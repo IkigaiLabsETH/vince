@@ -2,11 +2,12 @@
 
 Bridge risk, smart contract safety, audit frameworks
 
-**Files**: 7
+**Files**: 8
 
 ## Contents
 
 - ai-safety-alarm-bells.md
+- evmbench-ai-smart-contract-benchmark.md
 - bridge-exploit-analysis.md
 - bridge-risk-framework.md
 - operational-security.md
