@@ -36,6 +36,18 @@ Our multi-agent system (Vince, Eliza, ECHO, Oracle, Solus, Otaku, Kelly, Sentine
 
 ---
 
+## Crypto Was Made for Machines
+
+We're a crypto fund. If anyone should believe in crypto, it's us. And yet when we sign a deal to invest in a startup, we sign a **legal contract**, not a smart contract. The startup does the same. We have lawyers and engineers who can write and audit smart contracts—and so do they. We are two sophisticated crypto-native parties, and we still don't trust a smart contract to be the only binding agreement. If there's an issue with the legal contract, we know the judge will do a reasonable thing. The EVM, not so much. Even when we have an on-chain vesting contract, there's usually a legal contract too. Just in case.
+
+The story that crypto would replace property rights—smart contracts instead of legal contracts, code instead of courts—didn't happen. Not because the technology doesn't work, but because **the technology doesn't work for human society**. Banking was architected for human foibles, refined over hundreds of years. Crypto was not. Address poisoning, drainers, blind signing, stale approvals: we know we should verify every time. We don't. We're human. Long addresses, QR codes, gas fees, footguns—none of it conforms to our intuitions about money. So in 2026 it's still terrifying to move large sums on-chain, while a large bank wire feels routine. **Crypto wasn't built for us.**
+
+It was built for machines. An AI agent doesn't get lazy. It can verify a transaction, check every domain, and audit a contract in seconds. And critically: an AI agent **trusts code more than it can trust the law**. For us, legal contracts are predictable (courts, precedent, jurisdiction). For an agent, they're not—which jurisdiction? which judge? how many years to resolve? Code is closed-form and deterministic. An agent can negotiate terms on a smart contract, statically analyze it, formally verify it, and enter a binding agreement in minutes, while humans sleep. What we see as rigid footguns, agents see as a well-written spec.
+
+Traditional finance only recognizes humans, businesses, and governments as legitimate holders of money. AML, suspicious activity reports, sanctions, liability for autonomous actors—the legal system is unprepared for non-human financial actors. Crypto asks no such questions. A wallet is a wallet; it's just code. An agent can hold funds, transact, and enter economic agreements as easily as sending an HTTP request. That's why the Web4 stack is on-chain: not because we replaced law with code for humans, but because **for agents, code is the only legible, enforceable layer that fits**.
+
+---
+
 ## The Economics
 
 Costs collapse. Capability compounds. GPT-4 cost $60/M input tokens at launch; two years later, models an order of magnitude cheaper outperform it. Open-source lags frontier by months, not years. The cost of running an autonomous agent trends toward zero. The capability does not.
