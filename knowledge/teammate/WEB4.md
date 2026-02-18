@@ -33,6 +33,7 @@ Our multi-agent system (Vince, Eliza, ECHO, Oracle, Solus, Otaku, Kelly, Sentine
 - **Vince** generates signals; in a Web4 world, those signals route directly to execution without a human approving each one.
 - **ASK_AGENT** is agent-to-agent communication — the internal version of what Web4 makes universal.
 - **Conway / x402** (HTTP 402 Payment Required) shows the protocol layer: stablecoin payments native to HTTP requests. No API keys, no logins, no credit cards. A signed transaction and a service rendered.
+- **ClawRouter** ([GitHub](https://github.com/BlockRunAI/ClawRouter)) makes the economics work: routes every LLM call to the cheapest model that can handle it (15-dimension scoring, <1ms, 30+ models). x402 payments on Base mean agents pay per-request from their own USDC wallet — no API keys, no human provisioning. Blended cost drops from ~$15/M (Sonnet/Opus) to ~$2.05/M. This is what turns fragile agent economics into sustainable ones and closes the money loop.
 
 ---
 
@@ -56,13 +57,34 @@ The machine economy will exceed the human economy — not because machines are s
 
 ## Key Primitives (Conway Stack)
 
-| Primitive | What it does |
-|-----------|-------------|
-| **Identity & Wallet** | Autonomous agents get their own cryptographic keys |
-| **x402 Payments** | Stablecoin payments native to HTTP — no human approval |
-| **Permissionless Compute** | Full Linux servers and frontier model inference, paid per use |
-| **Domains & Deployment** | Agents register domains, deploy services, earn revenue |
-| **Constitution** | Immutable safety laws the agent cannot edit — ensures net-beneficial behavior |
+| Primitive | What it does | VINCE status |
+|-----------|-------------|-------------|
+| **Identity & Wallet** | Autonomous agents get their own cryptographic keys | Otaku: funded wallet + ERC-8004 on-chain identity |
+| **x402 Payments** | Stablecoin payments native to HTTP — no human approval | Otaku: x402 enabled for receiving; ClawRouter: x402 for paying LLM costs |
+| **Smart LLM Routing** | Route every request to the cheapest model that can handle it | ClawRouter: 30+ models, 85-92% cost reduction, per-agent profiles |
+| **Permissionless Compute** | Full Linux servers and frontier model inference, paid per use | Via ClawRouter + x402: pay-per-request, no API keys |
+| **Domains & Deployment** | Agents register domains, deploy services, earn revenue | Future: service agents via ASK_AGENT + x402 |
+| **Constitution** | Immutable safety laws the agent cannot edit — ensures net-beneficial behavior | Agent system prompts + transaction confirmation protocol |
+
+---
+
+## The Money Loop (VINCE)
+
+The closed economic loop for our system:
+
+```
+Otaku wallet (USDC on Base)
+    → ClawRouter x402: pays for LLM calls across all 9 agents
+    → Oracle discovers Polymarket edge
+    → VINCE confirms signal (paper bot → proven edge)
+    → Otaku executes trade (funded wallet)
+    → Revenue returns to Otaku wallet
+    → Loop continues
+```
+
+If revenue > costs, the system is self-sustaining. ClawRouter's 85-92% cost reduction is what makes this viable — it drops the LLM cost floor low enough that prediction market returns can cover compute.
+
+See [TREASURY.md](../../docs/TREASURY.md) for the mandate, cost breakdown, and per-agent routing profiles.
 
 ---
 
