@@ -378,6 +378,96 @@
 ---
 
 ## ================================================
+## ================================================
+## 🟡 CRYPTO HEDGES
+## Defensive / Non-Correlated to BTC
+## ================================================
+
+### GOLD / PRECIOUS METALS
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| GLD | SPDR Gold Trust | ✅ PERP |
+| IAU | iShares Gold Trust | ✅ PERP |
+| GOLD | Barrick Gold | ✅ PERP |
+| NEM | Newmont | ✅ PERP |
+| AEM | Agnico Eagle | ✅ PERP |
+
+### TREASURIES / BONDS
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| TLT | 20+ Year Treasury | ✅ PERP |
+| SHY | 1-3 Year Treasury | ✅ PERP |
+| BND | Total Bond Market | ✅ PERP |
+| LQD | Investment Grade | ✅ PERP |
+| HYG | High Yield | ✅ PERP |
+
+### DOLLAR / CURRENCY
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| UUP | Dollar ETF | ✅ PERP |
+| FXE | Euro ETF | ✅ PERP |
+| FXY | Yen ETF | ✅ PERP |
+
+### REAL ESTATE / INFRA
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| VNQ | Vanguard Real Estate | ✅ PERP |
+| O | Realty Income | ✅ PERP |
+| AMT | American Tower | ✅ PERP |
+| CCI | Crown Castle | ✅ PERP |
+
+### CONSUMER STAPLES (DEFENSIVE)
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| PG | Procter & Gamble | ✅ PERP |
+| KO | Coca-Cola | ✅ PERP |
+| PEP | PepsiCo | ✅ PERP |
+| WMT | Walmart | ✅ PERP |
+| COST | Costco | ✅ PERP |
+
+### UTILITIES (DEFENSIVE)
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| NEE | NextEra Energy | ✅ PERP |
+| DUK | Duke Energy | ✅ PERP |
+| SO | Southern Company | ✅ PERP |
+| D | Dominion Energy | ✅ PERP |
+
+### HEALTHCARE (DEFENSIVE)
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| JNJ | Johnson & Johnson | ✅ PERP |
+| UNH | UnitedHealth | ✅ PERP |
+| PFE | Pfizer | ✅ PERP |
+| ABBV | AbbVie | ✅ PERP |
+| LLY | Eli Lilly | ✅ PERP |
+
+### COMMODITIES / OIL
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| XOM | ExxonMobil | ✅ PERP |
+| CVX | Chevron | ✅ PERP |
+| USO | Oil ETF | ✅ PERP |
+| UNG | Natural Gas ETF | ✅ PERP |
+
+### AGRICULTURE
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| DBA | Agriculture ETF | ✅ PERP |
+| CORN | Corn ETF | ✅ PERP |
+| WEAT | Wheat ETF | ✅ PERP |
+
+---
+
 ## 📊 SECTOR SUMMARY
 ## ================================================
 
@@ -414,6 +504,7 @@
 | Connectivity | TMUS, ERIC, NOK | — |
 | Energy | XOM, CVX, COP, SLB | — |
 | China Tech | BABA, BIDU, NTES | — |
+| Crypto Hedges | GLD, TLT, O, PG, JNJ, XOM | — |
 
 ---
 
