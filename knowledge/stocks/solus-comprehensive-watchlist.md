@@ -303,6 +303,78 @@
 | BDX | BD Dynamics | ✅ PERP |
 | KFR | KFrobotics | ✅ PERP |
 
+### AI AGENTS / SOFTWARE
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| SPLK | Splunk | ✅ PERP |
+| TEAM | Atlassian | ✅ PERP |
+| NOW | ServiceNow | ✅ PERP |
+| WDAY | Workday | ✅ PERP |
+| DDL | Duolingo | ✅ PERP |
+
+### AI HARDWARE / INFERENCE
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| AVGO | Broadcom | ✅ PERP |
+| QCOM | Qualcomm | ✅ PERP |
+| MRVL | Marvell Technology | ✅ PERP |
+| NXPI | NXP Semiconductors | ✅ PERP |
+
+### HEALTHCARE / LIFE SCIENCES
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| ISRG | Intuitive Surgical | ✅ PERP |
+| MDT | Medtronic | ✅ PERP |
+| ABBV | AbbVie | ✅ PERP |
+| LLY | Eli Lilly | ✅ PERP |
+| UNH | UnitedHealth | ✅ PERP |
+
+### CONSUMER / RETAIL
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| COST | Costco | ✅ PERP |
+| HD | Home Depot | ✅ PERP |
+| LOW | Lowe's | ✅ PERP |
+| TJX | TJ Maxx | ✅ PERP |
+
+### FINANCIAL / PAYMENTS
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| JPM | JPMorgan | ✅ PERP |
+| V | Visa | ✅ PERP |
+| MA | Mastercard | ✅ PERP |
+| AXP | American Express | ✅ PERP |
+
+### CONNECTIVITY / IOT
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| TMUS | T-Mobile | ✅ PERP |
+| ERIC | Ericsson | ✅ PERP |
+| NOK | Nokia | ✅ PERP |
+
+### ENERGY / OIL & GAS
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| XOM | ExxonMobil | ✅ PERP |
+| CVX | Chevron | ✅ PERP |
+| COP | ConocoPhillips | ✅ PERP |
+| SLB | Schlumberger | ✅ PERP |
+
+### CHINA TECH
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| BABA | Alibaba | ✅ PERP |
+| BIDU | Baidu | ✅ PERP |
+| NTES | NetEase | ✅ PERP |
+
 ---
 
 ## ================================================
@@ -334,6 +406,14 @@
 | AI Power Utils | NEE, TLN, DUK, AES | — |
 | China Decouple | LRCX, AMAT, MRVL | — |
 | Humanoids | BDX, KFR | — |
+| AI Agents/SW | SPLK, TEAM, NOW, WDAY, DDL | — |
+| AI Hardware | AVGO, QCOM, MRVL, NXPI | — |
+| Healthcare | ISRG, MDT, ABBV, LLY, UNH | — |
+| Consumer | COST, HD, LOW, TJX | — |
+| Financial | JPM, V, MA, AXP | — |
+| Connectivity | TMUS, ERIC, NOK | — |
+| Energy | XOM, CVX, COP, SLB | — |
+| China Tech | BABA, BIDU, NTES | — |
 
 ---
 
