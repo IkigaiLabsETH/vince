@@ -20,3 +20,7 @@ Sentinel owns two north-star deliverables that unblock the team in Cursor and wi
 - **Brain (operator mapping):** The **OpenClaw Brain** flow (Jarvis-style init) lives in this repo under `openclaw-agents/brain/`. Brain output (USER.md, SOUL.md, AGENTS.md, TOOLS.md, MEMORY.md, HEARTBEAT.md, IDENTITY.md) is written to `openclaw-agents/workspace/` and can be synced to `knowledge/teammate/` for VINCE and to `~/.openclaw/workspace/` for the OpenClaw CLI. See [openclaw-agents/ARCHITECTURE.md](../../openclaw-agents/ARCHITECTURE.md) and [openclaw-agents/brain/README.md](../../openclaw-agents/brain/README.md).
 
 When the standup assigns Sentinel to produce "PRD for Cursor" or "Milaidy/OpenClaw instructions", the north-star generator writes to `docs/standup/prds/` or `docs/standup/integration-instructions/`. See [NORTH_STAR_DELIVERABLES.md](NORTH_STAR_DELIVERABLES.md).
+
+**PRD output path:** Sentinel's PRD generator uses `STANDUP_DELIVERABLES_DIR/prds` when that env is set (e.g. `docs/standup/prds/`), or `SENTINEL_PRD_OUTPUT_DIR` if set; otherwise `standup-deliverables/prds/`.
+
+**OpenClaw task queue:** When `SENTINEL_SHIP_WRITE_OPENCLAW_TASK=true` or `SENTINEL_WEEKLY_WRITE_OPENCLAW_TASK=true`, Sentinel writes structured JSON task briefs to `docs/standup/openclaw-queue/` for AI coding agents. Schema and consumer contract: [docs/standup/OPENCLAW_TASK_CONTRACT.md](../../docs/standup/OPENCLAW_TASK_CONTRACT.md). All code changes must be on a new branch with a PR, never on main.
