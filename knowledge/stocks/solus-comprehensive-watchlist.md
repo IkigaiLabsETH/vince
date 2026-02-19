@@ -245,13 +245,63 @@
 | REGN | Regeneron | ✅ PERP |
 | VRTX | Vertex | ✅ PERP |
 
-### INFRASTRUCTURE / SERVERS
+### INFRASTRUCTURE / DATACENTERS
 
 | Ticker | Company | Status |
 |--------|---------|--------|
-| DELL | Dell | ✅ PERP |
-| HPE | Hewlett Packard | ✅ PERP |
-| VMW | VMware | ✅ PERP |
+| EQIX | Equinix | ✅ PERP |
+| DLR | Digital Realty | ✅ PERP |
+| CCI | Crown Castle | ✅ PERP |
+| AMT | American Tower | ✅ PERP |
+
+### CYBERSECURITY
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| ZS | Zscaler | ✅ PERP |
+| PANW | Palo Alto Networks | ✅ PERP |
+| OKTA | Okta | ✅ PERP |
+| FTNT | Fortinet | ✅ PERP |
+
+### INDUSTRIAL ROBOTICS / AUTOMATION
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| EMR | Emerson Electric | ✅ PERP |
+| ROK | Rockwell Automation | ✅ PERP |
+| ITW | Illinois Tool Works | ✅ PERP |
+| PH | Parker-Hannifin | ✅ PERP |
+
+### AI POWER / UTILITIES
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| NEE | NextEra Energy | ✅ PERP |
+| TLN | Talen Energy | ✅ PERP |
+| DUK | Duke Energy | ✅ PERP |
+| AES | AES Corp | ✅ PERP |
+
+### AI BIOTECH
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| DNLI | Denali Therapeutics | ✅ PERP |
+| AZN | AstraZeneca | ✅ PERP |
+
+### CHINA DECOUPLING / SEMIS
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| LRCX | Lam Research | ✅ PERP |
+| AMAT | Applied Materials | ✅ PERP |
+| MRVL | Marvell Technology | ✅ PERP |
+
+### EMERGING HUMANOIDS
+
+| Ticker | Company | Status |
+|--------|---------|--------|
+| BDX | BD Dynamics | ✅ PERP |
+| KFR | KFrobotics | ✅ PERP |
 
 ---
 
@@ -278,6 +328,12 @@
 | EV/Auto | RIVN, LCID, F, GM | — |
 | Gaming/Media | NFLX, RBLX, DKNG, SNAP | — |
 | Biotech | MRNA, NVAX, REGN, VRTX | — |
+| Cybersecurity | ZS, PANW, OKTA, FTNT | — |
+| Industrial Auto | EMR, ROK, ITW, PH | — |
+| Datacenter Infra | EQIX, DLR, CCI, AMT | — |
+| AI Power Utils | NEE, TLN, DUK, AES | — |
+| China Decouple | LRCX, AMAT, MRVL | — |
+| Humanoids | BDX, KFR | — |
 
 ---
 
