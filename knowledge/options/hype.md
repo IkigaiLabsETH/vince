@@ -4,7 +4,6 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 Last week, we made a calculated tweak to our $HYPE wheel: we rolled our covered calls from the $27 strike down to $26 for the January 23 expiry.
 
 This move boosted weekly premiums to $2K+, pushing the annualized yield to ~118%—roughly double our prior setup—while still leaving meaningful upside capture if we get the 2026 breakout.
@@ -160,26 +159,17 @@ This isn’t chasing vol; it’s refining the setup for even fatter premiums in 
 
 Let’s break down the full rationale, weaving in the journey so far and why $26 feels like the optimal turn of the wheel right now.
 
-
-
-
 Recapping the broader arc reminds us why we’re here: From mid-October to mid-December 2025, we wheeled aggressively on $HYPE—mostly covered calls, with occasional naked short puts for extra juice—harvesting over $11K in premiums and climbing to #2 on the leaderboard. Then the crash hit: $HYPE wicked to $22, our $27 puts exercised at bad prices, wiping $4.4K in profits and a $25K unrealized drawdown. We capitulated on the bounce, consolidating into BTC for safe, consistent 1-1.3% weekly yields through the holidays. It healed the bruise, but we never stopped watching Hyperliquid’s fundamentals hold strong.
 
 The January unlock—milder than expected at just 1.2M tokens ($31M, 0.3% supply)—was absorbed seamlessly, with price ticking up post-event.
 
 That resilience, plus the ETF catalyst, pulled us back for the doubled income and conviction play. Now, with the market digesting that cooldown, $26 amplifies what worked at $27: richer premiums from elevated IV on Hypersurface, without overcommitting in uncertain short-term waters.
 
-
-
-
 The premium edge at $26 is the primary driver—over 118% APR, nearly doubling the 65% at $27 and boosting our weekly upfronts by ~$1,000 on the full position. That’s not just incremental; it supercharges the swap math we outlined last time. A $1 drop in $HYPE hits principal by $3,600 now (3.9% drawdown), but the extra premium versus BTC (or even our prior strike) annualizes to a $52K+ boost, covering that $5 drop in ~5 weeks of rolling.
 
 In this setup, we’re collecting yields that turn moderate volatility into an ally, especially with our add-on lot—we’re happy as hell to flip those 200 at $26 for USDT plus $130 premium, resetting cleanly if assigned.
 
 It’s the wheel at its best: If it expires worthless, keep the stack and roll; if called away, sell at $26 (a 2.4% gain from our blended entry) plus all collected premiums, evolving the position without emotional baggage.
-
-
-
 
 Market conditions this week sealed the deal, with the cooldown creating an ideal environment for this lower strike. After broader crypto chop and exchange inflows fueled a bearish tilt, $HYPE’s rebound—up 8-12% from lows, with volume building and resistance tests at $26-27—shifts the vibe to neutral-bullish, but not explosive. Assignment odds sit at ~31% per platform models (real-world maybe 35-40% with momentum), higher than $27’s 20% but compensated by the yield premium.
 

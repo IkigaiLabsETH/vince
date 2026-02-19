@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Gazers
 
 OpenSea Slug: `gazers-by-matt-kane`
@@ -13,7 +14,7 @@ Matt Kane. Gazers is an Art Blocks Curated project—generative art synced to th
 
 ## Why It Matters
 
-Gazers proved that generative NFTs could be *temporal*—tied to real-world cycles, not just static outputs. The moon sync and the daily updates create a shared, evolving context. Kane’s ambition (astronomy, colour, collective metaphor) lands. The project is a reference for “living” generative art. For collectors who care about time-based work and concept, Gazers is essential.
+Gazers proved that generative NFTs could be _temporal_—tied to real-world cycles, not just static outputs. The moon sync and the daily updates create a shared, evolving context. Kane’s ambition (astronomy, colour, collective metaphor) lands. The project is a reference for “living” generative art. For collectors who care about time-based work and concept, Gazers is essential.
 
 ## The Art
 

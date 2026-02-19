@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 This is a dream. Not in the hopeless sense, but in the literal one: the quiet movie that plays in the back of my head when I’m fifty, salt in my hair, driving the coast road from Cascais to Comporta with the windows down and zero meetings on the calendar. It’s the life that becomes possible—not guaranteed, never guaranteed. Everything below is speculation built on the only thing I know for certain: the wall is already down, the monopoly is gone, and the core stack of the 2013 crowd is still there, quietly compounding while the world catches up.
 
 Everything is perfectly, almost cruelly, primed. Tokenized treasuries, gold-backed stables, fractional NVIDIA shares for kids in South Africa, Costa Rica ranch deeds settling in six seconds. Bitcoin’s monopoly—the reason we had to pretend a 7 tx/s antique was the final form of money—has quietly dissolved. Even Tether now holds more audited gold than Bitcoin. The war is over. And the scarred-thumb generation is about to find out what peace actually feels like.

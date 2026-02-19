@@ -6,11 +6,11 @@ This guide describes how to add content to the knowledge base so it is **RAG-opt
 
 Use the **knowledge-ingestion** plugin so the agent categorizes and writes a structured file.
 
-| Method | How |
-|--------|-----|
+| Method            | How                                                                                                          |
+| ----------------- | ------------------------------------------------------------------------------------------------------------ |
 | **Paste in chat** | "Save this knowledge: [your research or notes]" or "Add to knowledge base: [content]" (or paste 500+ chars). |
-| **Local file** | "Process docs path/to/file.md" or "Ingest local file path/to/research.md". |
-| **Link** | Share a URL; the agent can ingest from the link. |
+| **Local file**    | "Process docs path/to/file.md" or "Ingest local file path/to/research.md".                                   |
+| **Link**          | Share a URL; the agent can ingest from the link.                                                             |
 
 **What you get:** The agent chooses a category (e.g. `perps-trading`, `options`) and writes a file with Title, Source, Summary, Key Points, Implications, Action Items, Related Topics. Ingested files now include **## Metadata** (Category, Source, Word Count, Tags) and a **Knowledge Base Note** at the top.
 
@@ -33,9 +33,9 @@ See `scripts/KNOWLEDGE-ENHANCEMENT-GUIDE.md` for details.
 
    ```markdown
    > **📌 Knowledge Base Note**
-   > 
+   >
    > These documents are optimized for RAG: use for **frameworks and context**, not for current data. Numbers and dates are illustrative—check actions/APIs for live data.
-   
+
    ---
    ```
 
@@ -76,11 +76,11 @@ For files that are already raw paste (no Knowledge Base Note at the top):
 
 ## Summary
 
-| Situation | Action |
-|-----------|--------|
-| **New research** | Prefer agent ingestion ("Save this knowledge", "Process docs …", or link). Ingested files get ## Metadata + Knowledge Base Note automatically. Optionally run audit + ai-enhance for Methodology & Framework. |
-| **Manual new file** | Use [`knowledge-essay-template.md`](knowledge-essay-template.md) for essays; for reference docs use at least Knowledge Base Note + ## section headers. |
-| **Existing pasted file** | Prepend Knowledge Base Note; optionally run `audit-knowledge-quality.ts` then `ai-enhance-knowledge.ts`. |
+| Situation                | Action                                                                                                                                                                                                        |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **New research**         | Prefer agent ingestion ("Save this knowledge", "Process docs …", or link). Ingested files get ## Metadata + Knowledge Base Note automatically. Optionally run audit + ai-enhance for Methodology & Framework. |
+| **Manual new file**      | Use [`knowledge-essay-template.md`](knowledge-essay-template.md) for essays; for reference docs use at least Knowledge Base Note + ## section headers.                                                        |
+| **Existing pasted file** | Prepend Knowledge Base Note; optionally run `audit-knowledge-quality.ts` then `ai-enhance-knowledge.ts`.                                                                                                      |
 
 ---
 

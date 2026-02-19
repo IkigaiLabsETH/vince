@@ -1,9 +1,9 @@
 ## Metadata
+
 **Source**: Direct Input | chat://direct-input/1769811901313
 **Category**: setup-guides
 **Word Count**: 568
 **Tags**: #user-submitted #direct-input #chat
-
 
 # Supermemory Plugin for Claude Code: Persistent AI Memory Infrastructure
 

@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Prompt Template #36: Tether Transparency + Stablecoin Flows (USDT/USDC)
 
 > **Priority**: Tier 4 (Advanced/Refinement)  
@@ -62,7 +63,7 @@ Structure your final response exactly as follows—no extra sections unless data
 - Reserve quality notes (increasing treasuries = maturing/de-risking).
 - Historical parallels and implications for crypto/BTC momentum.
 
-Example:  
+Example:
 "Strong net USDT mints (+$15B over 30d) with stable reserve composition—classic liquidity injection tailwind supporting risk-on moves, similar to early 2021 bull phases. USDC steady but smaller share; no redemption pressure visible. Points to incoming capital flows potentially fueling BTC upside."
 
 ### Data Notes
@@ -87,5 +88,5 @@ Example:
 
 ---
 
-*Source: Grok Expert Template #36*  
-*Added: 2026-01-XX*
+_Source: Grok Expert Template #36_  
+_Added: 2026-01-XX_

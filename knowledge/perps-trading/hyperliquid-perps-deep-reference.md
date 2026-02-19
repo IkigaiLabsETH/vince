@@ -17,25 +17,25 @@
 
 ## Contract Specifications
 
-| Parameter | Value |
-|---|---|
-| Instrument | Linear perpetual (no expiration) |
-| Contract size | 1 unit of underlying spot asset |
-| Collateral | USDC |
-| Oracle denomination | USDT (technically quanto) |
-| Exceptions | PURR-USD, HYPE-USD use USDC oracle (Hyperliquid spot as primary source) |
-| Funding interval | **Hourly** (not 8h like CEXs) |
-| Position limits | None |
-| Account model | Per-wallet, cross or isolated margin |
+| Parameter           | Value                                                                   |
+| ------------------- | ----------------------------------------------------------------------- |
+| Instrument          | Linear perpetual (no expiration)                                        |
+| Contract size       | 1 unit of underlying spot asset                                         |
+| Collateral          | USDC                                                                    |
+| Oracle denomination | USDT (technically quanto)                                               |
+| Exceptions          | PURR-USD, HYPE-USD use USDC oracle (Hyperliquid spot as primary source) |
+| Funding interval    | **Hourly** (not 8h like CEXs)                                           |
+| Position limits     | None                                                                    |
+| Account model       | Per-wallet, cross or isolated margin                                    |
 
 ### Maximum Order Values
 
 | Max Leverage | Max Market Order | Max Limit Order |
-|---|---|---|
-| ≥25x | $15,000,000 | $150,000,000 |
-| 20–24x | $5,000,000 | $50,000,000 |
-| 10–19x | $2,000,000 | $20,000,000 |
-| <10x | $500,000 | $5,000,000 |
+| ------------ | ---------------- | --------------- |
+| ≥25x         | $15,000,000      | $150,000,000    |
+| 20–24x       | $5,000,000       | $50,000,000     |
+| 10–19x       | $2,000,000       | $20,000,000     |
+| <10x         | $500,000         | $5,000,000      |
 
 ---
 
@@ -59,11 +59,11 @@
 Maintenance margin = half of initial margin at max leverage:
 
 | Max Leverage | Maintenance Margin |
-|---|---|
-| 40x | 1.25% |
-| 20x | 2.5% |
-| 10x | 5% |
-| 3x | 16.7% |
+| ------------ | ------------------ |
+| 40x          | 1.25%              |
+| 20x          | 2.5%               |
+| 10x          | 5%                 |
+| 3x           | 16.7%              |
 
 ### Transfer Margin Requirements
 
@@ -77,14 +77,14 @@ Remaining margin must be ≥10% of total notional AND meet initial margin requir
 
 ### Margin Tiers (Mainnet)
 
-| Asset | Tier 1 Notional | Max Lev | Tier 2 Notional | Max Lev |
-|---|---|---|---|---|
-| BTC | 0–150M | 40x | >150M | 20x |
-| ETH | 0–100M | 25x | >100M | 15x |
-| SOL | 0–70M | 20x | >70M | 10x |
-| XRP | 0–40M | 20x | >40M | 10x |
-| HYPE, DOGE, PEPE, SUI, TRUMP, etc. | 0–20M | 10x | >20M | 5x |
-| OP, ARB, LDO, TON, MKR, etc. | 0–3M | 10x | >3M | 5x |
+| Asset                              | Tier 1 Notional | Max Lev | Tier 2 Notional | Max Lev |
+| ---------------------------------- | --------------- | ------- | --------------- | ------- |
+| BTC                                | 0–150M          | 40x     | >150M           | 20x     |
+| ETH                                | 0–100M          | 25x     | >100M           | 15x     |
+| SOL                                | 0–70M           | 20x     | >70M            | 10x     |
+| XRP                                | 0–40M           | 20x     | >40M            | 10x     |
+| HYPE, DOGE, PEPE, SUI, TRUMP, etc. | 0–20M           | 10x     | >20M            | 5x      |
+| OP, ARB, LDO, TON, MKR, etc.       | 0–3M            | 10x     | >3M             | 5x      |
 
 ---
 
@@ -110,12 +110,12 @@ F = avg_premium_index(P) + clamp(interest_rate - P, -0.0005, 0.0005)
 
 ### Funding Interpretation for Trading
 
-| Signal | Meaning |
-|---|---|
-| Positive funding | Longs pay shorts → market net long/bullish |
+| Signal           | Meaning                                     |
+| ---------------- | ------------------------------------------- |
+| Positive funding | Longs pay shorts → market net long/bullish  |
 | Negative funding | Shorts pay longs → market net short/bearish |
-| Spike >0.05%/8h | Crowded trade signal |
-| Sustained high | Strong trend OR imminent reversal |
+| Spike >0.05%/8h  | Crowded trade signal                        |
+| Sustained high   | Strong trend OR imminent reversal           |
 
 - Historical funding informs Solus's options strike selection (Friday ritual)
 
@@ -199,26 +199,26 @@ Last resort solvency guarantee:
 
 ### Perps Tiers (Base Rate)
 
-| Tier | 14d Volume | Taker | Maker |
-|---|---|---|---|
-| 0 | Any | 0.045% | 0.015% |
-| 1 | >$5M | 0.040% | 0.012% |
-| 2 | >$25M | 0.035% | 0.008% |
-| 3 | >$100M | 0.030% | 0.004% |
-| 4 | >$500M | 0.028% | 0.000% |
-| 5 | >$2B | 0.026% | 0.000% |
-| 6 | >$7B | 0.024% | 0.000% |
+| Tier | 14d Volume | Taker  | Maker  |
+| ---- | ---------- | ------ | ------ |
+| 0    | Any        | 0.045% | 0.015% |
+| 1    | >$5M       | 0.040% | 0.012% |
+| 2    | >$25M      | 0.035% | 0.008% |
+| 3    | >$100M     | 0.030% | 0.004% |
+| 4    | >$500M     | 0.028% | 0.000% |
+| 5    | >$2B       | 0.026% | 0.000% |
+| 6    | >$7B       | 0.024% | 0.000% |
 
 ### HYPE Staking Discounts
 
-| HYPE Staked | Discount | Tier |
-|---|---|---|
-| >10 | 5% | Wood |
-| >100 | 10% | Bronze |
-| >1,000 | 15% | Silver |
-| >10,000 | 20% | Gold |
-| >100,000 | 30% | Platinum |
-| >500,000 | 40% | Diamond |
+| HYPE Staked | Discount | Tier     |
+| ----------- | -------- | -------- |
+| >10         | 5%       | Wood     |
+| >100        | 10%      | Bronze   |
+| >1,000      | 15%      | Silver   |
+| >10,000     | 20%      | Gold     |
+| >100,000    | 30%      | Platinum |
+| >500,000    | 40%      | Diamond  |
 
 ### Fee Destination
 

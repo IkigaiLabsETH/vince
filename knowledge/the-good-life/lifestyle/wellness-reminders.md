@@ -37,12 +37,14 @@ Rotating tips for the daily briefing — mental health, sleep, movement, nutriti
 ## Movement (daily, non-negotiable)
 
 ### Pool season (Apr–Nov)
+
 - **Morning swim (1000m+)** — the anchor. See swimming-daily-winter-pools for sets and tips.
 - **Post-swim yoga** — lats, pecs, hip flexors, thoracic. 20 min. See daily-yoga-surfers-vinyasa.
 - **Surf when it's on** — everything else waits. Pre-surf warm-up + post-surf recovery.
 - **Evening:** Walk, stretch, or yin yoga.
 
 ### Gym season (Dec–Feb)
+
 - **Rowing** — 30 min steady state or intervals. Indoor cardio that builds swim fitness. See water-rowing-surf-swim-fit.
 - **Morning vinyasa** — 20–30 min with Kassandra. Maintains flexibility and breath.
 - **Indoor swim** — palace pools (Caudalie from Feb 5, Palais from Feb 12) or wetsuit in the backyard.
@@ -56,22 +58,26 @@ Rotating tips for the daily briefing — mental health, sleep, movement, nutriti
 Goal: mobile, flexible, strong — built for decades of surf, swim, and life. Not bulk.
 
 ### 10-min AMRAP (As Many Rounds As Possible)
+
 - 10 goblet squats
 - 10 push presses
 - 10 bent-over rows
 
 ### Superset circuit (15 min)
+
 - 3×10 goblet squats + shoulder press
 - 3×10 Romanian deadlifts + bent-over rows
 - 3×10 lunges + bicep curls
 
 ### Quick upper body (10 min)
+
 - 3×12 floor press
 - 3×12 bent-over rows
 - 3×12 shoulder press
 - 3×15 bicep curls
 
 ### Quick lower body (10 min)
+
 - 3×15 goblet squats
 - 3×12 Romanian deadlifts
 - 3×10 lunges each leg
@@ -116,6 +122,7 @@ See daily-yoga-surfers-vinyasa for full sequences.
 ## How Kelly uses this
 
 Pick **one or two** reminders per daily briefing based on:
+
 - **Time of day:** Morning = movement, nutrition. Evening = sleep, wind-down, sauna.
 - **Season:** Pool season = swim-focused. Gym season = rowing, yoga, indoor swim, strength.
 - **Recent context:** Been grinding → suggest recovery (sauna, yin, walk). Slept badly → sleep tips. Haven't moved → movement reminder.

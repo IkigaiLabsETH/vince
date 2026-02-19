@@ -110,14 +110,14 @@ Short sequences for daily use. For deep knowledge (why each pose, modifications,
 
 ## Weekly template
 
-| Day | Morning | Activity | Post-activity |
-|-----|---------|----------|---------------|
-| Mon | Vinyasa 20 min | Swim 1000m | Post-swim recovery |
-| Tue | Vinyasa 20 min | Row 30 min | Post-swim recovery (same chain) |
-| Wed | Vinyasa 20 min | Swim 1000m | Post-swim recovery |
-| Thu | Vinyasa 20 min | Row or gym | Post-swim or general stretch |
-| Fri | Vinyasa 20 min | Swim 1000m | Post-swim recovery |
-| Sat | Pre-surf warm-up | Surf (if conditions) | Post-surf recovery |
-| Sun | Yin 30–45 min | Rest or gentle walk | — |
+| Day | Morning          | Activity             | Post-activity                   |
+| --- | ---------------- | -------------------- | ------------------------------- |
+| Mon | Vinyasa 20 min   | Swim 1000m           | Post-swim recovery              |
+| Tue | Vinyasa 20 min   | Row 30 min           | Post-swim recovery (same chain) |
+| Wed | Vinyasa 20 min   | Swim 1000m           | Post-swim recovery              |
+| Thu | Vinyasa 20 min   | Row or gym           | Post-swim or general stretch    |
+| Fri | Vinyasa 20 min   | Swim 1000m           | Post-swim recovery              |
+| Sat | Pre-surf warm-up | Surf (if conditions) | Post-surf recovery              |
+| Sun | Yin 30–45 min    | Rest or gentle walk  | —                               |
 
 Adjust for surf conditions — if it's on, surf replaces swim. Pool season (Apr–Nov) = swim focus; gym season (Dec–Feb) = row + indoor swim + yoga emphasis.

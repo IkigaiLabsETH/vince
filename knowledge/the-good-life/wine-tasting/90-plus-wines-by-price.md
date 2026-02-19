@@ -9,11 +9,13 @@ last_reviewed: 2026-02-17
 The point of this file: find the best score-to-price ratio. Not everyone wants to spend €500. Here are 90+ point wines organized by what you'll actually pay.
 
 ## Under €15 — The Steals (90-92 pts)
+
 - **E. Guigal Côtes du Rhône Rouge** — 90 WS. Syrah/Grenache. The best sub-€10 wine in France. Steak, pasta, pizza.
 - **Domaine des Pierrettes Ciel de Perles** — Crémant de Loire, ~€9.50. Pure chenin, effervescent. Apéritif.
 - **Muscadet Sèvre et Maine Sur Lie** (top producers: Luneau-Papin, Domaine de l'Écu) — 90-91. Oysters, mussels.
 
 ## €15-30 — Serious Daily (90-93 pts)
+
 - **E. Guigal Crozes-Hermitage Rouge** — 92 WS. Northern Rhône Syrah, 18 months oak. Steak, game. ~€18-22.
 - **Domaine Graillot Crozes-Hermitage** — 93 JD. More artisanal. ~€25.
 - **Domaine Jean Féry La Combe des Amoureuses** — Hautes-Côtes-de-Beaune, ~€29. Chardonnay, 5,400 bottles. Competes with village Burgundy at half the price.
@@ -23,6 +25,7 @@ The point of this file: find the best score-to-price ratio. Not everyone wants t
 - **Château Minuty Rose et Or** — Côtes-de-Provence, ~€24. 90-91.
 
 ## €30-60 — Weekend Splurge (92-96 pts)
+
 - **Cattier Brut Icône** — Champagne NV, ~€31.50. 90 JS. 4 years minimum cave aging.
 - **Palmer & Co Brut Réserve** — Champagne NV, ~€37. 91 JS. Grand cru dominant.
 - **Mailly Grand Cru Brut** — Champagne NV, ~€38.50. 91 JS. 100% grand cru.
@@ -35,6 +38,7 @@ The point of this file: find the best score-to-price ratio. Not everyone wants t
 - **Commanderie de Peyrassol 1204 Rosé** — ~€77. Premium but scored 90+.
 
 ## €60-150 — Serious Collecting (94-98 pts)
+
 - **Bollinger Special Cuvée** — Champagne NV, ~€59. 93 JS.
 - **Clos des Papes Châteauneuf-du-Pape** — ~€80. 98 JD. One of the best QPR (quality-price ratio) in all French wine.
 - **Château Grand-Puy-Lacoste 2016** — Pauillac, ~€70. 94 RP.
@@ -46,6 +50,7 @@ The point of this file: find the best score-to-price ratio. Not everyone wants t
 - **Château Smith Haut Lafitte 2016** — Pessac-Léognan, ~€90. 97 RP.
 
 ## €150-500 — The Big Guns (96-100 pts)
+
 - **Château Pontet-Canet 2010** — 100 RP. Often €150-200. THE value 100-pointer.
 - **Château Ducru-Beaucaillou 2016** — 98 RP. ~€180.
 - **Château Pichon Comtesse 2016** — 98 RP. ~€200.
@@ -56,6 +61,7 @@ The point of this file: find the best score-to-price ratio. Not everyone wants t
 - **Jaboulet Hermitage La Chapelle 2015** — 98 RP. ~€200.
 
 ## €500+ — Trophy Bottles (98-100 pts)
+
 - **Pétrus 2010** — 100 RP. ~€4,000+.
 - **Château Latour 2010** — 100 RP. ~€800-1,200.
 - **Château Lafite 2010** — 100 RP. ~€700-1,000.
@@ -69,6 +75,7 @@ The point of this file: find the best score-to-price ratio. Not everyone wants t
 - **Jean-Louis Chave Hermitage 2015** — 100 RP. ~€500-800.
 
 ## Kelly's Smart Flex Picks (Best Score-to-Price)
+
 1. **Pontet-Canet 2010** — 100 points, ~€180. First-growth killer.
 2. **Clos des Papes CdP 2016** — 98 points, ~€80. Absurd value.
 3. **Guigal Crozes-Hermitage** — 92 points, ~€20. Best intro to Northern Rhône.

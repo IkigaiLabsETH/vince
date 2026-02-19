@@ -9,7 +9,7 @@ A factual, date-stamped reference for understanding the platform that became X.
 **Background:** Twitter grew out of Odeo, a struggling podcasting startup in San Francisco. When Apple added podcasting to iTunes in mid-2005, Odeo's business model collapsed. The team started brainstorming new ideas.
 
 - **Early 2006** — Jack Dorsey pitched the idea of an SMS-based status update service. He'd been thinking about it since 2000, inspired by AOL Instant Messenger away messages and bike messenger dispatch systems.
-- **March 21, 2006** — Dorsey sent the first tweet: *"just setting up my twttr"* at 9:50 PM PST. The name "twttr" was inspired by Flickr's vowel-dropping convention. Noah Glass is credited with coming up with the name after browsing the dictionary and landing on "twitter" — defined as "a short burst of inconsequential information" and "chirps from birds."
+- **March 21, 2006** — Dorsey sent the first tweet: _"just setting up my twttr"_ at 9:50 PM PST. The name "twttr" was inspired by Flickr's vowel-dropping convention. Noah Glass is credited with coming up with the name after browsing the dictionary and landing on "twitter" — defined as "a short burst of inconsequential information" and "chirps from birds."
 - **The founders:** Jack Dorsey (product/concept), Biz Stone (creative direction), Evan Williams (CEO of Odeo, later Twitter CEO), and Noah Glass (early development, later pushed out — largely written out of the company story).
 - **July 15, 2006** — Twitter launched publicly at twttr.com. The SMS backbone was central: you'd text 40404 to post. This is why the 140-character limit existed — SMS messages maxed at 160 characters, minus 20 reserved for the username.
 - **By end of 2006** — roughly 5,000 users. It was a toy for San Francisco tech people.
@@ -28,7 +28,7 @@ A factual, date-stamped reference for understanding the platform that became X.
 Twitter's most defining features weren't built by Twitter — users made them up:
 
 - **@replies** — Users started typing @username to direct messages at people. Twitter didn't formally support this until May 2007.
-- **Hashtags** — **August 23, 2007:** Chris Messina (an open-source advocate, not a Twitter employee) tweeted: *"how do you feel about using # (pound) for groups. As in #barcamp?"* Twitter initially dismissed it. It took until July 2009 for Twitter to make hashtags clickable links.
+- **Hashtags** — **August 23, 2007:** Chris Messina (an open-source advocate, not a Twitter employee) tweeted: _"how do you feel about using # (pound) for groups. As in #barcamp?"_ Twitter initially dismissed it. It took until July 2009 for Twitter to make hashtags clickable links.
 - **RT (retweet)** — Users manually typed "RT @username" to reshare tweets. Twitter didn't add an official retweet button until November 2009.
 
 ### The Fail Whale
@@ -190,17 +190,17 @@ Twitter's most defining features weren't built by Twitter — users made them up
 
 ## Key Stats at the Moment of Acquisition (October 2022)
 
-| Metric | Value |
-|---|---|
-| Monthly active users (estimated) | ~368 million |
-| Monetizable daily active users | ~238 million |
-| Revenue (2021, peak year) | $5.08 billion |
-| Revenue (2022, pre-acquisition annualized) | ~$4.4 billion |
-| Total tweets sent (all-time, estimated) | 500 billion+ |
-| Employees at acquisition | ~7,500 |
-| Acquisition price | $44 billion ($54.20/share) |
-| Years since founding | 16 |
-| Total CEOs | 5 (Dorsey → Williams → Costolo → Dorsey → Agrawal) |
+| Metric                                     | Value                                              |
+| ------------------------------------------ | -------------------------------------------------- |
+| Monthly active users (estimated)           | ~368 million                                       |
+| Monetizable daily active users             | ~238 million                                       |
+| Revenue (2021, peak year)                  | $5.08 billion                                      |
+| Revenue (2022, pre-acquisition annualized) | ~$4.4 billion                                      |
+| Total tweets sent (all-time, estimated)    | 500 billion+                                       |
+| Employees at acquisition                   | ~7,500                                             |
+| Acquisition price                          | $44 billion ($54.20/share)                         |
+| Years since founding                       | 16                                                 |
+| Total CEOs                                 | 5 (Dorsey → Williams → Costolo → Dorsey → Agrawal) |
 
 ---
 

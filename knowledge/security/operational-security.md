@@ -3,6 +3,7 @@ tags: [security, risk, safety]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 ### Endpoint Security
 
 **Device hygiene:** Keep OS and browsers updated. Use a password manager (1Password, Bitwarden) with unique passwords per site. Enable 2FA everywhere — hardware keys (YubiKey) > authenticator apps > SMS (vulnerable to SIM swap). Never use SMS 2FA for crypto-adjacent accounts.
@@ -23,4 +24,4 @@ last_reviewed: 2026-02-15
 
 **Batch revoke regularly:** Set a monthly calendar reminder. Go to revoke.cash, connect wallet, review all active approvals. Revoke anything you don't actively need. The gas cost of revocation is trivial compared to the risk of a stale unlimited approval being exploited.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

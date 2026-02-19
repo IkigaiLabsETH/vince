@@ -4,9 +4,10 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181578103.Ex Twitter Crew
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 406

@@ -4,13 +4,15 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179485563.The Ghost In The Machine
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: macro-economy
 **Word Count**: 898
 **Tags**: #bitcoin #eth #futures #macro #inflation #portfolio #substack
+
 ---
 
 The chart is bleeding while you read this.
@@ -82,19 +84,19 @@ Bitcoin does not survive the carry unwind, it broadcasts it.
 Three futures, one currency pair.
 
 Scenario A – Managed Unwind (45 %)
-> 
-December hike of 25 bps, tough talk, then clear signal that tightening peaks in March. USD/JPY drifts from 156 to 145 over six months. Stocks correct 12-18 %, Bitcoin bottoms $68,000-$74,000. Painful but survivable, cycle top still arrives above $180,000 in early 2026.
+
+> December hike of 25 bps, tough talk, then clear signal that tightening peaks in March. USD/JPY drifts from 156 to 145 over six months. Stocks correct 12-18 %, Bitcoin bottoms $68,000-$74,000. Painful but survivable, cycle top still arrives above $180,000 in early 2026.
 
 Scenario B – Disorderly Unwind (40 %)
-> 
-Politics fail, long yields keep ripping, BOJ forced into Volcker-style barrage.
-USD/JPY to 135 in ninety days, $3-5 trillion of forced selling unleashed.
-S&P to 5,200, Bitcoin to $45,000-$55,000, the exact $50,000 handle so many have circled in red.
+
+> Politics fail, long yields keep ripping, BOJ forced into Volcker-style barrage.
+> USD/JPY to 135 in ninety days, $3-5 trillion of forced selling unleashed.
+> S&P to 5,200, Bitcoin to $45,000-$55,000, the exact $50,000 handle so many have circled in red.
 
 Scenario C – Great Re-Leveraging (15 %)
-> 
-Japan caves completely, stimulus doubled, balance sheet back in blast-off. Yen past 170, carry trade crowned trade of the century, again.
-Bitcoin $250,000+ by summer 2026. (The scenario every 8× perpetual trader is secretly praying for while calling himself a long-term holder.)
+
+> Japan caves completely, stimulus doubled, balance sheet back in blast-off. Yen past 170, carry trade crowned trade of the century, again.
+> Bitcoin $250,000+ by summer 2026. (The scenario every 8× perpetual trader is secretly praying for while calling himself a long-term holder.)
 
 I have survived four cycles.
 

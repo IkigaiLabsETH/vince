@@ -4,20 +4,22 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181193480.The Hip 3 Thesis
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: grinding-the-trenches
 **Word Count**: 879
 **Tags**: #bitcoin #eth #defi #perps #fed #substack
+
 ---
 
 I’m on my second glass of Côtes du Rhône. The studio’s dark except for the blue glow of my monitor, which is currently showing the Hyperliquid Assistance Fund wallet buying another quiet $2.4 million of HYPE and yeeting it into the void. Again. For the fourth time tonight. I should be asleep. Instead I’m muttering “what the actual fuck” to an empty room like a lunatic.
 
 Look, I’ve been doing this crypto thing since you had to explain to your mom what Bitcoin was while she asked if it was like Beanie Babies. I watched Mt. Gox implode in real time. I held ETH through the DAO hack because “fundamentals.” Point is: I’m allergic to hopium. I shiver a little when someone says “paradigm shift.” And yet here I am, completely unable to look away from Hyperliquid.
-> 
-Because HIP-3 is the nastiest, most sociopathic piece of tokenomics anyone’s shipped in years, and the market is still pricing it like it’s just another perps casino with cute cat mascots.
+
+> Because HIP-3 is the nastiest, most sociopathic piece of tokenomics anyone’s shipped in years, and the market is still pricing it like it’s just another perps casino with cute cat mascots.
 
 ## Context
 

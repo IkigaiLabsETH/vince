@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Terraforms
 
 OpenSea Slug: `terraforms`
@@ -13,7 +14,7 @@ Mathcastles—the duo 0x113d and xaltgeist—are anonymous developers. They buil
 
 ## Why It Matters
 
-Terraforms might be the most ambitious on-chain generative project ever attempted. Every parcel is rendered as animated art on a 32×32 grid of characters—Unicode, ASCII, SVG—viewable directly from the chain. The whole set forms a “hypercastle”: a 3D structure, 20 levels, narrowing at top and bottom. Each NFT has a coordinate (e.g. “Level 2 at {2,1}”); you own a slice of a shared structure. That’s not just “we have a world”—it’s “the world *is* the data structure.”
+Terraforms might be the most ambitious on-chain generative project ever attempted. Every parcel is rendered as animated art on a 32×32 grid of characters—Unicode, ASCII, SVG—viewable directly from the chain. The whole set forms a “hypercastle”: a 3D structure, 20 levels, narrowing at top and bottom. Each NFT has a coordinate (e.g. “Level 2 at {2,1}”); you own a slice of a shared structure. That’s not just “we have a world”—it’s “the world _is_ the data structure.”
 
 There are three modes: Terrain (original animated land), Daydream (draw on your NFT—irreversible), and Terraform (commit drawings on-chain for others to see—reversible). So it’s art, map, and software. Traits include Zone (75 palettes), Biome (92 character sets), Chroma (animation speed). The combination of scale, on-chain completeness, and interactivity is still rare.
 

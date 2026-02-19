@@ -7,6 +7,7 @@ DeFi protocol evaluation, TVL analysis, yield strategies
 ## Subdirectories
 
 - **protocols/** (3 files)
+
 ## Contents
 
 - 179635530the-hyperevm-explosion.md
@@ -25,7 +26,7 @@ DeFi protocol evaluation, TVL analysis, yield strategies
 - 180496598yearn-finance.md
 - 180746282undercarriage-season.md
 
-*Plus 17 more files.*
+_Plus 17 more files._
 
 ## Related Categories
 

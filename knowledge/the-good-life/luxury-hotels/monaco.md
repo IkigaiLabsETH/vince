@@ -12,12 +12,12 @@ Monaco 5-star hotels define Riviera glamour: casino, harbour, Formula 1, and leg
 
 ## 5-Star Hotels
 
-- **Hôtel de Paris Monte-Carlo** — Place du Casino; SBM icon, Le Louis XV (3*), Hermitage link.
+- **Hôtel de Paris Monte-Carlo** — Place du Casino; SBM icon, Le Louis XV (3\*), Hermitage link.
 - **Hotel Hermitage Monte-Carlo** — Square Beaumarchais; Belle Époque, winter garden, Thermes Marins.
 - **Monte-Carlo Bay Hotel & Resort** — Larvotto; lagoon pool, beach, family-friendly.
 - **Fairmont Monte Carlo** — Casino square; F1 circuit, sea views, rooftop.
 - **Columbus Monte-Carlo** — Fontvieille; contemporary, terrace, quieter.
-- **Metropole Monte-Carlo** — Casino area; Joël Robuchon (2*), spa, garden.
+- **Metropole Monte-Carlo** — Casino area; Joël Robuchon (2\*), spa, garden.
 
 ## Live the life
 

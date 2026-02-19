@@ -10,6 +10,7 @@ source: https://thegoodlife.fr/
 > Source: The Good Life magazine (thegoodlife.fr). All places verified from published articles. Drive times from Hossegor.
 
 **Drive times from Hossegor:**
+
 - Biarritz: ~45 min
 - San Sebastián: ~1h15
 - Bordeaux: ~2h

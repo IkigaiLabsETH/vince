@@ -3,6 +3,7 @@ tags: [legal, compliance, regulation]
 agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Canonical disclaimers
 
 Use these when the project or agents need to state that content is not advice or to disclose risk.

@@ -4,13 +4,15 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179544801.Fear Harvest
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: options
 **Word Count**: 1,456
 **Tags**: #bitcoin #btc #eth #sol #options #perps #macro #portfolio #substack
+
 ---
 
 Bitcoin’s been through the wringer this year, hasn’t it? We’re sitting here on November 21, 2025, staring at a chart that’s more red than a bad Tinder date. From that euphoric $126K peak in late October, we’ve cliff-dived over 35% to around $82,400 spot, with ETF outflows bleeding billions—the worst since those spot beasts launched back in ‘24. And the liquidations? Holy cascade, Batman. Coinglass and the headlines are screaming about the October 10th bloodbath: a record-shattering $19.16 billion wiped out in a single day, dwarfing the FTX implosion ($6-8B range) and even the COVID Black Thursday panic ($4-10B across events).
@@ -41,45 +43,35 @@ Hypersurface’s UI makes this brainless—slide to “20-30% Probability” and
 
 **Covered Call Leg (Upside Harvest)**
 
-- 
-Strike: 8-12% OTM, e.g., $89K-$92K at $82.4K spot.
+- Strike: 8-12% OTM, e.g., $89K-$92K at $82.4K spot.
 
-- 
-Delta: 20-25 (super safe—assignment odds plummet in bear vibes).
+- Delta: 20-25 (super safe—assignment odds plummet in bear vibes).
 
-- 
-Collateral: 0.5-0.75 BTC from the yield bucket (scale down if paranoid).
+- Collateral: 0.5-0.75 BTC from the yield bucket (scale down if paranoid).
 
-- 
-Premium: $900-$1,200/week in this IV regime (lingering bull hopium).
+- Premium: $900-$1,200/week in this IV regime (lingering bull hopium).
 
-- 
-Why upgrade? Low delta avoids the “sell high, miss higher” trap. 
+- Why upgrade? Low delta avoids the “sell high, miss higher” trap.
 
 **Cash-Secured Put Leg (Downside Discount Buyer)**
 
-- 
-Strike: 10-15% OTM, e.g., $70K-$74K.
+- Strike: 10-15% OTM, e.g., $70K-$74K.
 
-- 
-Delta: 20-30 (puts are the star here—skew means fatter rewards).
+- Delta: 20-30 (puts are the star here—skew means fatter rewards).
 
-- 
-Collateral: $60K-$75K USDT.
+- Collateral: $60K-$75K USDT.
 
-- 
-Premium: $1,400-$1,800/week—insane, because fear prices in doomsday that rarely hits.
+- Premium: $1,400-$1,800/week—insane, because fear prices in doomsday that rarely hits.
 
-- 
-Why bias puts? Crashes like October’s amplify put IV more than calls. 
+- Why bias puts? Crashes like October’s amplify put IV more than calls.
 
 Total weekly haul on 0.75 BTC + $75K USDT: $2,300-$3,000 right now. That’s $9K-$12K/month, smashing our $4K target. Scale conservatively—high IV means bigger swings, but our isolation keeps it chill.
 
 **Greeks Intel: Why 20-30 Delta Is the Sweet Spot in Chaos**
 
-Deep research validates our zone: Delta (Hypersurface’s “Probability”) measures true ITM odds, balancing premium vs. risk. Below 20? Peanuts. Above 40? Assignment city. At 20-30, we capture ~75-85% expiry worthless rate, per historical BTC vol (weekly moves ±3-5% even in crashes). 
+Deep research validates our zone: Delta (Hypersurface’s “Probability”) measures true ITM odds, balancing premium vs. risk. Below 20? Peanuts. Above 40? Assignment city. At 20-30, we capture ~75-85% expiry worthless rate, per historical BTC vol (weekly moves ±3-5% even in crashes).
 
-Theta decay ramps in the final 72 hours—weeklies maximize that. 
+Theta decay ramps in the final 72 hours—weeklies maximize that.
 
 Vega? Our edge—IV often overshoots realized vol post-liquidation, so we sell rich options.
 
@@ -89,16 +81,13 @@ Avoid the traps: No <20 delta poverty premiums, no >50 delta assignment roulette
 
 **New Layer: Rolling Protocol for When Things Get Spicy**
 
-Here’s the improvement sauce: Fixed weeklies are great for theta, but if a leg creeps ITM mid-week (rare, but gamma happens), we roll. 
+Here’s the improvement sauce: Fixed weeklies are great for theta, but if a leg creeps ITM mid-week (rare, but gamma happens), we roll.
 
-- 
-If put nears strike (BTC dipping hard): Roll to next weekly, same/lower strike, net credit. Keeps premium flowing, avoids early assignment.
+- If put nears strike (BTC dipping hard): Roll to next weekly, same/lower strike, net credit. Keeps premium flowing, avoids early assignment.
 
-- 
-If call threatens: Roll up/out for credit—lock gains without selling BTC.
+- If call threatens: Roll up/out for credit—lock gains without selling BTC.
 
-- 
-Threshold: Delta >50 mid-week. Hypersurface supports easy rolls; do it Thursday if needed.
+- Threshold: Delta >50 mid-week. Hypersurface supports easy rolls; do it Thursday if needed.
 
 **Macro Response: Adapt, Don’t React**
 
@@ -106,41 +95,31 @@ High fear (ETF bleeds, tariff echoes from October)? Widen further, put-heavy. Ca
 
 **Execution Cycle: Monday Magic, Friday Feast**
 
-- 
-Monday 10AM ET: Scan Hypersurface APRs, set 20-30 delta strikes. Fund USDT. Deploy strangle.
+- Monday 10AM ET: Scan Hypersurface APRs, set 20-30 delta strikes. Fund USDT. Deploy strangle.
 
-- 
-Mid-week check: Roll if delta spikes.
+- Mid-week check: Roll if delta spikes.
 
-- 
-Friday expiry: Pocket premiums (75-85% win) or rejoice in assignment (discounted BTC or sold high). Withdraw/repeat.
+- Friday expiry: Pocket premiums (75-85% win) or rejoice in assignment (discounted BTC or sold high). Withdraw/repeat.
 
 **No perps bleed, no leverage roulette—just math.**
 
 We’re volatility farmers, not directional gamblers. Hypersurface on-chain weeklies. That’s the religion. Why We Will NEVER Touch Perps Again (And You Shouldn’t Either). Look at the graveyard: $19 billion liquidated in one October day, the vast majority long perps. Binance literally buckled. Funding rates were +200% annualized at the top—degens paying institutions 4% a week just to stay long. Then the cascade hit and it was goodnight Vienna. Perps are a rigged casino disguised as “efficient exposure”:
 
-- 
-You pay funding on winners, you get liquidated on losers.
+- You pay funding on winners, you get liquidated on losers.
 
-- 
-One 8% wick and your entire position is gone forever—no premium collected, no second chance.
+- One 8% wick and your entire position is gone forever—no premium collected, no second chance.
 
-- 
-The house (exchange + market makers) wins on every volatility spike.
+- The house (exchange + market makers) wins on every volatility spike.
 
 Our options engine is the polar opposite:
 
-- 
-We collect premium upfront—money in pocket Day 1.
+- We collect premium upfront—money in pocket Day 1.
 
-- 
-No funding bleed, no liquidation level, no forced close.
+- No funding bleed, no liquidation level, no forced close.
 
-- 
-Worst case on assignment? We sell BTC near recent highs or buy it 12–15% cheaper than spot. That’s a win disguised as a loss.
+- Worst case on assignment? We sell BTC near recent highs or buy it 12–15% cheaper than spot. That’s a win disguised as a loss.
 
-- 
-In the current environment we’re pulling 2–3% per week net while perp longs just handed us their stacks.
+- In the current environment we’re pulling 2–3% per week net while perp longs just handed us their stacks.
 
 Perps are for adrenaline junkies and people who hate money. We’re here to compound quietly while the casino burns. Options only, forever.
 
@@ -150,62 +129,45 @@ Once the storm passes—ETF inflows resume, funding flips negative, IV collapses
 
 **Stable/Bull Regime Settings:**
 
-- 
-Strikes: 4–7% OTM on both sides (e.g., spot $100K → sell $105K–$107K calls + $93K–$95K puts)
+- Strikes: 4–7% OTM on both sides (e.g., spot $100K → sell $105K–$107K calls + $93K–$95K puts)
 
-- 
-Delta target: 30–40 (back to the classic zone)
+- Delta target: 30–40 (back to the classic zone)
 
-- 
-Sizing: Ramp back to full 1 BTC calls + $90K puts
+- Sizing: Ramp back to full 1 BTC calls + $90K puts
 
-- 
-Bias: Symmetric or slight call-heavy if we’re in euphoric chop
+- Bias: Symmetric or slight call-heavy if we’re in euphoric chop
 
-- 
-Expected weekly premium: $1,100–$1,500 → $4,400–$6,000/month (still crushing any boring yield play)
+- Expected weekly premium: $1,100–$1,500 → $4,400–$6,000/month (still crushing any boring yield play)
 
 Why tighten?
 
-- 
-Lower IV means less vega juice, but realized vol drops even harder → 4–7% OTM now expires worthless 80%+ of weeks.
+- Lower IV means less vega juice, but realized vol drops even harder → 4–7% OTM now expires worthless 80%+ of weeks.
 
-- 
-Higher delta = bigger premium per unit of risk when assignment odds are tiny.
+- Higher delta = bigger premium per unit of risk when assignment odds are tiny.
 
-- 
-We still keep the xx-BTC core sacred and the yield bucket isolated.
+- We still keep the xx-BTC core sacred and the yield bucket isolated.
 
 It’s the same exact machine, just two gears:
 
-- 
-Crash gear (current) → wide strikes, put bias, monster premiums, lower win rate but massive payouts.
+- Crash gear (current) → wide strikes, put bias, monster premiums, lower win rate but massive payouts.
 
-- 
-Bull/chop gear (coming soon) → tight strikes, symmetric, boringly consistent 1–1.5% per week forever.
+- Bull/chop gear (coming soon) → tight strikes, symmetric, boringly consistent 1–1.5% per week forever.
 
 **Monday Ritual (Works in Both Regimes)**
 
-- 
-Check spot + Hypersurface APR board
+- Check spot + Hypersurface APR board
 
-- 
-Decide regime (fear = widen + put lean, calm = tighten + symmetric)
+- Decide regime (fear = widen + put lean, calm = tighten + symmetric)
 
-- 
-Slide probability to target delta zone
+- Slide probability to target delta zone
 
-- 
-Sell the strangle
+- Sell the strangle
 
-- 
-Go live life—theta does the rest
+- Go live life—theta does the rest
 
-- 
-Optional Thursday roll if something gets spicy
+- Optional Thursday roll if something gets spicy
 
-- 
-Friday: collect or get assigned (both good outcomes)
+- Friday: collect or get assigned (both good outcomes)
 
 **Closing Vibes**
 
@@ -221,6 +183,6 @@ Volatility Farmer, signing off.
 
 ## Conclusion
 
-Not financial advice, DYOR, manage risk, etc. 
+Not financial advice, DYOR, manage risk, etc.
 
 But man… these premiums are stupid right now.

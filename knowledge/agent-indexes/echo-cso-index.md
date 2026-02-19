@@ -1,7 +1,9 @@
 # ECHO — CSO Knowledge Index
+
 > CT sentiment, social research, narrative tracking, and cultural pulse
 
 ## Primary Categories
+
 - altcoins/ — Altcoin narratives, market structure essays, project analysis
 - grinding-the-trenches/ — Raw CT culture, degen wisdom, trench warfare
 - substack-essays/ — Long-form published essays and thought pieces
@@ -11,6 +13,7 @@
 ## Key Files
 
 ### altcoins/
+
 - top100-altcoins.md — Top 100 altcoin overview and rankings
 - cashflows.md — Revenue/cashflow analysis for alt tokens
 - price-to-earnings.md — P/E framework for crypto tokens
@@ -32,9 +35,11 @@
 - yt-duopolies-2026-ethereum-solana-coinbase-2026-01-25.md — ETH/SOL duopoly thesis
 
 ### grinding-the-trenches/
-- *(list all files in this category)*
+
+- _(list all files in this category)_
 
 ### substack-essays/
+
 - 179932209swarm-of-genius.md — Swarm intelligence and collective alpha
 - 180143645shadowbanned-forever.md — Social media censorship in crypto
 - 180727626the-robots-are-training.md — AI training on crypto data
@@ -48,6 +53,7 @@
 - vince-upload-integrating-multidisciplinary-insights-a-framework-1770236079727.md — Multidisciplinary research framework
 
 ### ai-crypto/
+
 - ai-crypto-overview.md — AI x Crypto landscape overview
 - ai-agents-onchain.md — On-chain AI agents analysis
 - ai-tokens-evaluation.md — AI token evaluation framework
@@ -56,6 +62,7 @@
 - inference-markets.md — AI inference market analysis
 
 ### bitcoin-maxi/
+
 - 179474452will-you-ever-see-bitcoin-at-50000.md — BTC price floor analysis
 - 179498350retirement-is-a-rugpull.md — Bitcoin as retirement hedge
 - 179570637the-lighthouse-in-the-storm.md — Bitcoin as safe haven
@@ -80,9 +87,10 @@
 - 180591411beyond-the-bear.md — Post-bear market thesis
 
 ## Data Sources
+
 - X/Twitter sentiment monitoring (prompt-templates tier-1: x-twitter-sentiment)
 - LunarCrush social metrics (prompt-templates tier-1: lunarcrush)
 - Santiment social volume (prompt-templates tier-1: santiment)
 - Substack archives (prompt-templates tier-2: substack-archives)
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

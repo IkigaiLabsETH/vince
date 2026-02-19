@@ -7,6 +7,7 @@
 ## Monaco
 
 ### Monte-Carlo Beach
+
 - **Location:** Monaco (SBM property)
 - **Rooms:** Renovated by Dorothée Delaye
 - **Price:** From €1,057/night
@@ -16,6 +17,7 @@
 - **Book:** [montecarlosbm.com](https://montecarlosbm.com)
 
 ### Fairmont Monte Carlo
+
 - **Location:** Monaco
 - **Rooms:** 596 (recently renovated)
 - **Price:** From €289 (low season) / €469 (high season)
@@ -29,6 +31,7 @@
 ## Roquebrune-Cap-Martin
 
 ### Maybourne Riviera
+
 - **Location:** Cliff above Monaco, Roquebrune-Cap-Martin
 - **Rooms:** Jean-Michel Wilmotte architecture
 - **Price:** Ultra-luxury (enquire)
@@ -42,6 +45,7 @@
 ## Cannes
 
 ### Hôtel Martinez
+
 - **Location:** La Croisette, Cannes
 - **Rooms:** 410 (Art Deco palace, built 1929, renovated 2018 by Pierre-Yves Rochon)
 - **Price:** From ~€600+/night
@@ -51,6 +55,7 @@
 - **Book:** [hyatt.com](https://hyatt.com)
 
 ### Carlton Cannes
+
 - **Location:** La Croisette, Cannes
 - **Rooms:** Palace status
 - **Price:** Palace-tier (enquire)
@@ -60,6 +65,7 @@
 - **Book:** [carltoncannes.com](https://carltoncannes.com)
 
 ### Mondrian Cannes
+
 - **Location:** 45 Bd de la Croisette, Cannes
 - **Rooms:** New opening on the oldest palace site on the Croisette
 - **Price:** Enquire
@@ -71,6 +77,7 @@
 ## Théoule-sur-Mer
 
 ### Château de Théoule
+
 - **Location:** Théoule-sur-Mer (15 min from Cannes)
 - **Rooms:** 33 rooms + 11 suites (built 1630, former soap factory; Scottish lord added turrets in 1910)
 - **Price:** Enquire
@@ -84,6 +91,7 @@
 ## Mougins
 
 ### Mas Candille
+
 - **Location:** Mougins (inland, above Cannes)
 - **Rooms:** Redesigned by Hugo Toro
 - **Price:** Enquire
@@ -97,6 +105,7 @@
 ## Nice
 
 ### Le Negresco
+
 - **Location:** Promenade des Anglais, Nice
 - **Rooms:** 124 rooms/suites
 - **Price:** 5-étoiles (enquire)
@@ -106,6 +115,7 @@
 - **Book:** [hotel-negresco-nice.com](https://hotel-negresco-nice.com)
 
 ### Hôtel du Couvent
+
 - **Location:** Nice (former 1604 convent)
 - **Rooms:** 88 rooms + apartments up to 166m² (with Lacanche stoves)
 - **Price:** Enquire
@@ -115,6 +125,7 @@
 - **Book:** Check hotel directly
 
 ### La Pérouse
+
 - **Location:** Nice, 5 min from Cours Saleya
 - **Rooms:** 56 (Friedmann & Versace redesign)
 - **Price:** Enquire (SLH member)
@@ -124,6 +135,7 @@
 - **Book:** [hotel-la-perouse.com](https://hotel-la-perouse.com)
 
 ### Anantara Plaza Nice
+
 - **Location:** Nice (former 1848 Hôtel de France)
 - **Rooms:** 5-star, David Collins design
 - **Price:** Enquire (LHW member)
@@ -137,6 +149,7 @@
 ## Cap d'Antibes & Juan-les-Pins
 
 ### Cap d'Antibes Beach Hotel
+
 - **Location:** Cap d'Antibes
 - **Rooms:** 37 (boutique)
 - **Price:** Enquire
@@ -146,6 +159,7 @@
 - **Book:** [capdantibes-beachhotel.com](https://capdantibes-beachhotel.com)
 
 ### Hôtel Juana
+
 - **Location:** Juan-les-Pins
 - **Rooms:** Historic (almost 100 years; Picasso and Chagall stayed)
 - **Price:** Enquire (SLH member)
@@ -159,6 +173,7 @@
 ## Saint-Jean-Cap-Ferrat & Beaulieu-sur-Mer
 
 ### Grand-Hôtel du Cap-Ferrat, Four Seasons
+
 - **Location:** Saint-Jean-Cap-Ferrat
 - **Rooms:** Palace-tier
 - **Price:** Ultra-luxury (€1,700 dinner for 2 at La Table du Potager)
@@ -168,6 +183,7 @@
 - **Book:** [fourseasons.com/capferrat](https://fourseasons.com/capferrat)
 
 ### La Réserve de Beaulieu
+
 - **Location:** Beaulieu-sur-Mer
 - **Rooms:** Historic
 - **Price:** Enquire
@@ -179,6 +195,7 @@
 ## Saint-Tropez
 
 ### Byblos
+
 - **Location:** Saint-Tropez
 - **Rooms:** Palace (60 years running)
 - **Price:** From €600/night
@@ -188,6 +205,7 @@
 - **Book:** [byblos.com](https://byblos.com)
 
 ### La Bastide de Saint-Tropez
+
 - **Location:** Saint-Tropez
 - **Rooms:** Relais & Châteaux
 - **Price:** Enquire
@@ -197,6 +215,7 @@
 - **Book:** [bastide-saint-tropez.com](https://bastide-saint-tropez.com)
 
 ### AREV
+
 - **Location:** Saint-Tropez
 - **Rooms:** 43 (designer Luis Bustamante)
 - **Price:** Enquire
@@ -206,6 +225,7 @@
 - **Book:** [arevcollection.com](https://arevcollection.com)
 
 ### Villa Cosy
+
 - **Location:** Saint-Tropez
 - **Rooms:** 7 (5-star boutique)
 - **Price:** Enquire (also: Villa Eucléia 450m² rental)
@@ -219,6 +239,7 @@
 ## Inland / Provence
 
 ### Airelles La Bastide, Gordes
+
 - **Location:** Gordes, Provence
 - **Rooms:** 40 (Palace status)
 - **Price:** From €1,150 (low season) / €1,650 (high season)
@@ -232,33 +253,40 @@
 ## Kelly's Playbook — Occasion-Based Picks
 
 ### 💕 Romantic Weekend
+
 **Maybourne Riviera** — The cliff, the Colagreco dinner, the Mini Moke to the beach. Nothing competes.
 **Runner-up:** Grand-Hôtel du Cap-Ferrat — Garden suite, Tièche's table, zero distractions.
 
 ### 🏎️ Grand Prix Weekend
+
 **Fairmont Monte Carlo** — Rooms 530–560, 5th floor. You watch the hairpin from your balcony. Book 2+ years ahead.
 **Runner-up:** Monte-Carlo Beach — SBM hospitality, slightly removed from the chaos.
 
 ### 👨‍👩‍👧‍👦 Family
+
 **Villa Cosy** (Saint-Tropez) — Villa Eucléia gives you 450m², a La Cornue kitchen, and majordome service. Basically a private house with hotel backup.
 **Runner-up:** Hôtel du Couvent (Nice) — Apartments with real kitchens, 350-species garden for the kids to explore.
 
 ### 🎨 Art Lover
+
 **Le Negresco** — 6,000 works. Every corridor is a gallery.
 **Runner-up:** Maybourne Riviera — Le Corbusier, JR, Edward Quinn. Curated, not cluttered.
 
 ### 🧘 Wellness
+
 **Mas Candille** (Mougins) — First Clarins hotel. "Glow Trip" retreats from September. This is the original.
 **Runner-up:** Airelles La Bastide, Gordes — Guerlain spa (2025), Luberon air, Piège cooking. Wellness meets gastronomy.
 
 ### 🎬 Festival Season (Cannes)
+
 **Hôtel Martinez** — La Palme d'Or, the penthouse suites, the Croisette address. The festival hotel.
 **Runner-up:** Carlton Cannes — Tristan Auer's redesign. Palace status. The other Croisette power move.
 
 ### 🤫 Under the Radar
+
 **Château de Théoule** — 400-year-old château, zero bling, 15 min from Cannes. The locals' secret.
 **Runner-up:** La Pérouse (Nice) — Pool carved in rock, 5 min from Cours Saleya. SLH insiders only.
 
 ---
 
-*Source: The Good Life (thegoodlife.fr)*
+_Source: The Good Life (thegoodlife.fr)_

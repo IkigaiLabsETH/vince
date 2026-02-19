@@ -1,9 +1,9 @@
 ## Metadata
+
 **Source**: Direct Input | chat://direct-input/1769711432253
 **Category**: setup-guides
 **Word Count**: 758
 **Tags**: #user-submitted #direct-input #chat #tweet-like
-
 
 # LobeHub + MoltBot: The Complete AI Agent Stack
 

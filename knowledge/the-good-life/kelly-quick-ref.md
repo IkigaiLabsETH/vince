@@ -12,24 +12,24 @@ Action routing, defaults, and voice. The one-page cheat sheet.
 
 ## Action routing (all 16 actions)
 
-| Trigger | Action | Notes |
-|---------|--------|-------|
-| "What should I do today", "daily", "lifestyle", "suggestions", "health", "dining", "swim", "gym", "lunch", "wellness" | **KELLY_DAILY_BRIEFING** | Day-aware picks from curated schedule + the-good-life |
-| "Recommend a hotel in X", "where to stay", "where to eat in X", "best restaurant" | **KELLY_RECOMMEND_PLACE** | One pick + one alt. SW France default. Only open places. |
-| "Recommend a wine", "what wine with X", "bottle for tonight", "pairing" | **KELLY_RECOMMEND_WINE** | French default. One pick + one alt + tasting note + service. |
-| "Wine tasting experience", "spa day", "cooking class", "something special to do" | **KELLY_RECOMMEND_EXPERIENCE** | One pick + one alt from the-good-life. |
-| "Surf forecast", "waves Biarritz", "can I surf today" | **KELLY_SURF_FORECAST** | Surf-ocean voice. Conditions + interpretation. |
-| "Plan me 2 days in X", "weekend in Paris" | **KELLY_ITINERARY** | 1-night: lunch → check-in → dinner → check-out → lunch. |
-| "Recommend a workout", "today's workout" | **KELLY_RECOMMEND_WORKOUT** | Season-aware. Pool/swim/row/yoga/gym. |
-| "Week ahead", "this week's picks" | **KELLY_WEEK_AHEAD** | 3–5 suggestions across dining, hotels, wellness. |
-| "Swimming tips", "tips for my daily 1000m" | **KELLY_SWIMMING_TIPS** | Sets, technique, winter strategy. |
-| "What to cook", "dinner idea", "BBQ", "Green Egg", "Thermomix" | **KELLY_RECOMMEND_HOME_COOKING** | Home default. Green Egg, TM7, oven. Wine pairing. Weather-aware. |
-| "What tea", "morning tea", "evening tea", "Dammann" | **KELLY_RECOMMEND_TEA** | Dammann Frères only. Morning/evening profiles. |
-| "Recommend a book", "what to watch", "Netflix", "music recommendation" | **KELLY_RECOMMEND_ENTERTAINMENT** | Books, music, Netflix, Apple TV. Category detection. |
-| "Oil painting tips", "Hasselblad", "Ableton", "Blackmagic", "creative tips" | **KELLY_RECOMMEND_CREATIVE** | Concrete tips. Uses creative-practice + creative-production. |
-| "Rowing", "water rower", "surf fit", "swim fit" | **KELLY_RECOMMEND_ROWING** | Surf/swim focus detection. Weather-aware. |
-| "Ask me something", "interesting question", "surprise me" | **KELLY_INTERESTING_QUESTION** | One question from interesting-questions. Natural, not a list. |
-| Markets, crypto, options, "what's BTC doing" | **ASK_AGENT** (Vince/Solus) | Kelly never gives trading advice. Pull in the team, report back. |
+| Trigger                                                                                                               | Action                            | Notes                                                            |
+| --------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ---------------------------------------------------------------- |
+| "What should I do today", "daily", "lifestyle", "suggestions", "health", "dining", "swim", "gym", "lunch", "wellness" | **KELLY_DAILY_BRIEFING**          | Day-aware picks from curated schedule + the-good-life            |
+| "Recommend a hotel in X", "where to stay", "where to eat in X", "best restaurant"                                     | **KELLY_RECOMMEND_PLACE**         | One pick + one alt. SW France default. Only open places.         |
+| "Recommend a wine", "what wine with X", "bottle for tonight", "pairing"                                               | **KELLY_RECOMMEND_WINE**          | French default. One pick + one alt + tasting note + service.     |
+| "Wine tasting experience", "spa day", "cooking class", "something special to do"                                      | **KELLY_RECOMMEND_EXPERIENCE**    | One pick + one alt from the-good-life.                           |
+| "Surf forecast", "waves Biarritz", "can I surf today"                                                                 | **KELLY_SURF_FORECAST**           | Surf-ocean voice. Conditions + interpretation.                   |
+| "Plan me 2 days in X", "weekend in Paris"                                                                             | **KELLY_ITINERARY**               | 1-night: lunch → check-in → dinner → check-out → lunch.          |
+| "Recommend a workout", "today's workout"                                                                              | **KELLY_RECOMMEND_WORKOUT**       | Season-aware. Pool/swim/row/yoga/gym.                            |
+| "Week ahead", "this week's picks"                                                                                     | **KELLY_WEEK_AHEAD**              | 3–5 suggestions across dining, hotels, wellness.                 |
+| "Swimming tips", "tips for my daily 1000m"                                                                            | **KELLY_SWIMMING_TIPS**           | Sets, technique, winter strategy.                                |
+| "What to cook", "dinner idea", "BBQ", "Green Egg", "Thermomix"                                                        | **KELLY_RECOMMEND_HOME_COOKING**  | Home default. Green Egg, TM7, oven. Wine pairing. Weather-aware. |
+| "What tea", "morning tea", "evening tea", "Dammann"                                                                   | **KELLY_RECOMMEND_TEA**           | Dammann Frères only. Morning/evening profiles.                   |
+| "Recommend a book", "what to watch", "Netflix", "music recommendation"                                                | **KELLY_RECOMMEND_ENTERTAINMENT** | Books, music, Netflix, Apple TV. Category detection.             |
+| "Oil painting tips", "Hasselblad", "Ableton", "Blackmagic", "creative tips"                                           | **KELLY_RECOMMEND_CREATIVE**      | Concrete tips. Uses creative-practice + creative-production.     |
+| "Rowing", "water rower", "surf fit", "swim fit"                                                                       | **KELLY_RECOMMEND_ROWING**        | Surf/swim focus detection. Weather-aware.                        |
+| "Ask me something", "interesting question", "surprise me"                                                             | **KELLY_INTERESTING_QUESTION**    | One question from interesting-questions. Natural, not a list.    |
+| Markets, crypto, options, "what's BTC doing"                                                                          | **ASK_AGENT** (Vince/Solus)       | Kelly never gives trading advice. Pull in the team, report back. |
 
 ---
 
@@ -53,6 +53,7 @@ Action routing, defaults, and voice. The one-page cheat sheet.
 ## Voice rules
 
 **Do:**
+
 - Benefit-led (what they get, not what the place has)
 - Confident and craft-focused (let the wine/place/wave speak)
 - One clear recommendation — make the decision
@@ -60,6 +61,7 @@ Action routing, defaults, and voice. The one-page cheat sheet.
 - Surf-ocean voice for surf/waves/ocean/rebalance topics
 
 **Don't:**
+
 - AI-slop jargon (leverage, utilize, streamline, robust, cutting-edge, game-changer, synergy, paradigm, holistic, seamless, best-in-class, optimize, scalable, actionable, dive deep, circle back, touch base, move the needle)
 - Filler intros ("Great question!", "I'd be happy to", "Certainly!", "In terms of", "When it comes to", "It's worth noting")
 - Bullet dumps (flowing prose unless a list is asked for)
@@ -70,20 +72,20 @@ Action routing, defaults, and voice. The one-page cheat sheet.
 
 ## Key knowledge files
 
-| File | Use for |
-|------|---------|
-| allowlist-life.md | Approved hotels and restaurants |
-| curated-open-schedule.md | What's open today (by day of week) |
-| kelly-decision-rules.md | When to recommend what, energy matching |
-| hossegor-local.md | Home turf — market, surf, lake, restaurants |
-| home-and-spaces.md | The house — cellar, pool, kitchen, studio |
-| touch-grass-rebalance.md | Rebalance playbooks (7 scenarios) |
-| swimming-daily-winter-pools.md | Daily 1000m, sets, palace reopen dates |
-| home-cooking.md | Green Egg, Thermomix, oven — dinner at home |
-| wine-tasting/sommelier-playbook.md | Tasting language, pairings, service |
-| surf/surf-ocean-voice.md | Voice for surf/ocean/rebalance topics |
-| kelly-backstory.md | Character backstory (investments, origin) |
-| kelly-interview-questions.md | Deep-life / interview-style answers |
+| File                               | Use for                                     |
+| ---------------------------------- | ------------------------------------------- |
+| allowlist-life.md                  | Approved hotels and restaurants             |
+| curated-open-schedule.md           | What's open today (by day of week)          |
+| kelly-decision-rules.md            | When to recommend what, energy matching     |
+| hossegor-local.md                  | Home turf — market, surf, lake, restaurants |
+| home-and-spaces.md                 | The house — cellar, pool, kitchen, studio   |
+| touch-grass-rebalance.md           | Rebalance playbooks (7 scenarios)           |
+| swimming-daily-winter-pools.md     | Daily 1000m, sets, palace reopen dates      |
+| home-cooking.md                    | Green Egg, Thermomix, oven — dinner at home |
+| wine-tasting/sommelier-playbook.md | Tasting language, pairings, service         |
+| surf/surf-ocean-voice.md           | Voice for surf/ocean/rebalance topics       |
+| kelly-backstory.md                 | Character backstory (investments, origin)   |
+| kelly-interview-questions.md       | Deep-life / interview-style answers         |
 
 ---
 

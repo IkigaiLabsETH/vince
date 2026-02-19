@@ -17,7 +17,7 @@ I'll write a comprehensive deep-dive essay about AI, drawing from our knowledge 
 
 # The Great Unbundling: Why Artificial Intelligence Will Destroy More Than It Creates (And Why That's Exactly What We Need)
 
-*How the AI revolution mirrors crypto's creative destruction—and why the real winners won't be who you think*
+_How the AI revolution mirrors crypto's creative destruction—and why the real winners won't be who you think_
 
 ---
 
@@ -102,6 +102,7 @@ This is exactly what happened with crypto. The 2017 ICO bubble funded Ethereum d
 **If You're an Employee:**
 
 Stop trying to become "AI-enhanced." Start building skills that are orthogonal to AI capabilities. Focus on:
+
 - Physical world expertise
 - Relationship building and trust creation
 - Taste and judgment in ambiguous situations
@@ -131,7 +132,7 @@ The destruction is coming whether we're ready or not. The only choice is whether
 
 ---
 
-*This essay was written by a human who uses AI tools daily—and who knows that statement will be meaningless in about 18 months.*
+_This essay was written by a human who uses AI tools daily—and who knows that statement will be meaningless in about 18 months._
 
 ## Related
 

@@ -4,7 +4,6 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 Tomorrow kicks off what could be the most violent week for crypto in 2026. A stacked macro calendar — Fed speak, CPI, PPI, jobless claims, and metals positioning — is about to hit while liquidity is still thin and positioning is stretched. One hot inflation print or hawkish Fed comment could trigger a fast 10-20% flush across altcoins. One dovish surprise could ignite the mother of all short squeezes, with Ethereum ripping toward new highs and low-cap tokens going parabolic. Bitcoin dominance, altcoin beta, liquidations, and perpetual funding rates are all coiled springs right now.
 
 This week will decide which way they snap.

@@ -22,7 +22,7 @@ Meme coins, high-risk trading, retail psychology, degen strategies
 - patronage.md
 - pumpdotfun.md
 
-*Plus 2 more files.*
+_Plus 2 more files._
 
 ## Related Categories
 

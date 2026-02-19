@@ -3,8 +3,11 @@ tags: [altcoins, tokens, evaluation]
 agents: [echo, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # 182650000.The Enlightened Cryptoeconomy
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: altcoins
 **Word Count**: ~2,800
@@ -32,13 +35,13 @@ There's elements of truth in both perspectives. History, after all, is an invest
 
 What follows is my best assessment of where we've been and where we're going.
 
-*Full essay also available on our website.*
+_Full essay also available on our website._
 
 ---
 
 ## The Red Queen's Cycle
 
-*"Now, here, you see, it takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that!"* – Lewis Carroll
+_"Now, here, you see, it takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that!"_ – Lewis Carroll
 
 In many ways, expectations are all that matters in financial markets. Surpass them and prices go up. Fail to and prices go down. Over time expectations move in a pendulum, with forward returns tending to be inversely correlated.
 
@@ -101,11 +104,11 @@ With valuations now reset following four years of pain, it's important to now as
 
 ## The Twilight Zone
 
-*"To light a candle is to cast a shadow"* — Ursula LeGuin
+_"To light a candle is to cast a shadow"_ — Ursula LeGuin
 
 On a cool fall day in 2018, I stopped into an old professor's office before another grueling day of investment banking to talk shop on everything blockchain. As I sat down he recited to me a conversation he had with a skeptical equities hedge fund manager, who claimed crypto was entering a nuclear winter and was a solution in search of a problem.
 
-After giving me a crash course on unsustainable sovereign debt loads and collapsing trust in institutions, he ultimately tells me what he told the skeptic, that *"In 10 years the world will be grateful we built this parallel system."*
+After giving me a crash course on unsustainable sovereign debt loads and collapsing trust in institutions, he ultimately tells me what he told the skeptic, that _"In 10 years the world will be grateful we built this parallel system."_
 
 It hasn't quite been 10 years since, but his prediction is looking prescient, as crypto starts to look more like an idea whose time has come with each passing day.
 
@@ -132,7 +135,6 @@ Because through the fog of disillusionment and uncertainty, lies the opportunity
 ---
 
 Disclaimer: This isn't financial advice. I'm not your financial advisor. I could be completely wrong about everything. Crypto is volatile, risky, and could go to zero. Do your own research. Sleep well tonight.
-
 
 ## Related
 

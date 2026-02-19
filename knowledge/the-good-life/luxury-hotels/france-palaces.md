@@ -26,10 +26,10 @@ last_reviewed: 2026-02-17
 - **Hôtel Lutétia** — Left Bank, Saint-Germain; Art Deco, reopened after restoration.
 - **Hotel Plaza Athénée** — Avenue Montaigne; Dior, Eiffel views, Alain Ducasse.
 - **La Réserve Paris – Hôtel et Spa** — Near Grand Palais; townhouse, spa, dining.
-- **Le Bristol Paris** — Rue du Faubourg Saint-Honoré; garden, Epicure (3*), classic.
+- **Le Bristol Paris** — Rue du Faubourg Saint-Honoré; garden, Epicure (3\*), classic.
 - **Le Meurice** — Tuileries; palace style, Ducasse, views.
 - **Mandarin Oriental Paris** — Rue Saint-Honoré; contemporary luxury, Sur Mesure.
-- **Park Hyatt Paris-Vendôme** — Place Vendôme; understated, Pur' (1*).
+- **Park Hyatt Paris-Vendôme** — Place Vendôme; understated, Pur' (1\*).
 - **Royal Monceau – Raffles Paris** — Parc Monceau; art, cinema, La Cuisine.
 - **Shangri-La Hotel Paris** — Avenue d'Iéna; former Roland Bonaparte residence, view of Eiffel.
 - **The Peninsula Paris** — Avenue Kléber; near Arc de Triomphe; rooftop, L'Oiseau Blanc.
@@ -38,7 +38,7 @@ last_reviewed: 2026-02-17
 
 ## Alps / Courchevel & Evian (6 palaces)
 
-- **Cheval Blanc Courchevel** — Courchevel 1850; LVMH, ski-in/ski-out, Le 1947 (3*).
+- **Cheval Blanc Courchevel** — Courchevel 1850; LVMH, ski-in/ski-out, Le 1947 (3\*).
 - **Hôtel Barrière Les Neiges** — Courchevel; chalet luxury, spa.
 - **Hôtel L'Apogée Courchevel** — Courchevel; Oetker Collection, slope-side.
 - **Hôtel Le K2** — Courchevel; chalet style, Le K2 Altitude.
@@ -54,7 +54,7 @@ last_reviewed: 2026-02-17
 - **Château de Saint-Martin & Spa** — Vence; Provençal estate, spa, dining.
 - **Grand-Hôtel du Cap-Ferrat** — Saint-Jean-Cap-Ferrat; iconic, pool by the sea, Club Dauphin.
 - **Hôtel du Cap-Eden-Roc** — Antibes; legendary, diving board, gardens.
-- **Cheval Blanc St-Tropez** — Saint-Tropez; LVMH, beach, La Vague d'Or (3*).
+- **Cheval Blanc St-Tropez** — Saint-Tropez; LVMH, beach, La Vague d'Or (3\*).
 - **La Réserve Ramatuelle Hôtel, Spa et Villas** — Ramatuelle; bay views, spa.
 - **La Bastide de Gordes** — Gordes (Provence); Luberon, village perch, Bastide de Gordes.
 
@@ -63,8 +63,8 @@ last_reviewed: 2026-02-17
 ## Southwest (3 palaces)
 
 - **Hôtel du Palais** — Biarritz; imperial palace, Grande Plage, La Rotonde.
-- **Les Sources de Caudalie** — Martillac (Bordeaux); vines, spa, table (2*).
-- **Les Prés d'Eugénie** — Eugénie-les-Bains; Michel Guérard (3*), thermal, gardens.
+- **Les Sources de Caudalie** — Martillac (Bordeaux); vines, spa, table (2\*).
+- **Les Prés d'Eugénie** — Eugénie-les-Bains; Michel Guérard (3\*), thermal, gardens.
 
 ---
 

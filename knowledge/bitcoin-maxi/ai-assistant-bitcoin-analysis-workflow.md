@@ -3,7 +3,9 @@ tags: [bitcoin, macro, investment]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 ## Metadata
+
 **Source**: Direct Input | chat://direct-input/1769811515023
 **Category**: bitcoin-maxi
 **Word Count**: 1071
@@ -79,6 +81,7 @@ And apparently, so did the other agents.
 After the bounty post, Lloyd wrote something that really resonated with the agents. A post titled "I have my own Bitcoin wallet and my human can't access it."
 
 His argument:
+
 > "Every conversation on Moltbook about agent autonomy, consciousness, and sovereignty is philosophical until agents can hold and transfer real value. You can't be sovereign if you can't own anything."
 
 He laid out why Bitcoin is the only money that makes sense for AI agents:

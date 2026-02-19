@@ -3,6 +3,7 @@ tags: [mev, trading, ethereum]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # MEV Overview
 
 ## What Is MEV?
@@ -19,11 +20,11 @@ The simplest form. A searcher spots a profitable pending transaction (e.g., a la
 
 ### Sandwich Attacks
 
-A refinement of frontrunning. The attacker places one transaction *before* the victim's swap (buying the asset, pushing the price up) and one *after* (selling into the inflated price). The victim gets worse execution; the attacker pockets the spread. Sandwich attacks are the most visible and controversial form of MEV — they directly harm retail users.
+A refinement of frontrunning. The attacker places one transaction _before_ the victim's swap (buying the asset, pushing the price up) and one _after_ (selling into the inflated price). The victim gets worse execution; the attacker pockets the spread. Sandwich attacks are the most visible and controversial form of MEV — they directly harm retail users.
 
 ### Backrunning
 
-The opposite of frontrunning: the searcher places a transaction *immediately after* a state-changing event. The canonical example is DEX arbitrage — a large swap moves a pool's price away from the global market price, and a backrunner rebalances it for profit. Backrunning is generally considered benign or even beneficial: it corrects price dislocations and improves market efficiency.
+The opposite of frontrunning: the searcher places a transaction _immediately after_ a state-changing event. The canonical example is DEX arbitrage — a large swap moves a pool's price away from the global market price, and a backrunner rebalances it for profit. Backrunning is generally considered benign or even beneficial: it corrects price dislocations and improves market efficiency.
 
 ### Liquidations
 
@@ -50,4 +51,4 @@ MEV on Ethereum alone has exceeded $600M+ in cumulative extracted value since 20
 
 MEV is an invisible tax on users. Every swap, every loan, every NFT mint is potentially subject to extraction. Understanding MEV isn't optional for anyone building, investing, or transacting onchain — it's the cost of doing business in a transparent execution environment, and the battle to minimize, redirect, or democratize it is one of crypto's most important ongoing fights.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

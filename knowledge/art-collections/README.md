@@ -11,7 +11,7 @@ NFT collection profiles, digital art valuation, generative art
 - 24-hours-of-art.md
 - 27-bit-digital-by-kai.md
 - 720-minutes-by-alexis-andre.md
-- _TEMPLATE.md
+- \_TEMPLATE.md
 - ackcolorstudy.md
 - aerial-view-by-dalenz.md
 - aligndraw.md
@@ -22,4 +22,4 @@ NFT collection profiles, digital art valuation, generative art
 - autoglyphs.md
 - azuki.md
 
-*Plus 97 more files.*
+_Plus 97 more files._

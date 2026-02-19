@@ -3,13 +3,14 @@ tags: [stablecoins, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 ## Reading Mint/Burn Data
 
 The most underused signal in crypto is stablecoin supply changes. When Circle mints $500M USDC, that represents real fiat entering the system — someone wired dollars to Circle's bank. When Tether mints $1B USDT, capital (ostensibly) flowed into Tether's reserves. Aggregated, net minting across all major stablecoins is the closest thing crypto has to a "capital flow" indicator comparable to fund flow data in equities.
 
 Track this weekly, not daily. Daily mints can reflect treasury management (pre-positioning for redemptions). Weekly net changes smooth the noise. Tools: DefiLlama stablecoin dashboard, Glassnode, Artemis. A sustained 4-week period of net mints >$2B is historically a strong bull signal — it preceded both the late-2023 rally and the 2024 breakout.
 
-Conversely, net burns signal capital leaving. During the 2022 bear, USDC supply dropped from $55B to $24B — that was real capital exiting. Tracking the *rate* of burn is more important than absolute levels: accelerating burns suggest panic, decelerating burns suggest stabilization.
+Conversely, net burns signal capital leaving. During the 2022 bear, USDC supply dropped from $55B to $24B — that was real capital exiting. Tracking the _rate_ of burn is more important than absolute levels: accelerating burns suggest panic, decelerating burns suggest stabilization.
 
 ## Exchange Flows
 
@@ -33,4 +34,4 @@ When a chain's stablecoin share grows faster than its TVL, capital is arriving a
 
 Monitor: DefiLlama chain-level stablecoin breakdown, weekly. Chain distribution shifts of >2% in a month are significant and tradeable.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

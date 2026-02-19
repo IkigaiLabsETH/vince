@@ -19,16 +19,19 @@ Japanese knives are harder steel (60-67 HRC vs Western 56-58), thinner geometry,
 ## The Essential Three
 
 ### 1. Gyuto (牛刀) — Chef's Knife
+
 - **The workhorse.** 210mm or 240mm. Japanese answer to the French chef's knife but lighter and sharper.
 - **Use:** Everything — vegetables, meat, fish, herbs.
 - **Top makers:** Masamoto, Misono, Takamura, MAC, Shun, Global.
 
 ### 2. Santoku (三徳) — Three Virtues
+
 - **Shorter, wider blade** (165-180mm). "Three virtues" = meat, fish, vegetables.
 - **Use:** Home cooks who prefer a shorter, more maneuverable blade.
 - **Great entry point** into Japanese knives.
 
 ### 3. Petty (ペティ) — Utility Knife
+
 - **Small (120-150mm).** For detail work — trimming, peeling, small cuts.
 - **Complements the gyuto** perfectly.
 

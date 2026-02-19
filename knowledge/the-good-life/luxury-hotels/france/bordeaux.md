@@ -13,6 +13,7 @@ The Bordeaux wine region offers exceptional luxury accommodations ranging from c
 ## 5-Star Hotels - Bordeaux City
 
 ### Le Grand Hôtel Bordeaux
+
 - **Location**: Place de la Comédie, city center
 - **Style**: Grand 18th-century palace
 - **Dining**: Le Pressoir d'Argent (Gordon Ramsay) - 2 Michelin stars
@@ -20,6 +21,7 @@ The Bordeaux wine region offers exceptional luxury accommodations ranging from c
 - **Notes**: Bordeaux's landmark luxury hotel, ideal for city exploration
 
 ### InterContinental Bordeaux - Le Grand Hôtel
+
 - **Location**: Central Bordeaux facing Grand Théâtre
 - **Style**: Neoclassical elegance
 - **Dining**: Multiple venues, fine dining options
@@ -27,6 +29,7 @@ The Bordeaux wine region offers exceptional luxury accommodations ranging from c
 - **Notes**: Reliable luxury with international standards
 
 ### La Grande Maison de Bernard Magrez
+
 - **Location**: Residential Bordeaux
 - **Style**: Intimate mansion hotel (6 suites)
 - **Dining**: On-site restaurant with Michelin distinction
@@ -34,6 +37,7 @@ The Bordeaux wine region offers exceptional luxury accommodations ranging from c
 - **Notes**: Ultra-exclusive, owned by renowned wine producer
 
 ### Yndo Hotel
+
 - **Location**: Chartrons district
 - **Style**: Contemporary boutique
 - **Dining**: Restaurant with local focus
@@ -43,6 +47,7 @@ The Bordeaux wine region offers exceptional luxury accommodations ranging from c
 ## Château Hotels - Wine Country
 
 ### Les Sources de Caudalie
+
 - **Location**: Martillac, near Bordeaux
 - **Style**: Vineyard retreat
 - **Dining**: La Grand'Vigne (2 Michelin stars)
@@ -50,6 +55,7 @@ The Bordeaux wine region offers exceptional luxury accommodations ranging from c
 - **Notes**: Pioneer of wine-based spa treatments, exceptional dining
 
 ### Château Cordeillan-Bages
+
 - **Location**: Pauillac, Médoc
 - **Style**: 17th-century chartreuse
 - **Dining**: Fine dining with wine pairing focus
@@ -57,6 +63,7 @@ The Bordeaux wine region offers exceptional luxury accommodations ranging from c
 - **Notes**: Heart of Médoc wine country
 
 ### Château Smith Haut Lafitte
+
 - **Location**: Pessac-Léognan
 - **Style**: Working wine estate
 - **Dining**: La Table du Lavoir
@@ -64,6 +71,7 @@ The Bordeaux wine region offers exceptional luxury accommodations ranging from c
 - **Notes**: Authentic wine estate experience
 
 ### La Maison d'Estournel
+
 - **Location**: Saint-Estèphe, Médoc
 - **Style**: Exotic château (5 suites)
 - **Dining**: Private chef available
@@ -73,6 +81,7 @@ The Bordeaux wine region offers exceptional luxury accommodations ranging from c
 ## Saint-Émilion Area
 
 ### Hostellerie de Plaisance
+
 - **Location**: Saint-Émilion village center
 - **Style**: Historic building with views
 - **Dining**: 2 Michelin star restaurant
@@ -80,6 +89,7 @@ The Bordeaux wine region offers exceptional luxury accommodations ranging from c
 - **Notes**: Prime location for Saint-Émilion exploration
 
 ### Château Grand Barrail
+
 - **Location**: Just outside Saint-Émilion
 - **Style**: 19th-century château
 - **Dining**: Gastronomic restaurant
@@ -87,6 +97,7 @@ The Bordeaux wine region offers exceptional luxury accommodations ranging from c
 - **Notes**: Classic wine country château experience
 
 ### Le Clos d'Emilie
+
 - **Location**: Saint-Émilion
 - **Style**: Boutique villa
 - **Features**: Intimate, private atmosphere
@@ -95,20 +106,24 @@ The Bordeaux wine region offers exceptional luxury accommodations ranging from c
 ## Selection Tips
 
 ### For Wine Focus
+
 - Les Sources de Caudalie (spa + wine)
 - Château Cordeillan-Bages (Médoc immersion)
 - La Maison d'Estournel (ultra-exclusive)
 
 ### For Gastronomy
+
 - Le Grand Hôtel (Le Pressoir d'Argent)
 - Les Sources de Caudalie (La Grand'Vigne)
 - Hostellerie de Plaisance
 
 ### For City + Wine Balance
+
 - Le Grand Hôtel Bordeaux (city base, day trips)
 - Yndo Hotel (contemporary city option)
 
 ### For Ultimate Exclusivity
+
 - La Grande Maison de Bernard Magrez (6 suites)
 - La Maison d'Estournel (5 suites)
 

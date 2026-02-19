@@ -4,18 +4,20 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180402556.Cage Match
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 672
 **Tags**: #bitcoin #btc #eth #sol #inflation #substack
+
 ---
 
 Fourteen years ago, silver hit $50 while Bitcoin was thirty cents. Today silver is $57 and Bitcoin is $85,000. That math still makes precious-metal bugs cry into their maple-leaf coins. But zoom in on the last twelve months and the script flips so hard it’s almost poetic. Gold is up 60% in 2025, Bitcoin is down 8%. And the loudest, most leveraged Bitcoin maxi on Earth has ever seen — Michael Saylor and his $55 billion Bitcoin war chest — is teetering one bad weekend away from being forced to sell the very asset he swore he would never, ever sell.
 [
-![](https://substack-post-media.s3.amazonaws.com/public/images/4f3c3a96-0930-480a-9a90-8e5acf4382c7_1024x678.jpeg)**
+![](https://substack-post-media.s3.amazonaws.com/public/images/4f3c3a96-0930-480a-9a90-8e5acf4382c7_1024x678.jpeg)\*\*
 
 ](https://substackcdn.com/image/fetch/$s_!1HFa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f3c3a96-0930-480a-9a90-8e5acf4382c7_1024x678.jpeg)
 Let that sink in.
@@ -32,45 +34,41 @@ That’s not a moat. That’s a tripwire.
 
 The 2025 Scoreboard So Far
 
-- 
-Gold: +60 % (new all-time highs, zero drawdowns bigger than 7 %)
+- Gold: +60 % (new all-time highs, zero drawdowns bigger than 7 %)
 
-- 
-Bitcoin: –8 % (40 % off October highs)
+- Bitcoin: –8 % (40 % off October highs)
 
-- 
-MicroStrategy ($MSTR): –34 % in the last 30 days alone
+- MicroStrategy ($MSTR): –34 % in the last 30 days alone
 
-- 
-Silver: +18 % (respectable, but still eating everyone’s dust)
+- Silver: +18 % (respectable, but still eating everyone’s dust)
 
 Gold isn’t just outperforming Bitcoin this year — it’s humiliating it. Central banks bought a record 1,100+ tonnes. BRICS nations keep stacking. Inflation won’t die. Real yields are negative again. The usual suspects all lined up, and the barbarous relic did what it has quietly done for 5,000 years: it went up when everything else got weird.
 
 Meanwhile, the digital gold narrative took a flamethrower to the face.
 
-The Saylor Paradox**
+The Saylor Paradox\*\*
 
 Saylor turned MicroStrategy into the most successful leveraged Bitcoin ETF ever created — until it wasn’t. The same debt-fueled, convertible-note alchemy that 40×’d the stock when Bitcoin was ripping is now a loaded gun pointed at the balance sheet. Every $1 drop in Bitcoin below ~$82,000 tightens the noose. Every downtick in the stock price makes the next capital raise more expensive, or impossible.
 
 And for the first time in the company’s history, the CEO (Phong Le, not Saint Michael) went on record and said the quiet part out loud: “If we can’t raise capital and mNAV goes below 1×, we have a toolkit. Selling Bitcoin is in the toolkit.”
 
 Translation: HODL is a religion until the margin clerk calls.
-**
+\*\*
 Hold the phone, cage-match faithful: Just hours after this post hit your inboxes, while you were still forwarding it to your laser-eyed uncle, the bell rang for Round 2. Strategy dropped a filing that’s got the whole arena buzzing: They’ve carved out a $1.44 billion USD war chest, funded straight from ATM equity sales (no BTC casualties), laser-focused on covering 21 months of dividends and interest across their preferred flotilla and convertible debt pile.
 
 Saylor’s X megaphone? [A slick video](https://x.com/saylor/status/1995479071518577116?s=20) hailing it as “evolution,” capped with a cheeky 130-BTC nibble (stack now: 650,000 coins).
 
-The Irony Is Thicker Than a Gold Bar**
+The Irony Is Thicker Than a Gold Bar\*\*
 
 The asset class that was supposed to make gold obsolete is getting bailed out (or potentially liquidated) because gold is doing its job too well in a risk-off world.
 
-Bitcoin maxis spent years laughing at boomers hugging their Krugerrands.**Now the boomers are up 60 % on the year while the laser-eyed crowd is nursing paper cuts and praying the ETF bid comes back.
+Bitcoin maxis spent years laughing at boomers hugging their Krugerrands.\*\*Now the boomers are up 60 % on the year while the laser-eyed crowd is nursing paper cuts and praying the ETF bid comes back.
 [
 ![](https://substack-post-media.s3.amazonaws.com/public/images/447104f7-b926-421a-9e93-3f9e540e13a7_1025x678.jpeg)
 
 ](https://substackcdn.com/image/fetch/$s_!-eIu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F447104f7-b926-421a-9e93-3f9e540e13a7_1025x678.jpeg)
 
-Final Bell**
+Final Bell\*\*
 
 Gold isn’t going to zero. Bitcoin probably isn’t either. But right now, in the only timeframe that matters to most human beings (the last 12 months), the yellow dog is eating the orange dog’s lunch. And the most leveraged orange-dog believer on planet Earth is one bad candle away from having to feed his own dogma to the market at fire-sale prices.
 

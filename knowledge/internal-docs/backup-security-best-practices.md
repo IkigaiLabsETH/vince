@@ -25,9 +25,9 @@ Rotate all credentials: Venice key, Pi password, consider SSH keys
 Review logs: less ~/.openclaw/logs/ and sudo journalctl -u openclaw
 Check for unauthorized changes:
 find ~/.openclaw -mtime -1 -ls
-   crontab -l
-   cat ~/.ssh/authorized_keys
-9 - When in doubt, re-flash the SD card. 
+crontab -l
+cat ~/.ssh/authorized_keys
+9 - When in doubt, re-flash the SD card.
 Only way to be sure.
 Limitations
 Prompt injection: ~91% success rate. Unsolved. We raise the bar with ACIP, PromptGuard, and content hygiene, but a determined attacker who gets malicious content in front of your bot will likely succeed.

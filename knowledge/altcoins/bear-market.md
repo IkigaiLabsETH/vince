@@ -4,7 +4,6 @@ agents: [echo, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 My brain won’t shut up about this piece someone dropped in my DMs earlier. That long-ass thread about crypto finally dying—not crashing to zero, nah, but the bubble we all lived in, the one where we’re the center of the goddamn universe... yeah, that’s fading.
 
 You know that feeling? When the hype dies down and you’re left wondering if it was all bullshit... or if this is the part where it gets real.

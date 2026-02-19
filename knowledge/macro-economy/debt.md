@@ -4,7 +4,6 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 In the dim glow of a midnight screen, the U.S. Treasury’s debt clock ticks onward like a relentless metronome, marking the pulse of a nation borrowing from its future. As of early December 2025, the gross national debt stands at approximately $38.4 trillion—an increase of $2.23 trillion from the previous year, accruing at roughly $6 billion per day. We have grown accustomed to these astronomical figures, scrolling past them with a weary sigh, dismissing them as “unsustainable” before returning to the rhythms of daily life.
 
 Yet beneath this numbness lies a profound revelation, one that challenges the foundational myth of modern governance: Your taxes do not truly fund the government’s grand expenditures.

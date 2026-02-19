@@ -4,13 +4,15 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179498350.Retirement Is A Rugpull
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 1,164
 **Tags**: #bitcoin #eth #sol #fed #inflation #portfolio #substack
+
 ---
 
 I used to believe in retirement the way kids believe in Santa Claus: a comforting story told by adults who promised that if you just behaved, showed up every day, and fed the 401(k) like a obedient little squirrel, one day you’d wake up old, wealthy, and finally free.
@@ -57,7 +59,7 @@ Jump forward ten years. Bitcoin isn’t fringe anymore; it’s the planetary res
 
 Steve moves fast for a normie. He refinances, rolls over the 401(k), takes prudent leverage. He finally owns almost half a coin.
 
-By the time his old operating system fully reboots, one bitcoin costs more than everything he used to own combined dpi. 
+By the time his old operating system fully reboots, one bitcoin costs more than everything he used to own combined dpi.
 
 He scrapes together the last liquidity he can find and buys a few more scraps.
 
@@ -84,7 +86,7 @@ Killing the old self that got you here is brutal. Most people would rather die h
 **The Antifragile Path**
 
 There is another way, and it doesn’t look like any brochure ever printed.
-**
+\*\*
 Design a life where the work feels like play. Need far less than the billboards trained you to crave. Move your savings into the one asset that can’t be diluted. Then keep creating, not because rent is due, but because creating is the only retirement plan that actually compounds.
 
 I know photographers funding round-the-world trips by selling prints as Lightning invoices. Developers shipping open-source code from Portuguese cliff houses, paid in sats. Families homeschooling kids on catamarans, routing value across oceans without asking any government for permission.
@@ -97,7 +99,7 @@ Their tools (human and machine) don’t rust; they upgrade. Their skills don’t
 
 That’s what antifragile purpose feels like.
 
-The Call**
+The Call\*\*
 
 Choose your mountain.
 

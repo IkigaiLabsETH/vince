@@ -4,13 +4,15 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179636470.The Torchbearers Sold The Top
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 694
 **Tags**: #bitcoin #btc #eth #sol #defi #substack
+
 ---
 
 The OGs just cashed their life-changing bags, bought vineyards and lake houses, and quietly walked off into the sunset while the rest of us are still here yelling about tariffs like it matters. They didn’t rage-quit. They didn’t get rekt. They didn’t even post a goodbye thread. They just… left.
@@ -34,28 +36,24 @@ And in that moment of total victory they looked around, shrugged, and said: “C
 
 And the chain recorded it all in perfect, merciless detail:
 
-- 
-815 k old coins to exchanges in 30 days
+- 815 k old coins to exchanges in 30 days
 
-- 
-LTH supply down hardest since the 2022 nuclear winter
+- LTH supply down hardest since the 2022 nuclear winter
 
-- 
-Average coin age of sellers this cycle: 4.7 years
+- Average coin age of sellers this cycle: 4.7 years
 
-- 
-LTH realized price just flipped above spot
+- LTH realized price just flipped above spot
 
 Meanwhile miners are stacking, institutions are only trimming, and the only people actually capitulating are the 2024 ETF tourists who showed up late to the cookout.
 
 Translation: the marginal seller right now is the exact person who used to reply “lmao enjoy your fiat” to anyone who dared mention taking profits. They stopped believing the story. Not Bitcoin. The story. The one about living on seasteads, paying for coffee with lightning, watching central banks burn while we sip mai tais on the beach. That story died quietly somewhere between the BlackRock prospectus and the IRS getting real-time 1099s from Coinbase. And honestly?
-Good for them. They earned the right to log off. They carried this torch through four separate 85 % drawdowns, Mt. Gox, China bans, Silk Road seizures, 2018 suicide hotlines, Terra, FTX, and still never sold a single sat. If anyone gets to buy the vineyard and disappear, it’s them. 
+Good for them. They earned the right to log off. They carried this torch through four separate 85 % drawdowns, Mt. Gox, China bans, Silk Road seizures, 2018 suicide hotlines, Terra, FTX, and still never sold a single sat. If anyone gets to buy the vineyard and disappear, it’s them.
 
 But here’s the punchline nobody wants to say out loud: They just handed the greatest gift in financial history to the next wave at an 80 % discount. Those coins didn’t vanish. They’re sitting in colder wallets now, sure. But they’re still here. Waiting for the kid who hasn’t opened their first wallet yet. The one who’s 16, angry, brilliant, and about to stumble across nine pages of pure mathematics that can’t be shut down, seized, or inflated. That kid is going to feel the same electric jolt we all felt the first time.
 
-The same “holy fuck the future is negotiable” moment. Except this time the coins are cheap. And the story is fresh again. The OGs didn’t kill the dream. They retired from it. Paid off the mortgage, kissed the kids goodnight, and left the door wide open with the porch light on. All we gotta do is walk through. 
+The same “holy fuck the future is negotiable” moment. Except this time the coins are cheap. And the story is fresh again. The OGs didn’t kill the dream. They retired from it. Paid off the mortgage, kissed the kids goodnight, and left the door wide open with the porch light on. All we gotta do is walk through.
 
-So yeah, let it hurt for five minutes. Grieve the version of the future that died this year. Then dry your eyes, open the bid screen, and start stacking like the snubbed unc you are. Because the torchbearers just put the fire on clearance. And the next shift is about to go full degen. 
+So yeah, let it hurt for five minutes. Grieve the version of the future that died this year. Then dry your eyes, open the bid screen, and start stacking like the snubbed unc you are. Because the torchbearers just put the fire on clearance. And the next shift is about to go full degen.
 
 ## Conclusion
 

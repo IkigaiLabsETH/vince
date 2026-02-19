@@ -54,12 +54,12 @@ The red flies under the radar but has improved dramatically in recent vintages.
 
 ## Best Recent Vintages
 
-| Vintage | White | Red | Notes |
-|---------|-------|-----|-------|
-| **2020** | ★★★★ | ★★★★ | Concentrated, balanced. Both colors excel |
-| **2019** | ★★★★ | ★★★★ | Warm vintage, ripe fruit, generous |
-| **2018** | ★★★★ | ★★★★½ | Arguably the best red Olivier has made |
-| 2016 | ★★★½ | ★★★½ | Classic, structured, long aging potential |
+| Vintage  | White | Red   | Notes                                     |
+| -------- | ----- | ----- | ----------------------------------------- |
+| **2020** | ★★★★  | ★★★★  | Concentrated, balanced. Both colors excel |
+| **2019** | ★★★★  | ★★★★  | Warm vintage, ripe fruit, generous        |
+| **2018** | ★★★★  | ★★★★½ | Arguably the best red Olivier has made    |
+| 2016     | ★★★½  | ★★★½  | Classic, structured, long aging potential |
 
 ---
 

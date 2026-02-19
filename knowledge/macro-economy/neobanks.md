@@ -4,7 +4,6 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 I’ve got that familiar hollow laugh in my chest, the same one I had in 2012 when people swore Google+ was going to kill Facebook, or in 2017 when every ICO deck promised “Uber for toothbrushes, but on the blockchain.”
 
 Here we are again. Same song, different costume.

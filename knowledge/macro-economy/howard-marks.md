@@ -4,7 +4,6 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 In the electrifying arena of modern finance, where trillions chase the next big thing, Howard Marks—co-founder of Oaktree Capital Management and a veteran bubble-spotter—has dropped a memo that’s part history thriller, part economic prophecy. Dated December 9, 2025, “Is It a Bubble?” is an 18-page deep dive into the AI frenzy, blending sharp analysis with historical echoes that will make even the most bullish investor pause. Marks, no AI evangelist but a keen observer of human folly, warns that we’re in the grip of a classic “inflection bubble”—one that could propel humanity forward like railroads or the internet, but only after incinerating vast fortunes along the way.
 
 Drawing from his travels in Asia and the Middle East, where clients grilled him on AI’s sustainability, Marks kicks off with a timeless observation: Bubbles aren’t random; they’re rhythmic. “Memories are short, and prudence and natural risk aversion are no match for the dream of getting rich on the back of a revolutionary technology that ‘everyone knows’ will change the world.” Quoting Derek Thompson’s newsletter, he draws a striking parallel to the 1860s railroad boom—a speculative mania that built empires but bankrupted multitudes. History doesn’t repeat, but as Mark Twain allegedly quipped, it rhymes.

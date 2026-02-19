@@ -4,13 +4,15 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179813415.The Great Hype Unlock
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: grinding-the-trenches
 **Word Count**: 1,513
 **Tags**: #bitcoin #btc #sol #perps #macro #trading #substack
+
 ---
 
 I own a very large bag of $HYPE at an average of $30. I am writing this on November 24, 2025 — five days before the first major cliff unlock on November 29. I am simultaneously long the token, long volatility via secured puts at $25, and now writing covered calls at $33 on Hypersurface to collect 180%+ APR premium while I wait.
@@ -29,14 +31,11 @@ Hyperliquid is a fully on-chain order-book perpetuals exchange that bootstrapped
 
 Let’s not sugar-coat it. Starting November 29:
 
-- 
-9.92 million $HYPE (currently ~$305 million) unlock on day one
+- 9.92 million $HYPE (currently ~$305 million) unlock on day one
 
-- 
-Another ~9.92 million unlock every 30 days for the next 24 months
+- Another ~9.92 million unlock every 30 days for the next 24 months
 
-- 
-That is roughly $400–500 million of new monthly supply if every recipient decides to sell everything on-chain
+- That is roughly $400–500 million of new monthly supply if every recipient decides to sell everything on-chain
 
 Current daily buyback power from the Assistance Fund + Hyperliquid Strategies TWAP is $3–4 million. That absorbs only 17–24% of the new supply on paper.
 
@@ -46,42 +45,33 @@ The crowd is screaming “team dump incoming.” They are not wrong to be scared
 
 **Part III – Why This Is Different From Every Other Unlock Massacre**
 
-- 
-No VC Overhang**Unlike 95% of 2022–2024 projects, there are no 8-year vesting VCs who need to show their LPs a 2025 exit. The sellers are the actual builders who have been paid nothing but HYPE for two years and who still believe they are building the next Binance.
+- No VC Overhang\*\*Unlike 95% of 2022–2024 projects, there are no 8-year vesting VCs who need to show their LPs a 2025 exit. The sellers are the actual builders who have been paid nothing but HYPE for two years and who still believe they are building the next Binance.
 
-- 
-Proven OTC Behavior
-Every prior large transfer from team wallets has been OTC, not market-sold. The recent 2.6 million unstaking event (the one that sent CT into meltdown) has sat quietly in wallets. That is preparation, not panic.
+- Proven OTC Behavior
+  Every prior large transfer from team wallets has been OTC, not market-sold. The recent 2.6 million unstaking event (the one that sent CT into meltdown) has sat quietly in wallets. That is preparation, not panic.
 
-- 
-Buyback Flywheel Is Already Working
-Since January 2025 the Assistance Fund has removed ~30 million tokens from circulation. That is real deflation, not a marketing slide.
+- Buyback Flywheel Is Already Working
+  Since January 2025 the Assistance Fund has removed ~30 million tokens from circulation. That is real deflation, not a marketing slide.
 
-- 
-Revenue Is Still Growing, Not Shrinking
-August 2025 fees: $105 million
-October 2025 fees: $112 million
-November 2025 run-rate: $118 million+
-This is not a dying protocol praying for volume. It is the second-largest venue for Bitcoin spot trading on earth.
+- Revenue Is Still Growing, Not Shrinking
+  August 2025 fees: $105 million
+  October 2025 fees: $112 million
+  November 2025 run-rate: $118 million+
+  This is not a dying protocol praying for volume. It is the second-largest venue for Bitcoin spot trading on earth.
 
 Catalysts Stack Up After the Storm
 
-- 
-HyperEVM mainnet (imminent)
+- HyperEVM mainnet (imminent)
 
-- 
-Season 2 airdrop (confirmed)
+- Season 2 airdrop (confirmed)
 
-- 
-$305 million TWAP buy program vote on December 2
+- $305 million TWAP buy program vote on December 2
 
-- 
-Institutional staking rails live with Anchorage
+- Institutional staking rails live with Anchorage
 
-- 
-Proposed 450 million token burn already in governance forum
+- Proposed 450 million token burn already in governance forum
 
-Part IV – Arthur Hayes and the Psychology of the Perfect Top Signal**
+Part IV – Arthur Hayes and the Psychology of the Perfect Top Signal\*\*
 
 In September, Arthur stood on stage in Tokyo and said $HYPE would 126× to $5,000 by 2028. One week later he sold every token at $52.80.
 
@@ -99,25 +89,19 @@ Conviction: This is a multi-year compounder trading at <40× run-rate revenue wi
 
 Protection & Offense stack:
 
-- 
-Long spot at $30 (diamond hands portion)
+- Long spot at $30 (diamond hands portion)
 
-- 
-Cash-secured puts at $25 strike expiring post-unlock → I am happy to buy more if we puke, and I collect premium while waiting
+- Cash-secured puts at $25 strike expiring post-unlock → I am happy to buy more if we puke, and I collect premium while waiting
 
-- 
-Covered calls at $33 on Hypersurface → 181% APR, 31% probability of being called away
+- Covered calls at $33 on Hypersurface → 181% APR, 31% probability of being called away
 
 Net result:
 
-- 
-If we rip straight up → called away at $33 + premium → ~13–15% gain in <10 days and I re-enter higher or walk away happy
+- If we rip straight up → called away at $33 + premium → ~13–15% gain in <10 days and I re-enter higher or walk away happy
 
-- 
-If we stay flat → keep full bag + 4–5% weekly yield (200%+ annualized)
+- If we stay flat → keep full bag + 4–5% weekly yield (200%+ annualized)
 
-- 
-If we crash to $25 → puts assign, average drops to ~$27.50, and I own even more of the best perp chain in crypto at a cheaper price
+- If we crash to $25 → puts assign, average drops to ~$27.50, and I own even more of the best perp chain in crypto at a cheaper price
 
 This is the rare setup where I get paid in all three directions.
 
@@ -125,23 +109,20 @@ This is the rare setup where I get paid in all three directions.
 
 Short term (by Jan 31, 2026)
 
-- 
-55% probability → $38–48 (relief rally + catalysts)
+- 55% probability → $38–48 (relief rally + catalysts)
 
-- 
-30% probability → $24–29 (full panic, best case for puts)
+- 30% probability → $24–29 (full panic, best case for puts)
 
-- 
-15% probability → sub-$20 (only if BTC breaks $80k and macro cracks)
+- 15% probability → sub-$20 (only if BTC breaks $80k and macro cracks)
 
 2026 (12–18 months)
 
-Base case: $90–120 (revenue 3–4× from HyperEVM + spot market share)**Bull case: $180–250 (if stablecoin volumes explode as Hayes originally modeled)
+Base case: $90–120 (revenue 3–4× from HyperEVM + spot market share)\*\*Bull case: $180–250 (if stablecoin volumes explode as Hayes originally modeled)
 Bear case: $40–50 (revenue stalls, team sells aggressively OTC)
 
-Part VII – An Open Letter to Jeff and the Hyperliquid Team**
+Part VII – An Open Letter to Jeff and the Hyperliquid Team\*\*
 
-You don’t owe us anything. You already built the best trading venue in crypto and delivered life-changing airdrops without taking a dime of VC money. 
+You don’t owe us anything. You already built the best trading venue in crypto and delivered life-changing airdrops without taking a dime of VC money.
 
 One small personal note: as someone who was here trading and providing liquidity literally from week one (and who never stopped), getting only a 48-hour window to sign the new T&C for the power-user tier stung a little. It ended up costing me an eight-figure airdrop that I’d effectively earned over two years of real volume. I get why the short deadline existed, and I’m still grateful for everything Hyperliquid has built; just wish the most loyal early users had been given an extra week or two to avoid that particular gut punch. Water under the bridge now, but it’s the only scar I carry from an otherwise flawless ride.
 
@@ -159,7 +140,7 @@ See you on the other side of November 29.
 
 Postscript: As I hit “publish” on this editorial four days ago, the clock was ticking toward what felt like crypto’s next big betrayal. Now, with the November 29 cliff unlock in the rearview—9.92 million HYPE tokens (~$350 million at today’s prices) dropped into core contributor wallets at precisely 15:30 Beijing time yesterday—it’s time for the scorecard. Spoiler: The storm was more drizzle than deluge, and my bag’s not just intact; it’s up ~20% since I wrote those words.
 
-What we saw (or didn’t): No on-chain fire sale from team addresses. That infamous 2.6 million unstaking event from last week? Still parked quietly, no TWAP dumps or liquidation cascades in sight. OTC chatter on CT hints at off-exchange deals, but nothing’s hit the tape to spike volume or crater price. 
+What we saw (or didn’t): No on-chain fire sale from team addresses. That infamous 2.6 million unstaking event from last week? Still parked quietly, no TWAP dumps or liquidation cascades in sight. OTC chatter on CT hints at off-exchange deals, but nothing’s hit the tape to spike volume or crater price.
 
 HYPE? It kissed $34 support intraday yesterday, shrugged off a 3% dip, and closed the session at $35.50—flat to up amid BTC’s sideways grind at $92K. Open interest on perps even ticked up 4%, signaling traders smell volatility but not exodus.
 

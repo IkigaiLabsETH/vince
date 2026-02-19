@@ -3,6 +3,7 @@ tags: [lifestyle, bitcoin, kelly]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Bitcoin: A Peer-to-Peer Electronic Cash System
 
 ## Abstract
@@ -37,6 +38,7 @@ Bitcoin has a hard cap of 21 million coins, making it the first truly scarce dig
 ### Decentralization
 
 The Bitcoin network operates without central authority. No single entity can:
+
 - Create new Bitcoin beyond the protocol rules
 - Reverse transactions
 - Censor payments
@@ -55,6 +57,7 @@ The Bitcoin network operates without central authority. No single entity can:
 ## Network Effects
 
 As more people adopt Bitcoin:
+
 - Network security increases
 - Liquidity improves
 - Infrastructure develops
@@ -63,6 +66,7 @@ As more people adopt Bitcoin:
 ## Philosophical Implications
 
 Bitcoin represents more than technology—it's a philosophical statement about:
+
 - Individual sovereignty
 - Monetary freedom
 - Decentralized systems
@@ -72,10 +76,11 @@ Bitcoin represents more than technology—it's a philosophical statement about:
 ## Current State
 
 Today, Bitcoin operates as:
+
 - A store of value
 - A medium of exchange
 - A unit of account
 - A payment network
 - A monetary protocol
 
-The network processes transactions 24/7, secured by over 400 exahash of computational power, making it the most secure monetary network in human history. 
+The network processes transactions 24/7, secured by over 400 exahash of computational power, making it the most secure monetary network in human history.

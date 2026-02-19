@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Business Idea: OpenClaw One-Click & “What Actually Works”
 
 How the guides, one-click install plan, and practical tips could be turned into a profitable business.
@@ -93,16 +94,15 @@ How the guides, one-click install plan, and practical tips could be turned into 
 
 ## Summary
 
-| Model              | Effort | Revenue type   | Best for                          |
-|--------------------|--------|---------------|-----------------------------------|
-| One-time product   | Low    | One-time      | Fastest path to revenue           |
-| Subscription pack | Medium | Recurring     | After you have a user base        |
-| Managed hosting    | High   | Recurring     | If you want to run infra          |
-| Consulting         | Medium | Per project   | High-touch, no product yet        |
-| Templates/course   | Medium | One-time/recurring | Once content and community exist |
+| Model             | Effort | Revenue type       | Best for                         |
+| ----------------- | ------ | ------------------ | -------------------------------- |
+| One-time product  | Low    | One-time           | Fastest path to revenue          |
+| Subscription pack | Medium | Recurring          | After you have a user base       |
+| Managed hosting   | High   | Recurring          | If you want to run infra         |
+| Consulting        | Medium | Per project        | High-touch, no product yet       |
+| Templates/course  | Medium | One-time/recurring | Once content and community exist |
 
 **Concrete next step**: Finish the one-click scripts (Phase 1 of the plan), publish them open-source, and put the “What actually works” + templates behind a one-time paywall. Use that to validate willingness to pay before building managed hosting or a subscription.
-
 
 ## Related
 

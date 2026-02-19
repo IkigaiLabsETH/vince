@@ -3,6 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Solana vs Ethereum: Objective Comparison
 
 ## Throughput & Performance
@@ -59,4 +60,4 @@ last_reviewed: 2026-02-15
 
 **Verdict:** Different models, different bets. Ethereum bets on monetary premium and settlement fees. Solana bets on high volume × low fees = sufficient revenue.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

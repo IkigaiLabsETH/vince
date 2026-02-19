@@ -7,4 +7,3 @@ Brand identity, messaging, visual guidelines
 ## Contents
 
 - style-guide.md
-

@@ -21,6 +21,7 @@ last_reviewed: 2026-02-17
 ## Settlement Timing (CRITICAL)
 
 Options expire **Friday 08:00 UTC**:
+
 - For Europe: Friday 09:00 CET / 10:00 CEST
 - For US East: Friday 03:00 EST / 04:00 EDT
 - For US West: Friday 00:00 PST / 01:00 PDT
@@ -34,17 +35,18 @@ IMPORTANT: for us that's 09:00 each friday
 A covered call is selling someone the right to buy your asset at a chosen strike price.
 
 **How it works:**
+
 1. You own a crypto asset (HYPE, SOL, WBTC, ETH)
 2. You sell a call option at a strike price
 3. You earn an upfront premium (yield) regardless of outcome
 
 **Outcomes at expiry:**
 
-| Scenario | Price at Expiry | What Happens | What You Earn |
-|----------|-----------------|--------------|---------------|
-| Below Strike | $95 (strike $100) | Keep asset + premium | Premium |
-| At Strike | $100 (strike $100) | Keep asset + premium | Premium |
-| Above Strike | $110 (strike $100) | Asset sold at $100 | Premium + $100 per unit |
+| Scenario     | Price at Expiry    | What Happens         | What You Earn           |
+| ------------ | ------------------ | -------------------- | ----------------------- |
+| Below Strike | $95 (strike $100)  | Keep asset + premium | Premium                 |
+| At Strike    | $100 (strike $100) | Keep asset + premium | Premium                 |
+| Above Strike | $110 (strike $100) | Asset sold at $100   | Premium + $100 per unit |
 
 **Key insight**: You keep the premium no matter what. If assigned, you sell at a price you chose as acceptable.
 
@@ -53,17 +55,18 @@ A covered call is selling someone the right to buy your asset at a chosen strike
 A cash-secured put is selling someone the right to sell you an asset at a chosen strike price.
 
 **How it works:**
+
 1. You hold stablecoins equal to (strike × quantity)
 2. You sell a put option at a strike price
 3. You earn an upfront premium (yield) regardless of outcome
 
 **Outcomes at expiry:**
 
-| Scenario | Price at Expiry | What Happens | What You Earn |
-|----------|-----------------|--------------|---------------|
-| Above Strike | $110 (strike $100) | Keep cash + premium | Premium |
-| At Strike | $100 (strike $100) | Keep cash + premium | Premium |
-| Below Strike | $95 (strike $100) | Buy asset at $100 | Premium (reduces cost basis) |
+| Scenario     | Price at Expiry    | What Happens        | What You Earn                |
+| ------------ | ------------------ | ------------------- | ---------------------------- |
+| Above Strike | $110 (strike $100) | Keep cash + premium | Premium                      |
+| At Strike    | $100 (strike $100) | Keep cash + premium | Premium                      |
+| Below Strike | $95 (strike $100)  | Buy asset at $100   | Premium (reduces cost basis) |
 
 **Key insight**: Premium reduces your effective purchase price. If assigned at $100 with $5 premium, your real cost basis is $95.
 
@@ -72,6 +75,7 @@ A cash-secured put is selling someone the right to sell you an asset at a chosen
 You can close positions **BEFORE expiry** from the Portfolio Page.
 
 **Steps:**
+
 1. Go to Portfolio
 2. Select your position
 3. Click "Close Early"
@@ -79,10 +83,12 @@ You can close positions **BEFORE expiry** from the Portfolio Page.
 5. Pay the applicable premium
 
 **After closing:**
+
 - Position is settled, collateral is unlocked
 - **CRITICAL: You must WITHDRAW collateral after closing — it doesn't auto-return to your wallet**
 
 **Solus context — when to close early:**
+
 - Position is deeply ITM and you'd rather take the loss now than risk full assignment
 - Market regime changed (black swan, major news) and your thesis is invalidated
 - You want to **roll**: close current position early, open new one at different strike/expiry
@@ -147,17 +153,20 @@ The wheel is a systematic income strategy that cycles between covered calls and 
 ### Advanced Wheel Mechanics
 
 **The Asymmetry Edge:**
+
 - IV consistently overshoots realized volatility in crypto (the "volatility risk premium")
 - This is the fundamental edge: you're selling insurance priced for catastrophe to a market that mostly doesn't catastrophe
 - Every week you collect this spread. Over 52 weeks, the law of large numbers is your friend
 
 **Position Sizing for the Wheel:**
+
 - Never wheel with more than you'd be comfortable holding through a 50% drawdown
 - For covered calls: the underlying IS your position. If HYPE drops 40%, you own that drawdown
 - For secured puts: if assigned, you're buying at strike. Would you buy there anyway? If no, don't sell the put
 - Rule of thumb: wheel with 60-70% of your intended position size, keep 30-40% in reserve for averaging
 
 **The "Roll" Decision Tree:**
+
 ```
 Position ITM mid-week?
 ├── Yes, and thesis still valid → Hold, let it expire, accept assignment
@@ -167,11 +176,13 @@ Position ITM mid-week?
 ```
 
 **Week-over-week compounding:**
+
 - Premium received → immediately deployable as collateral for next week
 - Over 52 weeks at 2-3% weekly yield, compound effect is massive
 - Key: reinvest premiums, don't withdraw unless needed for living expenses
 
 **When to use secured puts vs buy back:**
+
 - **Bullish on asset**: Buy back immediately at market, restart calls
 - **Bearish on asset**: Sell puts at lower strike, get paid to wait for cheaper entry
 - **Neutral**: Sell puts at same strike, collect premium while waiting
@@ -181,15 +192,18 @@ Position ITM mid-week?
 Every Friday, you must decide:
 
 **For Covered Calls:**
+
 - Higher strike = lower premium, lower assignment probability
 - Lower strike = higher premium, higher assignment probability
 - Sweet spot: Strike with ~20-35% assignment probability and >50% APR
 
 **For Secured Puts (after assignment):**
+
 - Strike at/below where you'd happily buy back
 - Consider: recent support levels, funding rates, sentiment
 
 **Hypersurface shows:**
+
 - Sell price (strike)
 - APR (annualized premium return)
 - Sell probability (assignment probability)
@@ -197,18 +211,21 @@ Every Friday, you must decide:
 ### Strike Selection Cheat Sheet
 
 **Conservative (sleep well):**
+
 - Covered call: 15-20% OTM, ~10-15% assignment probability
 - Secured put: 15-20% OTM below current price
 - Lower premium but very unlikely assignment
 - Best when: high uncertainty, major events upcoming, you REALLY don't want to be assigned
 
 **Standard (sweet spot):**
+
 - Covered call: 8-15% OTM, ~20-35% assignment probability
 - Secured put: 8-15% OTM below current price
 - Good premium/risk balance
 - Best when: normal weeks, clear trend, comfortable with assignment
 
 **Aggressive (max yield):**
+
 - Covered call: 3-8% OTM or even ATM, ~40-60% assignment probability
 - Secured put: 3-8% OTM below current price
 - High premium but very likely assignment
@@ -216,25 +233,25 @@ Every Friday, you must decide:
 
 ### IV Regime Matters
 
-| IV Level | What It Means | Strike Approach |
-|----------|---------------|-----------------|
-| <50% | Low vol, calm market | Go closer to ATM for decent premium |
-| 50-80% | Normal crypto vol | Standard strikes (8-15% OTM) |
-| 80-120% | Elevated fear/greed | Wider strikes, premium still rich |
-| >120% | Extreme event | Maximum premium opportunity — go wide, sell the fear |
+| IV Level | What It Means        | Strike Approach                                      |
+| -------- | -------------------- | ---------------------------------------------------- |
+| <50%     | Low vol, calm market | Go closer to ATM for decent premium                  |
+| 50-80%   | Normal crypto vol    | Standard strikes (8-15% OTM)                         |
+| 80-120%  | Elevated fear/greed  | Wider strikes, premium still rich                    |
+| >120%    | Extreme event        | Maximum premium opportunity — go wide, sell the fear |
 
 **The golden rule: when IV spikes, premiums get FAT. That's when you lean in and sell aggressively (wider strikes). When IV is crushed, either skip or go very close to ATM.**
 
 ## Key Differences from Deribit
 
-| Feature | Hypersurface | Deribit |
-|---------|--------------|---------|
-| **Purpose** | Execute wheel trades | IV/volatility data |
-| **Interface** | Simple, wheel-focused | Complex, full options |
-| **Expiries** | Weekly (Friday 08:00 UTC) | Multiple per week |
-| **Assets** | HYPE, SOL, WBTC, ETH | BTC, ETH only |
-| **Display** | APR, assignment probability | Greeks, IV surface |
-| **Use case** | TRADING | ANALYSIS ONLY |
+| Feature       | Hypersurface                | Deribit               |
+| ------------- | --------------------------- | --------------------- |
+| **Purpose**   | Execute wheel trades        | IV/volatility data    |
+| **Interface** | Simple, wheel-focused       | Complex, full options |
+| **Expiries**  | Weekly (Friday 08:00 UTC)   | Multiple per week     |
+| **Assets**    | HYPE, SOL, WBTC, ETH        | BTC, ETH only         |
+| **Display**   | APR, assignment probability | Greeks, IV surface    |
+| **Use case**  | TRADING                     | ANALYSIS ONLY         |
 
 ## Why Perps Data Matters for Strikes
 
@@ -246,6 +263,7 @@ Hyperliquid perps data informs strike selection:
 - **Falling OI + price**: Weak conviction → range likely → closer strikes = more premium
 
 **Workflow:**
+
 1. HyperliquidAnalyst reads funding, OI, positioning
 2. DeribitAnalyst reads IV, skew for volatility context
 3. Friday: Pick strike on Hypersurface informed by both

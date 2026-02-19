@@ -3,6 +3,7 @@ tags: [stablecoins, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 ## Cross-Chain Bridging
 
 The multi-chain world created a stablecoin fragmentation problem. USDC on Ethereum isn't the same as USDC on Avalanche if bridged through a third-party bridge — it's a wrapped derivative with bridge contract risk. The 2022 Wormhole hack ($320M) and Nomad exploit ($190M) demonstrated this viscerally.
@@ -39,4 +40,4 @@ The pattern: a US-based worker buys USDC on Coinbase, sends it to a recipient's 
 
 Scaling challenges: KYC/AML compliance at both ends, recipient crypto literacy, and local cash-out liquidity in smaller corridors. But the economic incentive is overwhelming — the question is infrastructure maturity, not demand.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

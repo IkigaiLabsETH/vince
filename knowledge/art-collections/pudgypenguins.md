@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Pudgy Penguins
 
 OpenSea Slug: `pudgypenguins`
@@ -13,7 +14,7 @@ Pudgy Penguins LLC. Launched July 2021—8,888 chubby penguin PFPs. The project 
 
 ## Why It Matters
 
-Pudgy Penguins proved that an NFT project could become a mass retail brand. Walmart, Amazon, Five Below—real shelves, real kids. The link between physical toys and on-chain identity (Pudgy World) is explicit. Whether you care about the art or not, the *model* matters: NFTs as IP backbone, toys as distribution. The collection also stayed liquid and visible through the bear market. For anyone tracking “NFTs and consumer,” Pudgy is the reference.
+Pudgy Penguins proved that an NFT project could become a mass retail brand. Walmart, Amazon, Five Below—real shelves, real kids. The link between physical toys and on-chain identity (Pudgy World) is explicit. Whether you care about the art or not, the _model_ matters: NFTs as IP backbone, toys as distribution. The collection also stayed liquid and visible through the bear market. For anyone tracking “NFTs and consumer,” Pudgy is the reference.
 
 ## The Art
 

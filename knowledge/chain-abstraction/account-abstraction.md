@@ -3,6 +3,7 @@ tags: [intents, ux, cross-chain]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Account Abstraction (ERC-4337)
 
 ## The EOA Problem
@@ -35,6 +36,7 @@ Bundlers earn fees from the UserOps they include. The bundler market is competit
 Paymasters are the gas abstraction primitive. A paymaster contract can sponsor gas for UserOps, enabling **gasless transactions** for end users. The paymaster pays ETH for gas; the user pays nothing, or pays in ERC-20 tokens, or the dApp subsidizes the cost.
 
 Use cases:
+
 - **Onboarding**: new users interact with dApps without first acquiring ETH
 - **ERC-20 gas payment**: pay gas in USDC, DAI, or any token the paymaster accepts
 - **Subscription models**: dApps sponsor gas for active users as a retention tool
@@ -67,8 +69,7 @@ ERC-4337 is live on Ethereum, Polygon, Arbitrum, Optimism, Base, and most major 
 
 ERC-7702 (shipping with Pectra) lets EOAs temporarily delegate to smart contract logic, bridging the gap for existing users who don't want to migrate accounts. Combined with ERC-4337, this creates a path where every Ethereum account eventually behaves as a smart account.
 
-*Last updated: 2026-02-15*
-
+_Last updated: 2026-02-15_
 
 ## Related
 

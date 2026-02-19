@@ -3,6 +3,7 @@ tags: [bitcoin, l2, scaling]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Stacks & BitVM
 
 ## Stacks
@@ -88,8 +89,7 @@ Stacks provides the **execution layer** (smart contracts, DeFi protocols). BitVM
 
 The pieces are falling into place. The question is whether the market cares enough about BTC-native DeFi to choose these over Ethereum L2s with wrapped BTC.
 
-*Last updated: 2026-02-15*
-
+_Last updated: 2026-02-15_
 
 ## Related
 

@@ -40,9 +40,9 @@ openclaw gateway status
 
 Look for the **bind** setting:
 
-| Setting | Meaning |
-|--------|---------|
-| `bind=loopback` (127.0.0.1) | Bound to localhost only. **Good.** |
+| Setting                      | Meaning                                           |
+| ---------------------------- | ------------------------------------------------- |
+| `bind=loopback` (127.0.0.1)  | Bound to localhost only. **Good.**                |
 | `bind=lan` or `bind=0.0.0.0` | Listening on all interfaces. **Fix immediately.** |
 
 ### Check 2: Can You Access It From Outside?
@@ -211,13 +211,13 @@ Never upload unencrypted backups to cloud storage.
 
 ## Quick Reference
 
-| Goal | Action |
-|------|--------|
+| Goal                   | Action                                                             |
+| ---------------------- | ------------------------------------------------------------------ |
 | Bind to localhost only | `"gateway": { "bind": "loopback" }` in `~/.openclaw/openclaw.json` |
-| Restrict config files | `chmod 700 ~/.openclaw` and `chmod 600 ~/.openclaw/*.json` |
-| Disable Bonjour | `export OPENCLAW_DISABLE_BONJOUR=1` |
-| Run audit | `openclaw security audit --deep` (add `--fix` to auto-fix) |
-| Auth | Set `gateway.auth.token` or `OPENCLAW_GATEWAY_TOKEN` |
-| Remote access | Use Tailscale; do not expose port 18789 |
-| Prompt injection | Install ACIP, PromptGuard, SkillGuard |
-| Full guide | https://ai.ethereum.foundation/blog/openclaw-security-guide |
+| Restrict config files  | `chmod 700 ~/.openclaw` and `chmod 600 ~/.openclaw/*.json`         |
+| Disable Bonjour        | `export OPENCLAW_DISABLE_BONJOUR=1`                                |
+| Run audit              | `openclaw security audit --deep` (add `--fix` to auto-fix)         |
+| Auth                   | Set `gateway.auth.token` or `OPENCLAW_GATEWAY_TOKEN`               |
+| Remote access          | Use Tailscale; do not expose port 18789                            |
+| Prompt injection       | Install ACIP, PromptGuard, SkillGuard                              |
+| Full guide             | https://ai.ethereum.foundation/blog/openclaw-security-guide        |

@@ -1,9 +1,9 @@
 ## Metadata
+
 **Source**: Direct Input | chat://direct-input/1769715118218
 **Category**: setup-guides
 **Word Count**: 1545
 **Tags**: #user-submitted #direct-input #chat #tweet-like
-
 
 # Moltbot Technical Analysis: Open Source AI Assistant Reality Check
 

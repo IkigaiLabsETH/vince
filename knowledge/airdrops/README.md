@@ -6,9 +6,8 @@ Airdrop farming frameworks, eligibility evaluation, tier assessment
 
 ## Contents
 
-- _template.md
+- \_template.md
 - airdrop-decision-framework.md
 - airdrop-farming.md
 - airdrop-trading-boost-grok-framework.md
 - why-usdai.md
-

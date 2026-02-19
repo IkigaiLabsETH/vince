@@ -4,9 +4,7 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 In late 2025, a single video—produced by an independent creator with little more than a camera and persistence—ignited a firestorm in the United States. The 43-minute exposé documented alleged systemic abuses in a state’s social welfare programs, visiting sites on the ground and presenting evidence that quickly went viral. Within weeks, it spurred federal investigations, funding suspensions, and high-level White House statements. In America, the story fractured along familiar political lines, dominating airwaves and feeds alike.
-
 
 In much of Europe, the response was silence.
 

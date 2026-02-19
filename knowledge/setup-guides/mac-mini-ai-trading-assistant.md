@@ -1,9 +1,9 @@
 ## Metadata
+
 **Source**: Direct Input | chat://direct-input/1769648227664
 **Category**: setup-guides
 **Word Count**: 738
 **Tags**: #user-submitted #direct-input #chat #tweet-like
-
 
 # Building a 24/7 AI Trading Assistant with ClawdBot on Mac Mini
 

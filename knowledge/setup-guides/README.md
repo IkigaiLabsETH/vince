@@ -22,4 +22,4 @@ Installation guides, tool configs, AI agent setup tutorials
 - moltbot-open-source-analysis.md
 - openclaw-security.md
 
-*Plus 3 more files.*
+_Plus 3 more files._

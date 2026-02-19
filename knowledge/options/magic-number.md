@@ -4,7 +4,6 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 I saw this post on X the other day and it hit hard:
 
 “$500,000 is the magic number.
@@ -29,9 +28,6 @@ Here’s the full story — the pivot, the math, the catalysts, and why the $26 
 The Arc So Far: From Leaderboard Glory to Crash Capitulation… and Back
 
 Rewind to mid-October through mid-December 2025. We were wheeling $HYPE aggressively — mostly covered calls, occasional naked puts for extra juice. Harvested over $11K in premiums, climbed to #2 on the Hyperliquid options leaderboard. Felt unstoppable.
-
-
-
 
 Then the steamroller hit. $HYPE wicked down to $22, our $27 puts got exercised at ugly prices, wiped $4.4K in profits and left a $25K unrealized drawdown.
 

@@ -4,13 +4,15 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180389731.The Yen Wakes Up
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: defi-metrics
 **Word Count**: 1,114
 **Tags**: #bitcoin #eth #futures #fed #macro #inflation #substack
+
 ---
 
 The yen is waking up after a thirty-year nap, and the entire risk world is discovering what happens when the cheapest funding currency in history suddenly costs something. This is not another crypto-specific tantrum, not a Fed pivot rumor, not a Mt. Gox distribution. This is macro doing what macro does best: reminding everyone who the real boss is.

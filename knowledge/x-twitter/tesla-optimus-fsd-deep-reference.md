@@ -25,16 +25,16 @@
 
 ### Vehicle Timeline
 
-| Year | Vehicle | Notes |
-|------|---------|-------|
-| 2008 | Roadster | First production vehicle. ~2,450 made. |
-| 2012 | Model S | Sedan. Game-changer. Motor Trend Car of the Year. |
-| 2015 | Model X | SUV with falcon-wing doors. Plagued by production delays. |
-| 2017 | Model 3 | Mass-market sedan. $35K starting (eventually). The volume play. |
-| 2020 | Model Y | Compact SUV. Became world's best-selling car (any powertrain) in 2023. |
-| 2022 | Semi | Electric truck. Limited production. PepsiCo first customer. |
-| 2023 | Cybertruck | Stainless steel pickup. Polarizing design. Production ramp slower than promised. |
-| 2024 | Cybercab | Robotaxi concept. Unveiled Oct 2024. No steering wheel, no pedals. Not in production. |
+| Year | Vehicle    | Notes                                                                                 |
+| ---- | ---------- | ------------------------------------------------------------------------------------- |
+| 2008 | Roadster   | First production vehicle. ~2,450 made.                                                |
+| 2012 | Model S    | Sedan. Game-changer. Motor Trend Car of the Year.                                     |
+| 2015 | Model X    | SUV with falcon-wing doors. Plagued by production delays.                             |
+| 2017 | Model 3    | Mass-market sedan. $35K starting (eventually). The volume play.                       |
+| 2020 | Model Y    | Compact SUV. Became world's best-selling car (any powertrain) in 2023.                |
+| 2022 | Semi       | Electric truck. Limited production. PepsiCo first customer.                           |
+| 2023 | Cybertruck | Stainless steel pickup. Polarizing design. Production ramp slower than promised.      |
+| 2024 | Cybercab   | Robotaxi concept. Unveiled Oct 2024. No steering wheel, no pedals. Not in production. |
 
 ### Scale & Financials (as of 2025)
 
@@ -46,13 +46,13 @@
 
 ### Gigafactories
 
-| Location | Name | Primary Output |
-|----------|------|----------------|
-| Fremont, CA | Tesla Factory | Model S, 3, X, Y |
-| Sparks, NV | Gigafactory Nevada | Battery cells, Powerwall, Megapack |
-| Shanghai, China | Gigafactory Shanghai | Model 3, Model Y (for Asia/export) |
-| Austin, TX | Gigafactory Texas (HQ) | Model Y, Cybertruck, corporate HQ since 2021 |
-| Grünheide, Germany | Gigafactory Berlin-Brandenburg | Model Y (for Europe) |
+| Location           | Name                           | Primary Output                               |
+| ------------------ | ------------------------------ | -------------------------------------------- |
+| Fremont, CA        | Tesla Factory                  | Model S, 3, X, Y                             |
+| Sparks, NV         | Gigafactory Nevada             | Battery cells, Powerwall, Megapack           |
+| Shanghai, China    | Gigafactory Shanghai           | Model 3, Model Y (for Asia/export)           |
+| Austin, TX         | Gigafactory Texas (HQ)         | Model Y, Cybertruck, corporate HQ since 2021 |
+| Grünheide, Germany | Gigafactory Berlin-Brandenburg | Model Y (for Europe)                         |
 
 ### Key Recent Events
 
@@ -95,17 +95,17 @@ FSD is the single most contentious topic in Tesla discourse. Understanding the g
 
 This is critical for ECHO — the cycle repeats and X knows it:
 
-| Year | Promise | What Happened |
-|------|---------|---------------|
-| 2016 | "All cars have full self-driving hardware" | HW2 was insufficient. Required HW3 upgrade. |
-| 2017 | "Coast-to-coast autonomous drive by end of year" | Never happened. Still hasn't happened as of Feb 2026. |
-| 2019 | "A million robotaxis on the road by 2020" | Zero robotaxis. FSD Beta didn't even start until Oct 2020. |
-| 2020 | "FSD will be Level 5 capable this year" | Still Level 2 as of Feb 2026. |
-| 2021 | "FSD subscription coming Q1" | Arrived Q3 2021. |
-| 2022 | "FSD wide release this year" | Remained limited beta. |
-| 2023 | "HW3 is sufficient for full autonomy" | HW4 ships in new cars. HW3 owners increasingly feel stranded. |
-| 2024 | "Cybercab production 2026" | Unclear if on track. No factory announced. |
-| 2025 | "Unsupervised FSD in select markets this year" | Austin robotaxi pilot perpetually "coming soon." |
+| Year | Promise                                          | What Happened                                                 |
+| ---- | ------------------------------------------------ | ------------------------------------------------------------- |
+| 2016 | "All cars have full self-driving hardware"       | HW2 was insufficient. Required HW3 upgrade.                   |
+| 2017 | "Coast-to-coast autonomous drive by end of year" | Never happened. Still hasn't happened as of Feb 2026.         |
+| 2019 | "A million robotaxis on the road by 2020"        | Zero robotaxis. FSD Beta didn't even start until Oct 2020.    |
+| 2020 | "FSD will be Level 5 capable this year"          | Still Level 2 as of Feb 2026.                                 |
+| 2021 | "FSD subscription coming Q1"                     | Arrived Q3 2021.                                              |
+| 2022 | "FSD wide release this year"                     | Remained limited beta.                                        |
+| 2023 | "HW3 is sufficient for full autonomy"            | HW4 ships in new cars. HW3 owners increasingly feel stranded. |
+| 2024 | "Cybercab production 2026"                       | Unclear if on track. No factory announced.                    |
+| 2025 | "Unsupervised FSD in select markets this year"   | Austin robotaxi pilot perpetually "coming soon."              |
 
 ### HW3 vs HW4 Schism
 
@@ -168,14 +168,14 @@ This is critical for ECHO — the cycle repeats and X knows it:
 
 ### Competitors
 
-| Company | Robot | Status (Feb 2026) |
-|---------|-------|--------------------|
-| Boston Dynamics | Atlas (electric) | Most advanced bipedal robot. Research + commercial pilot. |
-| Figure AI | Figure 02 | BMW factory deployment. OpenAI partnership for AI. Raised $675M at $2.6B valuation. |
-| 1X Technologies | NEO | Consumer-focused humanoid. OpenAI-backed. |
-| Agility Robotics | Digit | Amazon warehouse pilot. Purpose-built for logistics. |
-| Unitree | H1/G1 | Chinese competitor. Aggressive pricing. Rapid iteration. |
-| Apptronik | Apollo | NASA partnership. General-purpose humanoid. |
+| Company          | Robot            | Status (Feb 2026)                                                                   |
+| ---------------- | ---------------- | ----------------------------------------------------------------------------------- |
+| Boston Dynamics  | Atlas (electric) | Most advanced bipedal robot. Research + commercial pilot.                           |
+| Figure AI        | Figure 02        | BMW factory deployment. OpenAI partnership for AI. Raised $675M at $2.6B valuation. |
+| 1X Technologies  | NEO              | Consumer-focused humanoid. OpenAI-backed.                                           |
+| Agility Robotics | Digit            | Amazon warehouse pilot. Purpose-built for logistics.                                |
+| Unitree          | H1/G1            | Chinese competitor. Aggressive pricing. Rapid iteration.                            |
+| Apptronik        | Apollo           | NASA partnership. General-purpose humanoid.                                         |
 
 Key difference: Several competitors have demonstrated **more autonomous** operation in real environments than Optimus has publicly shown.
 
@@ -220,6 +220,7 @@ Key difference: Several competitors have demonstrated **more autonomous** operat
 Tesla discourse on X is not rational analysis. It's **tribal identity.**
 
 **Tesla Bulls (common traits):**
+
 - View Tesla as a tech company, not a car company
 - Value Tesla on future robotaxi + Optimus + energy revenue
 - Trust Musk's vision despite missed timelines
@@ -228,6 +229,7 @@ Tesla discourse on X is not rational analysis. It's **tribal identity.**
 - Many are heavily concentrated in TSLA stock — financial identity is tied to the stock
 
 **Tesla Bears (common traits):**
+
 - View Tesla as an overvalued car company with declining market share
 - Point to broken FSD promises and competition
 - Skeptical of Optimus timeline and capabilities
@@ -242,6 +244,7 @@ Tesla discourse on X is not rational analysis. It's **tribal identity.**
 ECHO should recognize these repeating patterns:
 
 **The Optimus Demo Cycle:**
+
 1. Tesla releases polished video of Optimus doing something new
 2. Bulls: "This changes everything. $10T company."
 3. Video goes mega-viral (millions of views in hours)
@@ -250,6 +253,7 @@ ECHO should recognize these repeating patterns:
 6. Engagement peaks, then fades until next demo
 
 **The FSD Promise Cycle:**
+
 1. Musk makes bold FSD timeline claim (earnings call, X post, interview)
 2. Bulls rally: "Robotaxis are coming. This is the inflection point."
 3. Deadline passes without delivery
@@ -258,6 +262,7 @@ ECHO should recognize these repeating patterns:
 6. Remarkably, bull sentiment barely dips each cycle — "this time is different"
 
 **The Macro Sentiment Cycle:**
+
 1. TSLA stock pumps → X goes euphoric → every Musk tweet celebrated
 2. TSLA stock dumps → X turns hostile → "Musk needs to focus on Tesla"
 3. Musk does something political → polarization spikes → Tesla discourse becomes political discourse
@@ -276,38 +281,42 @@ ECHO should recognize these repeating patterns:
 ### Key X Accounts for Tesla Sentiment
 
 **Mega-Bulls (treat their posts as bullish signal amplifiers):**
+
 - **@WholeMarsBlog** (Omar Qazi) — Perhaps the most dedicated Tesla bull on X. Constant FSD content. Will defend Tesla against any criticism. Musk engages with him regularly.
 - **@SawyerMerritt** — Tesla/SpaceX news aggregator. Fast on breaking Tesla news. Bullish framing.
 - **@TeslaBoomerMama** — Retail investor voice. Represents the "Tesla faithful" demographic.
 
 **Data/Tracking:**
+
 - **@TroyTeslike** — Tesla delivery and production tracker. Data-driven. Respected by both sides for accuracy.
 - **@fly4dat** — Tesla registration data tracker.
 
 **Bears/Critics:**
+
 - **@PlainSite** (Aaron Greenspan) — Long-running Tesla critic. Legal filings focus.
 - **@TeslaCharts** — OG TSLAQ account. Bearish analysis.
 - **@EdgarBerlin** — European perspective on Tesla struggles.
 
 **The Main Character:**
+
 - **@elonmusk** — Obviously. His posts about Tesla products are the single biggest sentiment drivers. But also: his non-Tesla posts (political, cultural, shitposts) increasingly affect Tesla sentiment because the brand and the man are inseparable.
 
 ---
 
 ## 6. Key Numbers ECHO Should Know
 
-| Metric | Value | As Of |
-|--------|-------|-------|
-| TSLA all-time high | ~$488/share (split-adjusted) | Nov 2025 |
-| Current P/E ratio | ~80-120x (fluctuates wildly) | Feb 2026 |
-| Annual deliveries | ~1.66M vehicles | 2025 |
-| FSD price (one-time) | $8,000 (current, reduced from $15K) | Feb 2026 |
-| FSD subscription | $99-199/month | Feb 2026 |
-| Supercharger stations | ~7,000+ globally | Feb 2026 |
-| Energy storage deployed | 46.7 GWh | 2025 |
-| Employees | 134,785 | 2025 |
-| Musk's Tesla stake | ~13% (post-compensation package) | Feb 2026 |
-| BYD annual EV sales | Surpassed Tesla Jan 2026 | Jan 2026 |
+| Metric                  | Value                               | As Of    |
+| ----------------------- | ----------------------------------- | -------- |
+| TSLA all-time high      | ~$488/share (split-adjusted)        | Nov 2025 |
+| Current P/E ratio       | ~80-120x (fluctuates wildly)        | Feb 2026 |
+| Annual deliveries       | ~1.66M vehicles                     | 2025     |
+| FSD price (one-time)    | $8,000 (current, reduced from $15K) | Feb 2026 |
+| FSD subscription        | $99-199/month                       | Feb 2026 |
+| Supercharger stations   | ~7,000+ globally                    | Feb 2026 |
+| Energy storage deployed | 46.7 GWh                            | 2025     |
+| Employees               | 134,785                             | 2025     |
+| Musk's Tesla stake      | ~13% (post-compensation package)    | Feb 2026 |
+| BYD annual EV sales     | Surpassed Tesla Jan 2026            | Jan 2026 |
 
 ---
 
@@ -338,12 +347,14 @@ ECHO should recognize these repeating patterns:
 ### How to Interpret Tesla-Related X Sentiment
 
 **High-confidence bullish signals:**
+
 - Musk posts a new FSD or Optimus demo video → expect 4-8 hours of intense bullish posting
 - Delivery numbers beat expectations → sustained bullish sentiment for 1-2 days
 - New Gigafactory announcement or major partnership → bullish for days
 - TSLA stock breaking through key technical levels (round numbers, 52-week highs) → momentum posts surge
 
 **High-confidence bearish signals:**
+
 - NHTSA investigation or recall announcement → bearish spike, lasts 1-3 days
 - Delivery miss → sustained bearish for 2-5 days (this is the hardest-hitting negative catalyst)
 - High-profile Autopilot/FSD crash → bearish for 1-2 days
@@ -351,36 +362,42 @@ ECHO should recognize these repeating patterns:
 - Executive departure → brief bearish, quickly forgotten unless it's a C-suite name
 
 **Noise vs. Signal:**
+
 - Random Musk shitposts mentioning Tesla → noise. Don't weight heavily.
 - @WholeMarsBlog posting bullish content → this is his baseline. Only notable if he goes quiet or turns critical.
 - Single viral "I sold my Tesla" anecdote → noise. Track the trend, not individual posts.
 - Analyst price target changes → moderate signal. Goldman/Morgan Stanley upgrades move the stock.
 
 **Sentiment-to-Price Correlation:**
+
 - X sentiment **leads** TSLA price moves by 30-90 minutes during market hours for breaking news
 - X sentiment **lags** TSLA price for macro-driven moves (Fed, general market)
 - Weekend/after-hours X sentiment is **less predictive** — the trading crowd isn't active
 - Earnings week X sentiment is **unreliable** — both sides pre-position narratives
 
 **Volume Matters More Than Polarity:**
+
 - A spike in Tesla mentions (regardless of bull/bear) often precedes volatility
 - The direction of the sentiment matters less than the intensity
 - When both bulls AND bears go quiet on Tesla → expect a boring week for the stock
 - When engagement suddenly spikes on a non-news day → look for what leaked or what Musk tweeted
 
 **The Musk Multiplier:**
+
 - Any topic Musk personally tweets about gets 10-50x the engagement of the same topic from any other account
 - Musk reply-guying to a critic → that critic's post goes viral → net effect is often MORE bearish visibility
 - Musk posting "😂" or a meme in response to Tesla criticism → bulls interpret as confidence, bears interpret as deflection
 - Track Musk's posting frequency about Tesla specifically. When he goes quiet on Tesla but loud on politics → bearish signal (he's not focused on the company)
 
 **Seasonal Patterns:**
+
 - End of quarter (Mar, Jun, Sep, Dec): Delivery push. "Pull forward" accusations from bears. Lots of anecdotal delivery posts.
 - January: Annual delivery numbers. Most important single data point of the year.
 - Earnings calls (typically late Jan, Apr, Jul, Oct): Musk goes on tangents. Key quotes get clipped and go viral. Parse carefully.
 - AI Day / Product events: Massive engagement spike. Sentiment highly dependent on whether demos feel real or staged.
 
 **Red Flags for Fake/Manipulated Sentiment:**
+
 - Coordinated posting of identical bullish messages → likely bot campaign
 - New accounts with AI-generated profile pics posting Tesla content → bot farm
 - Sudden shift in ratio of bullish-to-bearish posts without any news catalyst → possible manipulation
@@ -388,4 +405,4 @@ ECHO should recognize these repeating patterns:
 
 ---
 
-*This document is for ECHO's internal reference. Updated 2026-02-17. Facts are sourced from SEC filings, NHTSA records, Tesla investor relations, and verified reporting. Sentiment analysis framework is based on observed X patterns 2020-2026.*
+_This document is for ECHO's internal reference. Updated 2026-02-17. Facts are sourced from SEC filings, NHTSA records, Tesla investor relations, and verified reporting. Sentiment analysis framework is based on observed X patterns 2020-2026._

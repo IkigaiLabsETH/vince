@@ -4,9 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 Living in Lugano feels like Switzerland decided to borrow a slice of the Mediterranean and make it its own. The city sits on the northern shore of Lake Lugano, ringed by steep, wooded hills that catch the southern sun. Palm trees line the promenade, and on a clear day the water is a deep turquoise that looks almost too bright to be real. Winters are mild—rarely below freezing—and summers are warm without the oppressive heat you get further south.
 
 You can hike up Monte Brè or Monte San Salvatore in the morning, have lunch outdoors in January if the sun is strong, and still feel like you’re in Switzerland: everything runs on time, the streets are spotless, and people are polite.
@@ -26,7 +23,6 @@ When it comes to housing, Lugano is one of the easier Swiss cities to settle int
 A modern three- or four-room apartment of 90 to 120 square meters typically rents for 1,700 to 2,200 francs a month, often closer to the lower end if you’re flexible on exact location. Landlords tend to respond quickly, and you rarely face the feeding frenzy of a hundred applicants that’s normal in Zurich.
 
 Many buildings are older and may need cosmetic updates, but newer developments with balconies and lake views are steadily coming online. Subletting, though, can be a headache; many owners here are private individuals rather than management companies, and they often resist it or demand formal contracts and extra fees.
-
 
 Buying is straightforward if you have the means and the right residency status. Apartment prices for something in the same size range run between 800,000 and 1.2 million francs—roughly 8,000 to 9,500 francs per square meter—with single-family houses starting around a million and climbing from there.
 

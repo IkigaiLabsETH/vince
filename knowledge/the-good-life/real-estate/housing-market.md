@@ -4,9 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 Two longstanding cycle theories in real estate and economic history point to 2026 as a pivotal year—one that could mark the end of the post-pandemic boom and the start of a prolonged period of stagnation or decline.
 
 The first is the well-known 18-year real estate cycle, often associated with economist Fred Harrison, who accurately forecasted the 2008 crash based on historical land-price patterns. This cycle typically features 14 years of recovery and expansion followed by a speculative peak and a multi-year correction.

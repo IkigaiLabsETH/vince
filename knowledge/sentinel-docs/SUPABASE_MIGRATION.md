@@ -6,12 +6,12 @@
 
 ## What Changes
 
-| Component | Before (PGLite) | After (Supabase Postgres) |
-|-----------|------------------|---------------------------|
-| ElizaOS tables | In container filesystem | Supabase `public` schema |
-| plugin_vince.paper_bot_features | Lost on redeploy | Same Supabase DB |
-| Memories, agents, rooms, cache | Ephemeral | Persistent |
-| JSONL backup | Always kept locally | Still kept (dual-write) |
+| Component                       | Before (PGLite)         | After (Supabase Postgres) |
+| ------------------------------- | ----------------------- | ------------------------- |
+| ElizaOS tables                  | In container filesystem | Supabase `public` schema  |
+| plugin_vince.paper_bot_features | Lost on redeploy        | Same Supabase DB          |
+| Memories, agents, rooms, cache  | Ephemeral               | Persistent                |
+| JSONL backup                    | Always kept locally     | Still kept (dual-write)   |
 
 ---
 

@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 > **Knowledge Base Note**
 > Specific project ratings and priorities may be outdated.
 > Use the DECISION FRAMEWORK and H/E/F/S methodology.
@@ -13,6 +14,7 @@ last_reviewed: 2026-02-15
 ## Context
 
 Airdrop farming is fundamentally a portfolio allocation problem. You have limited time and capital, and must decide:
+
 1. Which projects to farm
 2. How much effort to allocate to each
 3. What specific actions to take
@@ -24,12 +26,12 @@ The key insight is that **most airdrops are not worth farming**. Your goal is to
 
 Every airdrop opportunity can be evaluated on four dimensions:
 
-| Dimension | What It Measures | Scoring |
-|-----------|------------------|---------|
-| **H** (Hype) | Community buzz, attention, visibility | 1-10: 10 = everyone talking about it |
-| **E** (Expected) | Likelihood of airdrop actually happening | 1-10: 10 = confirmed/certain |
-| **F** (Farming Priority) | Effort vs reward efficiency | 1-10: 10 = low effort, high reward |
-| **S** (Size) | Potential dollar value of airdrop | 1-10: 10 = life-changing money |
+| Dimension                | What It Measures                         | Scoring                              |
+| ------------------------ | ---------------------------------------- | ------------------------------------ |
+| **H** (Hype)             | Community buzz, attention, visibility    | 1-10: 10 = everyone talking about it |
+| **E** (Expected)         | Likelihood of airdrop actually happening | 1-10: 10 = confirmed/certain         |
+| **F** (Farming Priority) | Effort vs reward efficiency              | 1-10: 10 = low effort, high reward   |
+| **S** (Size)             | Potential dollar value of airdrop        | 1-10: 10 = life-changing money       |
 
 ### How to Use the Score
 
@@ -37,16 +39,17 @@ Every airdrop opportunity can be evaluated on four dimensions:
 
 **Decision matrix:**
 
-| Aggregate | Action | Time Investment |
-|-----------|--------|-----------------|
-| 7-10 | Full farming | Daily activity, significant capital |
-| 5-6 | Moderate farming | Weekly activity, moderate capital |
-| 3-4 | Minimal footprint | 3-10 actions total, move on |
-| 1-2 | Skip or waitlist | No active farming |
+| Aggregate | Action            | Time Investment                     |
+| --------- | ----------------- | ----------------------------------- |
+| 7-10      | Full farming      | Daily activity, significant capital |
+| 5-6       | Moderate farming  | Weekly activity, moderate capital   |
+| 3-4       | Minimal footprint | 3-10 actions total, move on         |
+| 1-2       | Skip or waitlist  | No active farming                   |
 
 ### Scoring Examples
 
 **High-value opportunity (score 8+):**
+
 - H: 9 (everyone in CT talking about it)
 - E: 8 (confirmed points system)
 - F: 8 (simple actions, clear rewards)
@@ -54,6 +57,7 @@ Every airdrop opportunity can be evaluated on four dimensions:
 - Aggregate: 8.0 → Full farming
 
 **Mid-tier opportunity (score 5-6):**
+
 - H: 6 (known project, moderate buzz)
 - E: 6 (likely airdrop, not confirmed)
 - F: 5 (some effort required)
@@ -61,6 +65,7 @@ Every airdrop opportunity can be evaluated on four dimensions:
 - Aggregate: 5.5 → Weekly activity
 
 **Low-priority (score 3-4):**
+
 - H: 4 (limited awareness)
 - E: 5 (might happen)
 - F: 3 (high effort, unclear reward)
@@ -72,6 +77,7 @@ Every airdrop opportunity can be evaluated on four dimensions:
 Once you've scored a project, use the appropriate action template:
 
 ### Chains (L1/L2)
+
 - 30-100 transactions over 6-12 weeks
 - Bridge in from multiple sources
 - Use 3-7 different dapps
@@ -79,6 +85,7 @@ Once you've scored a project, use the appropriate action template:
 - Keep some native token in wallet
 
 ### DeFi Protocols
+
 - Deposit meaningful amount
 - Swap multiple times
 - LP for 7-30 days
@@ -86,6 +93,7 @@ Once you've scored a project, use the appropriate action template:
 - Repeat core actions weekly
 
 ### Perp DEXes
+
 - Deposit collateral
 - Execute 20-80 trades
 - Spread volume across pairs
@@ -93,6 +101,7 @@ Once you've scored a project, use the appropriate action template:
 - Hit volume tier if applicable
 
 ### Social/Identity
+
 - Complete full profile
 - Verify all credentials
 - Daily actions (post, engage)
@@ -100,6 +109,7 @@ Once you've scored a project, use the appropriate action template:
 - Use all core features
 
 ### DePIN
+
 - Uptime is everything
 - Run node/app continuously
 - Complete all available tasks
@@ -108,6 +118,7 @@ Once you've scored a project, use the appropriate action template:
 ## Signals and Patterns
 
 **Strong airdrop signals:**
+
 - Points system launched
 - Testnet with achievements
 - "Season 1" terminology
@@ -115,12 +126,14 @@ Once you've scored a project, use the appropriate action template:
 - Competitor just did airdrop
 
 **Timing patterns:**
+
 - Testnets 3-6 months before mainnet
 - Points campaigns 1-3 months before TGE
 - Airdrop usually within 1-2 weeks of announcement
 - Season ends often trigger drops
 
 **Distribution patterns:**
+
 - Linear: Rewards proportional to activity
 - Tiered: Step functions at thresholds
 - Lottery: Random selection among qualifiers
@@ -149,6 +162,7 @@ Once you've scored a project, use the appropriate action template:
 ## Risk Management
 
 ### Wallet Strategy
+
 ```
 Main Wallet: NEVER touches farms
 ├── Only holds core assets
@@ -167,6 +181,7 @@ High-Risk Wallet: Sketchy protocols
 ```
 
 ### Capital Allocation
+
 - Never allocate more than you can afford to lose
 - Gas costs should not exceed 10% of expected value
 - Locked capital opportunity cost matters
@@ -181,7 +196,7 @@ High-Risk Wallet: Sketchy protocols
 
 ## Related
 
-- [_Template](_template.md)
+- [\_Template](_template.md)
 - [Text Grok This Boost Activated For The Next 7 Days Trad 1769697076484](text-grok-this-boost-activated-for-the-next-7-days-trad-1769697076484.md)
 - [Why Usdai](why-usdai.md)
 - [Crypto Tax Frameworks](../regulation/crypto-tax-frameworks.md)

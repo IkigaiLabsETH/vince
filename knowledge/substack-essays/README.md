@@ -18,4 +18,3 @@ Long-form essays, analysis, and thought pieces
 - 182363177why-we-write.md
 - 182469204pixelated-dreams.md
 - multidisciplinary-insights-framework.md
-

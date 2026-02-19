@@ -4,22 +4,24 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180093966.Yield Black Hole Duopoly
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: defi-metrics
 **Word Count**: 618
 **Tags**: #btc #eth #defi #substack
+
 ---
 
 In a $304B stablecoin market bloated by T-bills and regulatory fig leaves, USDT and USDC command 85% dominance ($184B + $76B circulation), but they’re nothing more than glorified IOUs—siphoning $1B+ in annual Treasury yields straight to issuers like Tether and Circle while DeFi farmers scrape 4-6% scraps.
 
-Tether’s gone rogue with 116 tonnes of gold ($13B) and 87K BTC ($9.9B) in reserves, earning S&P’s “weak” rating for turning the world’s liquidity engine into a crypto hedge fund. 
+Tether’s gone rogue with 116 tonnes of gold ($13B) and 87K BTC ($9.9B) in reserves, earning S&P’s “weak” rating for turning the world’s liquidity engine into a crypto hedge fund.
 
 ## Context
 
-USDC plays the compliant choirboy (100% Treasuries/cash, “strong” S&P nod), but both black-hole the alpha: no holder yields, just fat issuer profits ($10B+ for Tether YTD, $711M Q3 for Circle). 
+USDC plays the compliant choirboy (100% Treasuries/cash, “strong” S&P nod), but both black-hole the alpha: no holder yields, just fat issuer profits ($10B+ for Tether YTD, $711M Q3 for Circle).
 
 As our [USDH editorial](https://ikigaistudio.substack.com/p/usdh-stablecoin) laid out, natives like Hyperliquid’s flywheel are the rebellion—recycling yields into buybacks and points. Until then, parking in these dinosaurs is voluntary value leakage.
 
@@ -35,7 +37,7 @@ Yield leakage? $1B+ annually from Treasuries funneled to Tether—no holder cut.
 
 **USDC: The Compliant Cash Cow That’s Still a Yield Vacuum**
 
-Circle’s USDC? The “safe” 25% share ($76B circulation, up 108% YoY to $73.7B end-Q3; now $75.8B). Reserves? Pristine: 100% cash + short-term Treasuries (80% Circle Reserve Fund MMF, 20% U.S. bank cash; 4.2% return rate). No BTC, no gold—just boring reliability, earning S&P’s “strong” on assets (though overall capped by bankruptcy unknowns). Q3 haul: $711M reserve income (60% YoY, from 97% circulation growth), total revenue $740M (66% up), net profit $214M (tripled). 
+Circle’s USDC? The “safe” 25% share ($76B circulation, up 108% YoY to $73.7B end-Q3; now $75.8B). Reserves? Pristine: 100% cash + short-term Treasuries (80% Circle Reserve Fund MMF, 20% U.S. bank cash; 4.2% return rate). No BTC, no gold—just boring reliability, earning S&P’s “strong” on assets (though overall capped by bankruptcy unknowns). Q3 haul: $711M reserve income (60% YoY, from 97% circulation growth), total revenue $740M (66% up), net profit $214M (tripled).
 
 Partnerships? Bullish IPO settlements ($1.15B NYSE in USDC), CCTP V2 cross-chain (10+ nets), tie-ups with Brex/Deutsche Börse/Visa/Hyperliquid. X vibe: “Safe but boring black hole”—29% fiat-backed share, but zero yield-sharing. Leakage math: At 4.2% on $76B, that’s ~$3.2B/year to Circle/Coinbase—no user crumbs. Duopoly grip? Slipping to 85% from 91% early ‘25—USDe/PYUSD nibbling, but still a lock.
 
@@ -43,7 +45,7 @@ Partnerships? Bullish IPO settlements ($1.15B NYSE in USDC), CCTP V2 cross-chain
 
 Combined? $260B parked, earning ~$5-6B/year on Treasuries—yet DeFi TVL dips $55B Q4, yields flatline to 4-6%. Issuers pocket it all: Tether’s $10B YTD funds gold/BTC bets; Circle’s $711M Q3 fuels IPO dreams. Holders? Zilch—beyond CeFi scraps (6-9%, KYC-locked). X degens rage: “Why chase sketchy 7% when T-bills pay 5% via these vampires?”
 
-Enter natives: As we detailed in our [USDH editorial](https://ikigaistudio.substack.com/p/usdh-stablecoin), Hyperliquid’s fiat-backed rebel recycles 100% yields (4.85% base) into HYPE buybacks/grants—8-15% risk-adjusted via points/vaults. No leakage, just flywheel. 
+Enter natives: As we detailed in our [USDH editorial](https://ikigaistudio.substack.com/p/usdh-stablecoin), Hyperliquid’s fiat-backed rebel recycles 100% yields (4.85% base) into HYPE buybacks/grants—8-15% risk-adjusted via points/vaults. No leakage, just flywheel.
 
 USDT/USDC? Yield winter enablers.
 
@@ -51,7 +53,7 @@ USDT/USDC? Yield winter enablers.
 
 ## Conclusion
 
-USDT’s gold/BTC gamble risks depegs in a crash; USDC’s compliance is its cage—both starve DeFi of deserved alpha. With stablecoin cap at $304B (down 1.4% MoM, first dip in 26 months), the duopoly’s grip cracks. Test USDH (or PYUSD/USDe) for that 2021 vibe—before T-bills hike again. 
+USDT’s gold/BTC gamble risks depegs in a crash; USDC’s compliance is its cage—both starve DeFi of deserved alpha. With stablecoin cap at $304B (down 1.4% MoM, first dip in 26 months), the duopoly’s grip cracks. Test USDH (or PYUSD/USDe) for that 2021 vibe—before T-bills hike again.
 
 Read our full [USDH deep-dive](https://ikigaistudio.substack.com/p/usdh-stablecoin) for the playbook.
 

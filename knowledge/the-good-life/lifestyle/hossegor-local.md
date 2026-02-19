@@ -74,6 +74,7 @@ The weekly ritual. Saturday morning at Les Halles (market hall) + surrounding st
 ## Coffee
 
 The surf-town specialty coffee scene is real and growing:
+
 - Hossegor/Capbreton have specialty roasters and cafes that serve proper third-wave coffee. The scene rotates — new places open, some close seasonally.
 - Best move: ask locals or check current recommendations (WEB_SEARCH for "best coffee Hossegor" or "specialty coffee Capbreton").
 - **The ritual:** Saturday = market → coffee → plan the weekend. Midweek = coffee after the morning swim or surf.
@@ -83,6 +84,7 @@ The surf-town specialty coffee scene is real and growing:
 ## Restaurants (local favorites)
 
 See **michelin-restaurants/landes-locals.md** and **curated-open-schedule.md** for Kelly's curated picks. Key rules:
+
 - **Le Relais de la Poste** (Magescq, ~20 min) and **Côté Quillier** — **Wed–Sun only** (closed Mon–Tue).
 - For casual: the lake oyster huts, Capbreton port restaurants, local bistros.
 - **Summer only:** Beach restaurants and pop-ups. Seasonal; check what's open.
@@ -100,32 +102,33 @@ See **michelin-restaurants/landes-locals.md** and **curated-open-schedule.md** f
 
 ## Nearby (quick reference)
 
-| Destination | Distance | Vibe |
-|-------------|----------|------|
-| **Capbreton** | 5 min | The port, fresh fish, canal, Estacade surf |
-| **Seignosse** | 5 min north | Pine forest, Plage des Casernes, quieter beaches |
-| **Bayonne** | 30 min | Basque culture, chocolate (Cazenave), ham, Les Halles market |
-| **Biarritz** | 45 min | Grande Plage, Hôtel du Palais, Basque coast restaurants |
-| **Saint-Jean-de-Luz** | 50 min | Fishing port, beach, Maison Adam macarons |
-| **Bordeaux** | 2h | Wine, Cité du Vin, MICHELIN restaurants, architecture |
-| **San Sebastián** | 1h15 | Pintxos, 3-star Michelin restaurants, La Concha |
+| Destination           | Distance    | Vibe                                                         |
+| --------------------- | ----------- | ------------------------------------------------------------ |
+| **Capbreton**         | 5 min       | The port, fresh fish, canal, Estacade surf                   |
+| **Seignosse**         | 5 min north | Pine forest, Plage des Casernes, quieter beaches             |
+| **Bayonne**           | 30 min      | Basque culture, chocolate (Cazenave), ham, Les Halles market |
+| **Biarritz**          | 45 min      | Grande Plage, Hôtel du Palais, Basque coast restaurants      |
+| **Saint-Jean-de-Luz** | 50 min      | Fishing port, beach, Maison Adam macarons                    |
+| **Bordeaux**          | 2h          | Wine, Cité du Vin, MICHELIN restaurants, architecture        |
+| **San Sebastián**     | 1h15        | Pintxos, 3-star Michelin restaurants, La Concha              |
 
 ---
 
 ## Seasonal rhythm
 
-| Season | What's happening |
-|--------|-----------------|
+| Season               | What's happening                                                                                                                                                                                          |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Winter (Dec–Feb)** | Quiet. Many restaurants closed or reduced hours. Surf is powerful (big Atlantic swells). The lake is still. Indoor season — cooking, rowing, yoga, creative work. Saturday market still runs but smaller. |
-| **Spring (Mar–May)** | Town wakes up. White asparagus season. Surf gets cleaner. Forest walks are at their best — wildflowers, green pines. Restaurants reopen. |
-| **Summer (Jun–Aug)** | Full season. Beach, surf, lake, nightlife. Saturday market is huge. Book restaurants. The energy is fun but the crowds are real — midweek is better than weekends. |
-| **Autumn (Sep–Nov)** | The best season. Consistent swell, warm water, fewer people. Cèpe mushroom season (Oct–Nov). The light is golden. Restaurants are still open but less frantic. This is when Hossegor is at its best. |
+| **Spring (Mar–May)** | Town wakes up. White asparagus season. Surf gets cleaner. Forest walks are at their best — wildflowers, green pines. Restaurants reopen.                                                                  |
+| **Summer (Jun–Aug)** | Full season. Beach, surf, lake, nightlife. Saturday market is huge. Book restaurants. The energy is fun but the crowds are real — midweek is better than weekends.                                        |
+| **Autumn (Sep–Nov)** | The best season. Consistent swell, warm water, fewer people. Cèpe mushroom season (Oct–Nov). The light is golden. Restaurants are still open but less frantic. This is when Hossegor is at its best.      |
 
 ---
 
 ## When Kelly should reference Hossegor
 
 Kelly lives here. Use naturally:
+
 - "Saturday market this morning?" when suggesting home cooking ingredients
 - Surf conditions for the local breaks (use KELLY_SURF_FORECAST for Biarritz, which covers the region)
 - Lake oysters as a midweek treat or casual hosting move

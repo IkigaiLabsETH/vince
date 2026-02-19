@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # OpenClaw Setup & Security Guide
 
 Two paths to running OpenClaw: a **Hetzner VPS** setup for quick, always-on hosting, and a **Raspberry Pi** setup with maximum privacy and hardening (Tailscale, Matrix E2E, Venice AI, prompt-injection defenses).
@@ -649,24 +650,26 @@ Examples for a security-conscious setup: **linux-service-triage**, **browser** (
 
 5. **Credential rotation**
 
-   | Credential      | Frequency   | Action              |
-   |-----------------|------------|---------------------|
-   | Venice API key  | Every 3–6 mo | Update config       |
-   | Pi password     | Every 6–12 mo | `passwd`             |
+   | Credential     | Frequency     | Action        |
+   | -------------- | ------------- | ------------- |
+   | Venice API key | Every 3–6 mo  | Update config |
+   | Pi password    | Every 6–12 mo | `passwd`      |
 
 6. **Monitor logs**  
    Periodically: `sudo journalctl -u openclaw --since "24 hours ago"`, `sudo journalctl -u sshd | grep "Failed"`, `tailscale status`. Watch for messages you didn’t send, unexpected tool runs, or unknown Tailscale devices.
 
 7. **Backup**  
    Encrypted backup example:
+
    ```bash
    tar czf - ~/.openclaw | gpg --symmetric --cipher-algo AES256 > openclaw-backup-$(date +%Y%m%d).tar.gz.gpg
    ```
+
    Back up `~/.openclaw`, Tailscale auth (or re-auth), and this guide. Don’t store unencrypted backups in the cloud or on the same device.
 
-8. **If compromised**  
-   - Stop: `sudo systemctl stop openclaw`  
-   - Rotate: Venice key, Pi password, consider SSH keys.  
+8. **If compromised**
+   - Stop: `sudo systemctl stop openclaw`
+   - Rotate: Venice key, Pi password, consider SSH keys.
    - Inspect: `less ~/.openclaw/logs/`, `sudo journalctl -u openclaw`, `find ~/.openclaw -mtime -1 -ls`, `crontab -l`, `cat ~/.ssh/authorized_keys`.
 
 9. **When in doubt**  
@@ -697,7 +700,6 @@ You now have an OpenClaw instance that:
 - Only responds to paired users (pairing in both parts).
 
 It’s not perfectly secure—nothing is. It’s better than pasting your life into a web chatbot. Use it with your eyes open, enjoy the convenience, and keep improving your habits and setup.
-
 
 ## Related
 

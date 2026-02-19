@@ -4,7 +4,6 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 If you’re new here, we dive deep into the wild intersections of politics, economics, and markets—those spots where policy decisions can send shockwaves through your portfolio. Today, we’re unpacking something that’s flying under the radar but could explode any minute: the looming Supreme Court decision on Trump’s tariffs. It smells like volatility on steroids.
 
 First, a quick rewind for context.

@@ -22,7 +22,7 @@ Altcoin evaluation, network effects, ecosystem analysis
 - bear-market.md
 - cashflows.md
 
-*Plus 4 more files.*
+_Plus 4 more files._
 
 ## Related Categories
 

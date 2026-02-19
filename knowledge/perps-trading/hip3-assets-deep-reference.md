@@ -29,12 +29,12 @@ For full protocol details, see: `perps-deep-reference.md`
 
 The flagship HIP-3 venue. Stock perpetuals — the most liquid and actively traded HIP-3 DEX.
 
-| Property | Value |
-|----------|-------|
-| Collateral | USDC |
-| Assets | 17 (16 single stocks + XYZ100 index) |
-| API format | `xyz:TICKER` |
-| Focus | US equity single-name perps |
+| Property   | Value                                |
+| ---------- | ------------------------------------ |
+| Collateral | USDC                                 |
+| Assets     | 17 (16 single stocks + XYZ100 index) |
+| API format | `xyz:TICKER`                         |
+| Focus      | US equity single-name perps          |
 
 Stocks listed: NVDA, TSLA, AAPL, AMZN, GOOGL, META, MSFT, PLTR, COIN, HOOD, MSTR, NFLX, INTC, ORCL, MU, CRCL + XYZ100 index.
 
@@ -42,12 +42,12 @@ Stocks listed: NVDA, TSLA, AAPL, AMZN, GOOGL, META, MSFT, PLTR, COIN, HOOD, MSTR
 
 Commodity perpetuals. **Critical distinction: collateral is USDH, not USDC.** You must hold USDH to trade here — check your balance before placing orders.
 
-| Property | Value |
-|----------|-------|
-| Collateral | USDH |
-| Assets | 5 |
-| API format | `flx:TICKER` |
-| Focus | Precious metals, industrial metals, energy |
+| Property   | Value                                      |
+| ---------- | ------------------------------------------ |
+| Collateral | USDH                                       |
+| Assets     | 5                                          |
+| API format | `flx:TICKER`                               |
+| Focus      | Precious metals, industrial metals, energy |
 
 Assets: GOLD, SILVER, COPPER, NATGAS, OIL.
 
@@ -55,12 +55,12 @@ Assets: GOLD, SILVER, COPPER, NATGAS, OIL.
 
 AI/tech pre-IPO hyperps, sector indices, and select stocks. Pre-IPO assets are **hyperps** — no spot oracle, funding based on mark price EMA. This makes them extremely sentiment-driven and prone to funding rate extremes.
 
-| Property | Value |
-|----------|-------|
-| Collateral | (verify current) |
-| Assets | 9 |
-| API format | `vntl:TICKER` |
-| Focus | Pre-IPO AI companies, sector indices, tech stocks |
+| Property   | Value                                             |
+| ---------- | ------------------------------------------------- |
+| Collateral | (verify current)                                  |
+| Assets     | 9                                                 |
+| API format | `vntl:TICKER`                                     |
+| Focus      | Pre-IPO AI companies, sector indices, tech stocks |
 
 Assets: OPENAI, ANTHROPIC, SPACEX, AMD, SNDK, MAG7, SEMIS, INFOTECH, ROBOT.
 
@@ -68,12 +68,12 @@ Assets: OPENAI, ANTHROPIC, SPACEX, AMD, SNDK, MAG7, SEMIS, INFOTECH, ROBOT.
 
 Traditional equity indices plus US oil.
 
-| Property | Value |
-|----------|-------|
-| Collateral | (verify current) |
-| Assets | 3 |
-| API format | `km:TICKER` |
-| Focus | Broad market indices, energy |
+| Property   | Value                        |
+| ---------- | ---------------------------- |
+| Collateral | (verify current)             |
+| Assets     | 3                            |
+| API format | `km:TICKER`                  |
+| Focus      | Broad market indices, energy |
 
 Assets: US500, SMALL2000, USOIL.
 
@@ -92,6 +92,7 @@ Assets: US500, SMALL2000, USOIL.
 **Why it matters:** Ultimate safe haven asset. $13T+ total market. Central bank reserve asset, inflation hedge, geopolitical fear trade. The oldest store of value in human history.
 
 **Trading context:**
+
 - Inverse correlation with USD strength (DXY). When the dollar weakens, gold rallies — and vice versa
 - Positive correlation with negative real rates. When inflation > nominal yields, gold thrives
 - Rallies during banking crises, wars, sanctions, de-dollarization narratives
@@ -113,6 +114,7 @@ Assets: US500, SMALL2000, USOIL.
 **Why it matters:** Dual identity — industrial metal AND monetary metal. Solar panels, electronics, EVs, and medical devices all require silver. Supply is structurally constrained with declining mine output and limited recycling. The silver market is tiny (~$1.5T) compared to gold, making it prone to violent squeezes.
 
 **Trading context:**
+
 - Higher beta than gold: moves 2-3x in percentage terms on the same macro catalyst
 - **Gold/silver ratio** is the key metric. Historically ranges 60-80. Ratio >80 = silver historically cheap relative to gold. Ratio <60 = silver relatively expensive
 - Industrial demand ties silver to manufacturing PMI and global growth. Solar installation rates are a secular tailwind
@@ -131,6 +133,7 @@ Assets: US500, SMALL2000, USOIL.
 **Why it matters:** "Dr. Copper" — the metal with a PhD in economics. Copper demand is the single best real-time proxy for global economic health. EVs use 4x more copper than ICE vehicles. AI data centers require massive copper for power infrastructure and wiring. The green energy transition is creating a structural supply-demand imbalance.
 
 **Trading context:**
+
 - China consumes 50%+ of global copper. Chinese PMI, property sector health, and stimulus announcements are primary drivers
 - Green energy transition = structural demand increase that won't reverse
 - Supply takes 7-10 years to bring online (new mines). Demand is accelerating now. This mismatch is bullish medium-term
@@ -147,6 +150,7 @@ Assets: US500, SMALL2000, USOIL.
 **Why it matters:** Power generation, heating, petrochemicals, and LNG exports. The most weather-dependent commodity in existence. AI data center power demand is creating a new structural bid.
 
 **Trading context:**
+
 - **Extreme seasonality**: Winter demand spikes (heating season Oct-Mar), summer spikes (cooling/AC demand Jul-Aug)
 - US is now the world's largest LNG exporter. European energy security post-Russia drives structural export demand
 - EIA weekly storage reports (Thursday 10:30 AM ET) are the primary catalyst — surprises move price 3-5% instantly
@@ -167,6 +171,7 @@ Assets: US500, SMALL2000, USOIL.
 **Why it matters:** Still the world's most important commodity. Geopolitics, OPEC+ production decisions, and US shale output determine price. Every 10% move in oil flows through to inflation expectations, central bank policy, and consumer spending.
 
 **Trading context:**
+
 - OPEC+ meetings (typically monthly) are the primary catalyst. Production cut/increase decisions move oil 3-5%
 - US inventory data: API report (Tuesday), EIA official report (Wednesday 10:30 AM ET)
 - Brent-WTI spread indicates relative Atlantic Basin vs US supply dynamics
@@ -184,6 +189,7 @@ Assets: US500, SMALL2000, USOIL.
 **DEX:** km (NOT flx). Different collateral requirements.
 
 **Trading context:**
+
 - Same macro drivers as Brent but more sensitive to US-specific data: Cushing, Oklahoma storage levels, US rig count (Baker Hughes, Friday), and domestic refinery utilization
 - Typically trades at $2-5 discount to Brent (the "Brent-WTI spread"). When this spread widens, it signals US oversupply or international tightness
 - More responsive to US shale production data and pipeline capacity constraints
@@ -214,6 +220,7 @@ Assets: US500, SMALL2000, USOIL.
 **Why it matters:** THE benchmark for US equities and, increasingly, global risk appetite. 500 largest US companies. $45T+ market cap. Every institutional portfolio benchmarks against it. When "the market" moves, this is what people mean.
 
 **Trading context:**
+
 - Macro-driven: Fed decisions (FOMC 8x/year), monthly jobs data (NFP, first Friday), CPI/PPI inflation data, ISM PMI
 - Earnings season (Jan, Apr, Jul, Oct) drives 4-6 weeks of elevated volatility per quarter
 - **24/7 access on Hyperliquid** vs CME futures market hours — trade S&P reactions to weekend/overnight news before TradFi opens
@@ -232,6 +239,7 @@ Assets: US500, SMALL2000, USOIL.
 **Why it matters:** Small caps are the economic canary. More domestic US exposure (less international revenue), more rate-sensitive (higher leverage, more floating-rate debt), and more cyclical (consumer discretionary, regional banks, industrials).
 
 **Trading context:**
+
 - Outperforms in early recovery and rate-cut cycles — when the Fed pivots, small caps rip first
 - Underperforms during recession fears and tight monetary policy (small companies can't refinance cheap)
 - Russell/S&P ratio is a key risk appetite indicator
@@ -249,6 +257,7 @@ Assets: US500, SMALL2000, USOIL.
 **Why it matters:** These 7 stocks represent ~30% of S&P 500 market cap. They ARE the market. Concentrated bet on AI spending, cloud growth, digital advertising, and consumer tech dominance.
 
 **Trading context:**
+
 - Earnings from ANY single MAG7 name can move the entire index and broader market
 - When MAG7 diverges strongly from US500, it signals either concentration risk (MAG7 leading) or rotation (MAG7 lagging as money moves to small caps/value)
 - Trade this when you want big tech exposure without picking a single name
@@ -265,6 +274,7 @@ Assets: US500, SMALL2000, USOIL.
 **Why it matters:** Chips are the new oil. The AI revolution runs on GPUs (NVDA), HBM memory (MU, SK Hynix), logic chips (AMD, INTC), and foundry capacity (TSMC). CHIPS Act subsidies ($52B) reshoring production to US. Taiwan/TSMC geopolitical tension is the sector's existential risk.
 
 **Trading context:**
+
 - **Leads the broader market by 3-6 months** — semis are a capex cycle indicator. When semis roll over, the market follows
 - NVDA earnings is the single biggest catalyst for the entire sector
 - SOX index correlation is tight. Book-to-bill ratios and fab utilization rates are leading indicators
@@ -293,6 +303,7 @@ Assets: US500, SMALL2000, USOIL.
 **Why it matters:** Tesla Optimus, Figure AI (OpenAI-backed), Boston Dynamics, Fanuc, ABB — the physical AI narrative. Humanoid robots, industrial automation, autonomous warehouses. This is where AI meets the physical world.
 
 **Trading context:**
+
 - Thematic play on labor replacement, manufacturing automation, and the humanoid robot narrative
 - Early innings — more narrative-driven than fundamentals-driven at this stage
 - Tesla Optimus progress/demos are major catalysts. Figure AI funding rounds. Any major robotics demo that goes viral
@@ -311,6 +322,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** Monopoly on AI training and inference hardware. H100/H200/B100/B200 GPUs are the picks-and-shovels of the AI gold rush. CUDA software moat makes switching nearly impossible — the entire ML ecosystem is built on CUDA. Data center revenue is >80% of total and growing.
 
 **Trading context:**
+
 - Earnings are market-wide events. Expect ~10% moves in either direction. The entire AI trade prices off NVDA guidance
 - GTC conference (typically March) is a major product catalyst — new chip announcements, roadmap updates
 - AI regulation news and US-China export controls directly impact revenue (China was ~25% of data center revenue before restrictions)
@@ -327,6 +339,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** Not just an EV company. EV manufacturing + FSD (Full Self-Driving) autonomy + Optimus humanoid robot + Megapack energy storage + Dojo AI supercomputer. The bull case prices in robotaxi revenue ($1T+ TAM). The bear case says it's a car company trading at 80x earnings.
 
 **Trading context:**
+
 - Musk's tweets, politics, and public behavior move TSLA as much as fundamentals
 - Quarterly delivery numbers (reported ~first week of each quarter) are binary events
 - FSD progress updates, robotaxi timeline, and Optimus demos are catalysts
@@ -343,6 +356,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** iPhone installed base (2B+ devices) generates recurring Services revenue (App Store, iCloud, Apple TV+, Apple Music, Apple Pay). Services margin is 70%+ vs 35% for hardware. Apple Intelligence AI features are driving an iPhone upgrade supercycle.
 
 **Trading context:**
+
 - Services revenue growth is THE narrative — Wall Street rewards the transition from hardware to recurring revenue
 - iPhone launch cycles (September) create predictable volatility. Supply chain checks (from Asian suppliers) leak demand signals
 - China demand is critical (~20% of total revenue). Any China-US tension or China consumer weakness hits AAPL disproportionately
@@ -357,6 +371,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** AWS is the profit engine (>60% of operating income on ~17% of revenue). E-commerce is the distribution moat. Advertising is the fastest-growing high-margin segment. Amazon is simultaneously the world's largest cloud provider, retailer, and logistics network.
 
 **Trading context:**
+
 - AWS growth rate is THE metric every quarter. Deceleration = sell. Reacceleration = buy
 - Prime Day (July) and holiday season (Q4) drive e-commerce revenue beats
 - Margin expansion story: Jassy's cost cuts worked — operating margins expanding from 2% to 8%+
@@ -372,6 +387,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** Search ad revenue is still 55%+ of total — the most profitable business model ever created. But the ChatGPT/AI search disruption narrative creates periodic sell-offs. Meanwhile, Gemini AI, Cloud growth acceleration, YouTube ad recovery, and Waymo autonomous driving are underappreciated.
 
 **Trading context:**
+
 - Any "Google Search is dying" narrative (ChatGPT, Perplexity, etc.) creates buying opportunities if you believe the moat holds
 - Google Cloud growth rate inflecting higher — AI workloads on GCP
 - YouTube is a $40B+ run-rate business. Connected TV ad spend shifting to YouTube
@@ -389,6 +405,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** 3.9B+ monthly active users across the family of apps. Digital advertising duopoly with Google. Reels is winning the short-video war against TikTok (especially where TikTok is banned). Llama open-source AI models are building a developer moat. Reality Labs (VR/AR) is a $15B+/year bet on the future.
 
 **Trading context:**
+
 - Digital advertising revenue is the engine. Any macro weakness in ad spend hits META hard
 - Reels monetization improving quarter over quarter — closing the gap with feed ads
 - AI infrastructure spend ($30B+/year capex) is both a bull case (AI moat) and bear case (overcapitalization)
@@ -404,6 +421,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** Most diversified big tech company. Azure is #2 cloud (gaining on AWS). OpenAI partnership gives exclusive access to GPT models. Copilot integration across Office, GitHub, Windows, and Dynamics creates enterprise AI lock-in. Xbox + Activision Blizzard rounds out gaming.
 
 **Trading context:**
+
 - Azure growth rate is the key metric. Closely watched for AI workload contribution (% of Azure growth from AI)
 - OpenAI integration: Copilot everywhere — Office 365 Copilot ($30/user/month), GitHub Copilot, Windows Copilot
 - Enterprise AI adoption leader: CIOs trust Microsoft, procurement is easy (existing EA agreements)
@@ -418,6 +436,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** Foundry (commercial) and Gotham (government) platforms for data integration and analysis. AIP (Artificial Intelligence Platform) is the growth catalyst — letting enterprises deploy AI on their own data without building infrastructure. "The AI operating system for government and enterprise."
 
 **Trading context:**
+
 - Government contracts (DoD, CIA, ICE, NHS) are the revenue base. Defense spending tailwinds post-Ukraine, post-Middle East
 - AIP commercial growth accelerating — boot camp go-to-market strategy converting enterprises
 - High P/E (100x+) — growth is priced in. Any deceleration gets punished hard
@@ -432,6 +451,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** Revenue = crypto trading volume × take rate. But Coinbase is diversifying: Base L2 chain (generates sequencer fees), stablecoin revenue (USDC partnership with Circle earns interest on reserves), staking services, and institutional custody (Coinbase Prime).
 
 **Trading context:**
+
 - BTC price directly drives revenue. When BTC pumps, retail FOMO → volume spikes → COIN revenue surges
 - Regulatory clarity is a tailwind: won vs SEC on most counts. Stablecoin legislation (if passed) benefits USDC/Coinbase
 - Base L2 ecosystem growth creates optionality beyond exchange revenue
@@ -446,6 +466,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** Democratized trading for retail. Expanding from equities/options into crypto (listed SOL, AVAX, etc.), retirement accounts (IRA matching), and credit cards. Gold subscription tier ($5/month) driving ARPU growth.
 
 **Trading context:**
+
 - Crypto revenue segment growing as a % of total — more crypto listings = more revenue diversification
 - Event-driven: meme stock rallies (GME, AMC) boost engagement and trading volume
 - Options trading volume is the bread and butter — track CBOE retail flow data
@@ -460,6 +481,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** Software company that pivoted to becoming a Bitcoin accumulation vehicle. Holds 200k+ BTC (~$15B+ at current prices). Issues convertible bonds and equity to buy more BTC. Trades at a premium or discount to its Bitcoin NAV.
 
 **Trading context:**
+
 - MSTR/BTC NAV ratio is the key metric. Premium = market pricing in future BTC acquisitions and Saylor's strategy. Discount = concern about debt load, dilution, or BTC outlook
 - Leveraged BTC play: when BTC +5%, MSTR often moves +10-15%. Works both ways — MSTR drawdowns are amplified
 - Convertible bond issuances are catalysts (dilution fear short-term, BTC accumulation bullish long-term)
@@ -476,6 +498,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** 260M+ global subscribers. Ad-supported tier driving incremental growth and ARPU. Password-sharing crackdown successfully converted freeloaders to paid subscribers. Live sports (WWE Raw, NFL Christmas games) expanding TAM.
 
 **Trading context:**
+
 - Subscriber growth + ARPU (average revenue per user) are the key metrics every quarter
 - Ad-supported tier is the growth story — advertisers want Netflix's premium audience
 - Content spend ($17B+/year) creates high barrier to entry but also high fixed costs
@@ -492,6 +515,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** Attempting the most ambitious turnaround in semiconductor history. IFS (Intel Foundry Services) aims to manufacture chips for others (competing with TSMC). Meanwhile, losing CPU market share to AMD (EPYC servers) and relevance in AI (no competitive GPU).
 
 **Trading context:**
+
 - Foundry business (IFS) orders are the key catalyst. Any major customer win (MSFT, AMZN) would be transformative
 - CHIPS Act subsidies ($8B+ in grants) subsidize the turnaround but don't guarantee success
 - New CEO strategy and execution are everything. Each earnings call is a referendum on the turnaround
@@ -508,6 +532,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** OCI (Oracle Cloud Infrastructure) is the fastest-growing cloud. Massive AI data center buildout ($100B+ planned with partners). Strategic partnerships with NVDA and MSFT. Multi-cloud strategy (Oracle database running on Azure/AWS) is unique.
 
 **Trading context:**
+
 - OCI growth rate is the key metric. Consistently above 40% YoY — faster than AWS, Azure, or GCP
 - Larry Ellison's AI data center buildout vision: partnering with SoftBank, NVDA, and governments worldwide
 - RPO (Remaining Performance Obligations) indicates future revenue — watch for acceleration
@@ -522,6 +547,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** HBM (High Bandwidth Memory) for AI accelerators is the secular catalyst. NVDA's H100/B200 GPUs need Micron's HBM3E. AI is creating insatiable demand for high-performance memory that only three companies can supply (Micron, Samsung, SK Hynix).
 
 **Trading context:**
+
 - Memory is **cyclical** — the most cyclical sector in semis. Watch DRAM/NAND spot pricing trends and inventory levels
 - When memory prices rise: MU prints money, margins expand 30%+, stock rips. When they fall: margins collapse, stock gets cut in half
 - HBM is the structural story that may break the cycle — AI demand is less cyclical than consumer electronics
@@ -536,6 +562,7 @@ Assets: US500, SMALL2000, USOIL.
 **The thesis:** Revenue comes from interest earned on USDC reserves ($30B+ in US Treasuries and cash). As USDC circulation grows and interest rates remain elevated, Circle prints money. IPO'd in 2024. Pure play on stablecoin adoption and the tokenization of the dollar.
 
 **Trading context:**
+
 - USDC circulation is the key metric — directly determines reserve income
 - Interest rate sensitivity: higher rates = more revenue. Rate cuts are a headwind
 - Stablecoin legislation (US and global) is a structural tailwind — regulatory clarity drives institutional adoption
@@ -557,6 +584,7 @@ These assets trade as **hyperps** — perpetual contracts with no spot oracle. F
 **The thesis:** Most valuable private AI company (~$300B+ valuation). Revenue $10B+ ARR and growing rapidly. ChatGPT has 200M+ weekly active users. Enterprise adoption accelerating. The company that kicked off the AI revolution.
 
 **Trading context:**
+
 - Hyperp — no spot oracle. Funding based on mark price EMA. Extremely sentiment-driven
 - Catalysts: New model releases (GPT-5), product launches, enterprise deal announcements, IPO timeline rumors, Microsoft relationship developments, regulatory news
 - Funding can be extreme during AI hype cycles — being long when funding is +0.5%/day eats your position
@@ -571,6 +599,7 @@ These assets trade as **hyperps** — perpetual contracts with no spot oracle. F
 **The thesis:** The "responsible AI" counterweight to OpenAI. Amazon invested $4B+. Google invested $2B+. Claude models are competitive with GPT-4 for enterprise use cases. Constitutional AI approach resonates with enterprise compliance requirements.
 
 **Trading context:**
+
 - Hyperp. Lower volume than OPENAI — wider spreads, more slippage
 - Catalysts: Claude model releases, enterprise adoption metrics, new funding rounds, IPO speculation, Amazon partnership deepening
 - Often correlated with OPENAI (both are "AI lab" trades) but with a lag and lower magnitude
@@ -585,6 +614,7 @@ These assets trade as **hyperps** — perpetual contracts with no spot oracle. F
 **The thesis:** ~$350B valuation. Starlink satellite internet approaching profitability with 4M+ subscribers globally. Falcon 9 dominates commercial launch market. Starship is the moonshot — if fully reusable super-heavy lift works, it redefines space economics.
 
 **Trading context:**
+
 - Hyperp. Catalysts: Starship test flights (success/failure), Starlink subscriber growth milestones, government contracts (NASA, DoD), IPO rumors (Musk has hinted at spinning out Starlink)
 - Correlated with Musk sentiment (also moves TSLA, DOGE)
 - Starship milestones are binary events — successful tests can move price 10%+
@@ -600,6 +630,7 @@ These assets trade as **hyperps** — perpetual contracts with no spot oracle. F
 **DEX:** vntl (not xyz — important distinction)
 
 **Trading context:**
+
 - AI GPU market share vs NVDA is the key narrative. Any hyperscaler win (META, MSFT adopting MI300X) moves price
 - Data center revenue growth rate is the metric to watch
 - Rallies when the market wants to diversify AI bets beyond NVDA (especially after NVDA earnings when investors look for "the next AI chip play")
@@ -614,6 +645,7 @@ These assets trade as **hyperps** — perpetual contracts with no spot oracle. F
 **DEX:** vntl
 
 **Trading context:**
+
 - NAND flash pricing cycles drive revenue. When NAND prices rise (tight supply), margins expand
 - Enterprise SSD demand for AI data centers (training data storage, inference caching) is the growth narrative
 - Smaller and more niche than MU. Lower liquidity on vntl
@@ -693,22 +725,22 @@ HIP-3:       dex:TICKER
 
 ### DEX Collateral Matrix
 
-| DEX | Collateral | Note |
-|-----|-----------|------|
-| xyz | USDC | Standard — same as core perps |
-| flx | USDH | **Different stablecoin** — must hold USDH, not USDC |
-| vntl | (verify) | May vary — check before trading |
-| km | (verify) | May vary — check before trading |
+| DEX  | Collateral | Note                                                |
+| ---- | ---------- | --------------------------------------------------- |
+| xyz  | USDC       | Standard — same as core perps                       |
+| flx  | USDH       | **Different stablecoin** — must hold USDH, not USDC |
+| vntl | (verify)   | May vary — check before trading                     |
+| km   | (verify)   | May vary — check before trading                     |
 
 ### HIP-3 Asset Count Summary
 
-| DEX | Count | Categories |
-|-----|-------|-----------|
-| xyz | 17 | 16 stocks + 1 index |
-| flx | 5 | 5 commodities |
-| vntl | 9 | 3 pre-IPO + 2 stocks + 4 indices |
-| km | 3 | 2 indices + 1 commodity |
-| **Total** | **34** | |
+| DEX       | Count  | Categories                       |
+| --------- | ------ | -------------------------------- |
+| xyz       | 17     | 16 stocks + 1 index              |
+| flx       | 5      | 5 commodities                    |
+| vntl      | 9      | 3 pre-IPO + 2 stocks + 4 indices |
+| km        | 3      | 2 indices + 1 commodity          |
+| **Total** | **34** |                                  |
 
 ### Category Helper Functions
 

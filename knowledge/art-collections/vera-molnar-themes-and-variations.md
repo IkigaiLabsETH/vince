@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Themes and Variations
 
 OpenSea Slug: `vera-molnar-themes-and-variations`
@@ -25,7 +26,7 @@ The project uses three letters—N, F, and T—as abstract forms. Not typography
 
 **Themes and Variations #111** – Sold at Sotheby’s Digital Art Day Auction in 2024. One of the higher-profile single sales.
 
-**#336** and others** – Traded on secondary; the collection has hundreds of unique outputs. Highest sale reported around $60K; market has shifted since launch. Sotheby’s estimates for early lots were in the $100K–$150K range.
+**#336** and others\*\* – Traded on secondary; the collection has hundreds of unique outputs. Highest sale reported around $60K; market has shifted since launch. Sotheby’s estimates for early lots were in the $100K–$150K range.
 
 Because it’s Art Blocks–adjacent (hosted on Ethereum, often via Art Blocks / Sotheby’s Metaverse), you get on-chain verification and the usual provenance benefits.
 

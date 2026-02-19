@@ -3,8 +3,11 @@ tags: [vc, startups, investment]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # 179964706.The Cheat Code
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: venture-capital
 **Word Count**: 1,931
@@ -63,7 +66,7 @@ Then, overnight, Zuckerberg flipped the switch. Organic reach went from 15–20%
 
 We were burnt. Not just tired — hollowed out. So we did the only sensible thing: surfed more, worked less. Dawn patrols with dolphins, sunset sessions under rainbows, trading deadlines for lineups. The wave we lived on got called “the most perfect wave in the world” by people who have surfed everywhere. Tom Curren paddled out one morning, looked around, and just said, “Yep.” That was enough validation for a lifetime.
 
-It felt like endless summer. 
+It felt like endless summer.
 
 And endless summers have a way of giving you clarity.
 
@@ -71,49 +74,35 @@ One morning in 2009, nursing a coffee and watching the Dow drop another 500 poin
 
 We’d spent a decade trying to beat:
 
-- 
-Booking.com
+- Booking.com
 
-- 
-Expedia
+- Expedia
 
-- 
-Priceline
+- Priceline
 
-- 
-Later Airbnb (whose VCs we had literally pitched the “rent your house to strangers” idea to in 2007 and been laughed out of the room)
+- Later Airbnb (whose VCs we had literally pitched the “rent your house to strangers” idea to in 2007 and been laughed out of the room)
 
-- 
-Facebook
+- Facebook
 
-- 
-Google
+- Google
 
-- 
-Even the surf brands that had gone public and forgotten their soul
+- Even the surf brands that had gone public and forgotten their soul
 
 And we’d spent a decade using:
 
-- 
-Apple computers
+- Apple computers
 
-- 
-GoPro cameras
+- GoPro cameras
 
-- 
-Nike wetsuits (after Billabong and Quiksilver imploded)
+- Nike wetsuits (after Billabong and Quiksilver imploded)
 
-- 
-Visa cards
+- Visa cards
 
-- 
-Akamai CDNs
+- Akamai CDNs
 
-- 
-Boeing planes to get there
+- Boeing planes to get there
 
-- 
-Marriott hotels when the surf was flat
+- Marriott hotels when the surf was flat
 
 Every company that had made LiveTheLifeTV possible was publicly traded. Every company we’d bled trying to compete with was publicly traded.
 
@@ -121,7 +110,7 @@ If you can’t beat them… buy them.
 
 We took whatever private capital we had left — profits from the kitesurf school, real-estate flips, a few lucky domain sales — and went shopping during the depth of the financial crisis.
 
-NVIDIA at $9 (pre-split).**Google at $172.
+NVIDIA at $9 (pre-split).\*\*Google at $172.
 Amazon at $64.
 Booking at $11.
 Facebook at $19 (IPO dip).
@@ -145,9 +134,9 @@ It was realizing that the game was never about beating the giants.
 
 It was about recognizing when to stop fighting them — and start owning them.
 
-These days I still wake at 6 a.m. to surf. 
+These days I still wake at 6 a.m. to surf.
 
-The dolphins still show up. 
+The dolphins still show up.
 
 The wave is still perfect.
 
@@ -159,11 +148,11 @@ Or better yet — buy them when they’re on sale and go surf.
 
 ---
 
-How I sold the perfect portfolio at the bottom, bought a crumbling house, and accidentally stumbled into the next cheat code anyway. **
+How I sold the perfect portfolio at the bottom, bought a crumbling house, and accidentally stumbled into the next cheat code anyway. \*\*
 
 I’m writing this from the same salty MacBook, but the view is different now.
 
-Instead of an endless pointbreak, I’m looking at a half-renovated seventies house on a quiet street in Europe. No dolphins this morning. Just the neighbor’s rooster and the distant sound of church bells. Debt-free, sun on my face, … 
+Instead of an endless pointbreak, I’m looking at a half-renovated seventies house on a quiet street in Europe. No dolphins this morning. Just the neighbor’s rooster and the distant sound of church bells. Debt-free, sun on my face, …
 
 But let’s not get ahead of ourselves. This is the part of the story where the hero does something catastrophically stupid.
 
@@ -173,7 +162,7 @@ And then we decided to “live the life.”
 
 We sold almost everything.
 
-Not because we needed the cash. 
+Not because we needed the cash.
 
 We just wanted to move continents, slow down, buy a house with cash, be closer to our family, surf emptier waves, breathe.
 
@@ -201,17 +190,13 @@ I saw the fire sale of the century.
 
 We sold the last non-essential assets we still had:
 
-- 
-The empty beachfront plot we kept “just in case.”
+- The empty beachfront plot we kept “just in case.”
 
-- 
-The vintage Porsche I’d driven to every perfect wave for fifteen years.
+- The vintage Porsche I’d driven to every perfect wave for fifteen years.
 
-- 
-The Rolex Submariner I wore while getting barreled with dolphins.
+- The Rolex Submariner I wore while getting barreled with dolphins.
 
-- 
-Even the collector surfboard I swore I’d never part with.
+- Even the collector surfboard I swore I’d never part with.
 
 Everything went into cold storage.
 

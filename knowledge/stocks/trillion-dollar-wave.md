@@ -4,13 +4,15 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181318708.Trillion Dollar Wave
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: stocks
 **Word Count**: 1,085
 **Tags**: #eth #sol #substack
+
 ---
 
 I’m going to say something that will sound insane to most people still riding the AI high: the really stupid money—the kind that turns twenty-something founders into billionaires and early believers into legends—isn’t going to be made in another LLM wrapper. It’s going to be made in robotics.
@@ -24,7 +26,7 @@ Let that sink in for a second.
 While the entire software AI complex fought over a pie that might generously hit a couple trillion in cumulative revenue over the next decade, the robotics players are staring at a pie that is literally two orders of magnitude larger. And unlike software, you can’t just “prompt” your way out of physics. You can’t fake a robot picking up a box, walking across a warehouse, and putting it on a shelf. When it works, you see it. When it ships, the revenue is real. And when the first company ships 100,000 units in a single year at a $25,000 bill-of-materials… well, that’s the iPhone moment we’ve all been waiting for since we were kids watching Terminator 2.
 
 **The Math Is Actually Embarrassing**
-**
+\*\*
 Let’s do the lazy back-of-the-napkin that every VC pretends they don’t do in the shower: Global labor market: ~$150 trillion
 
 ## Main
@@ -37,7 +39,7 @@ $15 trillion is 4.3× bigger than the entire auto industry today.
 
 Now tell me again why Figure, Apptronik, Agility, 1X, Neura, Sanctuary, or even Tesla’s Optimus shouldn’t be worth a few hundred billion each in five years if they simply execute. Hell, even the also-rans in cars—think Stellantis or Hyundai—still trade north of $30–50 billion. Robotics has higher margins than cars (once you’re past the R&D hump), a bigger TAM, and the single most powerful narrative in modern technology: “We built the sci-fi future you were promised in 1987.”
 
-This Isn’t Winner-Take-All Like AI**
+This Isn’t Winner-Take-All Like AI\*\*
 
 One of the reasons I’m more excited about robotics than I ever was about the last AI wave is simple: there will be more than two or three winners.
 
@@ -69,7 +71,7 @@ But guess what? All of those risks are already priced in today. Figure is privat
 
 I’ve been in tech long enough to see a few once-in-a-generation waves. Internet, mobile, social, cloud, crypto, AI. Each one minted fortunes most people still can’t quite believe were real.
 
-The next one isn’t going to be another app. 
+The next one isn’t going to be another app.
 
 It’s not going to be another model that writes better Python.
 

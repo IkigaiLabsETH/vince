@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Collection Name
 
 OpenSea Slug: `collection-slug`
@@ -33,7 +34,7 @@ OpenSea Slug: `collection-slug`
 
 ---
 
-*Last updated: [date]*
+_Last updated: [date]_
 
 ## Related
 

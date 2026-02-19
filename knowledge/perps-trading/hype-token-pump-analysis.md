@@ -3,7 +3,9 @@ tags: [trading, derivatives, perps]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
+
 ## Metadata
+
 **Source**: Direct Input | chat://direct-input/1769649330875
 **Category**: perps-trading
 **Word Count**: 474

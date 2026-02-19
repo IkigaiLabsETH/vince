@@ -4,13 +4,15 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179745394.The Deleted Line Of Code
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: macro-economy
 **Word Count**: 1,155
 **Tags**: #bitcoin #sol #inflation #substack
+
 ---
 
 Money is the operating system of human civilization. For most of recorded history, that operating system ran on a single line of code: scarcity enforced by physics. Gold was heavy, rare, and impossible to counterfeit at scale. That single constraint created the closest thing humanity ever had to honest accounting. Empires rose and fell, but as long as the ledger could not be inflated at will, time preference stayed low, savings compounded across generations, and civilization could build cathedrals that took centuries to finish.

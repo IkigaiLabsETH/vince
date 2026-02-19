@@ -5,16 +5,19 @@ Short checklist for running the orchestrator and the 8-pillar workspace flows.
 ## Research agents (orchestrator)
 
 1. **Install OpenClaw**
+
    ```bash
    npm install -g openclaw
    ```
 
 2. **Start the gateway** (required for CLI agent runs)
+
    ```bash
    openclaw gateway start
    ```
 
 3. **Run the orchestrator** (from repo root)
+
    ```bash
    node openclaw-agents/orchestrator.js alpha SOL BTC
    node openclaw-agents/orchestrator.js market ETH
@@ -22,6 +25,7 @@ Short checklist for running the orchestrator and the 8-pillar workspace flows.
    node openclaw-agents/orchestrator.js news
    node openclaw-agents/orchestrator.js all SOL BTC ETH
    ```
+
    Output is printed and saved to `openclaw-agents/last-briefing.md`.
 
 4. **Optional:** Configure OpenClaw agents named `alpha`, `market`, `onchain`, `news` in your OpenClaw workspace so the orchestrator can target them. If not configured, the CLI falls back to the default agent or returns a short message; use VINCE/plugin-openclaw for in-app research with real data.
@@ -31,36 +35,43 @@ Short checklist for running the orchestrator and the 8-pillar workspace flows.
 Run in order. Each writes or updates files under `openclaw-agents/workspace/` (and optionally sync to `knowledge/teammate/` and `~/.openclaw/workspace/`).
 
 1. **Brain** (operator mapping, init)
+
    ```bash
    bun run openclaw-agents/brain/run-brain.ts
    ```
 
 2. **Muscles** (system architect: models, routing, cost)
+
    ```bash
    bun run openclaw-agents/muscles/run-muscles.ts
    ```
 
 3. **Bones** (codebase intelligence: skills/, TOOLS, AGENTS, etc.)
+
    ```bash
    bun run openclaw-agents/bones/run-bones.ts
    ```
 
 4. **DNA** (behavioral architect)
+
    ```bash
    bun run openclaw-agents/dna/run-dna.ts
    ```
 
 5. **Soul** (personality architect)
+
    ```bash
    bun run openclaw-agents/soul/run-soul.ts
    ```
 
 6. **Eyes** (activation architect)
+
    ```bash
    bun run openclaw-agents/eyes/run-eyes.ts
    ```
 
 7. **Heartbeat** (evolution architect)
+
    ```bash
    bun run openclaw-agents/heartbeat/run-heartbeat.ts
    ```

@@ -4,13 +4,15 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181524897.Art Of Prompting
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: perps-trading
 **Word Count**: 1,232
 **Tags**: #eth #defi #substack
+
 ---
 
 In an era where artificial intelligence has become a ubiquitous thinking partner, the old adage “garbage in, garbage out” has evolved into something more profound: your AI is only as transformative as the prompts you feed it. The collection of prompts shared here exemplifies this truth brilliantly. They are not mere questions or requests; they are sophisticated tools for self-reprogramming, drawing heavily from the philosophical frameworks popularized by thinkers like Naval Ravikant, with echoes of Elon Musk’s first-principles rigor and Jeff Bezos’s long-term orientation.
@@ -23,61 +25,47 @@ At their heart, many of these prompts channel Naval Ravikant’s seminal ideas o
 
 For instance:
 
-- 
-“Based on my background, interests, and skills, identify forms of specific knowledge I can’t be trained out of. Suggest paths to monetize them using code, media, or capital.” This directly invokes Naval’s equation: wealth = specific knowledge + accountability + leverage (via code/media/capital).
+- “Based on my background, interests, and skills, identify forms of specific knowledge I can’t be trained out of. Suggest paths to monetize them using code, media, or capital.” This directly invokes Naval’s equation: wealth = specific knowledge + accountability + leverage (via code/media/capital).
 
 ## Main
 
-- 
-“Given my goals, show me permissionless ways to build and distribute value without asking for approval.” A nod to permissionless leverage—the most democratic form, where tools like software or content creation let anyone scale without bosses or credentials.
+- “Given my goals, show me permissionless ways to build and distribute value without asking for approval.” A nod to permissionless leverage—the most democratic form, where tools like software or content creation let anyone scale without bosses or credentials.
 
-- 
-“Show me how to combine media, code, or systems so my output compounds while I sleep.” Pure compounding leverage: assets that work autonomously.
+- “Show me how to combine media, code, or systems so my output compounds while I sleep.” Pure compounding leverage: assets that work autonomously.
 
 Other prompts probe deeper into self-deception and optimization:
 
-- 
-“Which of my activities feel productive but create little leverage? What high-impact actions feel uncomfortable but matter more?” This forces confrontation with busywork versus true multipliers.
+- “Which of my activities feel productive but create little leverage? What high-impact actions feel uncomfortable but matter more?” This forces confrontation with busywork versus true multipliers.
 
-- 
-“What bets have limited downside, massive upside, and benefit from long-term patience? Filter out crowded paths.” Echoing asymmetric risk-reward, where patience turns small inputs into exponential gains.
+- “What bets have limited downside, massive upside, and benefit from long-term patience? Filter out crowded paths.” Echoing asymmetric risk-reward, where patience turns small inputs into exponential gains.
 
-- 
-“If I commit to this path for 10 years, what compounds? What stays fragile?” A long-term lens reminiscent of Bezos’s emphasis on decisions that strengthen over decades, avoiding short-term fragility.
+- “If I commit to this path for 10 years, what compounds? What stays fragile?” A long-term lens reminiscent of Bezos’s emphasis on decisions that strengthen over decades, avoiding short-term fragility.
 
 The more ambitious ones role-play the AI as a “thinking coach” trained on Musk, Ravikant, and Bezos, or a “high-performance architect.” This meta-layer reprograms not just actions but beliefs and habits—rewiring for “god-tier” living through daily systems, avoided people, and mastered disciplines.
 
 What makes these prompts exceptional is their precision and introspection. They aren’t vague (”give me advice”); they’re diagnostic tools:
 
-- 
-Auditing time-vs-leverage traps.
+- Auditing time-vs-leverage traps.
 
-- 
-Reframing blame into agency.
+- Reframing blame into agency.
 
-- 
-Distinguishing status from genuine wealth.
+- Distinguishing status from genuine wealth.
 
-- 
-Prioritizing freedom over ego.
+- Prioritizing freedom over ego.
 
 In prompt engineering terms, they excel by:
 
-- 
-Providing clear roles for the AI (e.g., “time-leverage strategist”).
+- Providing clear roles for the AI (e.g., “time-leverage strategist”).
 
-- 
-Supplying personal context hooks ([insert goal], “my current project”).
+- Supplying personal context hooks ([insert goal], “my current project”).
 
-- 
-Demanding structured outputs (blueprints, rewrites, filters).
+- Demanding structured outputs (blueprints, rewrites, filters).
 
-- 
-Focusing on uncomfortable truths for real growth.
+- Focusing on uncomfortable truths for real growth.
 
 In a world flooded with superficial self-help, these prompts stand out because they treat AI as a Socratic mirror—forcing clarity on leverage gaps, fragile commitments, and misaligned ambitions. They embody the shift from average to “billionaire thinking”: not chasing money directly, but building antifragile systems of knowledge, leverage, and compounding.
 
-The lesson? Great prompt design is itself a form of leverage. It turns a general-purpose AI into a personalized oracle for asymmetric self-improvement. As AI evolves, those who master prompting like this won’t just get better answers—they’ll engineer better lives, one precise query at a time. 
+The lesson? Great prompt design is itself a form of leverage. It turns a general-purpose AI into a personalized oracle for asymmetric self-improvement. As AI evolves, those who master prompting like this won’t just get better answers—they’ll engineer better lives, one precise query at a time.
 
 In a world obsessed with credentials, MBAs, and hustle porn, Naval Ravikant drops a quiet truth bomb: the most valuable knowledge isn’t the kind you can be trained for. It’s the kind no bootcamp, no university, no corporate onboarding can replicate. He calls it specific knowledge—and if you’re serious about building wealth without selling your soul (or your time), it’s the single most important concept to internalize.
 

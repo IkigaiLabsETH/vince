@@ -13,6 +13,7 @@ Biarritz combines Belle Époque grandeur with surf culture and Basque authentici
 ## 5-Star Hotels - Biarritz
 
 ### Hôtel du Palais
+
 - **Location**: Grande Plage beachfront
 - **Style**: Imperial palace, Napoleon III era
 - **Dining**: La Rotonde (fine dining), Villa Eugénie (casual)
@@ -21,6 +22,7 @@ Biarritz combines Belle Époque grandeur with surf culture and Basque authentici
 - **Character**: Grand European palace hotel tradition
 
 ### Le Regina Biarritz
+
 - **Location**: Above Grande Plage
 - **Style**: Art Deco palace
 - **Dining**: Contemporary French restaurant
@@ -28,6 +30,7 @@ Biarritz combines Belle Époque grandeur with surf culture and Basque authentici
 - **Notes**: Recently renovated, sophisticated alternative to Palais
 
 ### Sofitel Biarritz Le Miramar Thalassa
+
 - **Location**: Seafront, near city center
 - **Style**: Contemporary wellness resort
 - **Dining**: L'Océan restaurant
@@ -35,6 +38,7 @@ Biarritz combines Belle Époque grandeur with surf culture and Basque authentici
 - **Notes**: For wellness-focused stays, Atlantic healing
 
 ### Beaumanoir
+
 - **Location**: Residential Biarritz
 - **Style**: Intimate villa hotel
 - **Dining**: Breakfast only, restaurant partnerships
@@ -44,12 +48,14 @@ Biarritz combines Belle Époque grandeur with surf culture and Basque authentici
 ## Boutique & Charme Hotels
 
 ### Hôtel Les Almadies
+
 - **Location**: Central Biarritz
 - **Style**: Surf-luxe boutique
 - **Features**: Design interiors, intimate scale
 - **Notes**: Contemporary Biarritz character
 
 ### La Maison du Lierre
+
 - **Location**: Near Halles market
 - **Style**: Charming townhouse
 - **Features**: Garden terrace, local feel
@@ -58,6 +64,7 @@ Biarritz combines Belle Époque grandeur with surf culture and Basque authentici
 ## Basque Country (Beyond Biarritz)
 
 ### Les Prés d'Eugénie (Eugénie-les-Bains)
+
 - **Location**: Landes, 1 hour from Biarritz
 - **Style**: Michel Guérard's temple of gastronomy
 - **Dining**: 3 Michelin stars (Les Prés d'Eugénie)
@@ -65,6 +72,7 @@ Biarritz combines Belle Époque grandeur with surf culture and Basque authentici
 - **Notes**: Pilgrimage destination for gastronomes
 
 ### Château de Brindos
+
 - **Location**: Anglet, near airport
 - **Style**: Lakeside château
 - **Dining**: Fine dining restaurant
@@ -72,6 +80,7 @@ Biarritz combines Belle Époque grandeur with surf culture and Basque authentici
 - **Notes**: Unique setting, good airport proximity
 
 ### Maison Tamarin
+
 - **Location**: Guéthary (between Biarritz and Saint-Jean-de-Luz)
 - **Style**: Surf-inspired boutique
 - **Features**: Ocean views, relaxed luxury
@@ -80,11 +89,13 @@ Biarritz combines Belle Époque grandeur with surf culture and Basque authentici
 ## San Sebastián Proximity
 
 Consider staying in Biarritz for day trips to:
+
 - **San Sebastián** (30 min): Pintxos, 3-star restaurants
 - **Hondarribia** (25 min): Charming border town
 - **Getaria** (45 min): Fishing village, grilled fish
 
 Or base in San Sebastián:
+
 - **Hotel Maria Cristina** (5-star palace)
 - **Akelarre** (3 Michelin stars with rooms)
 - **Arzak** (nearby, legendary Basque cuisine)
@@ -92,22 +103,27 @@ Or base in San Sebastián:
 ## Selection Tips
 
 ### For Grand Hotel Experience
+
 - Hôtel du Palais (imperial grandeur)
 - Le Regina (Art Deco sophistication)
 
 ### For Wellness Focus
+
 - Sofitel Le Miramar (thalassotherapy)
 - Les Prés d'Eugénie (thermal + gastronomy)
 
 ### For Gastronomy Pilgrimage
+
 - Les Prés d'Eugénie (Michel Guérard)
 - Base for San Sebastián day trips
 
 ### For Surf + Luxury Balance
+
 - Les Almadies (contemporary)
 - Maison Tamarin (Guéthary)
 
 ### For Romantic Intimacy
+
 - Beaumanoir (villa privacy)
 - Château de Brindos (lakeside château)
 
@@ -121,12 +137,14 @@ Or base in San Sebastián:
 ## Local Experiences
 
 ### Food & Wine
+
 - Bayonne ham and chocolate
 - Espelette peppers
 - Irouléguy wines (Basque vineyards)
 - Pintxos tours
 
 ### Activities
+
 - Surfing (Grande Plage, Côte des Basques)
 - Golf (multiple courses)
 - Hiking (La Rhune, Pyrenees foothills)

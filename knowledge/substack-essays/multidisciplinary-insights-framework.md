@@ -5,16 +5,19 @@ last_reviewed: 2026-02-17
 ---
 
 ---
+
 title: "Integrating Multidisciplinary Insights: A Framework from Ten Key WorksCharlie Munger's Poor Charlie'..."
 source: chat://vince-upload/1770236079727
 category: substack-essays
 ingestedWith: vince-upload
 tags:
-  - vince-upload
-  - user-submitted
-  - chat
-created: 2026-02-04T20:14:39.727Z
-wordCount: 646
+
+- vince-upload
+- user-submitted
+- chat
+  created: 2026-02-04T20:14:39.727Z
+  wordCount: 646
+
 ---
 
 # Integrating Multidisciplinary Insights: A Framework from Ten Key WorksCharlie Munger's Poor Charlie'...

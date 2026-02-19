@@ -4,13 +4,15 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # 180757352.Jacob Cohen
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: the-good-life
 **Word Count**: 1,072
 **Tags**: #eth #sol #nft #substack
+
 ---
 
 The first time you hold a pair of Jacob Cohen jeans, something feels wrong. They are too soft, too heavy, too deliberate. The fabric has the matte depth of a Brioni suit, the pockets are lined in cashmere, and there is a faint, stubborn trace of patchouli and Indian sandalwood rising from the leather patch. These are not jeans in the American sense. They are the opposite of everything Levi Strauss ever imagined when he riveted copper into canvas for gold-rush miners. They are the quiet, obstinate rebellion of a Venetian family who decided that if something is worth wearing every day, it had better be made like couture.

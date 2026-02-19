@@ -10,4 +10,3 @@ Bitcoin L2 ecosystem, rollups, sidechains, state channels
 - bitcoin-l2-landscape.md
 - lightning-network.md
 - stacks-bitvm.md
-

@@ -3,6 +3,7 @@ tags: [lifestyle, bitcoin, kelly]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Bitcoin Personalities: The Pioneers and Evangelists
 
 ## Hal Finney: The First Believer
@@ -19,7 +20,7 @@ Hal saw Bitcoin not just as a financial revolution, but as a moral one. His opti
 
 Andreas Antonopoulos is Bitcoin's greatest translator—a technologist who became a storyteller, a professor who became a preacher of financial sovereignty. Where the protocol speaks in hashes and nonce values, Andreas speaks in metaphors, anecdotes, and punchlines that cut through complexity like a node through noise.
 
-His gift has always been clarity. Not just technical clarity, but moral clarity. In a space often dominated by greed or tribalism, Andreas brought something rare: principled education. He didn't chase tokens, launch a fund, or ride hype cycles. Instead, he gave us *Mastering Bitcoin*, *The Internet of Money*, and hundreds of talks that lit a fire under the global Bitcoin community.
+His gift has always been clarity. Not just technical clarity, but moral clarity. In a space often dominated by greed or tribalism, Andreas brought something rare: principled education. He didn't chase tokens, launch a fund, or ride hype cycles. Instead, he gave us _Mastering Bitcoin_, _The Internet of Money_, and hundreds of talks that lit a fire under the global Bitcoin community.
 
 He made private keys feel personal. He made seed phrases sacred. He made self-custody not just an option, but a responsibility. Andreas understood that Bitcoin is not just about price—it's about power. It's not just about charts—it's about choice.
 
@@ -103,4 +104,4 @@ Meanwhile, Michael Saylor watched from afar, initially skeptical but increasingl
 
 Satoshi Nakamoto's original vision, Hal Finney's cryptographic ingenuity, Andreas Antonopoulos's real-world advocacy, and Michael Saylor's economic insight have intertwined to forge a powerful investment narrative. Bitcoin stands as both a technological breakthrough and a profound financial innovation, uniquely suited for an age of uncertainty and digital transformation.
 
-As new investors step into this narrative, they carry forward a legacy begun by a handful of visionaries—a legacy defined by decentralization, resilience, and freedom from centralized trust. The next chapters, yet unwritten, promise to be just as revolutionary. 
+As new investors step into this narrative, they carry forward a legacy begun by a handful of visionaries—a legacy defined by decentralization, resilience, and freedom from centralized trust. The next chapters, yet unwritten, promise to be just as revolutionary.

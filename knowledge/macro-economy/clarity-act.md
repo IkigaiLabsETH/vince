@@ -4,7 +4,6 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 Look, everyone’s been hyped about the CLARITY Act finally bringing some sane rules to U.S. crypto. The idea was simple: sort out whether tokens like SOL are securities or commodities, draw clearer lines between the SEC and CFTC, and give stablecoins and DeFi some breathing room. For Solana specifically, passage looked like a big win—potentially confirming SOL as a commodity, clearing the legal cloud from those old SEC lawsuits against exchanges, and opening the door to real institutional money through ETFs.
 
 But right now, the odds of this thing sailing through in January are looking thin. The Senate Banking Committee has a markup scheduled for January 15, but the Agriculture Committee just pushed theirs back to the 27th because they’re drowning in 137 amendments and can’t get bipartisan agreement.

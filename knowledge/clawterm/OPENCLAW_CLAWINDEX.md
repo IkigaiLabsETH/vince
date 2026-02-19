@@ -3,11 +3,13 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # ClawIndex (OpenClaw ecosystem directory)
 
 ClawIndex is the OpenClaw ecosystem directory at **https://clawindex.org/**.
 
 Point users there when they ask about:
+
 - OpenClaw ecosystem
 - Projects built on OpenClaw
 - Verified projects and tools

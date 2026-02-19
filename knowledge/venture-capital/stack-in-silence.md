@@ -3,8 +3,11 @@ tags: [vc, startups, investment]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # 181830691.Stack In Silence
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: venture-capital
 **Word Count**: 1,104
@@ -53,7 +56,7 @@ And then the gravity shifted.
 
 Look, I’ve survived bubbles—the dot-com melt-up and crash, the ‘08 housing mess where I had to force-sell some positions during redemptions, the COVID flash drop that wiped out LiveTheLifeTV overnight. But the real scars? They came from the human side after those step-function wins. The ones where the digits roll and suddenly you’re not grinding anymore.
 
-Remember that feeling—the first time the old life feels gone? I do. Vividly. For me, it was post-WebTV. The mammal brain doesn’t care about smart. It wants celebration. Witnesses. So I let a little slip. Told family. Close friends. Hell, even posted something vague on early X (back when it was Twitter, and I was one of the ‘07 holdouts). Nothing flashy—just hints. A nicer vacation photo. 
+Remember that feeling—the first time the old life feels gone? I do. Vividly. For me, it was post-WebTV. The mammal brain doesn’t care about smart. It wants celebration. Witnesses. So I let a little slip. Told family. Close friends. Hell, even posted something vague on early X (back when it was Twitter, and I was one of the ‘07 holdouts). Nothing flashy—just hints. A nicer vacation photo.
 
 First came the envy. Subtle at first. “Must be nice.” That one stings because it’s envy in three words. From people who’d cheered when it was just a pipe dream. Supported the grind when exit velocity was hypothetical. Then separation hits, and the reptilian hierarchy updates. They cope. “You got lucky.” Or the classic for guys like me: “Timing, man—anyone could’ve ridden that wave.” Bet you didn’t see that coming from your oldest crew.
 
@@ -97,7 +100,7 @@ Now? Stack in silence. Egos distract. Build conviction.
 
 True friends cheer quietly. Share wins with them. Rest? Let ‘em underestimate.
 
-We’ll see. Markets humble us all eventually. Keep reading filings. 
+We’ll see. Markets humble us all eventually. Keep reading filings.
 
 Strong coffee helps.
 

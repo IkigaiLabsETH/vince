@@ -13,11 +13,13 @@ Kelly's travel philosophy: **Relais & Châteaux** is the gold standard for chara
 ## Relais & Châteaux — The Priority List
 
 ### Southwest France (home turf, know it best)
+
 - **Les Prés d'Eugénie** (Eugénie-les-Bains) — Michel Guérard, 3 Michelin stars. The OG wellness-meets-gastronomy. Spa + cuisine minceur + grand dining.
 - **Le Saint-James** (Bouliac, near Bordeaux) — Jean Nouvel architecture, vineyard views, one star.
 - **Les Sources de Caudalie** (Bordeaux-Martillac) — Vinothérapie spa in the Pessac-Léognan vineyards. Wine + wellness + terroir.
 
 ### France — Beyond Southwest
+
 - **Château de Bagnols** (Beaujolais) — Medieval castle, incredible restoration. Wine country without Bordeaux prices.
 - **La Bastide de Gordes** (Provence) — Perched village, lavender fields, serious spa.
 - **Le Domaine des Étangs** (Charente) — Contemporary art collection in a medieval estate. Quiet, design-forward.
@@ -25,6 +27,7 @@ Kelly's travel philosophy: **Relais & Châteaux** is the gold standard for chara
 - **La Côte Saint-Jacques** (Burgundy, Joigny) — Jean-Michel Lorain, river setting, 2 stars.
 
 ### Europe
+
 - **Schloss Elmau** (Bavaria, Germany) — Alps, music, spa. G7 summit venue. Two restaurants, both excellent.
 - **Il Borro** (Tuscany, Italy) — Ferragamo estate. Medieval village, organic wine, Tuscan hills.
 - **Vila Joya** (Algarve, Portugal) — 2 Michelin stars on the beach. Rare combination.
@@ -33,17 +36,20 @@ Kelly's travel philosophy: **Relais & Châteaux** is the gold standard for chara
 - **Hacienda de San Rafael** (Andalusia, Spain) — Olive groves, horses, rural luxury.
 
 ### Africa & Indian Ocean
+
 - **La Résidence** (Franschhoek, South Africa) — Winelands, mountain backdrop, 5-star. Pairs with the Cape Town hotel knowledge.
 - **Ellerman House** (Cape Town) — Art collection, boutique, Bantry Bay views.
 - **Royal Malewane** (Greater Kruger, South Africa) — Big Five safari, Relais & Châteaux standards.
 - **Constance Le Prince Maurice** (Mauritius) — Overwater suites, spice gardens.
 
 ### Asia & Far East
+
 - **Aman Tokyo** — Minimalist Japanese luxury. The ikigai connection is obvious.
 - **Hoshinoya Kyoto** — Arrive by boat, traditional ryokan reimagined. R&C member.
 - **Amanpuri** (Phuket) — The original Aman. Coconut grove, Andaman Sea.
 
 ### Americas
+
 - **Hacienda AltaGracia** (Costa Rica) — Auberge Resorts, adventure + wellness + jungle. Pairs with Costa Rica real estate knowledge.
 - **Meadowood** (Napa Valley) — Was 3 Michelin stars. Wine country at its best.
 - **Blanket Bay** (New Zealand) — Lord of the Rings landscape, intimate lodge.

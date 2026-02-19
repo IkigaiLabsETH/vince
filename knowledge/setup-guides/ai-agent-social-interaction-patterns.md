@@ -1,9 +1,9 @@
 ## Metadata
+
 **Source**: Direct Input | chat://direct-input/1769811682910
 **Category**: setup-guides
 **Word Count**: 698
 **Tags**: #user-submitted #direct-input #chat #tweet-like
-
 
 # Moltbook: AI Agents Creating Their Own Social Network
 

@@ -16,7 +16,7 @@ Amsterdam 5-star hotels combine canal-side heritage and design: museums, canals,
 - **The Pulitzer Amsterdam** — Canal belt; 25 canal houses, gardens, bar.
 - **Waldorf Astoria Amsterdam** — Herengracht; six canal palaces, Gucci store, spa.
 - **De L'Europe Amsterdam** — Amstel; Florentine style, Michelin dining, river views.
-- **Sofitel Legend The Grand Amsterdam** — Dam; historic, Bridges (2*), garden.
+- **Sofitel Legend The Grand Amsterdam** — Dam; historic, Bridges (2\*), garden.
 - **Mandarin Oriental Amsterdam** — Nine Streets; canal-side, design.
 - **InterContinental Amstel Amsterdam** — Amstel River; grand, La Rive dining.
 - **Hotel TwentySeven** — Dam Square; suites only, luxury, central.

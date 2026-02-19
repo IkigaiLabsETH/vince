@@ -8,4 +8,3 @@ Go-to-market strategy, launch planning
 
 - positioning.md
 - substack-editorial.md
-

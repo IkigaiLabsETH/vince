@@ -3,6 +3,7 @@ tags: [lifestyle, bitcoin, kelly]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Bitcoin Cycles (Satoshis app page)
 
 Strategic roadmap to 2030 and beyond. Bitcoin leads the market—your guide to accumulation and distribution with actionable insights for every phase.
@@ -14,6 +15,7 @@ Strategic roadmap to 2030 and beyond. Bitcoin leads the market—your guide to a
 **Systematic Profit Taking:** Start with 20% of your long-term bags when Bitcoin approaches ATH. If alts have performed well, this might cover your entire initial investment. Continue taking 10-20% profits at each consolidation phase.
 
 **Key Principles:**
+
 - 2023-2024: Stack long-term bags (accumulation phase)
 - 2025-2026: Scale out systematically (distribution phase)
 - Moonbags: Keep 5-10% untouched for potential 1000x gains

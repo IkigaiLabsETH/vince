@@ -4,22 +4,24 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180141178.Bitcoin Vs Bricks
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 770
 **Tags**: #bitcoin #eth #sol #inflation #substack
+
 ---
 
 I was the poster child for the old playbook. At 18 I bought a shitty beach-front studio in Europe with 100 % financing because it was literally the only thing I could afford. For the next 20 years I grinded: every spare euro went into that mortgage, into renovations, into property taxes, into the endless surprise bills that come with salt air and concrete cancer. I told myself it was “forced savings” and that owning something on the ocean would one day make me rich.
 
-Fast-forward two decades. The flat is paid off. I swapped it for a renovator’s house down south and threw another five figures at a beach-front plot on the best left point-break in Central America. 
+Fast-forward two decades. The flat is paid off. I swapped it for a renovator’s house down south and threw another five figures at a beach-front plot on the best left point-break in Central America.
 
 ## Context
 
-Lifestyle score: 10/10. 
+Lifestyle score: 10/10.
 
 Financial score? Laughable.
 
@@ -35,27 +37,24 @@ And I never looked back.
 
 **The 2025 Housing Reality Check**
 
-Median existing-home price in the U.S. right now: $415,200.**Median first-time buyer age: 40 (also a new all-time high).
+Median existing-home price in the U.S. right now: $415,200.\*\*Median first-time buyer age: 40 (also a new all-time high).
 National price-to-income ratio: 5.0× and climbing.
 
 In the places surfers, digital nomads and anyone under 40 actually want to live? Try 8–12× income. That’s not a market. That’s a moat with a “For Sale” sign on it.
 
 My Personal Math of Regret
 
-- 
-20-year mortgage @ average 4.2 % on the original flat → ~€240k in interest 
+- 20-year mortgage @ average 4.2 % on the original flat → ~€240k in interest
 
-- 
-Renovations, taxes, insurance, community fees → another €180k+
+- Renovations, taxes, insurance, community fees → another €180k+
 
-- 
-Opportunity cost of the money that went into the mortgage instead of MAG7 stocks or Bitcoin → easily north of €1.5M today
+- Opportunity cost of the money that went into the mortgage instead of MAG7 stocks or Bitcoin → easily north of €1.5M today
 
-Net result? 
+Net result?
 
 I own some nice memories and a paid-off flat that kept pace with inflation… barely. Meanwhile the kid who rented a room, lived on rice and put €500 a month into Bitcoin starting in 2013 is quietly looking at eight-figure net worth.
 
-The Orange-Pill Moment**
+The Orange-Pill Moment\*\*
 
 The second I actually understood Bitcoin’s fixed supply and verifiable scarcity, real estate stopped looking like an asset and started looking like a very pretty, very expensive liability.
 
@@ -71,12 +70,12 @@ After 8–10 years of grinding you finally own something worth €600–800k… 
 
 Path B – The one I wish 2013-me knew about
 
-€500 into 5 % yield (T-bills, whatever)**€500 DCA into Bitcoin at a very conservative 21 % CAGR
+€500 into 5 % yield (T-bills, whatever)\*\*€500 DCA into Bitcoin at a very conservative 21 % CAGR
 → After 8 years you have ~€215k liquid, no leaks, no tenants, no 3 a.m. plumbing calls. Buy the same house cash, or a better one, at age 36 instead of 46.
 
 That’s an entire decade of your life bought back.
 
-The Crux Nobody Wants to Admit**
+The Crux Nobody Wants to Admit\*\*
 
 Real estate was the greatest middle-class wealth transfer mechanism of the 20th century. Bitcoin is shaping up to be the same for the 21st — except this time the entry ticket is $10, not a 20 % down-payment and perfect credit.
 

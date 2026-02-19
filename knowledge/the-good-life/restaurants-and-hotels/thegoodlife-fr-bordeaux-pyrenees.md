@@ -1,5 +1,14 @@
 ---
-tags: [restaurants, hotels, lifestyle, the-good-life-magazine, bordeaux, pyrenees, landes]
+tags:
+  [
+    restaurants,
+    hotels,
+    lifestyle,
+    the-good-life-magazine,
+    bordeaux,
+    pyrenees,
+    landes,
+  ]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 source: https://thegoodlife.fr/

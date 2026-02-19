@@ -4,9 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 Remember those late-night scrolls through real estate listings, drooling over panoramic sea-view villas on Cap Ferrat or Cap d’Antibes? The ones with infinity pools bigger than our current one, gardens that make our 6000 sqm look modest, and living space that screams “we’ve made it”? Yeah, me too. I’ve been deep in the research rabbit hole again, mapping out our perfect slice of the French Riviera – that magical stretch from Nice to Cannes, Monaco, Saint-Tropez, and those hidden capes in between.
 
 We’re talking prime spots loaded with 5-star palaces (Grand-Hôtel du Cap-Ferrat, Hôtel du Cap-Eden-Roc, Hôtel de Paris in Monaco – you know, the icons) and a ridiculous density of Michelin-starred restaurants (Le Louis XV with its 3 stars, La Chèvre d’Or gazing over the sea). Everything within a lazy 1-hour drive, max.

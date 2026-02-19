@@ -3,9 +3,11 @@ tags: [rwa, tokenization, institutional]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 ## Ondo Finance: Product Deep Dive
 
 **OUSG (Ondo Short-Term U.S. Government Treasuries)** — $717M AUM
+
 - Tokenized exposure to short-term Treasuries, primarily through BlackRock BUIDL
 - U.S. Qualified Purchasers only | $100K minimum | 3.28% yield
 - Available on Ethereum, Solana, Polygon, Arbitrum
@@ -13,6 +15,7 @@ last_reviewed: 2026-02-15
 - Fee: 0.15% management, no entry/exit fees
 
 **USDY (U.S. Dollar Yield Token)** — $1.29B AUM
+
 - Yield-bearing stablecoin alternative backed by short-term Treasuries and bank deposits
 - Non-U.S. investors (Reg S) | $1 minimum | 3.49% yield
 - Available on 12 chains—widest distribution of any tokenized Treasury product
@@ -21,17 +24,20 @@ last_reviewed: 2026-02-15
 - Competes directly with traditional stablecoins by offering yield pass-through
 
 **Tokenized Equities (Announced)**
+
 - Plans to tokenize U.S. equity exposure (e.g., S&P 500, individual stocks) for global investors
 - Would extend the Reg S framework used by USDY to equity products
 - Execution depends on regulatory clarity and brokerage partnerships
 
 **Ondo Chain**
+
 - Planned L1 blockchain purpose-built for tokenized securities
 - Designed to combine institutional compliance (KYC at the chain level) with DeFi composability
 - Would give Ondo control over the full issuance-to-settlement stack
 - Risk: building an L1 is expensive, and multi-chain deployment already works well
 
 **Market Position:**
+
 - Combined AUM (OUSG + USDY): ~$2B — second only to BlackRock BUIDL as a single issuer
 - Key advantage: only major issuer offering both institutional (OUSG) and retail-accessible (USDY) products
 - Key risk: heavy dependence on BUIDL as underlying for OUSG creates single-counterparty exposure
@@ -41,4 +47,4 @@ last_reviewed: 2026-02-15
 
 ---
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

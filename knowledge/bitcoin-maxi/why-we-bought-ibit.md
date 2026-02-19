@@ -4,26 +4,28 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181324143.Why We Bought Ibit
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 1,575
 **Tags**: #bitcoin #eth #solana #sol #defi #substack
+
 ---
 
 I’m staring at a push notification that just says “Another French crypto guy lost two fingers.” Again. And something in my chest just… snaps. Not dramatic, not cinematic. Just this quiet, exhausted “fuck it.”
 
-Look, I’ve been holding my own keys since 2013. Back when Mt. Gox was still a running joke and “cold storage” sounded badass instead of suicidal. 
+Look, I’ve been holding my own keys since 2013. Back when Mt. Gox was still a running joke and “cold storage” sounded badass instead of suicidal.
 
 ## Context
 
 “Not your keys, not your coins, plebs.” Yeah, real cute until the masked guys with bolt cutters show up at your kid’s preschool. France, man. France went full horror movie this year. Ledger’s own co-founder gets his finger sawed off on camera because some animals wanted a ransom in Bitcoin. Then it’s the Paymium CEO’s pregnant daughter dragged into a van in the 16th arrondissement. Then some poor bastard in Vienne literally burned alive. Thirty-three reported wrench attacks in one country in one year. Six of them left people missing digits. And that’s just the ones we heard about.
 
 And the punchline? The French state basically handed the criminals the guest list. Two million taxpayers’ data dumped on the dark web for three grand. Some tax clerk in Seine-Saint-Denis selling addresses to gangs for €800 a pop. And now — cherry on this shit sundae — they’re forcing anyone with more than five grand in a self-custody wallet to register the damn addresses with the tax man. Congratulations, here’s your neon “ROB ME” sign, courtesy of the Republic.
-> 
-I held out longer than I should have. Kept telling myself “institutional custody is for boomers who still think Satoshi is a type of sushi.” 
+
+> I held out longer than I should have. Kept telling myself “institutional custody is for boomers who still think Satoshi is a type of sushi.”
 
 Then one night I’m doomscrolling and see a video — blurred, thank god — of a guy I used to chat with on Crypto Twitter begging while they hold a blowtorch to his hand. And I just… closed the laptop, opened Fidelity, and bought a disgusting amount of IBIT before the market opened.
 
@@ -43,13 +45,13 @@ Tell me if you sleep better. Or if I’m just getting old and scared.
 
 Either way, I still have all ten fingers. For now, that’s enough.
 
-Part II: Wait, Whose Fault Is This Exactly? 
+Part II: Wait, Whose Fault Is This Exactly?
 
-Are we suing Ledger? Should we? Short answer: If your mailing address ended up in that 2020 Shopify hack of theirs and you’ve been getting death-threat postcards ever since, yeah, go join whatever class-action carcass is still twitching in California or Paris. They fucked up, they paid a fine, they settled with some people, and they still get to sell $300 metal sticks to newbies who think “air-gapped” means the bad guys can’t find their apartment building. 
+Are we suing Ledger? Should we? Short answer: If your mailing address ended up in that 2020 Shopify hack of theirs and you’ve been getting death-threat postcards ever since, yeah, go join whatever class-action carcass is still twitching in California or Paris. They fucked up, they paid a fine, they settled with some people, and they still get to sell $300 metal sticks to newbies who think “air-gapped” means the bad guys can’t find their apartment building.
 
 That breach was real, it was ugly, and it definitely made life spicier for a lot of European holders who later got very unwelcome visitors.
 
-But here’s where I’m gonna piss off the pitchfork crowd: that old leak is not the smoking gun for the 2025 finger-chopping festival. The kidnappings that finally broke me? Those were turbocharged by two million French taxpayers’ home addresses getting sold for the price of a PlayStation on the dark web, plus some civil servant in Seine-Saint-Denis who thought organized crime needed a loyalty card. Ledger’s name isn’t on those spreadsheets. The tax authority’s is. 
+But here’s where I’m gonna piss off the pitchfork crowd: that old leak is not the smoking gun for the 2025 finger-chopping festival. The kidnappings that finally broke me? Those were turbocharged by two million French taxpayers’ home addresses getting sold for the price of a PlayStation on the dark web, plus some civil servant in Seine-Saint-Denis who thought organized crime needed a loyalty card. Ledger’s name isn’t on those spreadsheets. The tax authority’s is.
 
 The random defiscalization sites that got popped are. The state that can’t keep its own citizens’ data locked down is.
 
@@ -87,7 +89,7 @@ So there I was, paying the same state that leaked two million addresses and forc
 
 The cherry? If I’d kept the coins in the Ledger another year, paid zero capital gains (because no disposal), and just… you know, prayed nobody sawed my hand off, I’d still have the full stack. Instead I paid Paris to let me sleep without a baseball bat under the pillow.
 
-I laughed. Then I cried. 
+I laughed. Then I cried.
 
 Then I sent the wire before the market opened because apparently I’m now the exact kind of spineless boomer I used to roast on CT in 2019.
 

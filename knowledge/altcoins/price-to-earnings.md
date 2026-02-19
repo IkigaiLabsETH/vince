@@ -4,7 +4,6 @@ agents: [echo, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 It started with a single Substack from Santi (Inverse Finance):
 
 “ We finally got every headline we prayed for (ETFs, Stripe stablecoins, friendly regs) and prices still went down → the “adoption = moon” trade is dead. Everything except Bitcoin is priced to absolute perfection on $1–3B of hyper-cyclical casino fees → 200–400× P/S for Ethereum, still 20–60× for Solana. That’s not “early,” that’s priced like God with zero margin of safety. Staking rewards aren’t earnings, they’re dilution. Real revenue = fees/MEV, and 95%+ of it comes from perps, memecoins, and liquidations → Vegas, not SaaS. Crypto has no real network effects yet: more users = worse UX, mercenary liquidity, forkable code, zero stickiness. We’re priced at 5–50× Meta’s market cap per user while delivering the opposite of Facebook’s flywheel. Value is leaking from L1s → L2s → apps → user aggregators. The fat-protocol thesis is inverted.”

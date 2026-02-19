@@ -3,6 +3,7 @@ tags: [regulation, compliance, legal]
 agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Crypto Tax Frameworks (US Focus)
 
 ## Capital Gains: The Baseline
@@ -46,4 +47,4 @@ The Infrastructure Investment and Jobs Act (2021) expanded "broker" to include c
 
 As of early 2026, crypto is **not** subject to wash sale rules (Section 1091 applies only to "securities" and "stock"). This allows tax-loss harvesting without the 30-day waiting period — sell at a loss, immediately rebuy. Multiple legislative proposals (including provisions in various 2024-25 budget proposals) have attempted to close this, but none have been enacted. Practitioners expect this loophole to close eventually, making aggressive harvesting a time-limited strategy.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

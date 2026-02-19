@@ -3,6 +3,7 @@ tags: [intents, ux, cross-chain]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Cross-Chain Bridges V2
 
 ## The V1 Era: Lock-and-Mint
@@ -22,6 +23,7 @@ Modern bridges flip the model. Instead of lock-and-mint, they use **liquidity ne
 Across pioneered the optimistic relayer model. When a user initiates a transfer, a relayer delivers canonical tokens on the destination within seconds, then submits a proof to Across's UMA-based optimistic oracle for reimbursement.
 
 Key design choices:
+
 - **Optimistic verification**: relayers are repaid after a dispute window unless challenged, minimizing on-chain verification costs
 - **Canonical assets**: users receive real USDC/ETH, not bridge-specific synthetics
 - **Single liquidity pool**: LPs deposit into a unified pool on Ethereum mainnet; relayers draw from destination-chain inventory and get repaid from the hub
@@ -48,20 +50,19 @@ Stargate V2's credit-based system is clever — instead of physically moving liq
 
 ## Security Tradeoffs Matrix
 
-| Model | Trust Assumption | Capital Efficiency | Exploit Surface |
-|-------|-----------------|-------------------|-----------------|
-| Lock-and-mint | Multisig/validators | Low (1:1 lock) | Smart contract + key management |
-| Optimistic (Across) | Oracle + dispute game | Medium | Oracle manipulation |
-| Validator set (deBridge) | Staked validators | Medium-High | Validator collusion |
-| Credit-based (Stargate V2) | LayerZero DVNs | High | DVN compromise |
-| Intent-based (general) | Solver solvency | Highest | Solver default risk |
+| Model                      | Trust Assumption      | Capital Efficiency | Exploit Surface                 |
+| -------------------------- | --------------------- | ------------------ | ------------------------------- |
+| Lock-and-mint              | Multisig/validators   | Low (1:1 lock)     | Smart contract + key management |
+| Optimistic (Across)        | Oracle + dispute game | Medium             | Oracle manipulation             |
+| Validator set (deBridge)   | Staked validators     | Medium-High        | Validator collusion             |
+| Credit-based (Stargate V2) | LayerZero DVNs        | High               | DVN compromise                  |
+| Intent-based (general)     | Solver solvency       | Highest            | Solver default risk             |
 
 ## Where It's Going
 
 The trend is clear: bridges are becoming invisible infrastructure behind intent layers. Users won't "use a bridge" — they'll swap tokens or interact with dApps, and solver networks will route through whichever bridge offers the best speed/cost/security profile for that specific transfer. ERC-7683 (cross-chain intent standard) is the coordination layer making this composable.
 
-*Last updated: 2026-02-15*
-
+_Last updated: 2026-02-15_
 
 ## Related
 

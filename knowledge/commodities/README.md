@@ -12,4 +12,3 @@ Commodity rotation strategies, metals, energy markets
 - gold-btc-correlation.md
 - inflation-hedging-framework.md
 - oil-macro-signals.md
-

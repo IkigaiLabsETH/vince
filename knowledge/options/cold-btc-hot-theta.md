@@ -4,13 +4,15 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180176569.Cold Btc Hot Theta
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: options
 **Word Count**: 592
 **Tags**: #btc #eth #options #perps #portfolio #substack
+
 ---
 
 Things have changed. BTC no longer sits on an exchange. Not in a hardware wallet that lives in a drawer. Not even in a single country I can drive to. The keys are split across continents, buried in structures that would take coordinated teams weeks to compromise, even if someone knew exactly where to look (which they don’t). Some shards sit in bank vaults under names that have never touched crypto. Locked behind a dead-man switch that would scatter the coins to charity if I missed two consecutive check-ins. There is no single point of failure, no single human who can be threatened, and no home safe anyone can kick in at 3 a.m. That stack will never move until I am old or the world ends, whichever comes first. It earns nothing. It simply exists, silent and unreachable, like gold buried under a mountain no map remembers.
@@ -29,7 +31,7 @@ HYPE is the alt we respect most. Best tech, best teams, best tokenomics, and a v
 
 **Hypersurface turned the wheel into a light switch**
 
-Deposit USDT0/USDH → vault auto-sells weekly covered calls or cash-secured puts → premium lands instantly → repeat. 
+Deposit USDT0/USDH → vault auto-sells weekly covered calls or cash-secured puts → premium lands instantly → repeat.
 
 No Greeks. No margin calls. No babysitting.
 
@@ -44,17 +46,13 @@ All liquid the same day. All native. All boring on purpose.
 
 The Playbook, in Plain English
 
-- 
-Core wealth → BTC, geographically distributed, unreachable
+- Core wealth → BTC, geographically distributed, unreachable
 
-- 
-Yield bucket →100 % USDT0 + USDH on HyperEVM 
+- Yield bucket →100 % USDT0 + USDH on HyperEVM
 
-- 
-Active wheel → Hypersurface HYPE vaults & HyperSurface.
+- Active wheel → Hypersurface HYPE vaults & HyperSurface.
 
-- 
-Everything else → HyperEVM-native parking earning 8–20 %,
+- Everything else → HyperEVM-native parking earning 8–20 %,
 
 ## Conclusion
 

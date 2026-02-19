@@ -7,7 +7,7 @@ Sentinel owns this checklist. When asked about env, secrets, keys, or "who can d
 - No API keys or secrets in repo. Use `.env` (gitignored) or character/agent secrets.
 - `.env.example` documents required and optional vars without real values.
 - Rotate keys if exposed or on schedule (e.g. after team changes).
-- Prefer one key per service per environment (e.g. VINCE_DISCORD_*, ELIZA_DISCORD_* for multi-agent).
+- Prefer one key per service per environment (e.g. VINCE*DISCORD*_, ELIZA*DISCORD*_ for multi-agent).
 
 ## Who can do what
 

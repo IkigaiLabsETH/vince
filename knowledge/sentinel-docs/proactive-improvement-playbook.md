@@ -33,26 +33,26 @@ But not all categories are equal. Revenue matters more than cosmetics. So we app
 
 ### Category Weights
 
-| Category | Weight | Why |
-|----------|--------|-----|
-| Revenue | 5x | No revenue, no project. Survival. |
-| Security | 4x | One breach kills trust permanently. |
-| Growth | 4x | Users are oxygen. |
-| ML/Data | 3x | Better models = the actual product. |
-| UX | 3x | Users must trust what they see. |
-| Technical Debt | 2x | Enables speed later, not now. |
-| Knowledge | 2x | Compounds over time, low urgency. |
+| Category       | Weight | Why                                 |
+| -------------- | ------ | ----------------------------------- |
+| Revenue        | 5x     | No revenue, no project. Survival.   |
+| Security       | 4x     | One breach kills trust permanently. |
+| Growth         | 4x     | Users are oxygen.                   |
+| ML/Data        | 3x     | Better models = the actual product. |
+| UX             | 3x     | Users must trust what they see.     |
+| Technical Debt | 2x     | Enables speed later, not now.       |
+| Knowledge      | 2x     | Compounds over time, low urgency.   |
 
 **Final score** = RICE score × category weight, capped at 100.
 
 ### Priority Mapping
 
-| Score Range | Priority | Action |
-|-------------|----------|--------|
-| 80-100 | P0 🔥 | Do this week. Block other work if needed. |
-| 60-79 | P1 🟢 | Do this sprint. Schedule it. |
-| 40-59 | P2 🟡 | Backlog. Do when P0/P1 clear. |
-| 1-39 | P3 ⚪ | Nice to have. Revisit monthly. |
+| Score Range | Priority | Action                                    |
+| ----------- | -------- | ----------------------------------------- |
+| 80-100      | P0 🔥    | Do this week. Block other work if needed. |
+| 60-79       | P1 🟢    | Do this sprint. Schedule it.              |
+| 40-59       | P2 🟡    | Backlog. Do when P0/P1 clear.             |
+| 1-39        | P3 ⚪    | Nice to have. Revisit monthly.            |
 
 ---
 
@@ -64,63 +64,63 @@ When Sentinel runs a Project Radar scan, check these areas systematically. Don't
 
 **Check the build first. If it's red, nothing else matters.**
 
-| Check | Signal | Suggested Action | Impact |
-|-------|--------|-------------------|--------|
-| Plugins with 0 tests | `find packages/*/src -name "*.test.ts"` returns nothing | Add smoke tests for core services | Medium |
-| TypeScript `any` creeping in | `grep -r ": any" packages/` count increasing | Fix with proper types, batch by plugin | Low effort, high confidence |
-| Services over 500 lines | `wc -l packages/*/src/services/*.ts` | Split into focused modules | Medium |
-| Deprecated ElizaOS APIs | Check against ElizaOS changelog | Upgrade calls, test thoroughly | Varies |
-| Build status | CI pipeline green/red | Fix immediately if red | P0 if broken |
-| Test suite health | `pnpm test` pass rate | Investigate failures, don't skip tests | High |
+| Check                        | Signal                                                  | Suggested Action                       | Impact                      |
+| ---------------------------- | ------------------------------------------------------- | -------------------------------------- | --------------------------- |
+| Plugins with 0 tests         | `find packages/*/src -name "*.test.ts"` returns nothing | Add smoke tests for core services      | Medium                      |
+| TypeScript `any` creeping in | `grep -r ": any" packages/` count increasing            | Fix with proper types, batch by plugin | Low effort, high confidence |
+| Services over 500 lines      | `wc -l packages/*/src/services/*.ts`                    | Split into focused modules             | Medium                      |
+| Deprecated ElizaOS APIs      | Check against ElizaOS changelog                         | Upgrade calls, test thoroughly         | Varies                      |
+| Build status                 | CI pipeline green/red                                   | Fix immediately if red                 | P0 if broken                |
+| Test suite health            | `pnpm test` pass rate                                   | Investigate failures, don't skip tests | High                        |
 
 ### ML / Paper Bot Health
 
 This is the product. If the paper bot isn't performing, nothing else matters.
 
-| Check | Threshold | Suggested Action | Impact |
-|-------|-----------|-------------------|--------|
-| Win rate trending | < 45% over 7 days | Pause trading, investigate signals | P0 |
-| New signal sources | Check Nansen, Arkham, DefiLlama for new APIs | Evaluate integration cost vs. signal value | P1 |
-| Feature store size | Flat or shrinking | Add data collection, check ingestion pipeline | P1 |
-| Model staleness | Last retrain > 14 days ago | Schedule retrain with latest data | P1 |
-| Walk-forward validation | Failing or degrading | Stop live trading, retrain, revalidate | P0 |
-| Sharpe ratio | < 0.5 rolling 30d | Review position sizing and signal weights | P0 |
+| Check                   | Threshold                                    | Suggested Action                              | Impact |
+| ----------------------- | -------------------------------------------- | --------------------------------------------- | ------ |
+| Win rate trending       | < 45% over 7 days                            | Pause trading, investigate signals            | P0     |
+| New signal sources      | Check Nansen, Arkham, DefiLlama for new APIs | Evaluate integration cost vs. signal value    | P1     |
+| Feature store size      | Flat or shrinking                            | Add data collection, check ingestion pipeline | P1     |
+| Model staleness         | Last retrain > 14 days ago                   | Schedule retrain with latest data             | P1     |
+| Walk-forward validation | Failing or degrading                         | Stop live trading, retrain, revalidate        | P0     |
+| Sharpe ratio            | < 0.5 rolling 30d                            | Review position sizing and signal weights     | P0     |
 
 ### Knowledge Health
 
 Knowledge compounds. Thin files are wasted potential.
 
-| Check | Signal | Suggested Action | Impact |
-|-------|--------|-------------------|--------|
-| Thin files (< 50 lines) | `wc -l` across knowledge dirs | Expand with research, set 100-line minimum | Low |
-| Missing domains | Compare knowledge dirs to market coverage | Identify gaps, prioritize by trading relevance | Medium |
-| Stale files | `last_reviewed` > 30 days or missing | Update with current data | Low |
-| New events not captured | Major market events with no knowledge file | Create event file within 24h | Medium |
-| Cross-references | Knowledge files that should link but don't | Add references between related files | Low |
+| Check                   | Signal                                     | Suggested Action                               | Impact |
+| ----------------------- | ------------------------------------------ | ---------------------------------------------- | ------ |
+| Thin files (< 50 lines) | `wc -l` across knowledge dirs              | Expand with research, set 100-line minimum     | Low    |
+| Missing domains         | Compare knowledge dirs to market coverage  | Identify gaps, prioritize by trading relevance | Medium |
+| Stale files             | `last_reviewed` > 30 days or missing       | Update with current data                       | Low    |
+| New events not captured | Major market events with no knowledge file | Create event file within 24h                   | Medium |
+| Cross-references        | Knowledge files that should link but don't | Add references between related files           | Low    |
 
 ### Agent Health
 
 Agents are the workforce. If they're broken or confused, output suffers.
 
-| Check | Signal | Suggested Action | Impact |
-|-------|--------|-------------------|--------|
-| Knowledge dirs wired | Agent config references correct paths | Fix wiring, test with sample queries | High |
-| A2A communication | `ASK_AGENT` calls returning errors or timeouts | Debug message bus, check agent availability | P0 if broken |
-| Standup quality | Standups are generic or empty | Improve prompts, add concrete metrics | Medium |
-| Overlapping responsibilities | Two agents doing similar work | Enforce lane discipline, clarify boundaries | Medium |
-| Agent response latency | > 30s for simple queries | Profile and optimize, check token usage | Medium |
+| Check                        | Signal                                         | Suggested Action                            | Impact       |
+| ---------------------------- | ---------------------------------------------- | ------------------------------------------- | ------------ |
+| Knowledge dirs wired         | Agent config references correct paths          | Fix wiring, test with sample queries        | High         |
+| A2A communication            | `ASK_AGENT` calls returning errors or timeouts | Debug message bus, check agent availability | P0 if broken |
+| Standup quality              | Standups are generic or empty                  | Improve prompts, add concrete metrics       | Medium       |
+| Overlapping responsibilities | Two agents doing similar work                  | Enforce lane discipline, clarify boundaries | Medium       |
+| Agent response latency       | > 30s for simple queries                       | Profile and optimize, check token usage     | Medium       |
 
 ### Infrastructure
 
 The plumbing. Boring until it breaks.
 
-| Check | Signal | Suggested Action | Impact |
-|-------|--------|-------------------|--------|
-| Supabase connection | Connection errors in logs | Check credentials, connection pool, limits | P0 if down |
-| API key rotation | Keys older than 90 days | Rotate keys, update env, test | P1 |
-| Token cost tracking | Daily spend > budget threshold | Audit prompt sizes, add caching, trim context | P1 |
-| Deployment pipeline | Last deploy failed or > 7 days stale | Fix pipeline, deploy pending changes | P1 |
-| Disk/storage | Logs or data growing unbounded | Add rotation, archive old data | P2 |
+| Check               | Signal                               | Suggested Action                              | Impact     |
+| ------------------- | ------------------------------------ | --------------------------------------------- | ---------- |
+| Supabase connection | Connection errors in logs            | Check credentials, connection pool, limits    | P0 if down |
+| API key rotation    | Keys older than 90 days              | Rotate keys, update env, test                 | P1         |
+| Token cost tracking | Daily spend > budget threshold       | Audit prompt sizes, add caching, trim context | P1         |
+| Deployment pipeline | Last deploy failed or > 7 days stale | Fix pipeline, deploy pending changes          | P1         |
+| Disk/storage        | Logs or data growing unbounded       | Add rotation, archive old data                | P2         |
 
 ---
 
@@ -130,78 +130,78 @@ The plumbing. Boring until it breaks.
 
 Revenue is survival. Score everything else relative to "does this help us charge money?"
 
-| Suggestion | R | I | C | E | Raw | Weighted | Priority |
-|-----------|---|---|---|---|-----|----------|----------|
-| Add Stripe billing for subscription tiers | 8 | 9 | 7 | 6 | 84 | 85 | P0 🔥 |
-| Create hosted version (no self-hosting) | 9 | 10 | 6 | 8 | 68 | 90 | P0 🔥 |
-| Premium knowledge packs for paid users | 5 | 7 | 6 | 5 | 42 | 60 | P1 🟢 |
-| Affiliate program for referrals | 6 | 5 | 5 | 4 | 38 | 55 | P2 🟡 |
+| Suggestion                                | R   | I   | C   | E   | Raw | Weighted | Priority |
+| ----------------------------------------- | --- | --- | --- | --- | --- | -------- | -------- |
+| Add Stripe billing for subscription tiers | 8   | 9   | 7   | 6   | 84  | 85       | P0 🔥    |
+| Create hosted version (no self-hosting)   | 9   | 10  | 6   | 8   | 68  | 90       | P0 🔥    |
+| Premium knowledge packs for paid users    | 5   | 7   | 6   | 5   | 42  | 60       | P1 🟢    |
+| Affiliate program for referrals           | 6   | 5   | 5   | 4   | 38  | 55       | P2 🟡    |
 
 ### Growth (Weight: 4x)
 
 Users are oxygen. Can't monetize what you don't have.
 
-| Suggestion | R | I | C | E | Raw | Weighted | Priority |
-|-----------|---|---|---|---|-----|----------|----------|
-| Public onboarding flow (5-min setup) | 9 | 8 | 7 | 6 | 84 | 80 | P0 🔥 |
-| ALOHA as email/push notification | 7 | 7 | 8 | 5 | 78 | 75 | P1 🟢 |
-| Share agent config socially | 5 | 5 | 6 | 4 | 38 | 55 | P2 🟡 |
-| Discord community bot showing live trades | 6 | 6 | 7 | 5 | 50 | 65 | P1 🟢 |
+| Suggestion                                | R   | I   | C   | E   | Raw | Weighted | Priority |
+| ----------------------------------------- | --- | --- | --- | --- | --- | -------- | -------- |
+| Public onboarding flow (5-min setup)      | 9   | 8   | 7   | 6   | 84  | 80       | P0 🔥    |
+| ALOHA as email/push notification          | 7   | 7   | 8   | 5   | 78  | 75       | P1 🟢    |
+| Share agent config socially               | 5   | 5   | 6   | 4   | 38  | 55       | P2 🟡    |
+| Discord community bot showing live trades | 6   | 6   | 7   | 5   | 50  | 65       | P1 🟢    |
 
 ### ML/Data (Weight: 3x)
 
 The actual product is the model's ability to find alpha. Everything else is packaging.
 
-| Suggestion | R | I | C | E | Raw | Weighted | Priority |
-|-----------|---|---|---|---|-----|----------|----------|
-| Add Nansen smart money signal | 7 | 8 | 6 | 5 | 67 | 70 | P1 🟢 |
-| Walk-forward retraining on schedule | 8 | 7 | 7 | 6 | 65 | 65 | P1 🟢 |
-| SHAP dashboard (WHY THIS TRADE) | 6 | 7 | 8 | 6 | 56 | 60 | P1 🟢 |
-| Ensemble model with multiple strategies | 7 | 9 | 5 | 8 | 39 | 50 | P2 🟡 |
+| Suggestion                              | R   | I   | C   | E   | Raw | Weighted | Priority |
+| --------------------------------------- | --- | --- | --- | --- | --- | -------- | -------- |
+| Add Nansen smart money signal           | 7   | 8   | 6   | 5   | 67  | 70       | P1 🟢    |
+| Walk-forward retraining on schedule     | 8   | 7   | 7   | 6   | 65  | 65       | P1 🟢    |
+| SHAP dashboard (WHY THIS TRADE)         | 6   | 7   | 8   | 6   | 56  | 60       | P1 🟢    |
+| Ensemble model with multiple strategies | 7   | 9   | 5   | 8   | 39  | 50       | P2 🟡    |
 
 ### Technical Debt (Weight: 2x)
 
 Clean architecture lets you move fast later. But don't gold-plate when features are missing.
 
-| Suggestion | R | I | C | E | Raw | Weighted | Priority |
-|-----------|---|---|---|---|-----|----------|----------|
-| Unit tests for plugin-vince services | 5 | 6 | 8 | 4 | 60 | 50 | P2 🟡 |
-| Thin action handlers (delegate to services) | 6 | 5 | 7 | 5 | 42 | 45 | P2 🟡 |
-| Standardize error handling | 7 | 4 | 8 | 5 | 45 | 40 | P2 🟡 |
-| Monorepo dependency cleanup | 4 | 3 | 9 | 3 | 36 | 30 | P3 ⚪ |
+| Suggestion                                  | R   | I   | C   | E   | Raw | Weighted | Priority |
+| ------------------------------------------- | --- | --- | --- | --- | --- | -------- | -------- |
+| Unit tests for plugin-vince services        | 5   | 6   | 8   | 4   | 60  | 50       | P2 🟡    |
+| Thin action handlers (delegate to services) | 6   | 5   | 7   | 5   | 42  | 45       | P2 🟡    |
+| Standardize error handling                  | 7   | 4   | 8   | 5   | 45  | 40       | P2 🟡    |
+| Monorepo dependency cleanup                 | 4   | 3   | 9   | 3   | 36  | 30       | P3 ⚪    |
 
 ### Knowledge (Weight: 2x)
 
 Compounds silently. Every good knowledge file makes every agent slightly smarter.
 
-| Suggestion | R | I | C | E | Raw | Weighted | Priority |
-|-----------|---|---|---|---|-----|----------|----------|
-| Expand thin files to 100+ lines | 5 | 5 | 8 | 3 | 67 | 45 | P2 🟡 |
-| New macro events in macro-economy/ | 4 | 5 | 7 | 3 | 47 | 40 | P2 🟡 |
-| Keep HIP-3 asset reference current | 3 | 4 | 9 | 2 | 54 | 35 | P3 ⚪ |
-| Add competitor analysis files | 5 | 6 | 6 | 4 | 45 | 42 | P2 🟡 |
+| Suggestion                         | R   | I   | C   | E   | Raw | Weighted | Priority |
+| ---------------------------------- | --- | --- | --- | --- | --- | -------- | -------- |
+| Expand thin files to 100+ lines    | 5   | 5   | 8   | 3   | 67  | 45       | P2 🟡    |
+| New macro events in macro-economy/ | 4   | 5   | 7   | 3   | 47  | 40       | P2 🟡    |
+| Keep HIP-3 asset reference current | 3   | 4   | 9   | 2   | 54  | 35       | P3 ⚪    |
+| Add competitor analysis files      | 5   | 6   | 6   | 4   | 45  | 42       | P2 🟡    |
 
 ### UX (Weight: 3x)
 
 Users who don't understand the system won't trust it. Users who don't trust it won't pay.
 
-| Suggestion | R | I | C | E | Raw | Weighted | Priority |
-|-----------|---|---|---|---|-----|----------|----------|
-| Trade reasoning chain per paper trade | 8 | 8 | 7 | 5 | 90 | 70 | P1 🟢 |
-| Real-time paper bot P&L dashboard | 8 | 7 | 8 | 6 | 75 | 65 | P1 🟢 |
-| Onboarding wizard for new users | 9 | 8 | 7 | 5 | 100 | 75 | P1 🟢 |
-| Mobile-responsive trade view | 6 | 5 | 7 | 6 | 35 | 45 | P2 🟡 |
+| Suggestion                            | R   | I   | C   | E   | Raw | Weighted | Priority |
+| ------------------------------------- | --- | --- | --- | --- | --- | -------- | -------- |
+| Trade reasoning chain per paper trade | 8   | 8   | 7   | 5   | 90  | 70       | P1 🟢    |
+| Real-time paper bot P&L dashboard     | 8   | 7   | 8   | 6   | 75  | 65       | P1 🟢    |
+| Onboarding wizard for new users       | 9   | 8   | 7   | 5   | 100 | 75       | P1 🟢    |
+| Mobile-responsive trade view          | 6   | 5   | 7   | 6   | 35  | 45       | P2 🟡    |
 
 ### Security (Weight: 4x)
 
 One leaked API key, one wallet drain, one data breach — and it's over.
 
-| Suggestion | R | I | C | E | Raw | Weighted | Priority |
-|-----------|---|---|---|---|-----|----------|----------|
-| Audit env var handling for key leakage | 8 | 8 | 9 | 4 | 144 | 60 | P1 🟢 |
-| Rate limiting on public endpoints | 7 | 7 | 8 | 4 | 98 | 55 | P2 🟡 |
-| Review third-party plugin permissions | 6 | 7 | 7 | 5 | 59 | 50 | P2 🟡 |
-| Secrets rotation automation | 5 | 8 | 8 | 6 | 53 | 55 | P2 🟡 |
+| Suggestion                             | R   | I   | C   | E   | Raw | Weighted | Priority |
+| -------------------------------------- | --- | --- | --- | --- | --- | -------- | -------- |
+| Audit env var handling for key leakage | 8   | 8   | 9   | 4   | 144 | 60       | P1 🟢    |
+| Rate limiting on public endpoints      | 7   | 7   | 8   | 4   | 98  | 55       | P2 🟡    |
+| Review third-party plugin permissions  | 6   | 7   | 7   | 5   | 59  | 50       | P2 🟡    |
+| Secrets rotation automation            | 5   | 8   | 8   | 6   | 53  | 55       | P2 🟡    |
 
 ---
 
@@ -229,16 +229,17 @@ Output to appropriate location:
 
 ### Priority → Response Time
 
-| Priority | Response Time | Who Acts |
-|----------|---------------|----------|
-| P0 🔥 | Same day | Sentinel escalates, Claude Code executes |
-| P1 🟢 | This sprint (7 days) | Added to sprint backlog |
-| P2 🟡 | This month | Backlog, pick up when capacity allows |
-| P3 ⚪ | Someday | Log it, revisit monthly |
+| Priority | Response Time        | Who Acts                                 |
+| -------- | -------------------- | ---------------------------------------- |
+| P0 🔥    | Same day             | Sentinel escalates, Claude Code executes |
+| P1 🟢    | This sprint (7 days) | Added to sprint backlog                  |
+| P2 🟡    | This month           | Backlog, pick up when capacity allows    |
+| P3 ⚪    | Someday              | Log it, revisit monthly                  |
 
 ### Output Format Templates
 
 **Task Brief** (for quick fixes):
+
 ```
 ## Task: [Name]
 Priority: P[0-3] | Score: [X] | Category: [cat]
@@ -316,29 +317,35 @@ North star: Push, not pull. 24/7 market research.
 Every Friday (or when prompted), Sentinel produces:
 
 ### 1. Wins
+
 What shipped this week. Be specific — commit hashes, PRD completions, knowledge files added.
 
 ### 2. Metrics
-| Metric | This Week | Last Week | Trend |
-|--------|-----------|-----------|-------|
-| Paper bot win rate | X% | Y% | ↑↓→ |
-| Paper bot Sharpe | X | Y | ↑↓→ |
-| Knowledge files | X | Y | ↑↓→ |
-| Knowledge total lines | X | Y | ↑↓→ |
-| Agent standup quality | X/10 | Y/10 | ↑↓→ |
-| Build status | ✅/❌ | ✅/❌ | — |
-| Open P0s | X | Y | ↑↓→ |
+
+| Metric                | This Week | Last Week | Trend |
+| --------------------- | --------- | --------- | ----- |
+| Paper bot win rate    | X%        | Y%        | ↑↓→   |
+| Paper bot Sharpe      | X         | Y         | ↑↓→   |
+| Knowledge files       | X         | Y         | ↑↓→   |
+| Knowledge total lines | X         | Y         | ↑↓→   |
+| Agent standup quality | X/10      | Y/10      | ↑↓→   |
+| Build status          | ✅/❌     | ✅/❌     | —     |
+| Open P0s              | X         | Y         | ↑↓→   |
 
 ### 3. Blockers
+
 What's stuck, why, and what would unblock it. No vague "needs more work." Specific: "plugin-vince tests fail because Supabase mock is incomplete. Fix: implement mock for `getTradeHistory`."
 
 ### 4. Next Week Priorities
+
 Top 5 items, impact-scored, with owners if assigned.
 
 ### 5. Strategic Observations
+
 Market changes (new exchange APIs, competitor launches, regulatory shifts) that affect VINCE's roadmap.
 
 ### 6. OpenClaw Integration
+
 New tools, patterns, or capabilities from OpenClaw that VINCE should leverage. Be concrete: "OpenClaw added browser automation — we could use this for scraping exchange announcements."
 
 ---

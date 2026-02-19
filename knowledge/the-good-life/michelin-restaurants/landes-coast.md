@@ -3,13 +3,13 @@ tags: [lifestyle]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Landes Coast Fine Dining
 
 > **Region**: Hossegor, Seignosse, Pyla-sur-Mer
 > **Vibe**: Surf culture meets gastronomy, ocean views, pine forests
 
 ---
-
 
 ## Villa de l'Etang Blanc (Seignosse)
 
@@ -18,10 +18,11 @@ last_reviewed: 2026-02-17
 - **Address**: D432, 40510 Seignosse
 - **Website**: https://www.villaetangblanc.fr/
 - **Phone**: +33 5 58 72 80 15
-- **Hotel**: 3* charming, 6 rooms
+- **Hotel**: 3\* charming, 6 rooms
 - **Chef**: David Sulpice (1 star since 2019)
 
 **Why We Love It**:
+
 - Ultra-local sourcing (morning market runs)
 - Lakeside setting in nature reserve
 - Family-run (Magali + David Sulpice)
@@ -42,6 +43,7 @@ last_reviewed: 2026-02-17
 - **Style**: Art Deco mansion, sustainable luxury
 
 **Dining**:
+
 - Chef Philippe Moreno (ex-Gérald Passedat)
 - Marine-focused cuisine with Southwest terroir
 - Terrace with exceptional lake view
@@ -62,6 +64,7 @@ last_reviewed: 2026-02-17
 - **Style**: Contemporary forest lodge, 32 rooms
 
 **Restaurant SEI**:
+
 - Japanese-Landais fusion
 - Izakaya sharing plates
 - Brunch on Sundays (iconic)
@@ -83,6 +86,7 @@ last_reviewed: 2026-02-17
 - **Style**: Neo-Basque architecture, 29 rooms + cabins
 
 **Experience**:
+
 - Unparalleled views of Banc d'Arguin
 - Seafood platters, tapas bar
 - DJ until 2am (very lively bar scene)
@@ -106,12 +110,14 @@ last_reviewed: 2026-02-17
 - **Style**: Neo-Basque mansion, 38 rooms + apartment
 
 **Restaurants**:
-- **Skiff Club** (2* Michelin + 1 green star) - Chef Stéphane Carrade
+
+- **Skiff Club** (2\* Michelin + 1 green star) - Chef Stéphane Carrade
 - **Brasserie Ha(a)ïtza** - all-day dining, continuous service
 - **Café Ha(a)ïtza** - bistro across the street
 - **Bar Ha(a)ïtza** - cocktails 9h-1h
 
 **Extras**:
+
 - Spa CODAGE
 - David Lucas salon
 - La Pâtisserie de Famille
@@ -133,6 +139,7 @@ last_reviewed: 2026-02-17
 - **Style**: Contemporary design, 22 rooms + 2 suites
 
 **Features**:
+
 - 50m from Golf de Hossegor
 - Heated pool, sauna, bar-lounge
 - Underground parking
@@ -146,11 +153,11 @@ last_reviewed: 2026-02-17
 
 ## Quick Reference
 
-| Restaurant | Stars | Location | Price Range | Best For |
-|------------|-------|----------|-------------|----------|
-| Jean des Sables | - | Hossegor | €€€ | Seafood tasting |
-| Villa Etang Blanc | 1* | Seignosse | €€€ | Intimate lakeside |
-| Les Hortensias | - | Hossegor | €€€ | Lake + Art Deco |
-| 70 Hectares SEI | - | Seignosse | €€-€€€ | Japanese fusion |
-| La Co(o)rniche | - | Pyla | €€€ | Sunset + views |
-| Ha(a)ïtza Skiff | 2* | Pyla | €€€€ | Fine dining |
+| Restaurant        | Stars | Location  | Price Range | Best For          |
+| ----------------- | ----- | --------- | ----------- | ----------------- |
+| Jean des Sables   | -     | Hossegor  | €€€         | Seafood tasting   |
+| Villa Etang Blanc | 1\*   | Seignosse | €€€         | Intimate lakeside |
+| Les Hortensias    | -     | Hossegor  | €€€         | Lake + Art Deco   |
+| 70 Hectares SEI   | -     | Seignosse | €€-€€€      | Japanese fusion   |
+| La Co(o)rniche    | -     | Pyla      | €€€         | Sunset + views    |
+| Ha(a)ïtza Skiff   | 2\*   | Pyla      | €€€€        | Fine dining       |

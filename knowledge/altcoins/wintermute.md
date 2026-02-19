@@ -4,22 +4,24 @@ agents: [echo, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181987981.Wintermute
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: altcoins
 **Word Count**: 703
 **Tags**: #bitcoin #btc #eth #sol #defi #macro #trading #substack
+
 ---
 
 There it is—Arkham showing Wintermute’s wallets sitting at about $457 million as of mid-December 2025. Down from the $540 million peak late November, sure, but still breathing. Substantial. Diversified. SOL heavy at $84 million, ETH $48 million, USDC $44 million, BTC $30 million. Not the corpse the Twitter degens were burying back in October.
 
-Honestly, I tweeted that Wintermute had blown up on October 10. No proof. Just a gut punch from watching the “monster crash” unfold—$19-20 billion liquidated in a blink, Bitcoin knifing down 15% to the low 100s, everything redder than a forced redemption notice. Felt like 2022 all over again, market makers getting ADL’d into oblivion on Binance. 
+Honestly, I tweeted that Wintermute had blown up on October 10. No proof. Just a gut punch from watching the “monster crash” unfold—$19-20 billion liquidated in a blink, Bitcoin knifing down 15% to the low 100s, everything redder than a forced redemption notice. Felt like 2022 all over again, market makers getting ADL’d into oblivion on Binance.
 
 ## Context
 
-We all saw those $700 million deposits hours before the drop. 
+We all saw those $700 million deposits hours before the drop.
 
 Smelled like blood.
 
@@ -29,21 +31,21 @@ But... digging deeper these past weeks, reloading old threads, cross-checking Ar
 
 Wintermute? They’re the invisible hand nobody notices until it stops working.
 
-Evgeny Gaevoy started this thing back in 2017, fresh off Optiver’s HFT desks where he made markets in ETFs the old-school way. 
+Evgeny Gaevoy started this thing back in 2017, fresh off Optiver’s HFT desks where he made markets in ETFs the old-school way.
 
 Brought that rigor to crypto—algorithmic neutrality, profiting off spreads and rebates, not directional moonshots. No leverage-fueled hero bets. Just relentless hedging, quoting bids and asks across 60+ exchanges, CeFi and DeFi alike.
 
-Their bread and butter: market making to tighten spreads, reduce slippage for new listings. Then the OTC desk—big-boy trades off-exchange so institutions don’t nuke the tape. By 2024-2025, that exploded. 313% growth in OTC volumes, per their year-end review. 
+Their bread and butter: market making to tighten spreads, reduce slippage for new listings. Then the OTC desk—big-boy trades off-exchange so institutions don’t nuke the tape. By 2024-2025, that exploded. 313% growth in OTC volumes, per their year-end review.
 
 Outpaced the overall market’s 142% rise. Hit a single-day record of $2.24 billion in November 2024—more than their entire weekly high from 2023.
 
-Kind of wild, huh? While retail was chasing memecoins, TradFi was quietly piling in—spot ETFs approved, corporate treasuries loading up, regulatory fog lifting a bit. Memecoins grabbed 16% of their OTC spot volume, up from 7%. Derivatives up 300%, CFDs eating 4.3% in months. 
+Kind of wild, huh? While retail was chasing memecoins, TradFi was quietly piling in—spot ETFs approved, corporate treasuries loading up, regulatory fog lifting a bit. Memecoins grabbed 16% of their OTC spot volume, up from 7%. Derivatives up 300%, CFDs eating 4.3% in months.
 
 They even rolled 24/7 trading for BlackRock’s BUIDL fund.
 
-Daily volumes? Often north of $5 billion total. Systemic. 
+Daily volumes? Often north of $5 billion total. Systemic.
 
-The plumber keeping the pipes from bursting. 
+The plumber keeping the pipes from bursting.
 
 But plumbers get blamed when shit hits the fan.
 
@@ -53,13 +55,13 @@ Wintermute paused trading. Rules broken. On-chain showed massive deposits pre-cr
 
 I bought it. Hook, line. We had that tweet out—gut feeling, no proof. Bet you saw the same FUD avalanche.
 
-Then Gaevoy posts: “We’re perfectly fine.” Executives calling bankruptcy talk “baseless FUD.” No lawsuit plans— “complete bullshit,” he said in November when rumors resurfaced. 
+Then Gaevoy posts: “We’re perfectly fine.” Executives calling bankruptcy talk “baseless FUD.” No lawsuit plans— “complete bullshit,” he said in November when rumors resurfaced.
 
-No coordination with other makers. 
+No coordination with other makers.
 
 Just standard liquidity management.
 
-Post-crash flows? Yeah, they dumped hard. $1.5 billion BTC alone over weeks, plus ETH and SOL. Holdings cratered from $540 million to low $320s, rebounding to $457 million by mid-December. 
+Post-crash flows? Yeah, they dumped hard. $1.5 billion BTC alone over weeks, plus ETH and SOL. Holdings cratered from $540 million to low $320s, rebounding to $457 million by mid-December.
 
 Analysts called it de-risking in the “digestion phase.” Controlled batches, not panic fire sales. No borrowing spikes, no forced liqs flagged.
 
@@ -79,7 +81,7 @@ We’ll see what 2026 brings? National reserves? More crashes?
 
 ## Conclusion
 
-Stay hungry. Stay foolish. 
+Stay hungry. Stay foolish.
 
 And maybe... stay skeptical of your own gut sometimes.
 

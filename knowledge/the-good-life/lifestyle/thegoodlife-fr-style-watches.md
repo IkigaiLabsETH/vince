@@ -48,17 +48,20 @@ TGL editor Paul Miquel's selections from previews at La Samaritaine, Paris:
 ## Style After 40 — TGL Menswear Guide (Feb 2026)
 
 ### Key trends from Fashion Week FW26/27
+
 - **Classicism renewed**: Zegna, Lemaire, Armani, Brioni, Tod's all pushing refined tailoring with modern proportions (wider, softer, more relaxed cuts)
 - **Brown is the color**: Maroon/burgundy/brown palette dominates. Works better than black in warm light/summer. Seen on tailoring AND denim.
 - **"Zaddies" era**: Pedro Pascal, Walton Goggins (White Lotus), Daniel Craig (Loewe), Willem Dafoe (Miu Miu) — mature men as style icons
 - **Ralph Lauren return**: Milan show reunited Polo + Purple Label. Americana/preppy heritage + vintage hunting.
 
 ### Expert advice (Sophie Jordan, Mytheresa Homme buying director)
+
 - "There is no single fixed model anymore. You can be Polo on weekends, Purple at the office — or the reverse."
 - Color is acceptable at any age. Tom Ford suede jackets in bold colors (€7,450) are bestsellers.
 - Key new brand: **Auralee** (Japan) — fresh color pairings, daily-wear focus. Field jackets in cashmere with leather collar. Cashmere-duvet puffers.
 
 ### Brands to know
+
 - **Museum Garments** (Paris, 2022) — Workwear/military heritage in Italian wool, Japanese cotton, Scottish cashmere. Generous cuts. museumgarments.com. Dad's Shirt flannel €200.
 - **Nitto Knitwear** (Clamart, 2022) — Family knitting atelier since 1972. Merino wool, cotton. Pull "Youri" iconic. nittoknitwear.com. Veste Ohannes €245.
 - **nogender** — Jogstume (costume + jogging hybrid). Started by comedian Caroline Vigneaux. 16 pieces, 1 fabric, 4 colors. Made in Portugal. From €115. nogender.eu
@@ -70,12 +73,14 @@ TGL editor Paul Miquel's selections from previews at La Samaritaine, Paris:
 ## Kelly's Style Concierge Notes
 
 When Yves asks about watches:
+
 - For surf/ocean: TAG Heuer Carrera Seafarer (tide indicator)
 - For daily elegance: JLC Master Ultra Thin (€10,400 — accessible luxury)
 - For statement: Zenith DEFY Revival 37mm (vintage sizing, €TBD)
 - For investment: Patek Calatrava (always holds value)
 
 When Yves asks about clothing:
+
 - Brown > black for SW France sun
 - Auralee for daily sophistication
 - Museum Garments for workwear with soul

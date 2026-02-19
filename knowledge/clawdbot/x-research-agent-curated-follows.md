@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # X Research Agent: OpenClaw + Curated Follow List (No X API)
 
 **Why this is the key feature:** The X API is too expensive for our use case. X is our biggest source of news, insights, and knowledge. Instead of paying for API access, we run **OpenClaw (Clawdbot) with a dedicated X account** and give it our **curated list of accounts we’ve followed on X/Twitter over the past decade**. OpenClaw + Birdy (or equivalent) uses that account to read the timeline, surface threads and links, and feed them into VINCE’s knowledge pipeline. **No X API cost.**
@@ -11,12 +12,12 @@ last_reviewed: 2026-02-15
 
 ## Role of this agent
 
-| What | How |
-|------|-----|
-| **X as primary source** | News, alpha, explainers, and methodology live on X. We don’t want to depend on the paid API. |
-| **Curated follows** | A decade of curation = a follow list that already reflects who we trust. That list is the asset. |
+| What                      | How                                                                                                                                                                                         |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **X as primary source**   | News, alpha, explainers, and methodology live on X. We don’t want to depend on the paid API.                                                                                                |
+| **Curated follows**       | A decade of curation = a follow list that already reflects who we trust. That list is the asset.                                                                                            |
 | **Dedicated bot account** | One X account used only for this: follow the curated list, read timeline, surface content. Don’t use personal accounts (see [instructions-clawdbot.md](instructions-clawdbot.md) security). |
-| **OpenClaw + Birdy** | OpenClaw with the Birdy (Twitter/X) plugin: “Twitter automation”, “add follows and RSS”. We use it for **research and knowledge**, not lead gen. |
+| **OpenClaw + Birdy**      | OpenClaw with the Birdy (Twitter/X) plugin: “Twitter automation”, “add follows and RSS”. We use it for **research and knowledge**, not lead gen.                                            |
 
 ---
 
@@ -34,9 +35,9 @@ last_reviewed: 2026-02-15
 4. **Load curated follow list**  
    Export or list the accounts you’ve curated over the years. Have OpenClaw (or Birdy) **follow those accounts** on the bot account. The bot’s timeline then becomes a stream of posts from those accounts.
 
-5. **Define the pipeline to VINCE**  
-   - **Option A:** OpenClaw is prompted (e.g. daily) to “review your timeline, pick the top 3–5 threads or links that are methodology/insight-heavy, and post the URLs here.” It posts those URLs into a Discord channel (or Matrix, or a shared doc) that VINCE or a human can see. Those URLs go into `research-queue.txt` or get UPLOAD’d into VINCE knowledge.  
-   - **Option B:** OpenClaw has a small script/skill that appends selected thread URLs to a file or webhook that VINCE’s research-queue processor reads.  
+5. **Define the pipeline to VINCE**
+   - **Option A:** OpenClaw is prompted (e.g. daily) to “review your timeline, pick the top 3–5 threads or links that are methodology/insight-heavy, and post the URLs here.” It posts those URLs into a Discord channel (or Matrix, or a shared doc) that VINCE or a human can see. Those URLs go into `research-queue.txt` or get UPLOAD’d into VINCE knowledge.
+   - **Option B:** OpenClaw has a small script/skill that appends selected thread URLs to a file or webhook that VINCE’s research-queue processor reads.
    - **Option C:** Human reviews OpenClaw’s suggested links in a channel and approves; approved URLs are ingested by VINCE (UPLOAD or queue).
 
 ---
@@ -64,7 +65,6 @@ last_reviewed: 2026-02-15
 - **Result:** X remains our biggest source of news and insights; we don’t pay for the X API; the decade of curation becomes the input to continuous knowledge expansion.
 
 See **PLAN-SLACK-DISCORD-KNOWLEDGE-RESEARCH.md** §4 (X pipeline) and §6 (implementation order). This doc is the **key feature** of that plan: Clawdbot as the X layer.
-
 
 ## Related
 

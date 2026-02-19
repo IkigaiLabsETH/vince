@@ -3,13 +3,14 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Azuki
 
 OpenSea Slug: `azuki`
 
 ## The Artist
 
-Chiru Labs—a Los Angeles Web3 studio. Azuki launched 12 January 2022: 8,700 anime-style PFPs at ~$3,400 each. Sold out in three minutes, ~$29M primary. The art blends Japanese anime with street style. Chiru built ERC-721A (gas-efficient minting) and pushed narrative and brand hard. Azuki quickly hit ~$300M volume in four weeks, outpacing BAYC and Punks at the time. The project has since expanded with Elementals, animated series (*Enter The Garden*, 2024, with Goro Taniguchi), and a clear “entertainment company” pivot. Strong anime and collector base.
+Chiru Labs—a Los Angeles Web3 studio. Azuki launched 12 January 2022: 8,700 anime-style PFPs at ~$3,400 each. Sold out in three minutes, ~$29M primary. The art blends Japanese anime with street style. Chiru built ERC-721A (gas-efficient minting) and pushed narrative and brand hard. Azuki quickly hit ~$300M volume in four weeks, outpacing BAYC and Punks at the time. The project has since expanded with Elementals, animated series (_Enter The Garden_, 2024, with Goro Taniguchi), and a clear “entertainment company” pivot. Strong anime and collector base.
 
 ## Why It Matters
 

@@ -20,13 +20,13 @@ The north star is that VINCE is **proactive**. He sends you what you need on **D
 
 ## What VINCE pushes
 
-| What | When |
-|------|------|
-| **Day report** | Once per day (e.g. morning): vibe check, PERPS posture, OPTIONS stance, "should we trade today?" |
-| **His trades** | When he opens a position: asset, direction, size, entry. |
-| **His reasoning** | With the trade or right after: why this trade (signal factors, thesis in plain language). |
-| **Close result** | When he closes a position: realized P&L, exit reason (TP/SL/manual), duration. |
-| **Overall PnL** | In the day report and/or on close: portfolio P&L, daily/monthly, win rate. |
+| What               | When                                                                                                                                                         |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Day report**     | Once per day (e.g. morning): vibe check, PERPS posture, OPTIONS stance, "should we trade today?"                                                             |
+| **His trades**     | When he opens a position: asset, direction, size, entry.                                                                                                     |
+| **His reasoning**  | With the trade or right after: why this trade (signal factors, thesis in plain language).                                                                    |
+| **Close result**   | When he closes a position: realized P&L, exit reason (TP/SL/manual), duration.                                                                               |
+| **Overall PnL**    | In the day report and/or on close: portfolio P&L, daily/monthly, win rate.                                                                                   |
 | **Thin-floor NFT** | Optional, low frequency: ping when a tracked collection has a very thin floor. NFTs are lifestyle/curation (Eliza territory), not core investment for VINCE. |
 
 ## What this implies

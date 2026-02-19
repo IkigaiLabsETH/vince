@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Rare Pepes
 
 OpenSea Slug: `rare-pepes`
@@ -13,7 +14,7 @@ Various. Rare Pepes were community-minted Pepe the Frog variants on **Counterpar
 
 ## Why It Matters
 
-Rare Pepes are the first meme NFTs. Counterparty proved you could attach images to tokens, enforce scarcity, and trade them on-chain. Ethereum and ERC-721 came later. Rare Pepes demonstrated verifiable ownership and provenance for digital art on a public ledger before “NFT” was a household term. Individual cards have sold for thousands. The project is a direct ancestor of CryptoPunks, Curio Cards, and everything that followed. If you care about NFT *history*, Rare Pepes are non-negotiable. They’re often overlooked because they’re on Bitcoin, not Ethereum—but they’re the real OGs.
+Rare Pepes are the first meme NFTs. Counterparty proved you could attach images to tokens, enforce scarcity, and trade them on-chain. Ethereum and ERC-721 came later. Rare Pepes demonstrated verifiable ownership and provenance for digital art on a public ledger before “NFT” was a household term. Individual cards have sold for thousands. The project is a direct ancestor of CryptoPunks, Curio Cards, and everything that followed. If you care about NFT _history_, Rare Pepes are non-negotiable. They’re often overlooked because they’re on Bitcoin, not Ethereum—but they’re the real OGs.
 
 ## The Art
 

@@ -3,20 +3,24 @@ tags: [lifestyle, bitcoin, kelly]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # MSTY Freedom Calculator & Financial Freedom Strategy
 
 ## Overview
+
 The MSTY Freedom Calculator is a comprehensive tool designed to help individuals calculate their path to financial freedom using MSTY (YieldMax MSTR Option Income Strategy ETF) as a core income-generating asset. This strategy focuses on creating sustainable monthly income while building long-term wealth through strategic allocation across different asset classes.
 
 ## Core Calculation Parameters
 
 ### Key Inputs
+
 - **Monthly Income Goal**: Target monthly income needed for financial freedom
 - **MSTY Price/Share**: Current market price per MSTY share
 - **Monthly Dividend/Share**: Monthly dividend payment per MSTY share
 - **USD/EUR Exchange Rate**: For international investors dealing with currency conversion
 
 ### Example Calculation (Based on $1,000 Monthly Goal)
+
 - **Shares Needed**: 1,000 shares
 - **Total Investment Required**: $20,000
 - **BTC Equivalent**: ~0.24 BTC
@@ -24,7 +28,9 @@ The MSTY Freedom Calculator is a comprehensive tool designed to help individuals
 ## Tax Implications
 
 ### International Tax Structure
+
 For European investors, the tax framework includes:
+
 - **Gross Yearly Income**: $12,000 (based on $1,000/month)
 - **US Withholding Tax**: 15% ($1,800)
 - **European Tax**: 15% ($1,800)
@@ -35,6 +41,7 @@ This dual taxation structure is important for international investors to underst
 ## Strategic Portfolio Allocation
 
 ### Recommended $200,000 Portfolio Structure
+
 1. **MSTY (Income Generation)**: $20,000 (10%)
    - Primary income source
    - Monthly dividend payments
@@ -53,9 +60,11 @@ This dual taxation structure is important for international investors to underst
 ## Core Philosophy: "Live Life Strategy"
 
 ### The YieldMax Approach
+
 > "Live Life off MSTY distributions and let MSTR & BTC stack over time, tax-deferred (not in EUR). You're cashflow-rich, compounding hard money, and never touching the principal."
 
 This strategy emphasizes:
+
 - **Cash Flow Rich**: Immediate income needs met through MSTY distributions
 - **Compounding Hard Money**: BTC and MSTR growth over time
 - **Principal Preservation**: Never touching the core investment base
@@ -63,18 +72,21 @@ This strategy emphasizes:
 ## The Three Golden Rules of Freedom
 
 ### 1. Embrace Market Cycles
+
 - Market cycles are inevitable and natural
 - Maintain peace of mind during volatility
 - Make strategic decisions when others panic
 - Use cycles as opportunities, not threats
 
 ### 2. Establish Crystal-Clear Goals
+
 - Define exactly what financial freedom means personally
 - Calculate specific monthly income requirements
 - Identify desired lifestyle maintenance costs
 - Set measurable, achievable targets
 
 ### 3. Build an All-Weather Plan
+
 - Create strategies that work in all market conditions
 - Focus on sustainable income streams
 - Maintain long-term growth potential
@@ -83,6 +95,7 @@ This strategy emphasizes:
 ## Key Market Indicators to Monitor
 
 ### Cycle Analysis Metrics
+
 1. **Cycle Index**: 61st percentile (Early Bull phase)
    - Indicates current position in long-term market cycle
    - Helps time major allocation decisions
@@ -110,18 +123,22 @@ This strategy emphasizes:
 ## Financial Freedom Philosophy
 
 ### Beyond Traditional Investing
+
 Financial freedom through this strategy isn't about:
+
 - Being glued to charts
 - Constant stress about price movements
 - Short-term trading decisions
 
 It's about:
+
 - **Quality of Life Improvement**: Enhancing family life and personal well-being
 - **Time Control**: Gaining complete control over personal time
 - **Rare Freedom**: Achieving a type of freedom few people in history have enjoyed
 - **Strategic Mindset**: Making calculated decisions with long-term perspective
 
 ### Implementation Approach
+
 1. **Start with Clear Goals**: Define specific income requirements
 2. **Calculate Required Investment**: Use the calculator to determine share needs
 3. **Understand Tax Implications**: Plan for withholding and local taxes
@@ -132,16 +149,19 @@ It's about:
 ## Risk Considerations
 
 ### Market Risks
+
 - MSTY dividend variability based on options strategies
 - BTC volatility impact on portfolio value
 - MSTR correlation with Bitcoin price movements
 
 ### Tax Risks
+
 - Changes in withholding tax rates
 - Currency exchange rate fluctuations
 - Local tax law modifications
 
 ### Strategy Risks
+
 - Over-reliance on single income source (MSTY)
 - Correlation between all three assets during market stress
 - Liquidity considerations for large positions
@@ -153,6 +173,7 @@ The MSTY Freedom Calculator strategy represents a sophisticated approach to achi
 The key to success lies in understanding market cycles, maintaining discipline during volatility, and consistently executing the strategic allocation plan regardless of short-term market conditions.
 
 ## Related Knowledge
+
 - See also: microstrategy-msty.md for detailed MSTY analysis
 - Reference: wealth-building-philosophy.md for foundational concepts
-- Compare: bitcoin-treasury-global-holdings.md for institutional BTC strategies 
+- Compare: bitcoin-treasury-global-holdings.md for institutional BTC strategies

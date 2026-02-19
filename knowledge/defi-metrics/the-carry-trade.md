@@ -4,13 +4,15 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180166429.The Carry Trade
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: defi-metrics
 **Word Count**: 1,095
 **Tags**: #btc #eth #defi #options #perps #fed #substack
+
 ---
 
 For eight years the DeFi community has been hunting the same white whale: real, sustainable, risk-adjusted yield that isn’t subsidized by token emissions, paid out in stables, and doesn’t require a 180 IQ to understand.
@@ -19,29 +21,25 @@ We tried everything.
 
 ## Context
 
-Lending on Aave in 2020 gave 15 % on USDC… until it didn’t.**Liquidity mining in 2021 gave 400 %… until the token went to zero.
+Lending on Aave in 2020 gave 15 % on USDC… until it didn’t.\*\*Liquidity mining in 2021 gave 400 %… until the token went to zero.
 Liquid-staking derivatives gave 4–6 % in ETH… arbitraged into oblivion.
 Points farming in 2024–2025 gave hope… and then gave everyone a second job.
 
 Every cycle we declared “real yield is back,” and every cycle we were wrong. Then, quietly, in the summer of 2025, a protocol on HyperEVM started paying people 30–85 % annualized in stablecoins, upfront, for doing something they already wanted to do: set a price at which they’d be happy to sell high or buy the dip. No token, no farming, no lock-up beyond thirty days. The protocol is called Rysk. And it may finally be the carry trade crypto was always supposed to have.
 
-The One Thing DeFi Never Had**
+The One Thing DeFi Never Had\*\*
 
 ## Main
 
 Traditional finance has four great sources of return:
 
-- 
-Credit (lending)
+- Credit (lending)
 
-- 
-Equity risk premium
+- Equity risk premium
 
-- 
-Rates
+- Rates
 
-- 
-Volatility
+- Volatility
 
 DeFi nailed the first three in some form. We never nailed volatility.
 
@@ -71,7 +69,7 @@ This is the first DeFi product I have ever used where the risk feels lower than 
 
 **The Inevitable Objections (And Why They Miss the Point)**
 
-“Bro you’re capping your upside.” 
+“Bro you’re capping your upside.”
 
 Yes. I am capping my upside at a price I am ecstatic to sell at, while collecting xx % annualized to do it. If HYPE goes to $xxx I will be mildly annoyed and significantly richer in stablecoin terms than everyone who held and paid taxes on the ride up.
 
@@ -85,17 +83,13 @@ Rysk is still deliberately constrained. One expiry. No early exits. Size caps th
 
 The roadmap is short and obvious:
 
-- 
-Weekly expiries (already in internal testing)
+- Weekly expiries (already in internal testing)
 
-- 
-Buy-back market so you can close early
+- Buy-back market so you can close early
 
-- 
-Community market-making vault so retail can earn the other side of the trade
+- Community market-making vault so retail can earn the other side of the trade
 
-- 
-Cross-margining with Hyperliquid perps
+- Cross-margining with Hyperliquid perps
 
 When those features ship, Rysk stops being a clever yield app and becomes DeFi’s native volatility layer — the place every leveraged trader, vault, and treasury goes to harvest or hedge theta.
 

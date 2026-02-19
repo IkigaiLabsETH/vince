@@ -11,4 +11,3 @@ ClawdBot/OpenClaw integration docs and playbooks
 - openclaw-practical-tips.md
 - plan-one-click-install.md
 - x-research-agent-curated-follows.md
-

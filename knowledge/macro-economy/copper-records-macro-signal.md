@@ -3,7 +3,9 @@ tags: [macro, economy, markets]
 agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
+
 ## Metadata
+
 **Source**: Direct Input | chat://direct-input/1769696645582
 **Category**: macro-economy
 **Word Count**: 520

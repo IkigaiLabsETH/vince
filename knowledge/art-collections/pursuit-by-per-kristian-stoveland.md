@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Pursuit
 
 OpenSea Slug: `pursuit-by-per-kristian-stoveland`

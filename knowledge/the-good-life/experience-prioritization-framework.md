@@ -3,15 +3,18 @@ tags: [lifestyle]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 ## Methodology and Framework
 
 **Key Concepts:**
+
 - Experiences have diminishing returns - first time is magical, fifth is routine
 - Different days of the week suit different activities
 - Time scarcity means aggressive prioritization
 - "Good enough" options free resources for exceptional ones
 
 **Analytical Approach:**
+
 - Think of life experiences as a portfolio, not a checklist
 - Prioritize novelty and peak experiences over frequency
 - Match activity type to energy level and day of week
@@ -22,7 +25,6 @@ last_reviewed: 2026-02-17
 1. **Is this a peak experience or routine?**
    - Peak (first time, special occasion, bucket list) → Invest fully
    - Routine (weekly occurrence, familiar) → Optimize for efficiency
-   
 2. **What day is optimal?**
    - Monday: Quiet restaurants, museums (if open), recovery activities
    - Tuesday-Wednesday: Off-peak dining, galleries, wellness
@@ -41,6 +43,7 @@ last_reviewed: 2026-02-17
    - Low (routine, familiar, forgettable) → Minimize effort
 
 **Pattern Recognition:**
+
 - Best restaurants: Tuesday-Thursday (kitchen focused, not rushed)
 - Best museums: Monday (closed) or early weekday (empty)
 - Best travel: Off-season, mid-week departures
@@ -48,18 +51,19 @@ last_reviewed: 2026-02-17
 - Best social: Friday evening, Saturday afternoon
 
 **Red Flags:**
+
 - Doing expensive things on autopilot (Michelin every week)
 - Peak-time pricing for non-peak experiences
 - Frequency replacing quality
 - "Saving" experiences for later indefinitely
 
 **Important Notes:**
+
 - Memory formation matters more than in-the-moment pleasure
 - First and last experiences dominate recall (peak-end rule)
 - Variety beats repetition for happiness
 
 ---
-
 
 > **Knowledge Base Note**
 > Use the PRIORITIZATION FRAMEWORK for decision-making.
@@ -71,6 +75,7 @@ last_reviewed: 2026-02-17
 ## Context
 
 Time is the ultimate scarce resource. How you spend it matters more than how you spend money. Yet most people:
+
 1. Default to familiar activities
 2. Optimize for convenience over experience quality
 3. Save "special" things for a future that never comes
@@ -82,34 +87,38 @@ This framework helps you make better decisions about how to spend your time and 
 
 ### Categorize Every Experience
 
-| Category | Characteristics | Strategy |
-|----------|-----------------|----------|
-| **Peak** | Novel, memorable, emotional, rare | Invest fully - time, money, preparation |
-| **Quality** | Enjoyable, meaningful, but repeatable | Schedule regularly, don't over-do |
-| **Routine** | Necessary, familiar, expected | Optimize for efficiency, minimize friction |
-| **Filler** | Low value, time-killing, forgettable | Eliminate or drastically reduce |
+| Category    | Characteristics                       | Strategy                                   |
+| ----------- | ------------------------------------- | ------------------------------------------ |
+| **Peak**    | Novel, memorable, emotional, rare     | Invest fully - time, money, preparation    |
+| **Quality** | Enjoyable, meaningful, but repeatable | Schedule regularly, don't over-do          |
+| **Routine** | Necessary, familiar, expected         | Optimize for efficiency, minimize friction |
+| **Filler**  | Low value, time-killing, forgettable  | Eliminate or drastically reduce            |
 
 ### Examples
 
 **Peak experiences:**
+
 - First visit to a 3-star restaurant
 - Bucket list destination
 - Once-in-a-lifetime event
 - Major celebration
 
 **Quality experiences:**
+
 - Monthly fine dining
 - Regular exercise routine
 - Weekly time with close friends
 - Quarterly travel
 
 **Routine experiences:**
+
 - Grocery shopping
 - Commuting
 - Regular meals
 - Daily maintenance
 
 **Filler experiences:**
+
 - Mindless scrolling
 - Low-quality TV
 - Waiting without purpose
@@ -120,7 +129,7 @@ This framework helps you make better decisions about how to spend your time and 
 ```
 Peak > Quality > Routine > Filler
 
-Invest in peaks, protect quality time, 
+Invest in peaks, protect quality time,
 optimize routines, eliminate filler.
 ```
 
@@ -130,20 +139,20 @@ Different days suit different activities due to energy, crowds, and social norms
 
 ### Weekday Framework
 
-| Day | Best For | Avoid |
-|-----|----------|-------|
-| **Monday** | Quiet dining, recovery, planning, admin | Museums (often closed), social (everyone tired) |
-| **Tuesday** | Best dining reservations (kitchen peak), galleries | Major events (low energy) |
-| **Wednesday** | Wellness, mid-week treat, breaking routine | Nothing specific |
-| **Thursday** | Social warm-up, moderate activity | Major physical activity |
-| **Friday** | Celebratory, group activities, travel departures | Serious work, quiet activities |
+| Day           | Best For                                           | Avoid                                           |
+| ------------- | -------------------------------------------------- | ----------------------------------------------- |
+| **Monday**    | Quiet dining, recovery, planning, admin            | Museums (often closed), social (everyone tired) |
+| **Tuesday**   | Best dining reservations (kitchen peak), galleries | Major events (low energy)                       |
+| **Wednesday** | Wellness, mid-week treat, breaking routine         | Nothing specific                                |
+| **Thursday**  | Social warm-up, moderate activity                  | Major physical activity                         |
+| **Friday**    | Celebratory, group activities, travel departures   | Serious work, quiet activities                  |
 
 ### Weekend Framework
 
-| Day | Best For | Avoid |
-|-----|----------|-------|
-| **Saturday** | Active exploration, daytrips, social events | Crowded restaurants (unless booked), tourist sites |
-| **Sunday** | Restorative, nature, slow experiences, preparation | High-energy activities, major events |
+| Day          | Best For                                           | Avoid                                              |
+| ------------ | -------------------------------------------------- | -------------------------------------------------- |
+| **Saturday** | Active exploration, daytrips, social events        | Crowded restaurants (unless booked), tourist sites |
+| **Sunday**   | Restorative, nature, slow experiences, preparation | High-energy activities, major events               |
 
 ### Energy Matching
 
@@ -158,6 +167,7 @@ Don't fight your energy patterns - design around them.
 ## Memory Formation Optimization
 
 Research shows we remember experiences based on:
+
 1. **Peaks** - the most intense moments
 2. **Endings** - how it concluded
 3. **Novelty** - how different from routine
@@ -165,14 +175,17 @@ Research shows we remember experiences based on:
 ### Maximize Memory Formation
 
 **Design for peaks:**
+
 - Ensure at least one "wow moment" in any experience
 - Quality over duration (short amazing > long mediocre)
 
 **Design endings well:**
+
 - End on a high note (best course last, not first)
 - Don't let experiences fade out - create clear endings
 
 **Prioritize novelty:**
+
 - First-time experiences are remembered better
 - Even small variations add novelty (new route, new dish)
 
@@ -194,12 +207,14 @@ How are you spending those 42 hours?
 ## Signals and Patterns
 
 **Signs you're prioritizing well:**
+
 - Looking forward to scheduled experiences
 - Varied activities across the week
 - Peak experiences monthly or quarterly
 - Energy matches activity demands
 
 **Signs you're prioritizing poorly:**
+
 - Everything feels like routine
 - "Where did the week go?"
 - Saving all good things for "someday"

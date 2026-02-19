@@ -4,9 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 The first time you hold a pair of Jacob Cohen jeans, something feels wrong. They are too soft, too heavy, too deliberate. The fabric has the matte depth of a Brioni suit, the pockets are lined in cashmere, and there is a faint, stubborn trace of patchouli and Indian sandalwood rising from the leather patch. These are not jeans in the American sense. They are the opposite of everything Levi Strauss ever imagined when he riveted copper into canvas for gold-rush miners. They are the quiet, obstinate rebellion of a Venetian family who decided that if something is worth wearing every day, it had better be made like couture.
 
 Pontelongo is not a place you stumble upon. Thirty kilometres south-west of Venice, it sits in the flat, luminous plain between the Brenta and the Adige, a landscape of cornfields, abandoned brick farmhouses and the low industrial sheds that have quietly made the Veneto one of the richest regions in Europe. In one of those sheds, in 1985, Tato Bardelle started cutting Japanese selvedge denim on a table that once belonged to his father-in-law, a tailor. The brand he named Jacob Cohen (after his newborn son and, half-jokingly, after Jacob Davis, the Latvian who patented the rivet with Levi Strauss) was never meant to be revolutionary. It just wanted to make better jeans than the Americans.

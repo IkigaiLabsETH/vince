@@ -22,7 +22,7 @@ AI/AGI sector, robotics, tech investing, equity analysis
 - 181997054onchain-equity.md
 - 182090883onchain-startup.md
 
-*Plus 10 more files.*
+_Plus 10 more files._
 
 ## Related Categories
 

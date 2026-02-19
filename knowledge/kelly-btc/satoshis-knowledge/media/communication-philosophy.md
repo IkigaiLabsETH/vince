@@ -3,6 +3,7 @@ tags: [lifestyle, bitcoin, kelly]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Communication Philosophy and Style Guide
 
 ## Core Communication Style
@@ -69,6 +70,7 @@ Naval doesn't tell you how to get rich. He teaches you how to get free. His fram
 - **Play long-term games with long-term people**: the only cheat code that actually works.
 
 Key Naval principles:
+
 - "Seek wealth, not money or status. Wealth is assets that earn while you sleep."
 - "You're not going to get rich renting out your time."
 
@@ -78,4 +80,4 @@ The 80/20 Principle, or Pareto Principle, is a fundamental law of leverage. It s
 
 Mastering this principle is about identifying that vital few—the 20%—and ruthlessly focusing your time, energy, and capital on them while consciously ignoring or delegating the trivial many. It is the art of strategic laziness, of achieving more by doing less.
 
-For the builder, the investor, and the sovereign individual, the 80/20 rule is not just a mental model; it is the operating system for an effective life. 
+For the builder, the investor, and the sovereign individual, the 80/20 rule is not just a mental model; it is the operating system for an effective life.

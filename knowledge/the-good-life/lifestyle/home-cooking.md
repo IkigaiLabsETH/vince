@@ -34,6 +34,7 @@ Ceramic kamado: smoking, grilling, roasting, baking. The most versatile outdoor 
 ### The repertoire (one per week minimum)
 
 **Quick grills (30 min or less):**
+
 - **Reverse sear côte de bœuf:** Low at 110°C until internal 45°C, then sear on screaming-hot grate. Salt, pepper, nothing else. The best steak method.
 - **Smash burgers:** Cast iron on the grate, maximum heat. 2-minute smash. Local ground beef, brioche bun, simple toppings.
 - **Grilled vegetables:** Zucchini, peppers, asparagus, eggplant — olive oil, salt, high heat. Char is the point.
@@ -41,6 +42,7 @@ Ceramic kamado: smoking, grilling, roasting, baking. The most versatile outdoor 
 - **Lamb chops:** Direct heat, 3–4 min per side. Rosemary, garlic, done.
 
 **Low-and-slow (plan ahead):**
+
 - **Ribs:** 4–6 hours at 110°C with hickory or cherry. Wrap in foil at the stall (around 70°C internal). Fall-off-the-bone.
 - **Pulled pork (shoulder):** 8–10 hours at 110°C. Start in the morning for dinner. The kamado is perfect for this — set the vents and walk away.
 - **Brisket:** The ultimate low-and-slow challenge. 10–14 hours at 110°C. Fat cap up. Texas-style: salt and pepper only.
@@ -49,9 +51,11 @@ Ceramic kamado: smoking, grilling, roasting, baking. The most versatile outdoor 
 - **Smoked salmon:** Cold smoke for 2–3 hours. Cure with salt and sugar 24h before. The home version is better than anything you can buy.
 
 **Pizza mode (350°C+):**
+
 - Heat the Egg to 350°C+ with a pizza stone. 90-second Neapolitan pizza. San Marzano sauce, fresh mozzarella, basil. The kids love this.
 
 ### Green Egg + wine pairing
+
 - **Ribs / pulled pork:** Madiran (Montus, Bouscassé) or Cahors — tannic, powerful, matches the smoke.
 - **Côte de bœuf:** Margaux or Saint-Julien — elegant structure for the sear.
 - **Grilled fish:** Chablis or Pessac-Léognan blanc — mineral, clean.
@@ -79,9 +83,11 @@ These reward precise temp control and continuous hands-free action:
 - **Sous-vide style eggs:** Precise 63°C for 45 min = perfect soft-set eggs. No sous-vide machine needed.
 
 ### Quick wins (under 30 min)
+
 - Risotto (25 min), fresh pasta dough (10 min), soup & blend (20 min), steamed fish + veggies (15 min), hummus (3 min), cauliflower mash (15 min).
 
 ### Weekend projects
+
 - Bread dough (knead + prove), slow ragù (2h), Thai curry paste (fresh aromatics), croissant dough (laminated — TM7 handles the détrempe).
 
 ---
@@ -103,6 +109,7 @@ The dishes that sit in the oven for 2–4+ hours and fill the house with smell. 
 - **Baked beans (from scratch):** Dried beans, tomato, molasses, bacon. 4h at 140°C. Nothing like canned.
 
 ### Oven + wine pairing
+
 - **Bourguignon / coq au vin:** Red Burgundy (Volnay, Gevrey-Chambertin). Cook with good wine, drink better wine.
 - **Osso buco:** Crozes-Hermitage or Northern Rhône — structure and spice.
 - **Lamb shanks:** Châteauneuf-du-Pape or Madiran — bold enough to match.
@@ -120,12 +127,12 @@ The dishes that sit in the oven for 2–4+ hours and fill the house with smell. 
 
 ## Seasonal suggestions
 
-| Season | What to cook | Why |
-|--------|-------------|-----|
-| **Spring** | Grilled asparagus (Green Egg), lamb (Easter), first rosé | White asparagus from the Landes market. First outdoor grills of the year. |
-| **Summer** | Green Egg every week: ribs, fish, pizza. Salads, grilled veg. | Warm evenings, outdoor cooking, aperitif on the terrace. |
-| **Autumn** | Bourguignon, pot roasts, cèpe mushrooms, duck confit | Comfort season. Market has cèpes (Oct–Nov), duck, game. |
-| **Winter** | Long oven cooks, TM7 soups, smoked duck, raclette nights | Cozy. The oven and TM7 are the stars. Green Egg less frequent but still works. |
+| Season     | What to cook                                                  | Why                                                                            |
+| ---------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **Spring** | Grilled asparagus (Green Egg), lamb (Easter), first rosé      | White asparagus from the Landes market. First outdoor grills of the year.      |
+| **Summer** | Green Egg every week: ribs, fish, pizza. Salads, grilled veg. | Warm evenings, outdoor cooking, aperitif on the terrace.                       |
+| **Autumn** | Bourguignon, pot roasts, cèpe mushrooms, duck confit          | Comfort season. Market has cèpes (Oct–Nov), duck, game.                        |
+| **Winter** | Long oven cooks, TM7 soups, smoked duck, raclette nights      | Cozy. The oven and TM7 are the stars. Green Egg less frequent but still works. |
 
 ---
 

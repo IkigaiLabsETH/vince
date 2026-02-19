@@ -3,13 +3,14 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Incomplete Control
 
 OpenSea Slug: `incomplete-control-by-tyler-hobbs`
 
 ## The Artist
 
-Tyler Hobbs again. Incomplete Control dropped December 2021 on Art Blocks: 100 pieces, minted over four days at Bright Moments NYC. The project explores *imperfection* in digital art—contrasting algorithm precision with the warmth and flaw of analog mark-making. Hobbs wanted to “give up control” and let the algorithm define “an entire space of potential existence.” The result: brushstroke-like gestures, organic flow, often compared to Cy Twombly. No trait metadata; Hobbs felt categories would reduce the emergent balance, harmony, and rhythm. The collection sold out for ~$7M.
+Tyler Hobbs again. Incomplete Control dropped December 2021 on Art Blocks: 100 pieces, minted over four days at Bright Moments NYC. The project explores _imperfection_ in digital art—contrasting algorithm precision with the warmth and flaw of analog mark-making. Hobbs wanted to “give up control” and let the algorithm define “an entire space of potential existence.” The result: brushstroke-like gestures, organic flow, often compared to Cy Twombly. No trait metadata; Hobbs felt categories would reduce the emergent balance, harmony, and rhythm. The collection sold out for ~$7M.
 
 ## Why It Matters
 

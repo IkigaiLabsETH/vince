@@ -3,8 +3,8 @@ tags: [lifestyle, surf, travel]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
----
 
+---
 
 # Yoga: Vinyasa, Surfers, Swimmers — Deep Reference
 
@@ -19,6 +19,7 @@ Use this for detailed recommendations on vinyasa yoga, yoga for surfers, and yog
 **Breath:** Ujjayi ("victorious") breath: slight constriction at the back of the throat, audible ocean sound. Inhale and exhale through the nose; equal or slightly longer exhale to calm the nervous system. Breath leads the movement, not the other way around.
 
 **Structure of a typical vinyasa class:**
+
 - Centering and breath (2–5 min)
 - Warm-up (cat-cow, gentle stretches)
 - Sun Salutation A (Surya Namaskar A): 3–5 rounds to build heat — mountain, forward fold, half lift, plank, chaturanga, up-dog, down-dog, repeat.
@@ -43,19 +44,21 @@ Use this for detailed recommendations on vinyasa yoga, yoga for surfers, and yog
 **Why surfers need specific yoga:** Paddling = repetitive shoulder external rotation and lat engagement; pop-up = explosive hip extension and core; duck dives and twists = thoracic and spine load. Imbalances lead to tight lats, rounded shoulders, stiff hips, and lower-back strain.
 
 **Pre-surf (10–15 min):** Goal = mobility and warmth, not deep stretch.
+
 - **Spine:** Cat-cow (5–10 rounds), thread the needle (thoracic rotation each side).
 - **Hips:** Hip circles, low lunge with knee down, lizard (optional).
 - **Shoulders:** Arm circles (forward and back), shoulder rolls, eagle arms (wrap and hold).
 - **Balance:** Tree pose, eagle (standing) — proprioception for the board.
 - **Core/heat:** A few rounds of sun salutation A or dynamic plank to hip openers.
-Avoid long holds; keep it moving so muscles are warm, not overstretched.
+  Avoid long holds; keep it moving so muscles are warm, not overstretched.
 
 **Post-surf (20–30 min):** Goal = recovery, lengthening, nervous system downshift.
+
 - **Hips:** Pigeon (each side 1–2 min), lizard, frog (if mobile).
 - **Shoulders:** Eagle arms, cow face arms (Gomukhasana arms), chest opener on block or wall.
 - **Spine:** Child's pose, seated forward fold, supine twist.
 - **Full body:** Legs up the wall, then savasana 5+ min.
-Emphasize breath and rest; this is recovery, not workout.
+  Emphasize breath and rest; this is recovery, not workout.
 
 **50+ surfer:** Longer holds (30–60 s), use blocks and straps, avoid extreme range. Focus on shoulder mobility and hip openers 3–4x per week; pre-surf always, post-surf when possible.
 
@@ -66,13 +69,15 @@ Emphasize breath and rest; this is recovery, not workout.
 **Why swimmers need specific yoga:** Pull phase = shoulders in internal rotation and adduction, lats and pecs dominant; kick = hip flexor and quad engagement; breath-hold patterns and thoracic stiffness from streamline. Common issues: tight lats, pecs, and hip flexors; restricted thoracic rotation; shoulder impingement risk.
 
 **Pre-swim (10–15 min):** Goal = open chest and shoulders, mobilize thoracic spine, warm hips.
+
 - **Shoulders and chest:** Arm circles, shoulder rolls, chest opener (hands behind back or on wall), thread the needle for thoracic rotation.
 - **Thoracic spine:** Cat-cow, seated or kneeling twist.
 - **Hips:** Hip circles, low lunge, gentle lizard.
 - **Breath:** A few rounds of full inhale/exhale to prepare breath control.
-Keep it light; save deep stretching for post-swim.
+  Keep it light; save deep stretching for post-swim.
 
 **Post-swim (20–30 min):** Goal = lengthen lats and pecs, release hip flexors, restore thoracic mobility.
+
 - **Lats:** Puppy pose (extended child's with arms forward), downward dog with pedaling feet, hanging forward fold if available.
 - **Pecs and shoulders:** Chest stretch on wall or door frame, cow face arms, eagle arms, reclined twist with arm extended.
 - **Hip flexors:** Low lunge (long hold), lizard, half frog, supine figure-four.
@@ -89,15 +94,15 @@ Keep it light; save deep stretching for post-swim.
 
 ## Quick Reference Table
 
-| Practice       | Duration   | When           | Focus |
-|----------------|------------|----------------|-------|
-| Vinyasa        | 20–30 min  | Morning daily  | Breath-flow, heat, strength; Kassandra |
-| Pre-surf       | 10–15 min  | Before surf    | Spine, hips, shoulders, balance |
-| Post-surf      | 20–30 min  | After surf     | Pigeon, lizard, shoulder stretches, savasana |
-| Pre-swim       | 10–15 min  | Before pool    | Chest, thoracic, shoulders, hips |
-| Post-swim      | 20–30 min  | After pool     | Lats, pecs, hip flexors, thoracic twist |
-| Post-row       | 20–30 min  | After rower    | Same as post-swim (same pull chain) |
-| Yin / Restorative | 30–45 min | Evening, Sunday | Deep stretch, recovery, no heat |
+| Practice          | Duration  | When            | Focus                                        |
+| ----------------- | --------- | --------------- | -------------------------------------------- |
+| Vinyasa           | 20–30 min | Morning daily   | Breath-flow, heat, strength; Kassandra       |
+| Pre-surf          | 10–15 min | Before surf     | Spine, hips, shoulders, balance              |
+| Post-surf         | 20–30 min | After surf      | Pigeon, lizard, shoulder stretches, savasana |
+| Pre-swim          | 10–15 min | Before pool     | Chest, thoracic, shoulders, hips             |
+| Post-swim         | 20–30 min | After pool      | Lats, pecs, hip flexors, thoracic twist      |
+| Post-row          | 20–30 min | After rower     | Same as post-swim (same pull chain)          |
+| Yin / Restorative | 30–45 min | Evening, Sunday | Deep stretch, recovery, no heat              |
 
 ---
 

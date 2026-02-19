@@ -4,14 +4,15 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181982202.Lake Lugano
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: perps-trading
 **Word Count**: 1,304
 **Tags**: #bitcoin #btc #eth #sol #defi #fed #trading #substack
----> 
+--->
 The dawn is just beginning to spill its pale, liquid gold across the vast mirror of Lake Lugano, the kind of light that catches on every ripple and turns the water into a living sheet of molten metal, while the palm fronds out on the balcony—actual palms, swaying lazy in the mild morning breeze—cast long, dancing shadows across the terracotta tiles where my coffee steams, strong and black and bitter enough to cut through the remnants of another sleepless night spent reloading those ancient Bitcoin charts that still haunt me like ghosts from battles long lost.
 
 Those charts, pulled up again in the cold glow of the screen, remind me of that first reckless buy back in 2013 when Bitcoin hovered around $100 and I threw in what felt like real money then, only to sell half too soon at $1k, convincing myself I’d been clever enough, watching the rest rocket to heights that still sting when I think about the family strain during those activist years—the endless proxy wars and redemptions that forced sales right at the bottoms, the late nights that stole everything else.
@@ -57,7 +58,7 @@ Regrets still drift in, of course—arriving later than I might have, exiting cy
 ## Conclusion
 
 It’s not universal, this paradise—not for active businesses chasing Zug’s corporate rates, not for professional traders whose gains get taxed like income, winters here milder yet still capable of rain and higher snow, local jobs thin enough that Italian creeps in whether you want it or not, the city smaller and lacking Zurich’s full buzz.
-> 
-But for passive stackers nursing long holds, remote builders earning outside the canton, families craving that Dubai-level safety laced with sun and cultural depth, quiet Bitcoin believers who prefer compounding over moon talk—this remains the arbitrage that slipped under the radar too long.
+
+> But for passive stackers nursing long holds, remote builders earning outside the canton, families craving that Dubai-level safety laced with sun and cultural depth, quiet Bitcoin believers who prefer compounding over moon talk—this remains the arbitrage that slipped under the radar too long.
 
 After all the noise and trench dust, finally a silence broken only by palm fronds and lapping water. Sun’s fully up now, lake glittering endless. Stacking steady, as always. We’ll see what the next turn brings. Read the filings. And if you’re cut from similar scarred cloth... the train south is cheap, the coffee strong.

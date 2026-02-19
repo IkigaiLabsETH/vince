@@ -3,6 +3,7 @@ tags: [trading, derivatives, perps]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Squeeze Patterns in Perpetual Futures
 
 Understanding squeeze dynamics for options risk management.
@@ -18,11 +19,11 @@ A squeeze occurs when crowded positioning forces rapid, violent price moves:
 
 ### High Squeeze Risk Indicators
 
-| Indicator | Long Squeeze Risk | Short Squeeze Risk |
-|-----------|-------------------|---------------------|
-| Funding Rate | > +0.05% (8h) | < -0.03% (8h) |
-| Open Interest | High and rising | High and rising |
-| Price Action | Extended rally | Extended decline |
+| Indicator            | Long Squeeze Risk               | Short Squeeze Risk                 |
+| -------------------- | ------------------------------- | ---------------------------------- |
+| Funding Rate         | > +0.05% (8h)                   | < -0.03% (8h)                      |
+| Open Interest        | High and rising                 | High and rising                    |
+| Price Action         | Extended rally                  | Extended decline                   |
 | Liquidation Cascades | Small dips causing liquidations | Small bounces causing liquidations |
 
 ### Warning Signs
@@ -35,6 +36,7 @@ A squeeze occurs when crowded positioning forces rapid, violent price moves:
 ## Squeeze Mechanics
 
 ### Long Squeeze Cascade
+
 1. Price starts declining
 2. Overleveraged longs get margin called
 3. Forced selling accelerates decline
@@ -42,6 +44,7 @@ A squeeze occurs when crowded positioning forces rapid, violent price moves:
 5. Price crashes 10-30% in hours
 
 ### Short Squeeze Cascade
+
 1. Price starts rising
 2. Shorts get margin called
 3. Forced buying accelerates rally
@@ -51,32 +54,36 @@ A squeeze occurs when crowded positioning forces rapid, violent price moves:
 ## Options Implications
 
 ### During Long Squeeze Risk
+
 - **Covered Calls**: Safer - rapid decline unlikely to breach call strikes
 - **CSPs**: DANGEROUS - rapid decline can breach put strikes immediately
 - **Action**: Widen put strikes significantly or reduce CSP positions
 
 ### During Short Squeeze Risk
+
 - **Covered Calls**: DANGEROUS - rapid rally can breach call strikes
 - **CSPs**: Safer - rapid rally moves price away from puts
 - **Action**: Widen call strikes significantly
 
 ## Risk Levels and Strike Adjustments
 
-| Squeeze Risk | Call Strike Adjustment | Put Strike Adjustment |
-|--------------|------------------------|----------------------|
-| None | Standard 20-30 delta | Standard 20-30 delta |
-| Low | Standard | Standard |
-| Medium | +5 delta wider (25-30) | +5 delta wider (25-30) |
-| High | +10 delta wider (30-35) | +10 delta wider (30-35) |
-| Extreme | Consider skipping | Consider skipping |
+| Squeeze Risk | Call Strike Adjustment  | Put Strike Adjustment   |
+| ------------ | ----------------------- | ----------------------- |
+| None         | Standard 20-30 delta    | Standard 20-30 delta    |
+| Low          | Standard                | Standard                |
+| Medium       | +5 delta wider (25-30)  | +5 delta wider (25-30)  |
+| High         | +10 delta wider (30-35) | +10 delta wider (30-35) |
+| Extreme      | Consider skipping       | Consider skipping       |
 
 ## Historical Squeeze Examples
 
 ### Crypto Long Squeezes
+
 - BTC April 2021: -25% in 24 hours after extreme positive funding
 - ETH May 2022: -15% rapid decline during crowded longs
 
-### Crypto Short Squeezes  
+### Crypto Short Squeezes
+
 - BTC October 2021: +15% in hours during crowded shorts
 - HYPE Launch: Massive short squeeze as shorts bet against launch
 

@@ -4,22 +4,24 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179634141.The Perpetual Futures Empire
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: perps-trading
 **Word Count**: 942
 **Tags**: #ethereum #eth #sol #defi #perps #futures #trading #portfolio #substack
+
 ---
 
 In the summer of 2025, while most of the crypto industry was busy chasing AI agents and meme-coin meta, a quiet layer-1 blockchain called Hyperliquid took the single most dominant position in the history of decentralized trading.
 
-73% of all decentralized perpetual futures volume now flows through Hyperliquid. That’s not a market share. That’s monopoly-level control. In October alone, the chain processed more than $400 billion in trading volume and generated roughly $100 million in quarterly revenue — more than Ethereum itself earns from on-chain activity. Annualized, Hyperliquid is on pace for nearly $600 million in pure protocol revenue at 97% net margins. This is not a DEX.**This is the on-chain Binance killer that nobody saw coming.
+73% of all decentralized perpetual futures volume now flows through Hyperliquid. That’s not a market share. That’s monopoly-level control. In October alone, the chain processed more than $400 billion in trading volume and generated roughly $100 million in quarterly revenue — more than Ethereum itself earns from on-chain activity. Annualized, Hyperliquid is on pace for nearly $600 million in pure protocol revenue at 97% net margins. This is not a DEX.\*\*This is the on-chain Binance killer that nobody saw coming.
 
 ## Context
 
-The Machine Under the Hood**
+The Machine Under the Hood\*\*
 
 Hyperliquid is a purpose-built Layer 1 optimized for one thing: high-performance order-book trading. It uses a custom consensus mechanism called HyperBFT that delivers sub-second finality and a peak throughput of >100,000 orders per second — faster than most centralized exchanges.
 
@@ -27,100 +29,76 @@ The chain runs two execution environments:
 
 ## Main
 
-- 
-RustVM – the ultra-low-latency engine that powers the core spot and perpetuals CLOB (central limit order book).
+- RustVM – the ultra-low-latency engine that powers the core spot and perpetuals CLOB (central limit order book).
 
-- 
-HyperEVM – a fully EVM-compatible environment that lets anyone deploy normal smart contracts, but with 20–200x higher performance than Ethereum L2s.
+- HyperEVM – a fully EVM-compatible environment that lets anyone deploy normal smart contracts, but with 20–200x higher performance than Ethereum L2s.
 
 Vertical integration is the real moat. Hyperliquid doesn’t rent scalability from Arbitrum or Optimism. It owns the entire stack from consensus to front-end. That’s why the UX feels like Bybit while remaining completely non-custodial and on-chain. The Numbers That Should Wake You Up
 
-- 
-Monthly volume (Oct 2025): $400B+
+- Monthly volume (Oct 2025): $400B+
 
-- 
-Open interest: $15.3B (up 479% YTD)
+- Open interest: $15.3B (up 479% YTD)
 
-- 
-TVL: ~$5B
+- TVL: ~$5B
 
-- 
-HLP vault (decentralized market-making vault): $372M deposited, $68M net profit for users YTD
+- HLP vault (decentralized market-making vault): $372M deposited, $68M net profit for users YTD
 
-- 
-Daily revenue: $2–3M on average, spiking to $8M+ on volatile days
+- Daily revenue: $2–3M on average, spiking to $8M+ on volatile days
 
-- 
-Fee structure: 2–2.5 bps taker (CEX-competitive)
+- Fee structure: 2–2.5 bps taker (CEX-competitive)
 
-- 
-Protocol margins: 97% (yes, really)
+- Protocol margins: 97% (yes, really)
 
-For context: the entire Ethereum ecosystem generated ~$220M in fee revenue in Q3 2025. Hyperliquid did half that in a single month. 
+For context: the entire Ethereum ecosystem generated ~$220M in fee revenue in Q3 2025. Hyperliquid did half that in a single month.
 
 **The Token That Actually Accrues**
 
 HYPE is one of the cleanest token designs in crypto.
 
-- 
-Circulating supply: ~271M
+- Circulating supply: ~271M
 
-- 
-Current price (Nov 22, 2025): ~$33
+- Current price (Nov 22, 2025): ~$33
 
-- 
-FDV: ~$33B
+- FDV: ~$33B
 
-- 
-Allocation: 70%+ to community at launch, zero VC preferential terms
+- Allocation: 70%+ to community at launch, zero VC preferential terms
 
-- 
-Core team tokens locked until 2027–2028
+- Core team tokens locked until 2027–2028
 
 99% of all protocol revenue flows into an on-chain “Assistance Fund” that buys back and burns HYPE on the open market in real time. In Q3 alone, the fund repurchased $90M worth of tokens ($1M per day on average). This is not theoretical buyback theater. It’s happening every single block.
 
 Upcoming Catalysts Most People Are Missing
 
-- 
-HIP-3 “Exchange-as-a-Service” – launching Q4 2025**Any team can spin up their own isolated perps market by staking 1M HYPE. Early partners (Kinetiq, HyperUnit, etc.) are projected to add $150M+ annualized revenue by mid-2026.
+- HIP-3 “Exchange-as-a-Service” – launching Q4 2025\*\*Any team can spin up their own isolated perps market by staking 1M HYPE. Early partners (Kinetiq, HyperUnit, etc.) are projected to add $150M+ annualized revenue by mid-2026.
 
-- 
-Hyperliquid Strategies treasury
-The for-profit entity behind the chain filed an S-1 and is sitting on $583M cash. That treasury is expected to become a second buyback engine, potentially absorbing 50M+ HYPE over the next 24 months.
+- Hyperliquid Strategies treasury
+  The for-profit entity behind the chain filed an S-1 and is sitting on $583M cash. That treasury is expected to become a second buyback engine, potentially absorbing 50M+ HYPE over the next 24 months.
 
-- 
-Equity & forex perps
-Partnerships in motion to bring tokenized stocks and forex pairs on-chain with portfolio margining. This alone could 5–10x open interest.
+- Equity & forex perps
+  Partnerships in motion to bring tokenized stocks and forex pairs on-chain with portfolio margining. This alone could 5–10x open interest.
 
-- 
-November 29 unlock offset
-23.8% of supply begins linear vesting (237M tokens over 24 months). Current buyback rate covers ~17% of monthly unlock pressure, and the Strategies treasury will likely push that ratio far higher.
+- November 29 unlock offset
+  23.8% of supply begins linear vesting (237M tokens over 24 months). Current buyback rate covers ~17% of monthly unlock pressure, and the Strategies treasury will likely push that ratio far higher.
 
-Valuation & Price Targets**
+Valuation & Price Targets\*\*
 
 At $33, HYPE trades at roughly 15x forward annualized revenue — cheap for a protocol with 73% market share and near-100% margins.
 
 **Base case (2027)**
 
-- 
-10% global perps market share
+- 10% global perps market share
 
-- 
-$1.3B annual revenue
+- $1.3B annual revenue
 
-- 
-25x revenue multiple → $32.5B FDV → $97 fully diluted (3x from here)
+- 25x revenue multiple → $32.5B FDV → $97 fully diluted (3x from here)
 
 **Bull case (2027)**
 
-- 
-15% global share + successful equity/forex launch
+- 15% global share + successful equity/forex launch
 
-- 
-$2B+ revenue
+- $2B+ revenue
 
-- 
-35x multiple → $70B FDV → $210 fully diluted (6.4x)
+- 35x multiple → $70B FDV → $210 fully diluted (6.4x)
 
 **Long-term (2030)**
 
@@ -128,17 +106,13 @@ If Hyperliquid becomes the default settlement layer for all on-chain derivatives
 
 **Risks (Because We’re Adults)**
 
-- 
-Centralized validator set (16 at launch) and partially closed-source code
+- Centralized validator set (16 at launch) and partially closed-source code
 
-- 
-Large linear unlock starting Nov 29
+- Large linear unlock starting Nov 29
 
-- 
-Regulatory gray zone around custom derivatives (HIP-3 markets)
+- Regulatory gray zone around custom derivatives (HIP-3 markets)
 
-- 
-Competition from well-funded CEX-style L2s (Lighter, etc.)
+- Competition from well-funded CEX-style L2s (Lighter, etc.)
 
 None of these are existential yet. The chain has operated without incident for 18+ months, and the team’s pace of shipping is frankly terrifying.
 

@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # World of Women
 
 OpenSea Slug: `world-of-women-nft`
@@ -13,7 +14,7 @@ Yam Karkai—artist and co-founder. WoW launched July 2021: 10,000 female avatar
 
 ## Why It Matters
 
-World of Women proved that “representation” could be a blue-chip thesis. The space was heavily male-coded; WoW made women the default. The art is polished, the mission explicit, and the partnerships real. It’s often cited as *the* female-led NFT success. The royalties model and the artist fund tied value to impact. For collectors who care about diversity, visibility, and mission-driven projects, WoW is foundational.
+World of Women proved that “representation” could be a blue-chip thesis. The space was heavily male-coded; WoW made women the default. The art is polished, the mission explicit, and the partnerships real. It’s often cited as _the_ female-led NFT success. The royalties model and the artist fund tied value to impact. For collectors who care about diversity, visibility, and mission-driven projects, WoW is foundational.
 
 ## The Art
 

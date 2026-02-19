@@ -3,12 +3,15 @@ tags: [legal, compliance, regulation]
 agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # DeFi Compliance Toolkit
 
 ## Blockchain Analytics Platforms
 
 ### Chainalysis
+
 The industry leader with the broadest coverage. Key products:
+
 - **Chainalysis Reactor** — investigation tool for tracing fund flows across chains, clustering addresses, and visualizing transaction networks
 - **Chainalysis KYT (Know Your Transaction)** — real-time transaction monitoring API, assigns risk scores (low/medium/high/severe), flags exposure to sanctioned entities, darknet markets, ransomware, mixers
 - **Chainalysis Sanctions Oracle** — free on-chain smart contract (Ethereum) that returns whether an address is sanctioned. Used by Aave, Uniswap front-end, and others
@@ -16,7 +19,9 @@ The industry leader with the broadest coverage. Key products:
 **Coverage:** 30+ blockchains including Bitcoin, Ethereum, Solana, Tron, BSC. Limited privacy coin support (claims partial Monero tracing).
 
 ### TRM Labs
+
 Strong competitor with emphasis on DeFi-native compliance:
+
 - **TRM Forensics** — cross-chain investigation with DeFi protocol decoding (understands LP positions, yield farming flows)
 - **TRM Transaction Monitoring** — API-based, real-time screening with configurable risk thresholds
 - **TRM Wallet Screening** — bulk address screening for sanctions, terrorism financing, fraud typologies
@@ -24,6 +29,7 @@ Strong competitor with emphasis on DeFi-native compliance:
 **Differentiator:** superior DeFi protocol coverage and cross-chain bridge tracing. Preferred by several major DeFi protocols.
 
 ### Other Notable Tools
+
 - **Elliptic** — strong in regulatory/institutional markets, Elliptic Lens for wallet screening
 - **Arkham Intelligence** — entity attribution and on-chain intelligence, more investigative than compliance
 - **Nansen** — primarily analytics/alpha, but entity labels useful for compliance context
@@ -34,11 +40,13 @@ Strong competitor with emphasis on DeFi-native compliance:
 The Office of Foreign Assets Control (US Treasury) maintains the **SDN List** (Specially Designated Nationals) which includes blockchain addresses. Compliance is **strict liability** — intent is irrelevant.
 
 **Key sanctioned entities with on-chain footprint:**
-- Tornado Cash (August 2022 designation, partially overturned by *Van Loon v. Treasury* 2024 — immutable smart contracts may not be "property," but the front-end and TORN token remain sanctioned)
+
+- Tornado Cash (August 2022 designation, partially overturned by _Van Loon v. Treasury_ 2024 — immutable smart contracts may not be "property," but the front-end and TORN token remain sanctioned)
 - Lazarus Group (North Korea) — associated addresses regularly updated
 - Various ransomware-affiliated wallets
 
 **Compliance approach:**
+
 1. Screen all interacting addresses against OFAC SDN list before processing transactions
 2. Use Chainalysis Sanctions Oracle or TRM API for real-time checks
 3. Block sanctioned addresses at the front-end/API level
@@ -55,8 +63,9 @@ Since DeFi smart contracts are immutable and permissionless, compliance enforcem
 - **VPN detection** — services like IPQualityScore or Cloudflare bot management can flag VPN/proxy usage from blocked regions.
 
 **Implementation pattern:**
+
 ```
-User connects wallet → API call to screening service → 
+User connects wallet → API call to screening service →
   If SANCTIONED → block + log
   If HIGH_RISK → flag for review, optionally restrict
   If CLEAN → proceed
@@ -65,11 +74,13 @@ User connects wallet → API call to screening service →
 ## Compliance Stack Recommendations
 
 **Minimum viable compliance (small DeFi project):**
+
 - Chainalysis Sanctions Oracle (free, on-chain)
 - Cloudflare geoblocking for sanctioned jurisdictions
 - Clear Terms of Service with jurisdiction restrictions
 
 **Production compliance (growth-stage protocol):**
+
 - TRM Labs or Chainalysis KYT API integration
 - Wallet screening on connect with risk scoring
 - IP geoblocking + VPN detection
@@ -77,6 +88,7 @@ User connects wallet → API call to screening service →
 - Quarterly compliance reviews with external counsel
 
 **Enterprise compliance (major protocol/exchange):**
+
 - Full Chainalysis Reactor + KYT deployment
 - Dedicated compliance team with MLRO
 - Real-time transaction monitoring with automated SAR workflows
@@ -90,4 +102,4 @@ User connects wallet → API call to screening service →
 - **Privacy pools** (Vitalik's proposal) aim to enable compliant privacy — prove your withdrawal isn't from sanctioned deposits without revealing your specific deposit
 - **MEV and sandwich attacks** can create inadvertent exposure to sanctioned funds in the same block
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

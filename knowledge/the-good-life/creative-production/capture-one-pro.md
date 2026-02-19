@@ -23,12 +23,14 @@ The user's photo editing software for the Hasselblad (H2 film scans + 555 ELD di
 ## Workflow: Sessions vs Catalogs
 
 ### Sessions (preferred for this workflow)
+
 - One folder per shoot. Contains: captures, selects, output, trash.
 - Portable — move the folder, everything comes with it.
 - Ideal for assignment/project work: "2026-02-15 Hasselblad Studio Test."
 - Easy backup: copy the session folder to external drive. Done.
 
 ### Catalogs
+
 - Single database, many folders. Better for large, permanent photo libraries.
 - Cross-project organization, smart albums, keyword search.
 - Use for: the long-term archive of all photography work.
@@ -50,24 +52,29 @@ The user's photo editing software for the Hasselblad (H2 film scans + 555 ELD di
 ## Color grading tools (the core)
 
 ### Color Balance (3-way)
+
 - **Shadows / Midtones / Highlights** — independent color wheels. The primary grading tool.
 - Adjust hue and saturation in each tonal range. This is where you create a look.
 - Example: warm midtones (golden skin) + cool shadows (blue-tinted depth) = cinematic portrait.
 
 ### Color Editor
+
 - **Advanced tab:** Select any color range (by hue, saturation, lightness) and adjust independently.
 - Target a specific color — shift a sky blue, correct a skin cast, adjust green foliage — without affecting anything else.
 - Local and global modes.
 
 ### Curves
+
 - **RGB curves:** Overall contrast and exposure. S-curve for punch.
 - **Luma curve:** Adjusts luminance without affecting saturation. Better for contrast adjustments than RGB curves when you want to preserve color.
 - **Per-channel (R, G, B):** Precise color shifts. Add blue to shadows, warmth to highlights.
 
 ### Levels
+
 - Input and output levels per channel. Quick white/black point adjustments.
 
 ### Styles and presets
+
 - Save any combination of adjustments as a style. Apply to future images with one click.
 - Stack multiple styles. Build a personal library of looks.
 - Share styles across sessions and catalogs.
@@ -88,16 +95,19 @@ The user's photo editing software for the Hasselblad (H2 film scans + 555 ELD di
 ## For the Hasselblad / Fuji workflow
 
 ### Hasselblad 555 ELD (digital back)
+
 - Select the correct ICC camera profile for the back. Capture One has specific profiles for Hasselblad backs — they're better than generic profiles.
 - Tethered workflow (see above).
 - Files: IIQ or 3FR format (depending on back model). Full raw latitude.
 
 ### Hasselblad H2 (film scans)
+
 - Import lab scans (TIFF) or home scans into a session.
 - Grade as you would a raw file — curves, color balance, local adjustments all work on TIFFs.
 - Not the same latitude as raw, but Capture One's tools still outperform other editors on TIFF.
 
 ### Fuji (slow shutter / creative)
+
 - Camera-specific Fuji profiles and film simulation matches.
 - Import raw files; grade for the long-exposure look — cooler shadows, slightly muted highlights for water/cloud blur.
 - Capture One's noise reduction handles high-ISO Fuji files well.

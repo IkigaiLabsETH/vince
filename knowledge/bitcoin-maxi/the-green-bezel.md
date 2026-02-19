@@ -4,18 +4,20 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 182154179.The Green Bezel
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 864
 **Tags**: #bitcoin #btc #eth #sol #inflation #substack
+
 ---
 
 I still remember the exact moment I let it go.
 
-December 2018. Crypto winter had frozen everything. Bitcoin was bleeding out, scraping $3,214 on December 15th—the lowest point of the cycle. 
+December 2018. Crypto winter had frozen everything. Bitcoin was bleeding out, scraping $3,214 on December 15th—the lowest point of the cycle.
 
 ## Context
 
@@ -24,25 +26,25 @@ The air smelled like capitulation. Everyone I knew was selling, cursing, or pret
 I wasn’t selling. I was buying.
 
 But I needed cash. Fast.
-**
+\*\*
 On my wrist sat my constant companion of fifteen years: the Rolex Submariner 16610LV—“Kermit.” The 50th anniversary edition with the green aluminum bezel. Bought in SA back in 2004 for roughly €3,000 when the rand was weak and the AD was generous. It had lived through everything with me.
 
 ## Main
 
-The Golden Era**
+The Golden Era\*\*
 
 We’d moved to J-Bay, the right-hand point break that surfers dream about. Supertubes rolling in perfect, mechanical lines. Every dawn patrol, every big winter swell, every lazy summer glass-off—Kermit was there. Salt crusted the case. Sun gently faded the green bezel to a softer, lived-in hue. The Maxi dial glowed in the dark lineup like a private lighthouse.
 
-I wore it daily. Surfing. Braais on the beach. Nights in town. 
+I wore it daily. Surfing. Braais on the beach. Nights in town.
 
 It wasn’t jewelry. It was part of the rhythm.
 
 Back then, in 2018, good Kermits traded around $15,000 on the secondary market. Not crazy money, but respectable for a neo-vintage steel sports Rolex.
 [
-![](https://substack-post-media.s3.amazonaws.com/public/images/5ede6fb3-10a7-4118-b944-baee008700bd_2000x1312.jpeg)**
+![](https://substack-post-media.s3.amazonaws.com/public/images/5ede6fb3-10a7-4118-b944-baee008700bd_2000x1312.jpeg)\*\*
 
 ](https://substackcdn.com/image/fetch/$s_!KLbM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ede6fb3-10a7-4118-b944-baee008700bd_2000x1312.jpeg)
-The Deal**
+The Deal\*\*
 
 I went to one of my closest friends—someone who’d shared hundreds of sessions, countless beers, endless stories. “I need $12,000 cash. Now. For Bitcoin.”
 
@@ -74,7 +76,7 @@ The Arithmetic of Regret
 
 Let’s run the numbers coldly.
 
-If I’d kept the watch: $12,000 → ~$22,500 today. Roughly 9% CAGR.Safe. 
+If I’d kept the watch: $12,000 → ~$22,500 today. Roughly 9% CAGR.Safe.
 
 Tangible. Beautiful.
 
@@ -109,12 +111,12 @@ When the world zigged in 2018, convinced it was over, the contrarian zag paid of
 Yet here’s the skepticism I owe you: We’re now at $88,000.
 
 Valuations are no longer absurdly cheap.
-**
-Institutional adoption is real—ETFs hold billions—but it also means Bitcoin increasingly moves with risk assets. Correlation with Nasdaq is climbing. The easy 100x from the bottom is gone. Future returns will likely be strong, but tamer. Maybe 15–30% CAGR over the next decade if adoption continues.Still excellent. Still better than most assets. 
+\*\*
+Institutional adoption is real—ETFs hold billions—but it also means Bitcoin increasingly moves with risk assets. Correlation with Nasdaq is climbing. The easy 100x from the bottom is gone. Future returns will likely be strong, but tamer. Maybe 15–30% CAGR over the next decade if adoption continues.Still excellent. Still better than most assets.
 
 But not the once-in-a-lifetime free lunch of 2018.
 
-The Real Cost**
+The Real Cost\*\*
 
 I don’t regret the trade.
 

@@ -3,12 +3,15 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Firedancer: Jump Crypto's Solana Validator Client
 
 ## What Firedancer Changes
 
 ### Performance
+
 Firedancer's architecture is fundamentally different from the Agave client. Key design choices:
+
 - **Tile-based architecture:** Modular components (networking, signature verification, execution, etc.) run as independent "tiles" that can be assigned to specific CPU cores, maximizing parallelism.
 - **Zero-copy networking:** Custom networking stack bypasses the kernel, reducing latency and increasing packet processing throughput.
 - **Benchmarks:** Internal testing showed 1M+ TPS in controlled environments. Real-world mainnet performance will be lower, but even 10-100x improvement over current throughput opens new design spaces.
@@ -16,11 +19,13 @@ Firedancer's architecture is fundamentally different from the Agave client. Key 
 Signature verification alone was benchmarked at 1M+ signatures per second — a bottleneck that currently limits the Agave client.
 
 ### Client Diversity
+
 Before Firedancer, a single bug in the Agave client could halt the entire network. With two independent implementations reaching consensus on the same state, a bug in one client only affects validators running that implementation. The network can continue with the other client's supermajority.
 
 This is arguably more important than the performance gains. Solana's outage history traces largely to single-client vulnerabilities.
 
 ### Frankendancer — The Intermediate Step
+
 Rather than deploying the full Firedancer stack at once, Jump took an incremental approach: **Frankendancer** combines Firedancer's networking and block production components with Agave's execution engine. This hybrid has been running on mainnet since mid-2024 with a small but growing percentage of validators.
 
 Frankendancer validators have demonstrated measurably better block production performance — fewer missed slots, faster propagation, and better handling of congestion spikes.
@@ -46,4 +51,4 @@ The full Firedancer client (replacing Agave's execution layer entirely) remains 
 
 Jump Crypto's broader business challenges (regulatory scrutiny, workforce reductions) create execution risk. The Firedancer team has remained stable, but dependency on a single company for a critical client is itself a centralization vector. Community efforts to ensure Firedancer's codebase is maintainable beyond Jump are important.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

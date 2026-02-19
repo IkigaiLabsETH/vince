@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 E. Guigal Crozes-Hermitage RougeOverview
 
 E. Guigal Crozes-Hermitage Rouge is a 100% Syrah red wine from the Crozes-Hermitage AOC, the largest appellation in France's Northern Rhône Valley. Guigal produces a more serious, structured, and intense version than typical entry-level Crozes-Hermitage wines, emphasizing hillside fruit for depth, vigor, and exceptional value. The estate began making this wine in 1999 after acquiring low-yielding, old-vine hillside parcels in the appellation's northern sector. Annual production averages about 450,000 bottles, with strong aging potential (up to 10 years)
@@ -45,4 +44,3 @@ Ideal with red meats, game (venison, duck), charcuterie, roasted dishes, and har
 Additional Notes
 
 This wine serves as an excellent introduction to Northern Rhône Syrah while punching above its weight class due to Guigal's rigorous standards.
-

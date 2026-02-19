@@ -1,6 +1,6 @@
 # Deep dive: How VINCE could become a ticker ($VINCE) — and why (Bankr-inspired)
 
-*Read: [Bankr](https://bankr.bot/) · Why and how VINCE could follow a similar path to $BNKR.*
+_Read: [Bankr](https://bankr.bot/) · Why and how VINCE could follow a similar path to $BNKR._
 
 ---
 
@@ -22,7 +22,7 @@ So: **agent → token → token utility (subscription, stake, rewards) → reven
 
 ### 2.1 Sustainability (already in TREASURY.md)
 
-[TREASURY.md](../../docs/TREASURY.md) says the agent must **cover operational costs and aim for profitability**. Strategy 2 is “Token Launches & Fee-Based Revenue” — participate in token launch or fee-sharing (e.g. Base, fee revenue share); status: *not started, pending eligibility/approval*.
+[TREASURY.md](../../docs/TREASURY.md) says the agent must **cover operational costs and aim for profitability**. Strategy 2 is “Token Launches & Fee-Based Revenue” — participate in token launch or fee-sharing (e.g. Base, fee revenue share); status: _not started, pending eligibility/approval_.
 
 A **$VINCE** token is a concrete way to implement that strategy:
 
@@ -56,26 +56,26 @@ So: **why ticker?** To turn the agent into a **self-sustaining asset** with a cl
 
 ### 3.2 Utility (what $VINCE is for)
 
-| Use case              | Description |
-|-----------------------|------------|
-| **VINCE Club / ALOHA Pro** | Monthly subscription paid in $VINCE: more ALOHA frequency, paper bot summary, premium channels (Discord/Slack). |
-| **Governance (optional)**  | Signal on which assets to add, signal weights, or feature flags; not required for MVP. |
+| Use case                   | Description                                                                                                                  |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **VINCE Club / ALOHA Pro** | Monthly subscription paid in $VINCE: more ALOHA frequency, paper bot summary, premium channels (Discord/Slack).              |
+| **Governance (optional)**  | Signal on which assets to add, signal weights, or feature flags; not required for MVP.                                       |
 | **Fee share (later)**      | If VINCE ever powers execution (via Bankr or another partner), a cut of fees → treasury → buyback/burn or rewards in $VINCE. |
-| **Data/API (later)**       | Paid API or signal product in $VINCE for third parties. |
+| **Data/API (later)**       | Paid API or signal product in $VINCE for third parties.                                                                      |
 
 Start with **one clear utility** (e.g. subscription) so the ticker has a defensible use from day one.
 
 ### 3.3 Integration with Bankr (optional but high-leverage)
 
-Bankr’s site says: *“Build a clawdbot agent. Launch a token.”* and offers **OpenClaw Skills**. Two ways to plug in:
+Bankr’s site says: _“Build a clawdbot agent. Launch a token.”_ and offers **OpenClaw Skills**. Two ways to plug in:
 
-1. **VINCE as a skill for Bankr**  
-   - Publish a “VINCE skill” (e.g. ALOHA summary, paper bot stance, signal digest).  
-   - Users tell Bankr: “install the VINCE skill from …”.  
+1. **VINCE as a skill for Bankr**
+   - Publish a “VINCE skill” (e.g. ALOHA summary, paper bot stance, signal digest).
+   - Users tell Bankr: “install the VINCE skill from …”.
    - Bankr users get VINCE’s intelligence inside Bankr; VINCE could earn via API fee or revenue share (if Bankr supports it).
 
-2. **Bankr as execution layer for VINCE**  
-   - VINCE stays the “brain” (signals, ALOHA, paper bot); Bankr does swaps/orders.  
+2. **Bankr as execution layer for VINCE**
+   - VINCE stays the “brain” (signals, ALOHA, paper bot); Bankr does swaps/orders.
    - “Trade with VINCE’s signals via Bankr” — execution on Bankr, potential fee share to VINCE treasury, then to $VINCE (buyback, rewards, or grants).
 
 So: **how ticker?** Launch token → attach utility (subscription) → optionally integrate with Bankr (skill or execution) to create more demand and revenue.
@@ -103,14 +103,14 @@ So: **how ticker?** Launch token → attach utility (subscription) → optionall
 
 ## 5. Summary
 
-| Question | Answer |
-|----------|--------|
-| **Why could VINCE become a ticker?** | To fund the agent (TREASURY mandate), align incentives with users, and give a clear utility (e.g. VINCE Club paid in $VINCE). |
-| **Why would it make sense?** | ALOHA + paper bot are differentiated; a subscription in $VINCE fits “push not pull” and turns the agent into a self-sustaining product. |
-| **How?** | (1) Fair-launch $VINCE on Base (or Solana). (2) Tie utility to product (e.g. VINCE Club / ALOHA Pro). (3) Optionally integrate with Bankr as skill or execution layer. (4) Document eligibility and risk limits in TREASURY.md. |
+| Question                             | Answer                                                                                                                                                                                                                          |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Why could VINCE become a ticker?** | To fund the agent (TREASURY mandate), align incentives with users, and give a clear utility (e.g. VINCE Club paid in $VINCE).                                                                                                   |
+| **Why would it make sense?**         | ALOHA + paper bot are differentiated; a subscription in $VINCE fits “push not pull” and turns the agent into a self-sustaining product.                                                                                         |
+| **How?**                             | (1) Fair-launch $VINCE on Base (or Solana). (2) Tie utility to product (e.g. VINCE Club / ALOHA Pro). (3) Optionally integrate with Bankr as skill or execution layer. (4) Document eligibility and risk limits in TREASURY.md. |
 
 **One-liner:** VINCE could become ticker **$VINCE** the same way Bankr became **$BNKR**: launch a token, attach real utility (subscription, access), and optionally plug into Bankr’s ecosystem (skills, execution) so the agent can fund itself and scale.
 
 ---
 
-*References: [Bankr](https://bankr.bot/), [OpenClaw Skills](https://github.com/BankrBot/openclaw-skills), [Tokenized Agents](https://github.com/BankrBot/tokenized-agents), [TREASURY.md](../../docs/TREASURY.md), [README.md](../../README.md).*
+_References: [Bankr](https://bankr.bot/), [OpenClaw Skills](https://github.com/BankrBot/openclaw-skills), [Tokenized Agents](https://github.com/BankrBot/tokenized-agents), [TREASURY.md](../../docs/TREASURY.md), [README.md](../../README.md)._

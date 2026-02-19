@@ -3,6 +3,7 @@ tags: [regulation, compliance, legal]
 agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # DeFi Regulation Challenges
 
 ## Front-End Enforcement
@@ -38,6 +39,7 @@ The fundamental tension: legal personhood requires a registered agent, a jurisdi
 FATF's Travel Rule (Recommendation 16) requires transmitting originator/beneficiary information for transfers above thresholds. For DeFi, this is nearly impossible to implement at the protocol level — smart contracts don't collect KYC.
 
 **Attempted solutions:**
+
 - **Sunrise problem** — Travel rule only works if both sides comply. DeFi-to-DeFi transfers bypass it entirely.
 - **Protocol-level solutions** (Notabene, Shyft) work for CeFi-to-CeFi but can't enforce at the smart contract layer.
 - **Wallet-level compliance** — Requiring compliant wallets shifts the burden but fragments the ecosystem.
@@ -48,4 +50,4 @@ As of 2026, the practical outcome is that travel rule enforcement stops at the C
 
 The regulatory trajectory favors **layered enforcement**: compliant front-ends and on-ramps for mainstream users, with permissionless protocol access remaining technically available but increasingly surveilled through chain analytics. The "regulate the edges, not the core" approach is winning by default — not because it's optimal, but because regulating immutable smart contracts is practically impossible.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

@@ -1,9 +1,9 @@
 ## Metadata
+
 **Source**: Direct Input | chat://direct-input/1769648088496
 **Category**: setup-guides
 **Word Count**: 717
 **Tags**: #user-submitted #direct-input #chat #tweet-like
-
 
 # Building a 24/7 AI Trading Assistant: From Setup to Results
 

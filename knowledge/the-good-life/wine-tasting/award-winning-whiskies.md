@@ -95,7 +95,7 @@ Use this note so Kelly can recommend the **very best** whiskies with confidence:
 - **Old Forester** — 1920 Prohibition Style, Birthday Bourbon, Statesman; 1920 and Birthday often award winners. "Banana, oak, spice."
 - **Wild Turkey** — Russell's Reserve 10/13, Master's Keep series; 13 and Master's Keep in prestige lists. "Bold; spice, caramel, oak."
 - **Elijah Craig** — Small Batch, Barrel Proof (ECBP), 18/23 Year; ECBP batches frequently SFWSC Double Gold (e.g. C923). "Rich, oak, caramel; cask strength for power."
-- **Michter's** — US*1, 10 Year, 20 Year, 25 Year; 10 and 20 often Best Bourbon or category. "Elegant; toffee, fruit, spice."
+- **Michter's** — US\*1, 10 Year, 20 Year, 25 Year; 10 and 20 often Best Bourbon or category. "Elegant; toffee, fruit, spice."
 - **Heaven Hill** — Elijah Craig, Larceny, William Heavenhill, Parker's Heritage; ECBP and Parker's in award rounds. "Classic Kentucky; value and prestige."
 - **Pappy Van Winkle** — 15/20/23 Year (wheated); allocated, prestige. "Ultimate gift bourbon; caramel, oak, dried fruit; note availability."
 - **Weller** — 12, Full Proof, CYPB, Single Barrel; wheated Buffalo Trace; allocated. "Wheated Pappy family; smooth, sweet."

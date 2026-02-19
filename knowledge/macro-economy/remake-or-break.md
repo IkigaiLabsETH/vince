@@ -4,13 +4,15 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181630106.Remake Or Break
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: macro-economy
 **Word Count**: 1,245
 **Tags**: #sol #defi #substack
+
 ---
 
 In the electrifying arena of modern finance, where trillions chase the next big thing, Howard Marks—co-founder of Oaktree Capital Management and a veteran bubble-spotter—has dropped a memo that’s part history thriller, part economic prophecy. Dated December 9, 2025, “Is It a Bubble?” is an 18-page deep dive into the AI frenzy, blending sharp analysis with historical echoes that will make even the most bullish investor pause. Marks, no AI evangelist but a keen observer of human folly, warns that we’re in the grip of a classic “inflection bubble”—one that could propel humanity forward like railroads or the internet, but only after incinerating vast fortunes along the way.
@@ -21,13 +23,13 @@ Drawing from his travels in Asia and the Middle East, where clients grilled him 
 
 **Bubbles: The Good, the Bad, and the Wealth-Destroying**
 
-Marks clarifies a key point: Not all bubbles are equal. Citing Byrne Hobart and Tobias Huber’s Boom: Bubbles and the End of Stagnation, he distinguishes “mean-reversion bubbles” (like subprime mortgages, pure financial illusions that vanish) from “inflection bubbles” (like railroads or broadband), which accelerate progress by flooding risky experiments with capital. As Carlota Perez argued in her post-dot-com classic Technological Revolutions and Financial Capital, these manias fund the “Installation Phase”—wild, money-losing builds that pave the way for profitable “Deployment.” 
+Marks clarifies a key point: Not all bubbles are equal. Citing Byrne Hobart and Tobias Huber’s Boom: Bubbles and the End of Stagnation, he distinguishes “mean-reversion bubbles” (like subprime mortgages, pure financial illusions that vanish) from “inflection bubbles” (like railroads or broadband), which accelerate progress by flooding risky experiments with capital. As Carlota Perez argued in her post-dot-com classic Technological Revolutions and Financial Capital, these manias fund the “Installation Phase”—wild, money-losing builds that pave the way for profitable “Deployment.”
 
 The railroads transformed America, but investors got torched. AI, Marks argues, fits this mold: a “collective vision” that compresses decades of innovation into years, fueled by FOMO and trillions in bets.
 
 ## Main
 
-Yet, even “good” bubbles destroy wealth. Hobart and Huber celebrate them as catalysts for breakthroughs, but Marks counters: “The key is to not be one of the investors whose wealth is destroyed in the process of bringing on progress.” 
+Yet, even “good” bubbles destroy wealth. Hobart and Huber celebrate them as catalysts for breakthroughs, but Marks counters: “The key is to not be one of the investors whose wealth is destroyed in the process of bringing on progress.”
 
 In AI’s case, the hype is palpable—Nvidia’s valuation rocketed from $626 million in 1999 to a brief $5 trillion in 2025, an 8,000-fold surge. AI drives 75% of S&P 500 gains, 80% of profits, and 90% of capex, per Fortune. But beneath the glow? Profound uncertainties.
 
@@ -69,12 +71,12 @@ Yet, a glimmer: 16 million boomers retire by 2035—AI might fill gaps. Marks pl
 
 **Brace for the Pop: No All-In Bets**
 
-Marks’ verdict: Exuberance reigns; irrationality? Time will tell, but history suggests overbuild and correction. Debt amplifies peril. No all-in or all-out—moderate, selective bets. Data centers aren’t magic; they demand judgment.In this trillion-dollar gamble, Marks’ memo is a clarion call: AI could be the 21st century’s railroad—transformative, but brace for pain. 
+Marks’ verdict: Exuberance reigns; irrationality? Time will tell, but history suggests overbuild and correction. Debt amplifies peril. No all-in or all-out—moderate, selective bets. Data centers aren’t magic; they demand judgment.In this trillion-dollar gamble, Marks’ memo is a clarion call: AI could be the 21st century’s railroad—transformative, but brace for pain.
 
-Will it defy patterns? Trillions hang in the balance. 
+Will it defy patterns? Trillions hang in the balance.
 
 ## Conclusion
 
-Investors, dream boldly, but tread wisely. 
+Investors, dream boldly, but tread wisely.
 
 The future’s bright, but bubbles burst.

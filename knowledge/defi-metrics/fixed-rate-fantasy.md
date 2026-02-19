@@ -4,17 +4,20 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 182125879.Fixed Rate Fantasy
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: defi-metrics
 **Word Count**: 819
 **Tags**: #defi #trading #substack
+
 ---
+
 Even in 2025, floating-rate money markets dominate—and that’s not changing anytime soon. I came across a sharp thread the other day dissecting why fixed-rate lending has repeatedly failed to take center stage in DeFi. It wasn’t just another hot take; it cut to the structural heart of the matter. A couple years on, with RWAs finally scaling and yields compressing across the board, the thesis holds up remarkably well. This is my response.
 
-DeFi Built Money Markets, Not Credit Markets**
+DeFi Built Money Markets, Not Credit Markets\*\*
 
 ## Context
 
@@ -53,7 +56,7 @@ Pendle has exploded to $10–$13 billion on the back of yield tokenization and R
 RWAs have poured in—tokenized treasuries and private credit now exceed $20–$30 billion on-chain. Maple and Centrifuge lead undercollateralized pools. But these flow mostly into variable-rate vaults or get tranched for yield trading. Predictable payments matter more for RWAs, yet the capital still parks where liquidity is deepest: floating.
 
 **Why Mechanisms Alone Didn’t Fix It**
-**
+\*\*
 We’ve tried everything: auctions (Term Finance), zero-coupon bonds (Notional), maturity AMMs (early Yield Protocol), tranches (Pendle). Aave even approximated fixed borrowing in pooled systems.
 
 Outcomes repeat because the issue isn’t UX or curves. It’s the mental model. Protocols built credit as a money-market variation—preserving passive deposits and pseudo-liquidity—while inheriting money-market constraints.
@@ -62,7 +65,7 @@ Fixed-rate isn’t a different quote. It’s a different product.
 
 To scale, you need: locked capital tolerance, deep secondary markets, or duration warehousing (i.e., balance sheets). DeFi lenders reject the first. Secondaries remain thin. The third recreates banks—which most builders ideologically avoid.
 
-The Hybrid Path Forward**
+The Hybrid Path Forward\*\*
 
 I believe in the exponent. I believe crypto rails will underpin global finance. Stable, programmable credit is coming.
 
@@ -80,7 +83,7 @@ Good luck out there.
 
 ## Conclusion
 
-This is not investment advice. 
+This is not investment advice.
 
 Do your own research.
 

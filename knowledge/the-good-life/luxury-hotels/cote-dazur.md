@@ -17,7 +17,7 @@ The Côte d'Azur (Nice to Saint-Tropez) has the highest concentration of French 
 - **Byblos Saint-Tropez** — Saint-Tropez; village vibe, pool, nightlife.
 - **Château de la Messardière** — Saint-Tropez; hilltop, gardens.
 - **Château de Saint-Martin & Spa** — Vence; Provençal estate, spa.
-- **Cheval Blanc St-Tropez** — Saint-Tropez; LVMH, beach, La Vague d'Or (3*).
+- **Cheval Blanc St-Tropez** — Saint-Tropez; LVMH, beach, La Vague d'Or (3\*).
 - **La Réserve Ramatuelle** — Ramatuelle; bay views, spa, villas.
 - **La Bastide de Gordes** — Gordes (Provence); Luberon, village perch.
 

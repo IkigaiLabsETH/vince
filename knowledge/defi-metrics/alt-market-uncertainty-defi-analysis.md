@@ -3,7 +3,9 @@ tags: [defi, protocols, metrics]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 ## Metadata
+
 **Source**: Direct Input | chat://direct-input/1769607663393
 **Category**: defi-metrics
 **Word Count**: 662

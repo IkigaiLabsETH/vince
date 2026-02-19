@@ -33,8 +33,8 @@ Sage (Breville in the US/AU) — serious home espresso. Not pod machines, not dr
 ### Africa
 
 - **Ethiopia** — the birthplace. Two distinct profiles depending on processing:
-  - *Natural (dry) process:* fruity, wine-like, blueberry, strawberry. Bold, complex.
-  - *Washed process:* tea-like, floral, jasmine, bergamot. Elegant, clean.
+  - _Natural (dry) process:_ fruity, wine-like, blueberry, strawberry. Bold, complex.
+  - _Washed process:_ tea-like, floral, jasmine, bergamot. Elegant, clean.
   - Key regions: **Yirgacheffe** (floral, delicate), **Sidamo** (berry, citrus), **Guji** (tropical, complex).
   - Best as: light-medium roast pour-over, or medium roast for a distinctive espresso.
 
@@ -62,12 +62,12 @@ Sage (Breville in the US/AU) — serious home espresso. Not pod machines, not dr
 
 ## Roast Levels
 
-| Roast | Character | Best For | Notes |
-|-------|-----------|----------|-------|
-| **Light** | Origin shines. Fruity, floral, bright acidity. | Pour-over, filter. Single-origin showcase. | Third-wave specialty preference. Can taste sour if under-extracted. Needs higher brew temp (94-96°C). |
-| **Medium** | Balanced. Origin + roast character. Caramel, sweetness. | Most versatile. Espresso and filter. | The sweet spot for home espresso. Forgiving to brew. |
-| **Medium-dark** | Chocolate, caramel, reduced acidity. Fuller body. | Milk drinks. Espresso blends. | Flat whites and cappuccinos love this roast. Hides origin but maximizes sweetness. |
-| **Dark** | Smoky, bitter, oily, heavy body. Roast > origin. | Traditional Italian espresso. | Less origin character. Can taste burnt if overdone. Some people love it — no judgement. |
+| Roast           | Character                                               | Best For                                   | Notes                                                                                                 |
+| --------------- | ------------------------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| **Light**       | Origin shines. Fruity, floral, bright acidity.          | Pour-over, filter. Single-origin showcase. | Third-wave specialty preference. Can taste sour if under-extracted. Needs higher brew temp (94-96°C). |
+| **Medium**      | Balanced. Origin + roast character. Caramel, sweetness. | Most versatile. Espresso and filter.       | The sweet spot for home espresso. Forgiving to brew.                                                  |
+| **Medium-dark** | Chocolate, caramel, reduced acidity. Fuller body.       | Milk drinks. Espresso blends.              | Flat whites and cappuccinos love this roast. Hides origin but maximizes sweetness.                    |
+| **Dark**        | Smoky, bitter, oily, heavy body. Roast > origin.        | Traditional Italian espresso.              | Less origin character. Can taste burnt if overdone. Some people love it — no judgement.               |
 
 **For the Sage:** Medium to medium-dark is the daily sweet spot. Light roasts are rewarding but demand precise dialing-in.
 

@@ -4,9 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 Imagine waking up to the Aegean glittering outside your window, coffee in hand, no rush hour in sight. That’s the reality drawing more and more people to Greece’s luxury property market right now — and in 2026 it’s still going strong.
 
 International buyers, especially retirees and savvy investors, keep pushing demand higher. They’re after waterfront villas, sleek modern estates, and those iconic whitewashed retreats that feel like a permanent vacation.

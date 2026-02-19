@@ -4,13 +4,15 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180028155.Reads Like A Hit Job
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 1,156
 **Tags**: #bitcoin #btc #eth #macro #substack
+
 ---
 
 It was never about protecting clients from risk. It was about protecting the franchise. Over the past six months, Wall Street has executed one of the most brazen, coordinated assaults on a public company most of us have ever witnessed. The target? MicroStrategy (MSTR), the original Bitcoin Treasury pioneer. The weapon? A lethal cocktail of margin hikes, frozen share transfers, failure-to-deliver spikes, perfectly-timed research notes, and a little-known index provider called MSCI that still carries Morgan Stanley DNA.
@@ -23,11 +25,11 @@ They are not hiding in plain sight.
 
 **The Timeline Reads Like a Hit Job**
 
-Here’s the whole saga as one juicy, drama-packed paragraph: 
+Here’s the whole saga as one juicy, drama-packed paragraph:
 
 ## Main
 
-*In May, Jim Chanos—the grim reaper of dead malls—shocked everyone by announcing he was long Bitcoin but short MicroStrategy like his life depended on it. Two months later, JPMorgan quietly jacked MSTR margin requirements from 50 % to a soul-crushing 95 %, triggering a cascade of forced liquidations and tears. While the bodies were still warm, the same JPMorgan launched 1.5× leveraged notes on BlackRock’s IBIT Bitcoin ETF in August, because nothing says “we care about risk” like handing retail even more leverage. September saw Japan’s MicroStrategy clone, Metaplanet, try to raise cash for more BTC, only for MSCI to slam the gates shut and refuse to let the new shares into its indexes. Then, on October 10—sixteen minutes before Trump’s tariff announcement flash-crashed the world—MSCI dropped the most perfectly timed consultation paper in history asking whether all “Digital Asset Treasury” companies should just be booted from global equity indexes forever. Morgan Stanley and JPMorgan spent the next month racing to file increasingly ridiculous IBIT-linked structured notes, and on November 20 JPMorgan pulled the most diabolical twofer imaginable: they finally let clients buy their shiny new leveraged IBIT product… while simultaneously dusting off that six-week-old MSCI paper to scream “DEL exonerATING RISK!!!” about MicroStrategy in a research note. Same bank, same day—happily selling you leveraged Bitcoin with one hand and lighting MicroStrategy on fire with the other. *
+_In May, Jim Chanos—the grim reaper of dead malls—shocked everyone by announcing he was long Bitcoin but short MicroStrategy like his life depended on it. Two months later, JPMorgan quietly jacked MSTR margin requirements from 50 % to a soul-crushing 95 %, triggering a cascade of forced liquidations and tears. While the bodies were still warm, the same JPMorgan launched 1.5× leveraged notes on BlackRock’s IBIT Bitcoin ETF in August, because nothing says “we care about risk” like handing retail even more leverage. September saw Japan’s MicroStrategy clone, Metaplanet, try to raise cash for more BTC, only for MSCI to slam the gates shut and refuse to let the new shares into its indexes. Then, on October 10—sixteen minutes before Trump’s tariff announcement flash-crashed the world—MSCI dropped the most perfectly timed consultation paper in history asking whether all “Digital Asset Treasury” companies should just be booted from global equity indexes forever. Morgan Stanley and JPMorgan spent the next month racing to file increasingly ridiculous IBIT-linked structured notes, and on November 20 JPMorgan pulled the most diabolical twofer imaginable: they finally let clients buy their shiny new leveraged IBIT product… while simultaneously dusting off that six-week-old MSCI paper to scream “DEL exonerATING RISK!!!” about MicroStrategy in a research note. Same bank, same day—happily selling you leveraged Bitcoin with one hand and lighting MicroStrategy on fire with the other. _
 
 Wall Street never changes, it just discovered crypto.
 
@@ -86,21 +88,17 @@ And if you really want to send a message, move your shares out of JPMorgan custo
 
 The revolution will not be custodied.
 
-UPDATE: 
+UPDATE:
 
 Five days after JPMorgan’s research team screamed “MSTR = DELISTING RISK!!!” (citing the pending MSCI exclusion that could trigger $8–11B in forced selling), the same bank filed with the SEC for new structured notes on BlackRock’s IBIT:
 
-- 
-1.5× uncapped upside on Bitcoin through 2028
+- 1.5× uncapped upside on Bitcoin through 2028
 
-- 
-30% downside buffer
+- 30% downside buffer
 
-- 
-Early call in Dec 2026 with a guaranteed 16% payout
+- Early call in Dec 2026 with a guaranteed 16% payout
 
-- 
-Fat fees and custody, of course
+- Fat fees and custody, of course
 
 ## Conclusion
 

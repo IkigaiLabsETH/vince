@@ -12,6 +12,7 @@ Every other macro factor ultimately flows through or reacts to Fed policy.
 ### The Dual Mandate
 
 The Fed has two jobs mandated by Congress:
+
 1. **Maximum employment** — keep unemployment low
 2. **Price stability** — target 2% annual inflation (measured by PCE)
 
@@ -215,12 +216,14 @@ cross-border flows that hit crypto hard.
 The BOJ is arguably the second most important central bank for crypto after the Fed.
 
 **The Yen Carry Trade:**
+
 - For decades, Japan had near-zero or negative interest rates
 - Traders borrow yen cheaply, convert to dollars, buy higher-yielding assets (including crypto)
 - This creates massive leveraged positions globally
 - When BOJ raises rates or yen strengthens → carry trade unwinds → forced selling everywhere
 
 **August 2024 crash:**
+
 - BOJ raised rates on July 31, 2024
 - Yen strengthened sharply
 - Carry trade unwind triggered global sell-off
@@ -277,17 +280,20 @@ GBP 11.9%, CAD 9.1%, SEK 4.2%, CHF 3.6%).
 ### Russia-Ukraine War (2022-ongoing)
 
 **Initial shock (February 24, 2022):**
+
 - Russia invaded Ukraine. Global markets crashed.
 - BTC dropped from ~$38K to ~$34K on invasion day, continued lower
 - European equities cratered on energy dependency fears
 
 **Energy crisis:**
+
 - Russia supplied ~40% of Europe's natural gas
 - Nord Stream pipeline cuts → European gas prices went from ~€20/MWh to €340/MWh
 - Energy inflation cascaded into everything: food, manufacturing, transport
 - Forced ECB into aggressive rate hikes despite weak European economy
 
 **Sanctions and financial warfare:**
+
 - Russia cut from SWIFT (except energy payments)
 - Russian central bank reserves frozen (~$300B)
 - Oil price caps imposed by G7
@@ -295,6 +301,7 @@ GBP 11.9%, CAD 9.1%, SEK 4.2%, CHF 3.6%).
 - Accelerated interest in BTC as "sanctions-resistant" money (narrative, not necessarily reality)
 
 **Ongoing market impact:**
+
 - Nuclear escalation rhetoric → risk-off events (flash crashes)
 - Grain export disruptions → food inflation globally
 - Musk/Starlink involvement adds a tech-billionaire angle to the conflict
@@ -304,18 +311,21 @@ GBP 11.9%, CAD 9.1%, SEK 4.2%, CHF 3.6%).
 ### China-Taiwan
 
 **Why it matters for markets:**
+
 - TSMC (Taiwan Semiconductor) produces ~90% of the world's most advanced chips
 - Every AI chip (NVIDIA, AMD, Apple) is manufactured in Taiwan
 - A military conflict would collapse the global tech supply chain overnight
 - This is not a gradual risk — it's binary. Peace = fine. War = catastrophe.
 
 **Market reactions to tensions:**
+
 - China military exercises near Taiwan → NVDA, TSM sell-off
 - Pelosi's Taiwan visit (August 2022) → China launched military exercises → temporary sell-off
 - Any US arms sales to Taiwan → Chinese retaliation threats → market nervousness
 - Semiconductor stocks are the direct transmission mechanism
 
 **How ECHO should read this:**
+
 - Watch for PLA (People's Liberation Army) activity near Taiwan Strait
 - Monitor Chinese state media escalation language
 - US Navy movements in the Pacific
@@ -324,17 +334,20 @@ GBP 11.9%, CAD 9.1%, SEK 4.2%, CHF 3.6%).
 ### Middle East (Israel-Gaza-Iran)
 
 **October 7, 2023:**
+
 - Hamas attacked Israel. Oil spiked on fear of regional escalation.
 - BTC initially dipped, then recovered as conflict stayed contained
 - Gold caught a safe haven bid
 
 **Iran-Israel direct confrontation:**
+
 - April 2024: Iran launched 300+ drones/missiles at Israel (first direct attack)
   → BTC dropped ~8% overnight
 - October 2024: Israel struck Iran → escalation fears
 - Each escalation round → oil spike → inflation fears → rate cut repricing → risk-off
 
 **Houthi Red Sea disruption (late 2023-2024):**
+
 - Yemen's Houthis attacked commercial shipping in the Red Sea
 - Forced ships to reroute around Africa → longer transit times → higher shipping costs
 - Supply chain inflation echoes — exactly what markets didn't need
@@ -348,17 +361,20 @@ Middle East geopolitics to crypto prices.
 ### US-China Trade War
 
 **Tariff history:**
+
 - Trump 1.0 (2018-2020): Tariffs on $370B of Chinese goods, up to 25%
 - Biden kept most tariffs, added chip export controls
 - Trump 2.0 (2025): Restarted and expanded tariffs. New rounds announced via Truth Social/X.
 
 **Tech decoupling:**
+
 - US chip export controls (October 2022): Banned sales of advanced AI chips to China
 - NVIDIA had to create handicapped chips for Chinese market
 - TikTok ban attempts → tech regulation uncertainty
 - China developing domestic chip industry → long-term competition
 
 **Market impact:**
+
 - Tariff announcements → immediate sell-offs in exposed sectors
 - Semiconductor stocks swing on every new export control rumor
 - Emerging market currencies and equities take collateral damage
@@ -367,12 +383,14 @@ Middle East geopolitics to crypto prices.
 ### Trump Second Term (2025-present)
 
 **Tariff policy via social media:**
+
 - Trump announces tariffs on Truth Social and X, sometimes late at night
 - Markets react in real-time to his posts. This is unprecedented.
 - Creates flash volatility that algorithmic traders exploit
 - ECHO must monitor Trump's social accounts for tariff-related posts
 
 **DOGE (Department of Government Efficiency):**
+
 - Musk-led initiative to cut government spending
 - Federal employee layoffs → economic uncertainty
 - Government shutdown fears → market volatility
@@ -380,6 +398,7 @@ Middle East geopolitics to crypto prices.
 - This relationship dynamic directly affects Tesla stock and crypto sentiment
 
 **Pro-crypto executive orders:**
+
 - January 2025: Executive order exploring a Bitcoin strategic reserve
 - Signaled a dramatic shift from Biden-era crypto hostility
 - BTC rallied on the announcement
@@ -395,40 +414,40 @@ Traditional market hours don't contain the volatility — crypto, trading 24/7, 
 
 ### Monthly Reports
 
-| Indicator | Release | Why It Matters |
-|---|---|---|
-| **CPI** (Consumer Price Index) | ~13th of month, 8:30 AM ET | Main inflation gauge. Core CPI (ex food/energy) is what the Fed watches. Hot CPI = hawkish Fed = bearish. Cool CPI = dovish Fed = bullish. |
-| **PPI** (Producer Price Index) | Day after or before CPI | Leading indicator for CPI. Producer costs flow through to consumer prices. |
-| **NFP** (Non-Farm Payrolls) | First Friday of month, 8:30 AM ET | Jobs report. Strong jobs = economy hot = Fed stays hawkish. Weak jobs = recession fear but also rate cut hope. The unemployment rate and wage growth numbers matter as much as the headline. |
-| **PCE** (Personal Consumption Expenditures) | Last week of month | The Fed's PREFERRED inflation metric. Core PCE is what they actually target at 2%. Often overshadowed by CPI but technically more important. |
-| **ISM Manufacturing** | First business day of month | Above 50 = expansion, below 50 = contraction. Leading indicator for economic activity. |
-| **ISM Services** | Third business day of month | Services are 70%+ of US economy. The prices-paid component is an inflation signal. |
-| **Michigan Consumer Sentiment** | Preliminary mid-month, final end of month | Retail sentiment and inflation expectations. The 1-year and 5-year inflation expectations components move markets. |
+| Indicator                                   | Release                                   | Why It Matters                                                                                                                                                                               |
+| ------------------------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CPI** (Consumer Price Index)              | ~13th of month, 8:30 AM ET                | Main inflation gauge. Core CPI (ex food/energy) is what the Fed watches. Hot CPI = hawkish Fed = bearish. Cool CPI = dovish Fed = bullish.                                                   |
+| **PPI** (Producer Price Index)              | Day after or before CPI                   | Leading indicator for CPI. Producer costs flow through to consumer prices.                                                                                                                   |
+| **NFP** (Non-Farm Payrolls)                 | First Friday of month, 8:30 AM ET         | Jobs report. Strong jobs = economy hot = Fed stays hawkish. Weak jobs = recession fear but also rate cut hope. The unemployment rate and wage growth numbers matter as much as the headline. |
+| **PCE** (Personal Consumption Expenditures) | Last week of month                        | The Fed's PREFERRED inflation metric. Core PCE is what they actually target at 2%. Often overshadowed by CPI but technically more important.                                                 |
+| **ISM Manufacturing**                       | First business day of month               | Above 50 = expansion, below 50 = contraction. Leading indicator for economic activity.                                                                                                       |
+| **ISM Services**                            | Third business day of month               | Services are 70%+ of US economy. The prices-paid component is an inflation signal.                                                                                                           |
+| **Michigan Consumer Sentiment**             | Preliminary mid-month, final end of month | Retail sentiment and inflation expectations. The 1-year and 5-year inflation expectations components move markets.                                                                           |
 
 ### Quarterly Reports
 
-| Indicator | Release | Why It Matters |
-|---|---|---|
-| **GDP** | End of month following quarter-end (advance, second, third estimates) | Overall economic growth. Negative GDP = recession narrative. Strong GDP = soft landing narrative. |
-| **Earnings Season** | ~2 weeks after quarter-end | Not a government stat, but mega-cap tech earnings (NVDA, AAPL, MSFT, GOOG, AMZN, META, TSLA) move the entire market. AI spending numbers from cloud companies affect the whole tech narrative. |
+| Indicator           | Release                                                               | Why It Matters                                                                                                                                                                                 |
+| ------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **GDP**             | End of month following quarter-end (advance, second, third estimates) | Overall economic growth. Negative GDP = recession narrative. Strong GDP = soft landing narrative.                                                                                              |
+| **Earnings Season** | ~2 weeks after quarter-end                                            | Not a government stat, but mega-cap tech earnings (NVDA, AAPL, MSFT, GOOG, AMZN, META, TSLA) move the entire market. AI spending numbers from cloud companies affect the whole tech narrative. |
 
 ### Weekly Data
 
-| Indicator | Release | Why It Matters |
-|---|---|---|
+| Indicator                  | Release                    | Why It Matters                                                                 |
+| -------------------------- | -------------------------- | ------------------------------------------------------------------------------ |
 | **Initial Jobless Claims** | Every Thursday, 8:30 AM ET | Most real-time labor market data available. Rising claims = weakening economy. |
-| **Continuing Claims** | Same release | Shows how long people stay unemployed. Rising = harder to find jobs. |
+| **Continuing Claims**      | Same release               | Shows how long people stay unemployed. Rising = harder to find jobs.           |
 
 ### Real-Time Indicators
 
-| Indicator | Where to Watch | Why It Matters |
-|---|---|---|
-| **VIX** (Volatility Index) | CBOE | The "fear gauge." Measures expected S&P 500 volatility. VIX > 30 = panic. VIX > 40 = crisis. Spikes = risk-off across all assets including crypto. |
-| **DXY** (Dollar Index) | ICE | Dollar strength. Inverse correlation with crypto. Break above 105 = headwind. Break below 100 = tailwind. |
-| **10-Year Treasury Yield** | Treasury market | The risk-free rate. Higher 10Y = higher discount rate for all assets = stocks and crypto worth less in present value terms. 10Y above 5% is a danger zone. |
-| **2Y-10Y Spread** | Treasury market | Yield curve. When 2Y yield > 10Y yield = inversion = recession signal. The UN-inversion (normalization) often happens right before the recession actually hits. |
-| **Fed Funds Futures** | CME FedWatch Tool | Shows market-implied probability of rate changes at each FOMC meeting. When this shifts, everything shifts. |
-| **Bitcoin ETF Flows** | Multiple trackers | Daily net inflows/outflows from spot BTC ETFs. Sustained outflows = institutional selling. Sustained inflows = institutional buying. |
+| Indicator                  | Where to Watch    | Why It Matters                                                                                                                                                  |
+| -------------------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **VIX** (Volatility Index) | CBOE              | The "fear gauge." Measures expected S&P 500 volatility. VIX > 30 = panic. VIX > 40 = crisis. Spikes = risk-off across all assets including crypto.              |
+| **DXY** (Dollar Index)     | ICE               | Dollar strength. Inverse correlation with crypto. Break above 105 = headwind. Break below 100 = tailwind.                                                       |
+| **10-Year Treasury Yield** | Treasury market   | The risk-free rate. Higher 10Y = higher discount rate for all assets = stocks and crypto worth less in present value terms. 10Y above 5% is a danger zone.      |
+| **2Y-10Y Spread**          | Treasury market   | Yield curve. When 2Y yield > 10Y yield = inversion = recession signal. The UN-inversion (normalization) often happens right before the recession actually hits. |
+| **Fed Funds Futures**      | CME FedWatch Tool | Shows market-implied probability of rate changes at each FOMC meeting. When this shifts, everything shifts.                                                     |
+| **Bitcoin ETF Flows**      | Multiple trackers | Daily net inflows/outflows from spot BTC ETFs. Sustained outflows = institutional selling. Sustained inflows = institutional buying.                            |
 
 ---
 
@@ -470,12 +489,14 @@ moves the most. This is why BTC is sometimes called a "liquidity barometer."
 ### Bitcoin Halving Cycle
 
 Every ~210,000 blocks (~4 years), the Bitcoin block reward halves:
+
 - 2012: 50 → 25 BTC
 - 2016: 25 → 12.5 BTC
 - 2020: 12.5 → 6.25 BTC
 - **2024: 6.25 → 3.125 BTC (April 20, 2024)**
 
 Historical pattern: new all-time high 12-18 months after halving.
+
 - 2012 halving → ATH ~$1,100 (Nov 2013)
 - 2016 halving → ATH ~$20,000 (Dec 2017)
 - 2020 halving → ATH ~$69,000 (Nov 2021)
@@ -509,6 +530,7 @@ adoption, the supply/demand math is straightforward.
 ### Presidential Cycle
 
 Historical US stock market pattern:
+
 - **Year 1 (post-election):** Mixed. New president implements agenda. Uncertainty.
 - **Year 2 (midterm):** Often weakest. Political gridlock fears.
 - **Year 3 (pre-election):** Historically strongest. Incumbent party stimulates economy.
@@ -584,6 +606,7 @@ Historical US stock market pattern:
 ### What They All Have in Common
 
 Black swans in crypto follow a pattern:
+
 1. Sudden shock → panic selling → massive leverage liquidations
 2. Price overshoots to the downside
 3. If the issue is crypto-native (exchange, stablecoin): recovery takes months
@@ -595,34 +618,38 @@ Black swans in crypto follow a pattern:
 ## 9. Key Macro X Accounts — Master List
 
 ### Fed & Monetary Policy
-| Account | Who | Why Follow |
-|---|---|---|
-| @NickTimiraos | Nick Timiraos, WSJ | Fed's unofficial spokesperson. His articles ARE policy signals. |
-| @FedGuy12 | Joseph Wang | Ex-NY Fed trader. Best liquidity/plumbing analysis. |
-| @DiMartinoBooth | Danielle DiMartino Booth | Ex-Dallas Fed. Sharp Fed critic. Real economy data. |
+
+| Account         | Who                      | Why Follow                                                      |
+| --------------- | ------------------------ | --------------------------------------------------------------- |
+| @NickTimiraos   | Nick Timiraos, WSJ       | Fed's unofficial spokesperson. His articles ARE policy signals. |
+| @FedGuy12       | Joseph Wang              | Ex-NY Fed trader. Best liquidity/plumbing analysis.             |
+| @DiMartinoBooth | Danielle DiMartino Booth | Ex-Dallas Fed. Sharp Fed critic. Real economy data.             |
 
 ### Treasury & Fiscal
-| Account | Who | Why Follow |
-|---|---|---|
-| @LukeGromen | Luke Gromen | Sovereign debt thesis. Dollar system structural analysis. |
-| @MacroAlf | Alfonso Peccatiello | Bond markets, rates, macro frameworks. Clear writing. |
-| @SantiagoAuFund | Santiago Capital | Gold, sovereign debt, macro. |
-| @JeffSnider_AIP | Jeff Snider | Eurodollar system. Contrarian. Deep plumbing. |
+
+| Account         | Who                 | Why Follow                                                |
+| --------------- | ------------------- | --------------------------------------------------------- |
+| @LukeGromen     | Luke Gromen         | Sovereign debt thesis. Dollar system structural analysis. |
+| @MacroAlf       | Alfonso Peccatiello | Bond markets, rates, macro frameworks. Clear writing.     |
+| @SantiagoAuFund | Santiago Capital    | Gold, sovereign debt, macro.                              |
+| @JeffSnider_AIP | Jeff Snider         | Eurodollar system. Contrarian. Deep plumbing.             |
 
 ### Global Macro & FX
-| Account | Who | Why Follow |
-|---|---|---|
-| @AndreasSteno | Andreas Steno Larsen | European macro, energy, global liquidity. |
-| @WuBlockchain | Colin Wu | Chinese crypto news, PBOC policy. |
-| @dampedspring | Andy Constan | Macro, options, volatility. Ex-Bridgewater. |
+
+| Account       | Who                  | Why Follow                                  |
+| ------------- | -------------------- | ------------------------------------------- |
+| @AndreasSteno | Andreas Steno Larsen | European macro, energy, global liquidity.   |
+| @WuBlockchain | Colin Wu             | Chinese crypto news, PBOC policy.           |
+| @dampedspring | Andy Constan         | Macro, options, volatility. Ex-Bridgewater. |
 
 ### Macro-Crypto Crossover
-| Account | Who | Why Follow |
-|---|---|---|
-| @RasoulPal | Raoul Pal | Global M2-BTC correlation thesis. Macro → crypto framework. |
-| @zaborofficial | Willy Woo | On-chain + macro. BTC valuation models. |
-| @100trillionUSD | PlanB | Stock-to-flow model. Halving cycle analysis. |
-| @mikaborman | Lyn Alden | Macro strategist who takes BTC seriously. Fiscal analysis. |
+
+| Account         | Who       | Why Follow                                                  |
+| --------------- | --------- | ----------------------------------------------------------- |
+| @RasoulPal      | Raoul Pal | Global M2-BTC correlation thesis. Macro → crypto framework. |
+| @zaborofficial  | Willy Woo | On-chain + macro. BTC valuation models.                     |
+| @100trillionUSD | PlanB     | Stock-to-flow model. Halving cycle analysis.                |
+| @mikaborman     | Lyn Alden | Macro strategist who takes BTC seriously. Fiscal analysis.  |
 
 ---
 
@@ -651,6 +678,7 @@ At any given time, classify the regime:
 ### Rule 3: Calendar Awareness
 
 Before reporting sentiment, check:
+
 - Is there an FOMC meeting this week? → Sentiment is pre-positioning, not conviction.
 - Is CPI/NFP releasing tomorrow? → Sentiment will reverse if the number surprises.
 - Is it OPEX (options expiration, 3rd Friday of month)? → Price action is mechanical, not sentiment.
@@ -668,6 +696,7 @@ The most valuable signal ECHO can provide is when X sentiment DISAGREES with mac
 ### Rule 5: Geopolitical Event Triage
 
 When a geopolitical event hits:
+
 1. **Assess oil impact.** If oil spikes → inflation → Fed hawkish → bearish crypto chain.
    If oil doesn't move, the event is probably noise for crypto.
 2. **Assess DXY impact.** Safe haven flows to USD? DXY up = crypto headwind.
@@ -679,6 +708,7 @@ When a geopolitical event hits:
 ### Rule 6: Fed Speaker Decoder
 
 Not all Fed speakers are equal:
+
 - **Powell** → Everything he says matters. Full stop.
 - **Williams (NY Fed)** → Permanent voter, close to Powell. His views ≈ consensus.
 - **Waller** → Influential on rate path. When he shifts, the committee shifts.
@@ -688,6 +718,7 @@ Not all Fed speakers are equal:
 ### Rule 7: The Liquidity Hierarchy
 
 When conflicting signals exist, this is the priority order:
+
 1. Net Fed liquidity (reserves + TGA drain - RRP) → Trumps everything
 2. DXY direction → Second most important
 3. Rate expectations (Fed Funds Futures) → Third
@@ -707,6 +738,7 @@ ECHO should always state which time horizon its sentiment analysis applies to.
 ### Rule 9: Real-Time Event Monitoring
 
 During active macro events (FOMC, CPI release, geopolitical crisis):
+
 - X sentiment changes minute by minute
 - The FIRST reaction is often wrong
 - Wait for the bond market to settle (30-60 min after data release) before trusting
@@ -730,4 +762,4 @@ This macro-contextualized sentiment is 10x more valuable than raw sentiment numb
 
 ---
 
-*Last updated: 2025-02-17. Maintained for ECHO agent macro awareness.*
+_Last updated: 2025-02-17. Maintained for ECHO agent macro awareness._

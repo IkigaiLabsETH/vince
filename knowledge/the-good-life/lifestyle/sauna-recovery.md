@@ -25,6 +25,7 @@ Sauna is maintenance, not luxury. After swimming, surfing, rowing, or a day buil
 ## Protocols
 
 ### Standard session (the daily)
+
 1. **Pre-heat:** 80–100°C (traditional Finnish range). Hotter is not always better — consistency and duration matter more than peak temperature.
 2. **Duration:** 15–20 minutes per round.
 3. **Rounds:** 2–3 rounds, with cool-down between each.
@@ -33,27 +34,32 @@ Sauna is maintenance, not luxury. After swimming, surfing, rowing, or a day buil
 6. **Total time:** 45–60 minutes including cool-downs and rest.
 
 ### Post-swim (after the daily 1000m)
+
 - One longer session: 20 min at moderate heat (80–85°C).
 - Cold shower after (60s).
 - Perfect cap to the morning swim — loosens everything the water tightened, releases shoulders and lats.
 - Pair with post-swim yoga (lats, pecs, hip flexors) if time allows.
 
 ### Post-surf (especially winter sessions)
+
 - 15–20 min at 85–90°C. Rewarm the core after cold-water exposure.
 - Cold shower optional (you've already been cold). Warm shower → sauna → done.
 - Eliminates the "dead legs" feeling the next day.
 
 ### Post-rowing
+
 - Same as post-swim. The rowing pull chain (lats, shoulders, hip flexors) benefits from heat.
 - 15–20 min, moderate heat, one round is enough.
 
 ### Evening wind-down (for sleep)
+
 - Lower temp: 75–80°C. Longer sit: 20–25 min.
 - **No cold plunge after** if the goal is sleep — let the body cool naturally over 30–60 min. The gradual cooling triggers melatonin.
 - Pair with evening tea (Dammann Frères caffeine-free — rooibos Earl Grey or tisane fleur d'oranger).
 - This is the protocol for "can't sleep" or "wired from a long day."
 
 ### Weekend deep session (the Finnish way)
+
 - 3 rounds: 20 min hot → 2 min cold (plunge or shower) → 10 min rest. Repeat.
 - Total: ~90 min including rest periods.
 - Social or solo. Follow with a light meal and wine.
@@ -66,17 +72,20 @@ Sauna is maintenance, not luxury. After swimming, surfing, rowing, or a day buil
 The real magic is in the contrast — alternating hot and cold amplifies cardiovascular benefits, reduces inflammation, and triggers a deep parasympathetic response.
 
 ### Sauna + cold plunge
+
 - **Hot:** 15–20 min at 85–95°C.
 - **Cold:** 1–3 min at 5–15°C (cold plunge, ice bath, or very cold shower).
 - **Repeat:** 2–3 rounds. End on cold if you want alertness; end on hot if you want relaxation/sleep.
 - The cold doesn't need to be extreme — 10°C water for 2 min is plenty. Consistency matters more than suffering.
 
 ### Sauna + ocean (seasonal)
+
 - In autumn/winter: surf or ocean swim → sauna. The ocean is the cold plunge.
 - In summer: sauna → ocean dip. Quick contrast, then dry off in the sun.
 - This is the Hossegor-native version of contrast therapy. No ice bath needed — you have the Atlantic.
 
 ### Without a plunge pool
+
 - Cold shower works. Turn it fully cold for 60–90 seconds between sauna rounds.
 - Outdoor air in winter (even standing outside for 2–3 min) creates meaningful contrast.
 
@@ -93,15 +102,15 @@ The real magic is in the contrast — alternating hot and cold amplifies cardiov
 
 ## Pairing with Kelly's world
 
-| After... | Sauna protocol | Then... |
-|----------|---------------|---------|
-| Morning swim (1000m) | 20 min moderate, cold shower | Post-swim yoga, tea, breakfast |
-| Surf session | 15–20 min, warm shower first | Post-surf yoga, lunch |
-| Rowing | 15 min, one round | Stretch, tea |
-| Long screen day | Evening wind-down (low temp, no cold after) | Dammann evening tea, sleep |
-| Weekend reset | 3 rounds deep session | Light meal, wine, early bed |
-| Rainy/cold day | Deep session (anchor activity) | Long oven cook, wine, creative session |
-| Hosting guests | Sauna + aperitif | Green Egg dinner |
+| After...             | Sauna protocol                              | Then...                                |
+| -------------------- | ------------------------------------------- | -------------------------------------- |
+| Morning swim (1000m) | 20 min moderate, cold shower                | Post-swim yoga, tea, breakfast         |
+| Surf session         | 15–20 min, warm shower first                | Post-surf yoga, lunch                  |
+| Rowing               | 15 min, one round                           | Stretch, tea                           |
+| Long screen day      | Evening wind-down (low temp, no cold after) | Dammann evening tea, sleep             |
+| Weekend reset        | 3 rounds deep session                       | Light meal, wine, early bed            |
+| Rainy/cold day       | Deep session (anchor activity)              | Long oven cook, wine, creative session |
+| Hosting guests       | Sauna + aperitif                            | Green Egg dinner                       |
 
 ---
 

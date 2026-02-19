@@ -4,13 +4,15 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179635530.The Hyperevm Explosion
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: defi-metrics
 **Word Count**: 802
 **Tags**: #btc #eth #solana #sol #defi #options #perps #trading #substack
+
 ---
 
 It’s now a full-blown Layer 1 with the fastest, cheapest, most composable EVM in existence — and it’s printing money like a 2021 Solana rerun, but with actual revenue and real buybacks. We’ve been living on HyperEVM since week one. We’ve LP’d millions on Project X, sold covered calls on Hypersurface until we forgot what leverage feels like, looped kHYPE until our wallets look like a Matryoshka doll, and watched the entire thing compound into the cleanest infrastructure bet we’ve ever had.
@@ -21,47 +23,35 @@ Here’s the no-bullshit breakdown of what’s actually happening right now.
 
 The Big Picture Numbers (as of today)
 
-- 
-Hyperliquid total TVL: $6.7B
+- Hyperliquid total TVL: $6.7B
 
-- 
-HyperEVM-only TVL: $1.72B (up 337% YTD)
+- HyperEVM-only TVL: $1.72B (up 337% YTD)
 
 ## Main
 
-- 
-Daily fees on HyperEVM: $3.3M
+- Daily fees on HyperEVM: $3.3M
 
-- 
-Daily HYPE buybacks: $1–2M (real, on-chain, every block)
+- Daily HYPE buybacks: $1–2M (real, on-chain, every block)
 
-- 
-DEX volume on HyperEVM: $857M / 24h
+- DEX volume on HyperEVM: $857M / 24h
 
-- 
-Lending markets: >$1B borrowed
+- Lending markets: >$1B borrowed
 
-- 
-Active wallets: 500K+ daily txns, Phantom/Rainbow native support
+- Active wallets: 500K+ daily txns, Phantom/Rainbow native support
 
 This chain is now more profitable per TVL than Solana ever was at its peak.
 
 **Why HyperEVM Feels Like Cheating**
 
-- 
-Same wallet, same collateral for perps AND DeFi
+- Same wallet, same collateral for perps AND DeFi
 
-- 
-Sub-second finality, gas under $0.01
+- Sub-second finality, gas under $0.01
 
-- 
-Direct read/write to the perp orderbook from smart contracts (CoreWriter = god mode)
+- Direct read/write to the perp orderbook from smart contracts (CoreWriter = god mode)
 
-- 
-No bridges needed — LI.FI/Wormhole deposits land instantly usable
+- No bridges needed — LI.FI/Wormhole deposits land instantly usable
 
-- 
-Every single fee flows back to HYPE buybacks (99% of protocol revenue)
+- Every single fee flows back to HYPE buybacks (99% of protocol revenue)
 
 It’s literally the first chain that feels better than a centralized exchange while staying fully on-chain. Our Two Favorite Apps (Where We Actually Keep Size)
 
@@ -73,31 +63,23 @@ We were there the day it launched with 46 tokens and a meme leaderboard. Today i
 
 Current stats:
 
-- 
-TVL: $122M
+- TVL: $122M
 
-- 
-Cumulative volume: $13.5B
+- Cumulative volume: $13.5B
 
-- 
-Daily fees: ~$400K (3rd highest on the chain)
+- Daily fees: ~$400K (3rd highest on the chain)
 
-- 
-Users: 50K+ and growing 4x MoM
+- Users: 50K+ and growing 4x MoM
 
 What makes it special:
 
-- 
-86% of fees go straight to LPs
+- 86% of fees go straight to LPs
 
-- 
-1M points distributed daily (10% referral bonus)
+- 1M points distributed daily (10% referral bonus)
 
-- 
-Full cross-chain aggregator (50+ chains, best price guaranteed)
+- Full cross-chain aggregator (50+ chains, best price guaranteed)
 
-- 
-Phase 3 coming soon (redacted but everyone knows it’s big)
+- Phase 3 coming soon (redacted but everyone knows it’s big)
 
 We keep 7-figures LP’d in the tight HYPE/USDC0 pools. IL is brutal when it happens, but the combo of fees + points + future PRJX token has been one of our best trades all year.
 
@@ -109,79 +91,60 @@ This is the one that actually changed our behavior. We used to run 20-40x on BTC
 
 Realized yields we’ve personally pulled:
 
-- 
-HYPE calls: 38–94% APR
+- HYPE calls: 38–94% APR
 
-- 
-ETH calls: 32–57% APR
+- ETH calls: 32–57% APR
 
-- 
-BTC calls: 23–33% APR (spiked to 250% during vol events)
+- BTC calls: 23–33% APR (spiked to 250% during vol events)
 
 No liquidation risk. Premium hits your wallet instantly. If it expires OTM you keep the asset + premium. If exercised you still sell at a profit. We now run ~20% of our book through Hypersurface. It’s the closest thing crypto has to TradFi covered-call ETFs, but with 10-50x higher yield and zero trust.
 
 The Rest of the Top 10 (Quick Hits)
 
-- 
-Kinetiq – $1.57B TVL liquid staking (we loop PT-kHYPE for 12-15% net)
+- Kinetiq – $1.57B TVL liquid staking (we loop PT-kHYPE for 12-15% net)
 
-- 
-HyperLend – borrow HYPE at 0.67% (yes, really)
+- HyperLend – borrow HYPE at 0.67% (yes, really)
 
-- 
-Felix – mint feUSD against blue-chips, now launching TSLA perps
+- Felix – mint feUSD against blue-chips, now launching TSLA perps
 
-- 
-Morpho – auto-compounding vaults, 20%+ yields
+- Morpho – auto-compounding vaults, 20%+ yields
 
-- 
-HyperBeat – yield aggregator farming 20+ protocols for us while we sleep
+- HyperBeat – yield aggregator farming 20+ protocols for us while we sleep
 
-- 
-HyperSwap – the clean ve(3,3) DEX
+- HyperSwap – the clean ve(3,3) DEX
 
-- 
-Upshift, Hyperdrive, Looped – all printing points and yield
+- Upshift, Hyperdrive, Looped – all printing points and yield
 
 Every single one of these routes fees → HYPE buybacks.
 
 The Math That Keeps Us Up at Night (In a Good Way)
 
-- 
-Current HYPE price: ~$33
+- Current HYPE price: ~$33
 
-- 
-FDV: $33B
+- FDV: $33B
 
-- 
-Annualized revenue run-rate: ~$1.2B
+- Annualized revenue run-rate: ~$1.2B
 
-- 
-P/E: ~27x (cheap for 97% margins and 73% perps market share)
+- P/E: ~27x (cheap for 97% margins and 73% perps market share)
 
-- 
-Daily buyback absorption already covers ~17% of the upcoming linear unlock
+- Daily buyback absorption already covers ~17% of the upcoming linear unlock
 
-Base case 2027: $97**Bull case 2027: $210
-2030 cycle peak: $300+ 
+Base case 2027: $97\*\*Bull case 2027: $210
+2030 cycle peak: $300+
 
 Risks (Because We’re Not Bagholders, We’re Investors)
 
-- 
-Linear unlock starts Nov 29 (237M tokens over 24 months)
+- Linear unlock starts Nov 29 (237M tokens over 24 months)
 
-- 
-Still only 16 validators and partially closed-source
+- Still only 16 validators and partially closed-source
 
-- 
-Regulatory question marks around HIP-3 equity perps
+- Regulatory question marks around HIP-3 equity perps
 
-- 
-Too much money flowing in too fast (classic crypto problem)
+- Too much money flowing in too fast (classic crypto problem)
 
 None of these feel existential yet. The buyback engine is real. The product is undeniably better than anything else out there.
 
-Final Takeaway**
+Final Takeaway\*\*
 
 HyperEVM is the first DeFi ecosystem that actually feels like an upgrade from centralized finance. We’re long HYPE in size. We’re LP’d on Project X.
 We’re selling calls on Hypersurface. We’re looping everything else through Kinetiq and HyperLend. This is the cleanest flywheel we’ve seen since early Solana — except this one actually burns the token with real revenue. If you’re still sleeping on Hyperliquid because “it’s just a perps DEX”… wake up. The perps were just the trojan horse.

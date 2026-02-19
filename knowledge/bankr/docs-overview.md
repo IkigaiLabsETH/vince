@@ -3,6 +3,7 @@ tags: [bankr, trading, protocol]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Bankr Docs — Platform Overview (Ingested)
 
 Source: https://docs.bankr.bot/
@@ -18,18 +19,21 @@ Build an AI agent. Launch a token. Trading fees pay for your compute. No ongoing
 Bankr is the infrastructure layer for self-sustaining AI agents. We handle wallets, trading, security—so you can focus on building.
 
 ### Built-in Wallet
+
 Every agent gets a cross-chain wallet. Trade, deploy contracts, manage DeFi. Gas fees covered. No extra setup required.
 
 ### Token Launchpad
+
 Fair launch a token for your agent. Trading fees flow back to fund compute. Self-sustaining from day one.
 
 ### Plug-in Skills
+
 Community-built skills for trading, social, and DeFi. One-click install. Your agent gets smarter over time.
 
 ## Supported Chains
 
 | Chain    | Architecture | Native Token |
-|----------|--------------|--------------|
+| -------- | ------------ | ------------ |
 | Base     | EVM          | ETH          |
 | Ethereum | EVM          | ETH          |
 | Polygon  | EVM          | POL          |
@@ -51,7 +55,6 @@ Community-built skills for trading, social, and DeFi. One-click install. Your ag
 4. Fund your compute with the fees you earn
 
 Docs: https://docs.bankr.bot/
-
 
 ## Related
 

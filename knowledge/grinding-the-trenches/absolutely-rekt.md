@@ -4,7 +4,6 @@ agents: [echo, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # Absolutely Rekt: The 2025 Bear Market Reality
 
 ## The Contrarian Take on Retail Losses
@@ -12,6 +11,7 @@ last_reviewed: 2026-02-15
 Jason Yanowitz's tweet hits a nerve: "Worth noting that if this is a bear market, it's the first one in crypto history where retail didn't get crushed by fraud."
 
 **Historical Context:**
+
 - **2014:** Mt Gox
 - **2018:** ICO scams + BitConnect
 - **2022:** FTX, Celsius, Luna
@@ -30,7 +30,7 @@ Retail got demolished in 2025. The wreckage just looked different: fragmented ac
 
 ### This Bear's Innovation: Distributed Stupidity
 
-This bear's innovation? **Distributed stupidity**, where retail chased hype into micro-traps instead of one big pit. Past cycles had clear antagonists—hackable exchanges, overhyped ICOs, or overleveraged lenders—that crushed retail in concentrated events. 
+This bear's innovation? **Distributed stupidity**, where retail chased hype into micro-traps instead of one big pit. Past cycles had clear antagonists—hackable exchanges, overhyped ICOs, or overleveraged lenders—that crushed retail in concentrated events.
 
 2025 flipped the script: Fraud went permissionless, fueled by Solana's speed and low fees, turning retail into perpetual donors via "fair launches" that were anything but. No single entity needed to collapse; the system itself became the scam engine.
 
@@ -50,20 +50,20 @@ The common thread? On-chain "democratization" enabled rugs at scale, where devs 
 
 To contextualize, here's a comparison of retail pain across cycles:
 
-| Cycle | Event | Estimated Losses |
-|-------|-------|------------------|
-| **2014 Bear** | Mt. Gox Hack/Insolvency | ~$450M (at the time) |
-| **2018 Bear** | ICO Scams + BitConnect | ~$7-9B from ICOs alone |
-| **2022 Bear** | FTX, Celsius, Luna | ~$40B+ combined |
-| **2025 Bear** | Meme Rugs + Pump.fun Ecosystem | ~$10-15B |
+| Cycle         | Event                          | Estimated Losses       |
+| ------------- | ------------------------------ | ---------------------- |
+| **2014 Bear** | Mt. Gox Hack/Insolvency        | ~$450M (at the time)   |
+| **2018 Bear** | ICO Scams + BitConnect         | ~$7-9B from ICOs alone |
+| **2022 Bear** | FTX, Celsius, Luna             | ~$40B+ combined        |
+| **2025 Bear** | Meme Rugs + Pump.fun Ecosystem | ~$10-15B               |
 
 ## Pump.fun: The Gilded Casino That Industrialized Retail Wreckage
 
-If 2025 had a fraud mascot, it's **Pump.fun**—the Solana launchpad that promised "fun" but delivered a hyper-efficient wealth transfer from degens to insiders. 
+If 2025 had a fraud mascot, it's **Pump.fun**—the Solana launchpad that promised "fun" but delivered a hyper-efficient wealth transfer from degens to insiders.
 
 ### Financial Metrics
 
-By December 29, cumulative revenue neared **$935M**, with Q4 alone generating **~$74M** despite meme fatigue. But here's the twist: The platform cashed out nearly **$615M off-chain in Q4**, including **$50M in the last 24 hours** as of late December, igniting debates over "profit extraction" in Web3. 
+By December 29, cumulative revenue neared **$935M**, with Q4 alone generating **~$74M** despite meme fatigue. But here's the twist: The platform cashed out nearly **$615M off-chain in Q4**, including **$50M in the last 24 hours** as of late December, igniting debates over "profit extraction" in Web3.
 
 Founders moved funds amid cooling markets, while buybacks totaled **$218-220M since July**, burning 16% of supply—but it couldn't stem a **35-60% price slide** for $PUMP.
 
@@ -86,7 +86,7 @@ The case grinds on, with years of discovery ahead, but new scrutiny on Solana's 
 
 ## The Leverage Apocalypse: October's $19B Wipeout
 
-Not all pain was fraudulent; some was self-inflicted greed. The **October 10-11 cascade**—triggered by Trump's 100% China tariff threat—liquidated **$19B in 24 hours**, the largest ever, mostly longs on perps. 
+Not all pain was fraudulent; some was self-inflicted greed. The **October 10-11 cascade**—triggered by Trump's 100% China tariff threat—liquidated **$19B in 24 hours**, the largest ever, mostly longs on perps.
 
 ### 2025 Derivatives Metrics
 
@@ -110,6 +110,7 @@ Yani's optimism spotlights progress—no FTX 2.0 is huge—but underplays how th
 ### Industry Evolution
 
 As an industry, we've decisively moved past the era of:
+
 - Memecoins
 - NFTs
 - Low-float/high-FDV launches
@@ -118,6 +119,7 @@ As an industry, we've decisively moved past the era of:
 ### 2026 Expectations
 
 Looking to 2026, expect:
+
 - **Dramatically fewer token launches**
 - **Renewed focus on proven majors** like BTC and ETH
 - **Powerful, sustained institutional inflow** into DeFi blue-chips that deliver real value accrual
@@ -125,13 +127,13 @@ Looking to 2026, expect:
 ### The True North of Crypto
 
 The true north of crypto is crystallizing:
+
 - **Stablecoins**
 - **Real-world assets (RWAs)**
 - **Sophisticated lending and capital markets**
 - **Professional asset management**
 
 By doing less, executing better, and embracing regulated pathways, we'll resolve many of crypto's longstanding flaws. This is a profoundly bullish foundation.
-
 
 ## Related
 

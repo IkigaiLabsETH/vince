@@ -3,8 +3,11 @@ tags: [vc, startups, investment]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # 180282301.The Final Frontier
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: venture-capital
 **Word Count**: 1,101

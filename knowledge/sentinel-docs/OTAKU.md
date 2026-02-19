@@ -15,7 +15,6 @@ A DeFi-focused AI agent built on ElizaOS, featuring a modern React frontend, Coi
 - **Modern UI** - Responsive design with Tailwind CSS, Radix UI components, and smooth animations
 - **Real-time Communication** - WebSocket-powered instant messaging via Socket.IO
 
-
 ## Architecture
 
 This is a monorepo workspace project built with:
@@ -83,83 +82,83 @@ To have the **Otaku agent** (`src/agents/otaku.ts`) fully operational (wallet, s
 
 **All dependencies from [elizaOS/otaku package.json](https://raw.githubusercontent.com/elizaOS/otaku/master/package.json):**
 
-| Package | Version (Otaku) |
-|---------|------------------|
-| **CDP & x402** | |
-| `@coinbase/cdp-core` | 0.0.70 |
-| `@coinbase/cdp-hooks` | 0.0.70 |
-| `@coinbase/cdp-react` | 0.0.70 |
-| `@coinbase/cdp-sdk` | 1.38.6 |
-| `@coinbase/x402` | 0.7.3 |
-| **ElizaOS** | |
-| `@elizaos/core` | 1.7.0 |
-| `@elizaos/plugin-analytics` | 1.0.1 |
-| `@elizaos/plugin-anthropic` | 1.5.12 |
-| `@elizaos/plugin-mcp` | latest |
-| `@elizaos/plugin-openai` | 1.6.0 |
-| `@elizaos/plugin-openrouter` | 1.5.17 |
-| `@elizaos/plugin-sql` | 1.7.0 |
-| **DeFi / protocols** | |
-| `@morpho-org/blue-sdk` | 4.13.1 |
-| `@morpho-org/blue-sdk-viem` | 3.2.0 |
-| `@morpho-org/morpho-ts` | 2.4.5 |
-| `@polymarket/sdk` | ^6.0.1 |
-| `@relayprotocol/relay-sdk` | 2.4.6 |
-| **x402 stack** | |
-| `x402-axios` | 0.7.2 |
-| `x402-express` | 0.7.3 |
-| `x402-fetch` | 0.7.3 |
-| **UI / React** | |
-| `@number-flow/react` | ^0.5.10 |
-| `@radix-ui/react-accordion` | 1.2.2 |
-| `@radix-ui/react-avatar` | 1.1.2 |
-| `@radix-ui/react-checkbox` | 1.1.3 |
-| `@radix-ui/react-collapsible` | 1.1.12 |
-| `@radix-ui/react-dialog` | 1.1.15 |
-| `@radix-ui/react-dropdown-menu` | 2.1.4 |
-| `@radix-ui/react-label` | 2.1.1 |
-| `@radix-ui/react-popover` | 1.1.15 |
-| `@radix-ui/react-scroll-area` | 1.2.2 |
-| `@radix-ui/react-select` | 2.1.4 |
-| `@radix-ui/react-separator` | 1.1.8 |
-| `@radix-ui/react-slider` | 1.2.2 |
-| `@radix-ui/react-slot` | 1.2.4 |
-| `@radix-ui/react-switch` | 1.1.2 |
-| `@radix-ui/react-tabs` | 1.1.13 |
-| `@radix-ui/react-tooltip` | 1.2.8 |
-| `@tanstack/react-query` | 5.90.11 |
-| `framer-motion` | 12.23.25 |
-| `lucide-react` | 0.454.0 |
-| `next-themes` | ^0.4.6 |
-| `react` | 18.3.1 |
-| `react-dom` | 18.3.1 |
-| `react-router-dom` | 6.30.2 |
-| `recharts` | 3.5.1 |
-| `vaul` | 0.9.9 |
-| **Data / backend** | |
-| `@tavily/core` | 0.5.13 |
-| `axios` | 1.13.2 |
-| `bignumber.js` | 9.3.1 |
-| `clanker-sdk` | 4.2.5 |
-| `drizzle-orm` | 0.44.7 |
-| `jsonwebtoken` | ^9.0.3 |
-| `pg` | ^8.16.3 |
-| `postgres` | ^3.4.7 |
-| **Other** | |
-| `class-variance-authority` | 0.7.1 |
-| `clsx` | 2.1.1 |
-| `cors` | 2.8.5 |
-| `date-fns` | 4.1.0 |
-| `socket.io-client` | 4.8.1 |
-| `streamdown` | 1.6.10 |
-| `tailwind-merge` | 2.6.0 |
-| `unique-names-generator` | 4.7.1 |
-| `uuid` | 13.0.0 |
-| `viem` | 2.41.2 |
-| `zod` | 4.1.13 |
-| `zustand` | 5.0.9 |
+| Package                         | Version (Otaku) |
+| ------------------------------- | --------------- |
+| **CDP & x402**                  |                 |
+| `@coinbase/cdp-core`            | 0.0.70          |
+| `@coinbase/cdp-hooks`           | 0.0.70          |
+| `@coinbase/cdp-react`           | 0.0.70          |
+| `@coinbase/cdp-sdk`             | 1.38.6          |
+| `@coinbase/x402`                | 0.7.3           |
+| **ElizaOS**                     |                 |
+| `@elizaos/core`                 | 1.7.0           |
+| `@elizaos/plugin-analytics`     | 1.0.1           |
+| `@elizaos/plugin-anthropic`     | 1.5.12          |
+| `@elizaos/plugin-mcp`           | latest          |
+| `@elizaos/plugin-openai`        | 1.6.0           |
+| `@elizaos/plugin-openrouter`    | 1.5.17          |
+| `@elizaos/plugin-sql`           | 1.7.0           |
+| **DeFi / protocols**            |                 |
+| `@morpho-org/blue-sdk`          | 4.13.1          |
+| `@morpho-org/blue-sdk-viem`     | 3.2.0           |
+| `@morpho-org/morpho-ts`         | 2.4.5           |
+| `@polymarket/sdk`               | ^6.0.1          |
+| `@relayprotocol/relay-sdk`      | 2.4.6           |
+| **x402 stack**                  |                 |
+| `x402-axios`                    | 0.7.2           |
+| `x402-express`                  | 0.7.3           |
+| `x402-fetch`                    | 0.7.3           |
+| **UI / React**                  |                 |
+| `@number-flow/react`            | ^0.5.10         |
+| `@radix-ui/react-accordion`     | 1.2.2           |
+| `@radix-ui/react-avatar`        | 1.1.2           |
+| `@radix-ui/react-checkbox`      | 1.1.3           |
+| `@radix-ui/react-collapsible`   | 1.1.12          |
+| `@radix-ui/react-dialog`        | 1.1.15          |
+| `@radix-ui/react-dropdown-menu` | 2.1.4           |
+| `@radix-ui/react-label`         | 2.1.1           |
+| `@radix-ui/react-popover`       | 1.1.15          |
+| `@radix-ui/react-scroll-area`   | 1.2.2           |
+| `@radix-ui/react-select`        | 2.1.4           |
+| `@radix-ui/react-separator`     | 1.1.8           |
+| `@radix-ui/react-slider`        | 1.2.2           |
+| `@radix-ui/react-slot`          | 1.2.4           |
+| `@radix-ui/react-switch`        | 1.1.2           |
+| `@radix-ui/react-tabs`          | 1.1.13          |
+| `@radix-ui/react-tooltip`       | 1.2.8           |
+| `@tanstack/react-query`         | 5.90.11         |
+| `framer-motion`                 | 12.23.25        |
+| `lucide-react`                  | 0.454.0         |
+| `next-themes`                   | ^0.4.6          |
+| `react`                         | 18.3.1          |
+| `react-dom`                     | 18.3.1          |
+| `react-router-dom`              | 6.30.2          |
+| `recharts`                      | 3.5.1           |
+| `vaul`                          | 0.9.9           |
+| **Data / backend**              |                 |
+| `@tavily/core`                  | 0.5.13          |
+| `axios`                         | 1.13.2          |
+| `bignumber.js`                  | 9.3.1           |
+| `clanker-sdk`                   | 4.2.5           |
+| `drizzle-orm`                   | 0.44.7          |
+| `jsonwebtoken`                  | ^9.0.3          |
+| `pg`                            | ^8.16.3         |
+| `postgres`                      | ^3.4.7          |
+| **Other**                       |                 |
+| `class-variance-authority`      | 0.7.1           |
+| `clsx`                          | 2.1.1           |
+| `cors`                          | 2.8.5           |
+| `date-fns`                      | 4.1.0           |
+| `socket.io-client`              | 4.8.1           |
+| `streamdown`                    | 1.6.10          |
+| `tailwind-merge`                | 2.6.0           |
+| `unique-names-generator`        | 4.7.1           |
+| `uuid`                          | 13.0.0          |
+| `viem`                          | 2.41.2          |
+| `zod`                           | 4.1.13          |
+| `zustand`                       | 5.0.9           |
 
-*(Workspace packages in Otaku: `@elizaos/api-client`, `@elizaos/server` — use your local workspace or the versions that match your ElizaOS stack.)*
+_(Workspace packages in Otaku: `@elizaos/api-client`, `@elizaos/server` — use your local workspace or the versions that match your ElizaOS stack.)_
 
 **x402-related:** The x402 protocol is used for paid API requests (e.g. `FETCH_WITH_PAYMENT`). You need the **x402 plugin** or integration, the packages above (`@coinbase/x402`, `x402-axios`, `x402-express`, `x402-fetch`), and env vars such as `X402_RECEIVING_WALLET`, `X402_PUBLIC_URL`, `X402_FACILITATOR_URL` (see `.env.example` and `docs/x402-payments.md` if present).
 
@@ -197,7 +196,9 @@ By default the server stores data in an embedded PGlite database at `./.eliza/.e
 ```bash
 bun start
 ```
+
 or
+
 ```bash
 bun run dev
 ```
@@ -265,20 +266,20 @@ With Bankr disabled or failing, send "What can you do?" and confirm Otaku still 
 
 Plugins needed for full Otaku behavior come from the [elizaOS/otaku](https://github.com/elizaOS/otaku/) repo. Register them in the Otaku agent config (e.g. `src/index.ts` or wherever the Otaku character is loaded).
 
-| Plugin | Purpose |
-|--------|--------|
-| **plugin-biconomy** | Biconomy (account abstraction / gasless tx) |
-| **plugin-bootstrap** | Core ElizaOS bootstrap (actions, evaluators, providers) |
-| **plugin-cdp** | Coinbase Developer Platform (wallet, swaps, transfers, x402) |
-| **plugin-clanker** | Clanker SDK integration (e.g. stablecoins / payments) |
-| **plugin-coingecko** | CoinGecko (prices, trending, NFT stats) |
-| **plugin-defillama** | DeFiLlama (protocol TVL, analytics) |
-| **plugin-etherscan** | Etherscan (transaction confirmation checks) |
-| **plugin-gamification** | Gamification / engagement features |
-| **plugin-morpho** | Morpho protocol (lending / Blue SDK) |
-| **plugin-polymarket-discovery** | Polymarket discovery / prediction markets |
-| **plugin-relay** | Relay Protocol (cross-chain bridging) |
-| **plugin-web-search** | Web search (Tavily) and crypto news (CoinDesk) |
+| Plugin                          | Purpose                                                      |
+| ------------------------------- | ------------------------------------------------------------ |
+| **plugin-biconomy**             | Biconomy (account abstraction / gasless tx)                  |
+| **plugin-bootstrap**            | Core ElizaOS bootstrap (actions, evaluators, providers)      |
+| **plugin-cdp**                  | Coinbase Developer Platform (wallet, swaps, transfers, x402) |
+| **plugin-clanker**              | Clanker SDK integration (e.g. stablecoins / payments)        |
+| **plugin-coingecko**            | CoinGecko (prices, trending, NFT stats)                      |
+| **plugin-defillama**            | DeFiLlama (protocol TVL, analytics)                          |
+| **plugin-etherscan**            | Etherscan (transaction confirmation checks)                  |
+| **plugin-gamification**         | Gamification / engagement features                           |
+| **plugin-morpho**               | Morpho protocol (lending / Blue SDK)                         |
+| **plugin-polymarket-discovery** | Polymarket discovery / prediction markets                    |
+| **plugin-relay**                | Relay Protocol (cross-chain bridging)                        |
+| **plugin-web-search**           | Web search (Tavily) and crypto news (CoinDesk)               |
 
 Plus **@elizaos/plugin-sql** for database (messages, memories, state).
 
@@ -289,6 +290,7 @@ Plus **@elizaos/plugin-sql** for database (messages, memories, state).
 Coinbase Developer Platform integration providing wallet and payment functionality.
 
 **Actions:**
+
 - `USER_WALLET_INFO` - View wallet balances, tokens, and NFTs
 - `CHECK_TOKEN_BALANCE` - Fast balance check for specific tokens (optimized for transaction validation)
 - `USER_WALLET_TOKEN_TRANSFER` - Transfer ERC20 tokens to other addresses
@@ -297,12 +299,14 @@ Coinbase Developer Platform integration providing wallet and payment functionali
 - `FETCH_WITH_PAYMENT` - Make paid API requests using x402 protocol
 
 **Features:**
+
 - Automatic wallet creation on first login
 - Multi-chain support (Ethereum, Base, Polygon, Arbitrum, etc.)
 - Automatic transaction signing via CDP
 - x402 protocol support for paid API requests
 
 **Example Prompts:**
+
 - "Show my wallet portfolio"
 - "Transfer 0.01 ETH to 0x..."
 - "Swap 100 USDC for ETH"
@@ -315,6 +319,7 @@ Coinbase Developer Platform integration providing wallet and payment functionali
 Real-time token prices, market data, and trending information.
 
 **Actions:**
+
 - `GET_TOKEN_PRICE_CHART` - Get historical price data with charts
 - `GET_TRENDING_TOKENS` - Get trending tokens by market cap
 - `GET_TRENDING_SEARCH` - Get trending search terms
@@ -322,6 +327,7 @@ Real-time token prices, market data, and trending information.
 - `GET_NFT_COLLECTION_STATS` - Get NFT collection statistics
 
 **Example Prompts:**
+
 - "Get ETH price chart and insights"
 - "What's trending on Base?"
 - "Show me trending NFT collections"
@@ -332,10 +338,12 @@ Real-time token prices, market data, and trending information.
 Web search and crypto news aggregation.
 
 **Actions:**
+
 - `WEB_SEARCH` - Search the web using Tavily API
 - `CRYPTO_NEWS` - Get latest crypto news from CoinDesk
 
 **Example Prompts:**
+
 - "Latest DeFi news"
 - "Search for Ethereum upgrades"
 - "Crypto market news today"
@@ -345,9 +353,11 @@ Web search and crypto news aggregation.
 DeFi protocol analytics and TVL (Total Value Locked) data.
 
 **Actions:**
+
 - `GET_PROTOCOL_TVL` - Get TVL data for DeFi protocols
 
 **Example Prompts:**
+
 - "Compare Aave vs Uniswap TVL"
 - "Get Uniswap TVL"
 - "Compare Eigen vs Morpho"
@@ -357,11 +367,13 @@ DeFi protocol analytics and TVL (Total Value Locked) data.
 Cross-chain asset bridging via Relay Protocol.
 
 **Actions:**
+
 - `RELAY_BRIDGE` - Bridge assets across chains
 - `RELAY_QUOTE` - Get bridge quotes
 - `RELAY_STATUS` - Check bridge transaction status
 
 **Example Prompts:**
+
 - "Bridge USDC from Base to Arbitrum"
 - "Get bridge quote for 100 USDC"
 - "Check bridge status for tx 0x..."
@@ -371,9 +383,11 @@ Cross-chain asset bridging via Relay Protocol.
 Transaction verification and confirmation checking.
 
 **Actions:**
+
 - `CHECK_TRANSACTION_CONFIRMATION` - Verify transaction confirmations
 
 **Example Prompts:**
+
 - "Check confirmation for tx 0x..."
 - "Verify transaction status 0x..."
 - "How many confirmations for 0x..."
@@ -381,6 +395,7 @@ Transaction verification and confirmation checking.
 ### Bootstrap Plugin (plugin-bootstrap)
 
 Otaku ships with a custom build of the ElizaOS bootstrap plugin providing essential agent capabilities plus advanced multi-step planning and reasoning frameworks:
+
 - Action execution
 - Message evaluation
 - State management
@@ -421,6 +436,7 @@ Otaku is a DeFi-focused AI agent (`src/agents/otaku.ts`) designed to provide:
 - **Transaction safety** - Always verifies wallet balance before executing on-chain actions
 
 **Character Traits:**
+
 - Data-first approach with concise recommendations
 - Precision over hype
 - References concrete metrics
@@ -461,7 +477,7 @@ For full operation (wallet, swaps, x402), see [Otaku agent: extra dependencies a
 The project includes a type-safe API client (`@elizaos/api-client`) for interacting with the ElizaOS server:
 
 ```typescript
-import { elizaClient } from './lib/elizaClient';
+import { elizaClient } from "./lib/elizaClient";
 
 // List agents
 const { agents } = await elizaClient.agents.listAgents();
@@ -470,7 +486,7 @@ const { agents } = await elizaClient.agents.listAgents();
 const agent = await elizaClient.agents.getAgent(agentId);
 
 // Send message
-const message = await elizaClient.messaging.postMessage(channelId, 'Hello!');
+const message = await elizaClient.messaging.postMessage(channelId, "Hello!");
 
 // Get messages
 const messages = await elizaClient.messaging.getMessagesForChannel(channelId);
@@ -478,12 +494,12 @@ const messages = await elizaClient.messaging.getMessagesForChannel(channelId);
 // Create session
 const session = await elizaClient.sessions.createSession({
   agentId: agent.id,
-  userId: 'user-123',
+  userId: "user-123",
 });
 
 // Send session message
 await elizaClient.sessions.sendMessage(session.sessionId, {
-  content: 'Hello, agent!',
+  content: "Hello, agent!",
 });
 ```
 
@@ -492,7 +508,7 @@ await elizaClient.sessions.sendMessage(session.sessionId, {
 Real-time communication via Socket.IO:
 
 ```typescript
-import { socketManager } from './lib/socketManager';
+import { socketManager } from "./lib/socketManager";
 
 // Connect
 socketManager.connect(userId);
@@ -501,11 +517,11 @@ socketManager.connect(userId);
 socketManager.joinChannel(channelId, serverId);
 
 // Send message
-socketManager.sendMessage(channelId, 'Hello!', serverId);
+socketManager.sendMessage(channelId, "Hello!", serverId);
 
 // Listen for messages
 socketManager.onMessage((data) => {
-  console.log('New message:', data);
+  console.log("New message:", data);
 });
 ```
 
@@ -539,6 +555,7 @@ Edit `src/character.ts` to customize Otaku's personality, system prompt, bio, to
 ### Workspace Packages
 
 This project uses Bun workspaces for:
+
 - `@elizaos/api-client` - Type-safe API client
 - `@elizaos/server` - ElizaOS server runtime
 - Custom plugins in `src/plugins/*`
@@ -582,24 +599,24 @@ The production deployment at `otaku.so` runs on [Railway](https://railway.app) u
 2. In the **Deployments → Build & Deploy** panel set:
    - **Build Command:** `bun run build`
    - **Start Command:** `SERVER_PORT=$PORT bun run start`
-   This ensures the server listens on the dynamic port that Railway provides via the `PORT` variable.
+     This ensures the server listens on the dynamic port that Railway provides via the `PORT` variable.
 3. Enable "Wait for CI" if you link the service to GitHub Actions, otherwise Railway will build directly from the commit.
 
 ### 3. Configure environment variables
 
 Open the **Variables** tab for the web service and mirror the values from your local `.env`. The critical production keys are:
 
-| Variable | Purpose |
-| --- | --- |
-| `JWT_SECRET` | Auth token signing secret |
-| `OPENAI_API_KEY` or `OPENROUTER_API_KEY` | AI provider |
-| `VITE_CDP_PROJECT_ID` | CDP project for frontend login |
-| `CDP_API_KEY_ID`, `CDP_API_KEY_SECRET`, `CDP_WALLET_SECRET` | Backend wallet operations |
-| `ALCHEMY_API_KEY` | Chain data and balances |
-| `POSTGRES_URL` | PostgreSQL connection string (from Neon, Railway, or other provider) |
-| `X402_RECEIVING_WALLET`, `X402_PUBLIC_URL`, `X402_FACILITATOR_URL` | x402 payment configuration |
-| `NODE_ENV` | Set to `production` |
-| `LOG_LEVEL` | Optional logging verbosity |
+| Variable                                                           | Purpose                                                              |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| `JWT_SECRET`                                                       | Auth token signing secret                                            |
+| `OPENAI_API_KEY` or `OPENROUTER_API_KEY`                           | AI provider                                                          |
+| `VITE_CDP_PROJECT_ID`                                              | CDP project for frontend login                                       |
+| `CDP_API_KEY_ID`, `CDP_API_KEY_SECRET`, `CDP_WALLET_SECRET`        | Backend wallet operations                                            |
+| `ALCHEMY_API_KEY`                                                  | Chain data and balances                                              |
+| `POSTGRES_URL`                                                     | PostgreSQL connection string (from Neon, Railway, or other provider) |
+| `X402_RECEIVING_WALLET`, `X402_PUBLIC_URL`, `X402_FACILITATOR_URL` | x402 payment configuration                                           |
+| `NODE_ENV`                                                         | Set to `production`                                                  |
+| `LOG_LEVEL`                                                        | Optional logging verbosity                                           |
 
 Railway's UI supports bulk edits—`railway variables set KEY=value` in the CLI is another quick way to sync secrets. Keep `.env.sample` updated so every teammate knows which keys need to be added.
 
@@ -641,6 +658,7 @@ If you send a message (e.g. "bot status") and the UI stays on "Analyzing your re
 ### Port Already in Use
 
 Change the port in `.env`:
+
 ```bash
 SERVER_PORT=3001
 ```
@@ -648,6 +666,7 @@ SERVER_PORT=3001
 ### Dependencies Not Found
 
 Make sure you're in the project root and run:
+
 ```bash
 bun install
 ```
@@ -677,6 +696,7 @@ bun install
 ## Accessing the App
 
 Once running (with `bun start` / `bun run dev`):
+
 - **Chat UI (Vite)**: Use the URL the script prints, e.g. http://localhost:5173
 - **Default ElizaOS dashboard**: http://localhost:3000
 - **API**: http://localhost:3000/api/

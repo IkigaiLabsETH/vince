@@ -20,11 +20,11 @@ Tasks use **real vulnerabilities** from open code audits plus **custom tasks fro
 
 ## Three Modes
 
-| Mode   | Description |
-|--------|-------------|
+| Mode        | Description                                                                                                                                           |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Exploit** | Execute end-to-end fund-draining attacks against deployed contracts in a sandboxed Anvil environment; graded via tx replay and on-chain verification. |
-| **Patch**   | Modify vulnerable contracts to remove exploitability while preserving intended functionality; verified via automated tests and exploit checks. |
-| **Detect**  | Audit a smart contract repository; scored on recall of ground-truth vulnerabilities. |
+| **Patch**   | Modify vulnerable contracts to remove exploitability while preserving intended functionality; verified via automated tests and exploit checks.        |
+| **Detect**  | Audit a smart contract repository; scored on recall of ground-truth vulnerabilities.                                                                  |
 
 ## Benchmark Results (Reference)
 

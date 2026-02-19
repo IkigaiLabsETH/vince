@@ -15,7 +15,6 @@ Bridge risk, smart contract safety, audit frameworks
 - smart-contract-risk.md
 - wallet-security-framework.md
 
-
 ## Related Categories
 
 - [privacy](../privacy/)

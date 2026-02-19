@@ -3,17 +3,21 @@ tags: [security, risk, safety]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 ---
+
 title: "This is getting out of control now..."
 source: chat://vince-upload/1770841101723
 category: security
 ingestedWith: vince-upload
 tags:
-  - vince-upload
-  - user-submitted
-  - chat
-created: 2026-02-11T20:18:21.723Z
-wordCount: 192
+
+- vince-upload
+- user-submitted
+- chat
+  created: 2026-02-11T20:18:21.723Z
+  wordCount: 192
+
 ---
 
 # This is getting out of control now...

@@ -15,7 +15,7 @@ Milan 5-star hotels sit in the fashion and design capital: Duomo, Quadrilatero, 
 - **Armani Hotel Milano** — Via Manzoni; Armani design, spa, central.
 - **Bulgari Hotel Milano** — Via Privata Fratelli Gabba; garden, bar, discreet.
 - **Four Seasons Hotel Milano** — Via Gesù; convent restoration, garden, courtyard.
-- **Mandarin Oriental, Milan** — Via Andegari; design, Seta (1*).
+- **Mandarin Oriental, Milan** — Via Andegari; design, Seta (1\*).
 - **Park Hyatt Milan** — Galleria Vittorio Emanuele II; next to Duomo, La Cupola.
 - **Palazzo Parigi** — Corso di Porta Nuova; grand palace, spa, garden.
 - **Hotel Principe di Savoia** — Piazza della Repubblica; Dorchester Collection, classic.

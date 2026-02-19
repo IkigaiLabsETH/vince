@@ -3,6 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # MEV on Solana: Jito & the Extraction Economy
 
 ## How Solana MEV Works
@@ -29,10 +30,11 @@ A validator running Jito infrastructure earns: base staking rewards (~6-7% APY) 
 ## User Impact & Mitigation
 
 Users lose value through sandwich attacks, failed transaction fees (during congestion), and suboptimal execution. Mitigations include:
+
 - **Jupiter's MEV protection:** Routes through private submission channels to reduce sandwich exposure
 - **Priority fees:** Users can bid for faster inclusion, but this creates a fee auction dynamic
 - **Jito tip-based submission:** Users/protocols can submit bundles directly, bypassing public transaction flow
 
 The MEV landscape remains contentious — it improves validator economics and network efficiency (arbitrage) while simultaneously extracting value from retail users (sandwiches). The balance between these forces is Solana's central MEV challenge.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

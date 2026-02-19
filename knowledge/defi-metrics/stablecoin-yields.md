@@ -4,15 +4,18 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180801836.Stablecoin Yields
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: defi-metrics
 **Word Count**: 1,358
 **Tags**: #ethereum #eth #sol #defi #fed #portfolio #substack
+
 ---
-If you had told me in 2022 that the most boring corner of crypto, lending plain old stablecoins, would become the most consistently profitable trade of the entire cycle, I would have laughed. Yet here we are, in the final month of 2025, and the highest-conviction money I know is quietly earning between four and eighteen percent a year on USDC and USDT, without touching a single meme coin or leveraged long. 
+
+If you had told me in 2022 that the most boring corner of crypto, lending plain old stablecoins, would become the most consistently profitable trade of the entire cycle, I would have laughed. Yet here we are, in the final month of 2025, and the highest-conviction money I know is quietly earning between four and eighteen percent a year on USDC and USDT, without touching a single meme coin or leveraged long.
 
 The beauty is that the winners are no longer the loudest; they are the ones that simply refused to break while everyone else chased the next narrative.
 
@@ -31,23 +34,23 @@ Spark, the rebranded child of Maker and Sky, is the closest thing crypto has to 
 Euler and Pendle are the two wildcards at the table. Euler’s modular vaults let anyone spin up an isolated lending market with ninety percent LTV if they dare, and people dare. Yields flirt with double digits on plain USDC when you delegate credit to the sharpest risk managers. Pendle, meanwhile, is the fixed-income casino we all secretly love. Sixteen percent fixed on USDai until March, twenty-one percent on reUSDe if you’re feeling brave, all funded by people betting the other side with YT tokens.
 
 Felix sits in the corner quietly farming ten percent on Hyperliquid, reminding everyone that sometimes the best yields are found in the chains nobody can pronounce yet.
-> 
-And then there is Yearn, the elegant butler who will gladly take your coat, park your stables across all of the above, compound everything, and hand you a perfectly respectable five to eight percent with zero effort. Yearn is brilliant. Yearn is also expensive (up to twenty percent performance fee on profits), occasionally slow to chase the hottest vault, and deliberately conservative because it has to be. After running both approaches side-by-side for months, the verdict is clear: Yearn is unbeatable for anyone who truly wants to forget crypto exists, but it is not unbeatable for anyone willing to spend one Saturday morning per quarter.
 
-So where should you actually park your stablecoins today?**
+> And then there is Yearn, the elegant butler who will gladly take your coat, park your stables across all of the above, compound everything, and hand you a perfectly respectable five to eight percent with zero effort. Yearn is brilliant. Yearn is also expensive (up to twenty percent performance fee on profits), occasionally slow to chase the hottest vault, and deliberately conservative because it has to be. After running both approaches side-by-side for months, the verdict is clear: Yearn is unbeatable for anyone who truly wants to forget crypto exists, but it is not unbeatable for anyone willing to spend one Saturday morning per quarter.
+
+So where should you actually park your stablecoins today?\*\*
 
 If you have less than fifty thousand dollars and you want to sleep without checking prices, deposit into Yearn’s USDC vault or straight into sUSDS on Spark. You will earn six to nine percent with embarrassing simplicity.
-> 
-If you have a hundred thousand or more and you are willing to spend one Saturday morning every quarter rebalancing, …
-the current champion remains a manual barbell:
-40 % Aave syrupUSDT / GHO looping (12–16 %)
-30 % Morpho Gauntlet Core or similar curated vault (9–13 %)
-20 % Spark sUSDS (8–9 % with zero volatility)
-10 % sprinkled into Euler delegation or Pendle PTs when the fixed rate looks juicy. The blended yield lands around eleven to fourteen percent, the liquidation price requires Ethereum to drop ninety percent, and you keep every basis point that Yearn would have taken as a fee. If you refuse to earn less than fifteen percent and you accept the ride, Euler delegation
+
+> If you have a hundred thousand or more and you are willing to spend one Saturday morning every quarter rebalancing, …
+> the current champion remains a manual barbell:
+> 40 % Aave syrupUSDT / GHO looping (12–16 %)
+> 30 % Morpho Gauntlet Core or similar curated vault (9–13 %)
+> 20 % Spark sUSDS (8–9 % with zero volatility)
+> 10 % sprinkled into Euler delegation or Pendle PTs when the fixed rate looks juicy. The blended yield lands around eleven to fourteen percent, the liquidation price requires Ethereum to drop ninety percent, and you keep every basis point that Yearn would have taken as a fee. If you refuse to earn less than fifteen percent and you accept the ride, Euler delegation
 
 If you refuse to earn less than fifteen percent and you accept the ride, Euler delegation vaults and Pendle PT loops are still the highest-octane game in town, with the added option of parking a sliver in Felix when Hyperliquid feels frisky.
-> 
-The real sweet spot, though, the one that has survived every stress test I have thrown at it in 2025, is simply using them all. Spread your stablecoins across Aave, Morpho, Compound, Spark, Euler, Pendle, and even a dash of Felix the way a prudent bond investor spreads across maturities and issuers. No single protocol dominates every market regime: Aave and Spark shine when capital floods in and rates compress, Morpho and Euler surge when leverage returns, Pendle prints when term premium reappears, Compound quietly accrues when the world wants boring, and Felix reminds us that new chains still birth alpha. By holding positions in all seven (manually, or through light automation tools that cost nothing compared to Yearn’s performance fee), you capture the best risk-adjusted yield the ecosystem has to offer while insulating yourself from any one team’s misstep, any single chain’s congestion, or any lone narrative fading into the night.
+
+> The real sweet spot, though, the one that has survived every stress test I have thrown at it in 2025, is simply using them all. Spread your stablecoins across Aave, Morpho, Compound, Spark, Euler, Pendle, and even a dash of Felix the way a prudent bond investor spreads across maturities and issuers. No single protocol dominates every market regime: Aave and Spark shine when capital floods in and rates compress, Morpho and Euler surge when leverage returns, Pendle prints when term premium reappears, Compound quietly accrues when the world wants boring, and Felix reminds us that new chains still birth alpha. By holding positions in all seven (manually, or through light automation tools that cost nothing compared to Yearn’s performance fee), you capture the best risk-adjusted yield the ecosystem has to offer while insulating yourself from any one team’s misstep, any single chain’s congestion, or any lone narrative fading into the night.
 
 Diversification used to be a dirty word in a world of hundred-ex emissions, but in the quiet bull market of 2025 it is once again the ultimate edge.
 

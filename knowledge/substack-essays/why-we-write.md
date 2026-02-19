@@ -4,28 +4,28 @@ agents: [echo, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 # 182363177.Why We Write
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: substack-essays
 **Word Count**: 595
 **Tags**: #eth #sol #macro #portfolio #substack
+
 ---
 
-Santi’s tweet hit like a red candle to the gut: 
+Santi’s tweet hit like a red candle to the gut:
 
-“Everyone writes more as prices go down.” 
+“Everyone writes more as prices go down.”
 
 ## Context
 
 And damn if it isn’t true.
 
-Green candles? We’re all too busy stacking sats, refreshing charts, and quietly grinning at our portfolios. Silence reigns—euphoric, smug silence. Red candles? Thinkpiece season opens. Threads explode. Newsletters drop. Everyone suddenly has profound insights on macro, on-chain metrics, HODLing philosophy, and why this dip is actually the best buying opportunity ever. 
+Green candles? We’re all too busy stacking sats, refreshing charts, and quietly grinning at our portfolios. Silence reigns—euphoric, smug silence. Red candles? Thinkpiece season opens. Threads explode. Newsletters drop. Everyone suddenly has profound insights on macro, on-chain metrics, HODLing philosophy, and why this dip is actually the best buying opportunity ever.
 
-We laugh because we’ve all been there. 
+We laugh because we’ve all been there.
 
 ## Main
 

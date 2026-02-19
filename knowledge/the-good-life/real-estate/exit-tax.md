@@ -4,9 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 If you’re thinking of moving to France, planning to live the life, stop scrolling for that stone house in Provence. Read this first, before you move out the USA.
 
 Because the French State has a very special welcome package waiting for you — and if you ever get fed up and eye the exit, they’ve got a parting gift too.

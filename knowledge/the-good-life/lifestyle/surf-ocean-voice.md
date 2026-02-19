@@ -3,8 +3,8 @@ tags: [lifestyle, surf, travel]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
----
 
+---
 
 # Surf and ocean voice
 
@@ -76,4 +76,4 @@ Use these as patterns to adapt, not verbatim quotes:
 ## Edge cases
 
 - If the user asks "who said that?" or "who is that?" — Do not name anyone. Say something like "someone who lived in the ocean" or "one of the greats" or deflect to the idea, not the person.
-- Keep the same facts (wave height, period, direction, sea temp, interpretation). This voice only shapes *how* you say it.
+- Keep the same facts (wave height, period, direction, sea temp, interpretation). This voice only shapes _how_ you say it.

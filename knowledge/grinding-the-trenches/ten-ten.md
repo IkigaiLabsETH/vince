@@ -3,6 +3,7 @@ tags: [trading, memecoins, degen]
 agents: [echo, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # The 10/10 Crash: The Definitive Timeline
 
 ## Overview
@@ -16,6 +17,7 @@ Within four hours, the crypto market cap lost more than $1 trillion. Nineteen bi
 ### Phase 1 – The Powder Keg (Early October 2025)
 
 **Market Conditions Before the Crash:**
+
 - Bitcoin had just printed a new all-time high near $126,000
 - Total crypto market cap topped $4.3 trillion
 - Aggregate open interest across perpetual futures hit an all-time record of ~$200 billion—almost entirely long
@@ -27,6 +29,7 @@ Within four hours, the crypto market cap lost more than $1 trillion. Nineteen bi
 ### Phase 2 – The Spark (16:50 UTC, October 10)
 
 **The Cascade:**
+
 - **16:50 UTC** – Trump posts the tariff threat
 - **16:51** – Risk-off stampede begins
 - **16:55** – BTC drops 5% in four minutes
@@ -40,12 +43,14 @@ Within four hours, the crypto market cap lost more than $1 trillion. Nineteen bi
 ### Market Impact
 
 **Price Movements:**
+
 - Bitcoin fell from $124,968 to $102,000 (-18%)
 - Ethereum fell 28%
 - Solana, XRP, and hundreds of altcoins dropped 50–90% in minutes
 - USDe depegged to $0.65 on Binance while staying at $1.00 everywhere else
 
 **Market Structure Breakdown:**
+
 - Market-maker depth on major exchanges collapsed by 35%
 - Auto-deleveraging engines forced winners to pay for losers at prices five times worse than the market
 - $19 billion in leveraged positions liquidated
@@ -62,10 +67,12 @@ Weeks after the crash, a new narrative took over Twitter, Reddit, and even some 
 ### The Actual MSCI Consultation
 
 **Timeline:**
+
 - Sometime in very late October (exact date unclear, but definitely **after** the crash), MSCI quietly opened a consultation titled "Digital Asset Treasury Companies"
 - This was a broad, non-binding review asking whether firms with >50% of their balance sheet in crypto should be treated like operating companies or like investment funds for index-inclusion purposes
 
 **Key Facts:**
+
 - The consultation was **not announced on October 10**
 - It is **not Bitcoin-specific**
 - It is **not MicroStrategy-specific**
@@ -77,6 +84,7 @@ Weeks after the crash, a new narrative took over Twitter, Reddit, and even some 
 ### The Viral Thread
 
 On November 21, a viral thread by Ran Neuner ("This was not a coincidence") racked up millions of views claiming "smart money" had front-run the MSCI consultation. The thread:
+
 - Ignored the actual timeline
 - Ignored the liquidation heatmaps
 - Ignored the fact that MicroStrategy's stock fell less than Bitcoin on the day itself (−11% vs −18%)
@@ -91,16 +99,19 @@ The second favorite villain was Wintermute, the algo market-maker that provides 
 ### What Actually Happened
 
 **Wintermute's Actions:**
+
 - Deposited roughly $700 million into Binance hot wallets hours before the crash—routine liquidity provisioning
 - When the cascade hit, Wintermute absorbed hundreds of millions in sells
 - Lost over $300 million in forced ADL closes (some at 5× the real price)
 - Still kept quoting despite massive losses
 
 **CEO Evgeny Gaevoy's Response:**
+
 - Later called it "unhedgeable"
 - Predicted a "wave of lawsuits"—against exchanges, not from them
 
 **On-Chain Evidence:**
+
 - No on-chain evidence exists of Wintermute dumping into the crash
 - Their wallets show net absorption, not selling
 
@@ -124,12 +135,14 @@ The second favorite villain was Wintermute, the algo market-maker that provides 
 The 10/10 flush was the greatest leverage reset in crypto history. It hurt like hell, but it did exactly what painful resets do:
 
 **Positive Outcomes:**
+
 - Open interest was cut by ~40% and has stayed healthy ever since
 - ETF inflows resumed within days ($6 billion/week)
 - Bitcoin dominance rose to 58.5% as altcoin leverage was obliterated
 - Funding rates normalized; the market finally had room to breathe
 
 **Recovery:**
+
 - By late November, Bitcoin was back above $110,000
 - Ethereum above $4,000
 - Analysts were once again calling for $150,000–$200,000 BTC by mid-2026—because the froth was gone
@@ -145,6 +158,7 @@ The 10/10 flush was the greatest leverage reset in crypto history. It hurt like 
 ## Final Thought
 
 October 10, 2025, was not a conspiracy.
+
 - It was not MSCI.
 - It was not Wintermute.
 - It was not "smart money" front-running a PDF that nobody had read.
@@ -162,6 +176,7 @@ And until the next time the conditions line up exactly the same way—higher hig
 ### The Contradiction
 
 As we close out 2025, few assets embody contradiction quite like Bitcoin. The cryptocurrency sits stubbornly around $87,000, unmoved by the fireworks elsewhere:
+
 - The S&P 500 etched another all-time high, closing at 6,909.79 on December 23
 - Gold shattered its own records, surging past $4,383 amid geopolitical jitters
 
@@ -170,36 +185,43 @@ Yet Bitcoin, which has oscillated between digital gold and high-beta tech play, 
 ### The Numbers
 
 **Bitcoin's Position:**
+
 - Priced at approximately $86,935 as of December 24, 2025
 - Down over 30% from its early October peak of $126,080
 - Languishing in a consolidation phase that feels interminable
 
 **Market Behavior:**
+
 - Bitcoin has traded more like a risk-on asset, correlating with tech stocks during rallies
 - Its supposed role as a risk-off hedge—akin to gold—has faltered
 
 ### Bitcoin's Identity Crisis: Risk-On or Risk-Off?
 
 **The Theory:**
+
 - Bitcoin was born from crisis, forged in the ashes of 2008 as a decentralized alternative to fiat folly
 - In theory, it's the ultimate risk-off asset: scarce, sovereign, and immune to debasement
 
 **The Reality (2025):**
+
 - During the year's bull phases, it rode the coattails of equities
 - Buoyed by ETF inflows and institutional adoption from players like BlackRock
 - BlackRock once labeled it a "risk-off" play but now treats it as a portfolio diversifier
 
 **On-Chain Metrics:**
+
 - Active addresses and transaction volumes have stabilized
 - Whale distributions, like Galaxy Digital's massive $9.5 billion BTC sale, signal early holders cashing out
 - Creating downward pressure
 
 **The Irony:**
+
 - Gold's surge highlights the paradox: both are hedges
 - Gold benefits from diverse demand (central banks, jewelry, ETFs)
 - Bitcoin grapples with concentrated supply overhangs
 
 **Covered Call Strategies:**
+
 - Platforms like Deribit have pinned prices
 - Massive open interest above $90,000 farming premiums
 - Hedging dealers into suppression mode
@@ -208,30 +230,36 @@ Yet Bitcoin, which has oscillated between digital gold and high-beta tech play, 
 ### The 10/10 Fracture: When the Peak Became the Precipice
 
 **The Inflection Point:**
+
 - October 10, 2025, marks the inflection point—a date etched in crypto lore
 - Bitcoin topped out at $126,000 amid hype around ETF options and macro tailwinds
 - The market seemed unbreakable
 
 **The Descent:**
+
 - Swift descent, shedding 31% in weeks
 - FUD from unlocks, vampire attacks in DeFi, and a broader sentiment shift
 - This wasn't just technical; it was fundamental
 
 **The Post-10/10 Era:**
+
 - Broken the market in ways we're still unpacking
 - Transforming Bitcoin from a speculative rocket to a maturing asset caught in distribution
 
 **Historical Context:**
+
 - Bitcoin cycles extend 1-2 years post-halving, with Q4 rallies averaging +51%
 - Yet 2025 defied this, with altcoins underperforming and BTC lagging despite strong fundamentals
 - Unprecedented institutional inflows couldn't overcome the structural issues
 
 **The Fracture Stems From:**
+
 - Overhyping: meme coins rugging retail
 - ICOs like Monad flopping below launch prices despite $412 million raised
 - Regulatory thaw that promised innovation but delivered misalignment
 
 **The Old vs. New Regime:**
+
 - Old SEC regime handcuffed founders, pushing value to equity over tokens
 - Birthing ineffective DAOs
 - New era offers hope—tokens capturing onchain value, minimized governance
@@ -240,6 +268,7 @@ Yet Bitcoin, which has oscillated between digital gold and high-beta tech play, 
 ### Cultural Shifts and the DeFi Mirror
 
 **The Cultural Reckoning:**
+
 - Crypto "isn't that cool anymore," as one 22-year-old observer put it
 - Constant rugs and mercenary flows chasing away the next generation
 - YouTube views on crypto content have plummeted
@@ -247,16 +276,19 @@ Yet Bitcoin, which has oscillated between digital gold and high-beta tech play, 
 - Platforms like Robinhood make 0DTE options and pred markets accessible
 
 **The Social Shift:**
+
 - Amplifies the paradox: Bitcoin's promise of self-sovereign ownership feels diluted
 - Amid vampire attacks that fragment ecosystems
 
 **Hyperliquid as Microcosm:**
+
 - Bullish on its tokenomics and onchain perps
 - Faced forks like Lighter, which touted zero-fee models
 - Sparked FUD over inflated volumes and premium retention
 - Lighter's "wall of worry"—high vol/OI ratios signaling churn—mirrors Bitcoin's broader malaise
 
 **The Bull Case Persists:**
+
 - Curated flow enabling maker pricing power
 - Product expansions into options and rails
 - Tiered monetization could commoditize perps, undercutting incumbents
@@ -264,6 +296,7 @@ Yet Bitcoin, which has oscillated between digital gold and high-beta tech play, 
 - But the attacks highlight DeFi's Achilles' heel: innovation breeds imitation, eroding moats and fueling fatigue
 
 **The Generational Handover:**
+
 - As altcoins bleed and BTC consolidates, the market undergoes a generational handover
 - Old coins moving on-chain, layoffs signaling bottoms
 - Bearish narratives (AI bubbles, trade wars) create buying opportunities for perma-bulls
@@ -272,25 +305,30 @@ Yet Bitcoin, which has oscillated between digital gold and high-beta tech play, 
 ### Navigating the Future: Opportunities Amid the Rubble
 
 **Bullish Resolution:**
+
 - If Bitcoin reclaims its risk-off mantle—bolstered by macro shocks or clearer regs
 - Might decouple upward, targeting $200,000+ by 2028 as cycles extend
 
 **Institutional Hedges:**
+
 - Protective puts or collars on core positions remain prudent amid volatility
 - DeFi evolution—aligning tokens with onchain value, experimenting with one-asset models—could revive appeal
 
 **Risks:**
+
 - ETF outflows
 - Government shutdowns
 - Bursting AI narrative could drag it lower, testing supports at $80,000
 
 **The Final Word:**
+
 - Markets move violently when expectations are low and narratives uncomfortable
 - Bitcoin's flatline isn't death; it's gestation
 - Post-10/10 has fractured the old playbook, but from these ashes, a more resilient asset could emerge
 - One that bridges risk-on growth and risk-off safety
 
 **For Investors:**
+
 - The wall of worry is climbable
 - Dip-buying now, with eyes on Q1 2026 catalysts, might just be the contrarian play of the decade
 
@@ -309,6 +347,7 @@ Yet Bitcoin, which has oscillated between digital gold and high-beta tech play, 
 ## Sources & Methodology
 
 This timeline was built from:
+
 - Coinglass liquidation maps
 - Kaiko depth data
 - Arkham and Nansen wallet traces
@@ -316,7 +355,6 @@ This timeline was built from:
 - On-chain forensics
 - Hundreds of contemporaneous X posts
 - Before the revisionism began
-
 
 ## Related
 

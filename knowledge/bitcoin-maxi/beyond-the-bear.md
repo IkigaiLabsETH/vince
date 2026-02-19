@@ -4,16 +4,18 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180591411.Beyond The Bear
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 1,037
 **Tags**: #bitcoin #btc #eth #solana #sol #perps #fed #macro #trading #substack
+
 ---
 
-As the embers of the 2024–2025 bull market cool into what feels like an interminable winter, it’s natural to fixate on the immediate frostbite: the 50-week SMA’s unyielding breach, the 40% plunge from $125K highs, and the chorus of seasoned voices declaring the cycle’s demise. But buried in the bearish dispatches from Peter Brandt, Ben Cowen, Ansem, and Chris Burniske lies a quieter, more tantalizing thread, one that whispers not just of survival, but of resurrection. These analysts, for all their tactical pessimism, remain unapologetic long-term bulls on Bitcoin. Their charts and models don’t end at capitulation; they arc toward the next summit, projected for 2029 around the fourth halving’s glow. What might that peak look like? 
+As the embers of the 2024–2025 bull market cool into what feels like an interminable winter, it’s natural to fixate on the immediate frostbite: the 50-week SMA’s unyielding breach, the 40% plunge from $125K highs, and the chorus of seasoned voices declaring the cycle’s demise. But buried in the bearish dispatches from Peter Brandt, Ben Cowen, Ansem, and Chris Burniske lies a quieter, more tantalizing thread, one that whispers not just of survival, but of resurrection. These analysts, for all their tactical pessimism, remain unapologetic long-term bulls on Bitcoin. Their charts and models don’t end at capitulation; they arc toward the next summit, projected for 2029 around the fourth halving’s glow. What might that peak look like?
 
 Drawing from their recent analyses and historical extrapolations, we can sketch a probabilistic map of the 2029 bull cycle: shallower parabolas, institutional ballast, and targets clustering around $200K–$500K, with outliers pushing higher on adoption tailwinds.
 
@@ -29,7 +31,7 @@ Ansem’s altcoin-centric worldview adds a sharper, more speculative edge to the
 
 Chris Burniske, the Placeholder VC partner and Cryptoassets co-author, brings the most philosophical breadth, viewing 2029 through Carlota Perez’s “technological surge” lens: We’re midway in the Frenzy phase, with Deployment (steady, 10–100x compounding) kicking in post-2026. His targets are probabilistic and asset-agnostic, but he sketches BTC at $250K–$400K by 2029, driven by “deflationary” blockchains and institutional permanence (ETFs as the new “Mag7”). Burniske debunks supercycle myths but expects ETH to flip its 2021 narrative, rallying to new highs ($10K–$15K) en route to BTC’s shadow. Like Ansem, he eyes ZEC’s BTC-pair resilience as a bellwether, consolidation at cycle bottoms signaling outperformance in the next leg. His contrarian edge: Volatility compresses, but “pessimism and short-termism” at the 2026 low ($60K) will forge 2030s winners. Burniske’s call isn’t a number; it’s a mindset, trim now, accumulate majors (BTC, ETH) at the 200-week floor, and let Perez’s waves carry the rest.
 
-Synthesizing these voices, the 2029 bull emerges as a tale of tempered ambition: $200K–$500K for BTC, with $250K as the consensus median, implying 3–8x from the bear nadir. Alts? A bloodbath yielding to selective glory, ETH to $10K+, SOL to $500–$1K, privacy/AI niches 20x-ing off BTC’s base. Catalysts align: The 2028 halving midpoints the cycle, Fed normalization lags into liquidity, and nation-state adoption (e.g., Trump’s rumored reserves) adds rocket fuel. 
+Synthesizing these voices, the 2029 bull emerges as a tale of tempered ambition: $200K–$500K for BTC, with $250K as the consensus median, implying 3–8x from the bear nadir. Alts? A bloodbath yielding to selective glory, ETH to $10K+, SOL to $500–$1K, privacy/AI niches 20x-ing off BTC’s base. Catalysts align: The 2028 halving midpoints the cycle, Fed normalization lags into liquidity, and nation-state adoption (e.g., Trump’s rumored reserves) adds rocket fuel.
 
 ## Conclusion
 

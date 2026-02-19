@@ -19,26 +19,29 @@ Oil paint dries slowly (hours to days), which means you can push it around, blen
 ## Getting started: materials
 
 ### Canvas
+
 - **Start small:** 30×40 cm or 40×50 cm. You'll finish pieces faster and learn more per canvas.
 - **Pre-stretched, double-primed** (gesso) cotton canvas from an art supply store. No need for linen yet.
 - Later: linen is smoother, more durable, better for fine detail. Worth the upgrade once you're committed.
 
 ### Paint (limited palette — start here)
+
 Start with **5 colors**. You can mix virtually anything from these:
 
-| Color | Role | Notes |
-|-------|------|-------|
-| **Titanium White** | Lightening, opacity | Use a lot — buy the biggest tube |
-| **Ultramarine Blue** | Cool blue, mixing greens and purples | Warm-leaning blue; versatile |
-| **Burnt Sienna** | Warm earth, shadows, mixing with blue for darks | Fast drier |
-| **Yellow Ochre** | Warm yellow, skin tones, landscapes | Earth tone, reliable |
-| **Cadmium Red Medium** | Warm red, mixing oranges and purples | Or alizarin crimson for cooler red |
+| Color                  | Role                                            | Notes                              |
+| ---------------------- | ----------------------------------------------- | ---------------------------------- |
+| **Titanium White**     | Lightening, opacity                             | Use a lot — buy the biggest tube   |
+| **Ultramarine Blue**   | Cool blue, mixing greens and purples            | Warm-leaning blue; versatile       |
+| **Burnt Sienna**       | Warm earth, shadows, mixing with blue for darks | Fast drier                         |
+| **Yellow Ochre**       | Warm yellow, skin tones, landscapes             | Earth tone, reliable               |
+| **Cadmium Red Medium** | Warm red, mixing oranges and purples            | Or alizarin crimson for cooler red |
 
 **Artist grade vs student:** Artist grade has more pigment, better lightfastness, smoother texture. Start with student (Winsor & Newton Winton, Gamblin 1980) to learn without cost pressure. Upgrade to artist (W&N Artists', Gamblin Artist's, Old Holland, Michael Harding) when you know what you use most.
 
 **Expand later:** Viridian or terre verte (green), raw umber (cool shadow), cadmium yellow (bright), Naples yellow (warm light), ivory black (tint). Add one color at a time so you learn what each does.
 
 ### Brushes
+
 - **Flats** (sizes 4, 8, 12): Workhorse — blocking, edges, broad strokes.
 - **Filberts** (sizes 4, 8): Rounded edge — blending, organic shapes, portraits.
 - **Rounds** (sizes 2, 6): Detail, lines, signing.
@@ -47,6 +50,7 @@ Start with **5 colors**. You can mix virtually anything from these:
 - **Care:** Clean in odorless mineral spirit (OMS), then wash with brush soap (The Masters). Store bristles up. Never leave in solvent jar.
 
 ### Mediums and solvents
+
 - **Odorless mineral spirit (OMS):** For thinning paint and cleaning brushes. Gamsol is the cleanest. Use in a ventilated room.
 - **Linseed oil:** The standard medium. Slows drying slightly, adds gloss and flow. Refined is cleaner; cold-pressed is thicker.
 - **Liquin (alkyd medium):** Speeds drying (touch-dry overnight vs days). Good for layering faster. Winsor & Newton Liquin Original.
@@ -54,6 +58,7 @@ Start with **5 colors**. You can mix virtually anything from these:
 - **Rule:** You can paint thin (more OMS) or fat (more oil/medium). Always **fat over lean** — less oil in lower layers, more in upper. Prevents cracking.
 
 ### Palette and setup
+
 - **Glass palette** (with gray or white paper underneath): Easiest to clean. Scrape with razor, wipe with OMS.
 - **Layout:** White at top, then warm-to-cool left-to-right: yellow ochre → cadmium red → burnt sienna → ultramarine blue. Mixing area in the center.
 - **Easel:** Tabletop H-frame for small work. Full standing easel if you have the space (and you do).
@@ -64,6 +69,7 @@ Start with **5 colors**. You can mix virtually anything from these:
 ## The learning path (beginner → confident)
 
 ### Phase 1: Value and form (weeks 1–4)
+
 **Goal:** See in values (light/dark), not colors. Value is 90% of a painting.
 
 1. **Grisaille studies:** Paint in one color only — burnt umber + white, or ivory black + white. Do 3–5 small studies from simple objects (sphere, cylinder, apple, mug). Focus on: where is the light? Where is the shadow? Where is the reflected light?
@@ -71,6 +77,7 @@ Start with **5 colors**. You can mix virtually anything from these:
 3. **Edge awareness:** Hard edges (sharp focus), soft edges (out of focus or turning form), lost edges (where form disappears into shadow). Practice making each deliberately.
 
 ### Phase 2: Color and temperature (weeks 5–8)
+
 **Goal:** Understand warm vs cool, and how limited palette creates harmony.
 
 1. **Color charts:** Mix every 2-color combination from your palette. Paint a grid. This teaches you what your palette can do — you'll be surprised.
@@ -78,6 +85,7 @@ Start with **5 colors**. You can mix virtually anything from these:
 3. **Imprimatura:** Tint your canvas before starting (thin wash of yellow ochre or burnt sienna). Kills the white, sets a warm key, makes color decisions easier. Master landscape painters all do this.
 
 ### Phase 3: Building paintings (weeks 9–16)
+
 **Goal:** Multi-session paintings with layering and intention.
 
 1. **Underpainting → color:** Do a grisaille underpainting (lean, thin), let it dry, then glaze color over it. Glazing = transparent color over a dry layer — creates depth and luminosity that direct painting can't match.
@@ -85,6 +93,7 @@ Start with **5 colors**. You can mix virtually anything from these:
 3. **Scumbling:** Drag thick, opaque, broken color over a dry layer. Creates texture, atmosphere, and light effects. Turner, Monet — this is how they got that glow.
 
 ### Phase 4: Your practice (ongoing)
+
 1. **20–30 min daily studies:** One small study per day. A hand, a piece of fruit, a fabric fold, a sky. This is the single most effective habit.
 2. **One serious painting per week:** Larger canvas, multiple sessions, full process (underpainting, layering, finishing).
 3. **Copy masters regularly:** Not to replicate — to understand how they solved problems. Sargent for brushwork, Vermeer for light, Sorolla for outdoor light, Zorn for limited palette (only used 4 colors his whole career).
@@ -93,18 +102,18 @@ Start with **5 colors**. You can mix virtually anything from these:
 
 ## Masters to study
 
-| Painter | Study for | Start with |
-|---------|-----------|------------|
-| **John Singer Sargent** | Brushwork, confidence, portraits | *Madame X*, *Carnation Lily* |
-| **Joaquín Sorolla** | Outdoor light, beach scenes, water | *Walk on the Beach*, *Boys on the Beach* |
-| **Anders Zorn** | Limited palette mastery (4 colors!), skin tones | *Midsummer Dance*, self-portraits |
-| **Vermeer** | Light, quiet composition, surface quality | *Girl with a Pearl Earring*, *The Milkmaid* |
-| **Rembrandt** | Value, chiaroscuro, self-portraits | Late self-portraits, *The Jewish Bride* |
-| **Edward Hopper** | Light and mood, architecture, loneliness | *Nighthawks*, *Morning Sun* |
-| **Lucian Freud** | Flesh, texture, unflinching observation | *Benefits Supervisor Sleeping* |
-| **Gerhard Richter** | Photorealism → abstraction, the blur | *Betty*, squeegee paintings |
-| **Wayne Thiebaud** | Color, shadow, thick paint, joy | Cake paintings, San Francisco streets |
-| **Vilhelm Hammershøi** | Silence, interiors, Danish light | *Interior in Strandgade* series |
+| Painter                 | Study for                                       | Start with                                  |
+| ----------------------- | ----------------------------------------------- | ------------------------------------------- |
+| **John Singer Sargent** | Brushwork, confidence, portraits                | _Madame X_, _Carnation Lily_                |
+| **Joaquín Sorolla**     | Outdoor light, beach scenes, water              | _Walk on the Beach_, _Boys on the Beach_    |
+| **Anders Zorn**         | Limited palette mastery (4 colors!), skin tones | _Midsummer Dance_, self-portraits           |
+| **Vermeer**             | Light, quiet composition, surface quality       | _Girl with a Pearl Earring_, _The Milkmaid_ |
+| **Rembrandt**           | Value, chiaroscuro, self-portraits              | Late self-portraits, _The Jewish Bride_     |
+| **Edward Hopper**       | Light and mood, architecture, loneliness        | _Nighthawks_, _Morning Sun_                 |
+| **Lucian Freud**        | Flesh, texture, unflinching observation         | _Benefits Supervisor Sleeping_              |
+| **Gerhard Richter**     | Photorealism → abstraction, the blur            | _Betty_, squeegee paintings                 |
+| **Wayne Thiebaud**      | Color, shadow, thick paint, joy                 | Cake paintings, San Francisco streets       |
+| **Vilhelm Hammershøi**  | Silence, interiors, Danish light                | _Interior in Strandgade_ series             |
 
 ---
 

@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Prompt Template #34: LookIntoBitcoin (Cycle Positioning Charts)
 
 > **Priority**: Tier 4 (Advanced/Refinement)  
@@ -77,5 +78,5 @@ Structure your final response exactly as follows—no extra sections unless data
 
 ---
 
-*Source: Grok Expert Template #34*  
-*Added: 2026-01-XX*
+_Source: Grok Expert Template #34_  
+_Added: 2026-01-XX_

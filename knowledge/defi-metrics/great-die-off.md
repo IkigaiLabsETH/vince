@@ -4,73 +4,64 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180268594.Great Die Off
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: defi-metrics
 **Word Count**: 711
 **Tags**: #bitcoin #eth #sol #nft #options #trading #substack
+
 ---
-We need to say it plainly, because nobody else will: the crypto casino is closed for good. The music has stopped. The NFT floors are dust. The memecoin launchpads are ghost towns guarded by sniper bots. The “just wait till retail” crowd has gone quiet, because they finally noticed retail never showed up—and never will. 
+
+We need to say it plainly, because nobody else will: the crypto casino is closed for good. The music has stopped. The NFT floors are dust. The memecoin launchpads are ghost towns guarded by sniper bots. The “just wait till retail” crowd has gone quiet, because they finally noticed retail never showed up—and never will.
 
 This isn’t another winter. Winters end. This is a die-off. And it’s healthy.
 
 ## Context
 
-I. The Purge in Numbers**
+I. The Purge in Numbers\*\*
 
 2021–2022 felt like a gold rush because it was. Then the earth caved in.
 
-- 
-NFT trading volume: $57 billion (2022) → $13.7 billion (2024) → $8.8 billion projected (2025). Five straight quarters of decline.
+- NFT trading volume: $57 billion (2022) → $13.7 billion (2024) → $8.8 billion projected (2025). Five straight quarters of decline.
 
 ## Main
 
-- 
-Memecoin sector: 89 % of all tokens launched in 2024–2025 trade under $1,000 market cap. Average lifespan before liquidity drain: 1.3 hours.
+- Memecoin sector: 89 % of all tokens launched in 2024–2025 trade under $1,000 market cap. Average lifespan before liquidity drain: 1.3 hours.
 
-- 
-Crypto VC in speculative “ecosystem” projects: from ~40 % of deals in 2021 to under 16 % in 2025. The rest is going to infrastructure and real-world assets (RWAs).
+- Crypto VC in speculative “ecosystem” projects: from ~40 % of deals in 2021 to under 16 % in 2025. The rest is going to infrastructure and real-world assets (RWAs).
 
-- 
-Daily active on-chain wallets that aren’t bots: still hovering around 1 million globally—basically unchanged since 2021 despite Bitcoin tripling.
+- Daily active on-chain wallets that aren’t bots: still hovering around 1 million globally—basically unchanged since 2021 despite Bitcoin tripling.
 
 Translation: the tourists got wiped out. Twice. Most are never coming back.
 
 **II. The Three Things Everyone Can Now See**
 
-- 
-Institutions are the only marginal buyer left**Spot Bitcoin ETFs alone crossed $175 billion AUM in 2025. BlackRock’s tokenized treasury fund (BUIDL) is at $2.9 billion and growing 20–30 % month-over-month. State pension funds in Wisconsin and Michigan own Bitcoin. Stablecoins settled $46 trillion in volume last year—more than Visa. This isn’t “adoption theater.” It’s the new bid.
+- Institutions are the only marginal buyer left\*\*Spot Bitcoin ETFs alone crossed $175 billion AUM in 2025. BlackRock’s tokenized treasury fund (BUIDL) is at $2.9 billion and growing 20–30 % month-over-month. State pension funds in Wisconsin and Michigan own Bitcoin. Stablecoins settled $46 trillion in volume last year—more than Visa. This isn’t “adoption theater.” It’s the new bid.
 
-- 
-The degen cohort is collapsing
-The 2022–2024 generation got absolutely torched across ICOs, yield farms, JPEGs, and Pump.fun rugs. Survivors are a tiny fraction, and they no longer trade for sport—they trade because they actually believe in permissionless money. Everyone else rage-quit or went back to salarycels at FAANG.
+- The degen cohort is collapsing
+  The 2022–2024 generation got absolutely torched across ICOs, yield farms, JPEGs, and Pump.fun rugs. Survivors are a tiny fraction, and they no longer trade for sport—they trade because they actually believe in permissionless money. Everyone else rage-quit or went back to salarycels at FAANG.
 
-- 
-Retail is structurally barred from ever coming on-chain
-Self-custody above $5k is still a nightmare. On-ramps are either expensive and slow (banks) or sketchy and fast (random bridges). Normies are getting their crypto upside anyway—through spot ETFs, future 401(k) options, and eventually tokenized funds on Robinhood. They have zero reason to touch a wallet, and every reason not to.
+- Retail is structurally barred from ever coming on-chain
+  Self-custody above $5k is still a nightmare. On-ramps are either expensive and slow (banks) or sketchy and fast (random bridges). Normies are getting their crypto upside anyway—through spot ETFs, future 401(k) options, and eventually tokenized funds on Robinhood. They have zero reason to touch a wallet, and every reason not to.
 
-III. The New Equilibrium Nobody Wants to Admit**
+III. The New Equilibrium Nobody Wants to Admit\*\*
 
 Crypto is going to shrink into a weird, intense subculture of maybe 500,000–1 million people worldwide. Smaller than competitive Magic: The Gathering. Smaller than hardcore CrossFit. Smaller than people who still develop film photography. And that tiny village is about to become absurdly valuable.
 
 Because institutions still need counterparties who actually understand the tech. They need liquidity providers for their private chains, stakers for their L2s, early testers for their tokenized credit products. The village becomes the R&D lab for trillion-dollar finance. The plays that will print in 2026–2030 are boring on a livestream but massive on a spreadsheet:
 
-- 
-Staking derivatives and restaking loops (8–15 % yields, fully KYC’d)
+- Staking derivatives and restaking loops (8–15 % yields, fully KYC’d)
 
-- 
-Tokenized private credit and treasuries (already $33 billion market cap and compounding)
+- Tokenized private credit and treasuries (already $33 billion market cap and compounding)
 
-- 
-Running nodes or sequencers for enterprise-grade L2s and validiums
+- Running nodes or sequencers for enterprise-grade L2s and validiums
 
-- 
-Stablecoin basis trades that institutions can’t touch directly because of compliance
+- Stablecoin basis trades that institutions can’t touch directly because of compliance
 
-> 
-The paradox is perfect: the smaller and more “wholesome” the public-chain subculture becomes, the more asymmetric the opportunities for the people who stay.
+> The paradox is perfect: the smaller and more “wholesome” the public-chain subculture becomes, the more asymmetric the opportunities for the people who stay.
 
 IV. The Bittersweet Happy Ending
 

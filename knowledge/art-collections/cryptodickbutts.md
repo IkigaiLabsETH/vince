@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # CryptoDickbutts
 
 OpenSea Slug: `cryptodickbutts`
@@ -29,7 +30,7 @@ You’re buying a joke with a market. There’s no utility, no roadmap. Conditio
 
 ## Personal Take
 
-CryptoDickbutts is what it is. It’s not overrated—it never pretended to be high art. It’s underrated as *culture*. Love it or hate it, it’s part of the NFT story. I wouldn’t put it in a “greatest art collections” list, but I’d put it in a “you need to know this exists” list. Collect at your own risk and sense of humour.
+CryptoDickbutts is what it is. It’s not overrated—it never pretended to be high art. It’s underrated as _culture_. Love it or hate it, it’s part of the NFT story. I wouldn’t put it in a “greatest art collections” list, but I’d put it in a “you need to know this exists” list. Collect at your own risk and sense of humour.
 
 ---
 

@@ -3,6 +3,7 @@ tags: [mev, trading, ethereum]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Cross-Chain MEV
 
 ## The Multi-Chain Reality
@@ -59,4 +60,4 @@ Intent systems don't eliminate MEV — they redirect it. Solvers still extract v
 
 Cross-chain MEV will grow as activity fragments further. The question isn't whether it exists — it's who captures it and how it's distributed. Shared sequencers, SUAVE, and intent systems each offer partial solutions. The likely outcome is a layered market: intent systems for user-facing flow, shared sequencers for rollup composability, and SUAVE-like infrastructure for the global MEV auction.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

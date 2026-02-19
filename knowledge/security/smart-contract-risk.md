@@ -3,6 +3,7 @@ tags: [security, risk, safety]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 ### Common Vulnerability Patterns
 
 **Reentrancy:** Attacker's contract calls back into the vulnerable contract before the first execution completes. Classic defense: checks-effects-interactions pattern, reentrancy guards (`nonReentrant` modifier). Modern variant: read-only reentrancy via view functions that read stale state during cross-contract callbacks.
@@ -17,4 +18,4 @@ last_reviewed: 2026-02-15
 
 Insurance doesn't eliminate risk; it transfers it. Cover limits are often below total TVL, meaning a catastrophic exploit may not be fully reimbursable. Use insurance as one layer in a broader risk management stack: position sizing, diversification across protocols, and personal due diligence remain primary defenses.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

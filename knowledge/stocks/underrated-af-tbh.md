@@ -4,15 +4,18 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180315367.Underrated Af Tbh
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: stocks
 **Word Count**: 1,364
 **Tags**: #bitcoin #eth #sol #perps #trading #investing #substack
+
 ---
-Imagine a tiny 11-person startup that, in a single year, went from “Who?” to generating more than a billion dollars of real, audited cash flow — more annual profit than Delta Airlines, Airbnb, or DoorDash made at similar stages in their lives. Now imagine that same company is still valued cheaper than almost every public fintech or brokerage you already know — like Robinhood, Coinbase, or Charles Schwab. That company exists today. Its name is Hyperliquid, and almost nobody outside of crypto has heard of it yet. 
+
+Imagine a tiny 11-person startup that, in a single year, went from “Who?” to generating more than a billion dollars of real, audited cash flow — more annual profit than Delta Airlines, Airbnb, or DoorDash made at similar stages in their lives. Now imagine that same company is still valued cheaper than almost every public fintech or brokerage you already know — like Robinhood, Coinbase, or Charles Schwab. That company exists today. Its name is Hyperliquid, and almost nobody outside of crypto has heard of it yet.
 
 That’s about to change. First, the simple numbers everyone can understand.
 
@@ -20,16 +23,13 @@ That’s about to change. First, the simple numbers everyone can understand.
 
 In 2025, Hyperliquid will make $1 billion in revenue with 11 employees:
 
-- 
-Robinhood: $4.3 billion revenue, 7,600 employees
+- Robinhood: $4.3 billion revenue, 7,600 employees
 
-- 
-Coinbase: $7.2 billion revenue, 3,400 employees
+- Coinbase: $7.2 billion revenue, 3,400 employees
 
 ## Main
 
-- 
-Charles Schwab: $19 billion revenue, 32,000 employees
+- Charles Schwab: $19 billion revenue, 32,000 employees
 
 Hyperliquid makes about the same money per employee as Nvidia — the most profitable large company on Earth — except it’s growing five times faster than Nvidia did at the same age. Yet the stock market (and the crypto market) currently values Hyperliquid at roughly 11 times its earnings.
 
@@ -56,17 +56,15 @@ Why haven’t you heard of it?
 
 Two reasons most normal people miss:
 
-- 
-You can’t (yet) buy or sell on Hyperliquid with dollars from your Chase account. You have to move money through crypto first. That single extra step keeps 99 % of retail investors away — for now.
+- You can’t (yet) buy or sell on Hyperliquid with dollars from your Chase account. You have to move money through crypto first. That single extra step keeps 99 % of retail investors away — for now.
 
-- 
-The “stock” of Hyperliquid is a cryptocurrency called HYPE. Most traditional investors and financial media still treat anything ending in “coin” or “token” as gambling, not investing.
+- The “stock” of Hyperliquid is a cryptocurrency called HYPE. Most traditional investors and financial media still treat anything ending in “coin” or “token” as gambling, not investing.
 
 Both of those barriers are crumbling fast.
 
 Robinhood itself listed HYPE for trading in October 2025. Coinbase is widely expected to follow in 2026. BlackRock, Fidelity, and several ETF issuers have already filed to create investment products that hold HYPE. Once your uncle can buy it in his IRA with one click, the “crypto” smell goes away overnight.
 
-The closest historical analogy**
+The closest historical analogy\*\*
 
 Think back to 2016–2017. A company named Square (now Block) was processing billions in payments for small businesses using phones and little white card readers. Wall Street valued it at 4–6 times sales because “it’s just a payments company in a crowded market.”
 
@@ -88,26 +86,22 @@ In other words, the company is engineered to shrink its own share count even whi
 
 You don’t need to understand blockchain or decentralized finance to see the opportunity. Hyperliquid is a high-speed global brokerage that:
 
-- 
-makes $1 billion+ a year,
+- makes $1 billion+ a year,
 
-- 
-grows revenue 20–40 % per month,
+- grows revenue 20–40 % per month,
 
-- 
-has almost no employees,
+- has almost no employees,
 
-- 
-and spends nearly every dollar it earns buying back its own stock.
+- and spends nearly every dollar it earns buying back its own stock.
 
-**
+\*\*
 It currently trades for roughly one-fourth the valuation multiple of Robinhood and one-third of Coinbase — companies growing half as fast with ten times the overhead. When Robinhood went public in 2021, it was hailed as the future of retail investing and immediately valued at 20 times sales. Hyperliquid is already bigger than Robinhood was on IPO day, yet still valued like a slow-growth regional bank. That won’t last. Whether you buy the token today, wait for the ETF, or just watch from the sidelines, one thing is almost certain: in five years, your friends who work in finance will be kicking themselves for missing “the Robinhood of the 2020s” while it was still cheap.
 
 Sometimes the best investments are the ones that feel a little weird at first.
 Hyperliquid feels weird today.
 It won’t tomorrow.
 
-The Hyperliquid Bear Case, Stripped Bare**
+The Hyperliquid Bear Case, Stripped Bare\*\*
 
 Open interest is still down 50%+ from October peaks with only partial recovery. Daily fees often sit below $1M versus summer highs. Aster and Lighter now lead 30-day volume with near-zero fees and deeper books. November saw 609K $HYPE sold OTC from team wallets, and monthly unlocks of $400M–$500M continue through 2026 with patchy transparency. TWAP selling pressure persists, most HyperEVM launches dump instantly, DATs provide no real liquidity, and the community still has zero visibility on the remaining 43% token allocation a full year after launch. The $MON ticker flip to Monad for $489K was an own goal. These are real cracks, not just memes.
 
@@ -119,10 +113,10 @@ Only 23% of the latest unlock was sold; 77% was restaked or held. Whales bought 
 
 Unlock pain is priced in, competition is real, and HyperEVM needs work. But a lean 11-person team printing $1B annualized revenue with zero VC baggage at an 11x earnings multiple (half of Coinbase while growing 5× faster) in a $2 quadrillion derivatives market is not a regional bank. It is the clearest “weird now, obvious later” trade in crypto right now. If you skipped Robinhood at IPO (20x sales, half the size), don’t sleep on its on-chain heir.
 
-$HYPE trades like a regional bank today. 
+$HYPE trades like a regional bank today.
 
 ## Conclusion
 
-Tomorrow? The Robinhood of the 2020s. 
+Tomorrow? The Robinhood of the 2020s.
 
 Weird now, obvious later. Your move.

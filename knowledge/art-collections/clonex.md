@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Clone X
 
 OpenSea Slug: `clonex`
@@ -13,7 +14,7 @@ RTFKT Studios x Takashi Murakami. Clone X launched December 2021: 20,000 3D avat
 
 ## Why It Matters
 
-Clone X bridged high fashion, art, and PFPs. Murakami’s name and the Nike acquisition made it a mainstream story. The 3D rigging and IP rights made it *useful*—avatars you could actually deploy. The collection has done hundreds of thousands of ETH in volume. It’s a reference for “fashion + NFT” and “celebrity artist + PFP.” For collectors who care about utility, design, or Murakami, Clone X is essential.
+Clone X bridged high fashion, art, and PFPs. Murakami’s name and the Nike acquisition made it a mainstream story. The 3D rigging and IP rights made it _useful_—avatars you could actually deploy. The collection has done hundreds of thousands of ETH in volume. It’s a reference for “fashion + NFT” and “celebrity artist + PFP.” For collectors who care about utility, design, or Murakami, Clone X is essential.
 
 ## The Art
 

@@ -6,7 +6,7 @@ last_reviewed: 2026-02-15
 
 # Venture Capital Knowledge Cards (Style Guide)
 
-This folder is used as **RAG knowledge** (`ragKnowledge: true`). The goal is to make each file’s *first chunk* extremely easy to retrieve and reason over.
+This folder is used as **RAG knowledge** (`ragKnowledge: true`). The goal is to make each file’s _first chunk_ extremely easy to retrieve and reason over.
 
 ## Core rule
 
@@ -58,4 +58,3 @@ If the Appendix includes numbers (valuation, revenue, market share, dates), the 
 ## Tagging
 
 Keep tags in `## Metadata` as-is. If tags are missing, add only conservative tags that are clearly implied by the Appendix.
-

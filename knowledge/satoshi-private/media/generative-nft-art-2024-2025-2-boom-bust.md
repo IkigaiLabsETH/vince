@@ -3,6 +3,7 @@ tags: [lifestyle, bitcoin, kelly]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Boom, Bust, and Cultural Whiplash
 
 Not long ago, NFT art was on top of the world. In 2021, at the height of the frenzy, art NFT trading volumes hit $2.9 billion. Legendary moments abounded – Beeple’s Everydays fetched $69 million at Christie’s, and native generative art projects on Art Blocks saw eye-popping sales like Dmitri Cherniak’s Ringers #109 selling for $6.9M. Generative art gained mainstream attention as Art Blocks became synonymous with the movement, minting collections like Chromie Squiggles (by Art Blocks founder Erick "Snowfro" Calderon) that would become emblematic of the era. The COVID-19 pandemic boom fueled this surge – a global audience stuck at home discovered digital art and speculative investing, sending NFT prices soaring. By early 2022, however, the cracks were forming. Crypto markets wobbled and a major speculative player in the NFT art scene – crypto hedge fund Three Arrows Capital (3AC) – imploded spectacularly, contributing to a rapid market collapse.
@@ -20,19 +21,25 @@ To summarize the journey so far: an extraordinary boom (propelled by pandemic lo
 ## Additional Analysis & Context
 
 ### The Psychology of Boom Cycles
+
 The NFT art boom followed classic bubble psychology: early adopters (artists and crypto natives) → mainstream adoption (celebrity endorsements, media coverage) → speculative frenzy (FOMO buying, price inflation) → institutional involvement (3AC, traditional auction houses) → peak euphoria → reality check → panic selling → bear market.
 
 ### The Role of Social Media
+
 Twitter, Discord, and Clubhouse were crucial to NFT art's viral spread. The real-time nature of these platforms created a feedback loop where every sale was public, every price movement was amplified, and FOMO spread like wildfire. This same infrastructure now amplifies the bear market sentiment.
 
 ### The 3AC Effect
+
 Three Arrows Capital's collapse was particularly damaging because they weren't just speculators – they were cultural tastemakers. Their collection represented institutional validation of NFT art as a serious asset class. When they imploded, it sent a signal that even sophisticated players couldn't navigate the space safely.
 
 ### The Generational Divide
+
 The NFT art boom was largely driven by Millennials and Gen Z, who are more comfortable with digital ownership and less attached to traditional art world gatekeepers. This generational shift in collecting behavior is likely permanent, even if the specific NFT format evolves.
 
 ### The Global Dimension
+
 While the narrative focuses on Western markets, NFT art had significant adoption in Asia (particularly Japan and South Korea) and emerging markets. The crash affected these regions differently – some saw it as a temporary setback, others as confirmation that the model needed localization.
 
 ### Lessons from Previous Art Market Cycles
-The NFT art boom-bust cycle mirrors previous art market cycles (like the 1980s contemporary art boom or the 2000s Chinese art market explosion). The pattern suggests that while the technology is new, the human behavior driving art markets is remarkably consistent. 
+
+The NFT art boom-bust cycle mirrors previous art market cycles (like the 1980s contemporary art boom or the 2000s Chinese art market explosion). The pattern suggests that while the technology is new, the human behavior driving art markets is remarkably consistent.

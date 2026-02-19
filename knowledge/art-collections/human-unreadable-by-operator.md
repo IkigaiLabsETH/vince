@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Human Unreadable
 
 OpenSea Slug: `human-unreadable-by-operator`
@@ -13,7 +14,7 @@ Operator is the artist duo Ania Catherine and Dejha Ti. They work across install
 
 ## Why It Matters
 
-Human Unreadable is rare: generative art that explicitly bridges body and chain. The choreographic layer isn’t a gimmick; it’s structural. You get an image *and* a movement score. The IRL performance for the first 100 mints made ownership tangible. Operator are serious about embodiment and privacy; this project carries that into NFTs. It expanded what “generative” can mean on Art Blocks.
+Human Unreadable is rare: generative art that explicitly bridges body and chain. The choreographic layer isn’t a gimmick; it’s structural. You get an image _and_ a movement score. The IRL performance for the first 100 mints made ownership tangible. Operator are serious about embodiment and privacy; this project carries that into NFTs. It expanded what “generative” can mean on Art Blocks.
 
 ## The Art
 

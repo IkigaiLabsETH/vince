@@ -3,6 +3,7 @@ tags: [restaking, ethereum, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Restaking Overview
 
 ## What Is Restaking?
@@ -43,4 +44,4 @@ As of early 2025, EigenLayer held ~$10-15B in TVL across native restaking and LS
 
 The restaking thesis is essentially: Ethereum's security is underutilized, and a marketplace can efficiently allocate it. Whether the incremental yield justifies the compounding risk is the central debate — explored further in [restaking-risks.md](restaking-risks.md).
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

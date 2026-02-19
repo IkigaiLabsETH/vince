@@ -3,6 +3,7 @@ tags: [lifestyle]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Southwest France - Extended Fine Dining
 
 > **Region**: Biarritz, Landes, Bordeaux Area
@@ -10,7 +11,6 @@ last_reviewed: 2026-02-17
 > **Distance Reference**: 20-150 km from Southwest France base
 
 ---
-
 
 ## Ha(a)ïtza
 
@@ -23,8 +23,9 @@ last_reviewed: 2026-02-17
 - **Region**: Pyla-sur-Mer, Landes
 
 **Details**:
-- Philippe Starck-designed 5* hotel
-- Skiff Club restaurant (2* Michelin)
+
+- Philippe Starck-designed 5\* hotel
+- Skiff Club restaurant (2\* Michelin)
 - Pool, ocean views
 - Modern luxury meets Atlantic coast
 
@@ -41,6 +42,7 @@ last_reviewed: 2026-02-17
 - **Region**: Landes interior
 
 **Details**:
+
 - Converted mill setting
 - Regional cuisine
 - Countryside location near Dax
@@ -60,8 +62,9 @@ last_reviewed: 2026-02-17
 - **Phone**: +33 5 58 47 70 25
 
 **Details**:
-- 4* Relais & Châteaux
-- 2* Michelin (54 years starred!)
+
+- 4\* Relais & Châteaux
+- 2\* Michelin (54 years starred!)
 - 7-hectare park
 - Gascon cuisine legend
 - Traditional excellence
@@ -80,6 +83,7 @@ last_reviewed: 2026-02-17
 - **Stars**: 3 Michelin Stars
 
 **Details**:
+
 - Thermal spa destination
 - 3-star Michelin (held since 1977)
 - Inventor of "cuisine minceur" (slimming cuisine)
@@ -102,10 +106,11 @@ last_reviewed: 2026-02-17
 - **Phone**: +33 5 59 47 58 30
 
 **Details**:
+
 - **Xabi Ibarboure** (savory) - Maître Cuisinier de France
 - **Patrice Ibarboure** (pastry) - MOF Pâtissiers Confiseurs
 - 3rd generation family
-- 4* hotel: 13 rooms, 2-hectare park, heated pool, Nordic cabin
+- 4\* hotel: 13 rooms, 2-hectare park, heated pool, Nordic cabin
 - Philosophy: Ecologically responsible, local producers, sea-mountain cuisine
 - Closure: January 4-30, 2026 (reopens January 31)
 
@@ -125,11 +130,12 @@ last_reviewed: 2026-02-17
 - **Phone**: +33 5 59 26 51 34
 
 **Details**:
+
 - Old Relais de poste transformed
 - Innovative, modern, exciting
 - Fresh, seasonal, local producers
 - Basque mountain views from terrace
-- 4* hotel: 14 rooms + suites, contemporary Basque style
+- 4\* hotel: 14 rooms + suites, contemporary Basque style
 - Also: Briket' Côté Bistrot - gourmet bistro by same team
 
 **Best For**: Authentic family gastronomy, village charm, 10 min to beaches
@@ -145,6 +151,7 @@ last_reviewed: 2026-02-17
 - **Region**: Ainhoa, Basque Country
 
 **Details**:
+
 - Traditional Basque village setting
 - Regional cuisine
 - Historic village location
@@ -162,6 +169,7 @@ last_reviewed: 2026-02-17
 - **Region**: Saint-Jean-de-Luz, Basque Coast
 
 **Details**:
+
 - Coastal Basque town
 - Local seafood focus
 - Traditional techniques
@@ -179,6 +187,7 @@ last_reviewed: 2026-02-17
 - **Region**: San Sebastian
 
 **Details**:
+
 - San Sebastian location
 - Modern Basque cuisine
 - Urban setting
@@ -196,6 +205,7 @@ last_reviewed: 2026-02-17
 - **Region**: Biarritz
 
 **Details**:
+
 - Biarritz location
 - Hotel restaurant
 - Local specialties
@@ -206,18 +216,18 @@ last_reviewed: 2026-02-17
 
 ## Quick Reference
 
-| Restaurant | Stars | Location | Distance | Specialty |
-|------------|-------|----------|----------|-----------|
-| Les Prés d'Eugénie | 3* | Eugénie-les-Bains | 51 km | Michel Guérard, thermal |
-| Ha(a)ïtza Skiff Club | 2* | Pyla-sur-Mer | 77 km | Starck design, ocean |
-| Relais de la Poste | 2* | Magescq | 30 km | Gascon legend, 54 years |
-| Auberge Ostape | 1* | Bidarray | 81 km | Fire cooking, nature |
-| Les Frères Ibarboure | 1* | Bidart | 80 km | MOF pastry, forest |
-| Briketenia | 1* | Guéthary | 80 km | Family 4-hands |
-| Moulin de Poustagnacq | - | Saint-Paul-lès-Dax | 26 km | Countryside mill |
-| Ithurria | - | Ainhoa | 84 km | Traditional village |
-| Le Kaiku | - | Saint-Jean-de-Luz | 86 km | Coastal seafood |
-| Villa Sorro | - | San Sebastian | 109 km | Modern Basque |
-| Hôtel-Restaurant Berria | - | Biarritz | 69 km | Hotel dining |
+| Restaurant              | Stars | Location           | Distance | Specialty               |
+| ----------------------- | ----- | ------------------ | -------- | ----------------------- |
+| Les Prés d'Eugénie      | 3\*   | Eugénie-les-Bains  | 51 km    | Michel Guérard, thermal |
+| Ha(a)ïtza Skiff Club    | 2\*   | Pyla-sur-Mer       | 77 km    | Starck design, ocean    |
+| Relais de la Poste      | 2\*   | Magescq            | 30 km    | Gascon legend, 54 years |
+| Auberge Ostape          | 1\*   | Bidarray           | 81 km    | Fire cooking, nature    |
+| Les Frères Ibarboure    | 1\*   | Bidart             | 80 km    | MOF pastry, forest      |
+| Briketenia              | 1\*   | Guéthary           | 80 km    | Family 4-hands          |
+| Moulin de Poustagnacq   | -     | Saint-Paul-lès-Dax | 26 km    | Countryside mill        |
+| Ithurria                | -     | Ainhoa             | 84 km    | Traditional village     |
+| Le Kaiku                | -     | Saint-Jean-de-Luz  | 86 km    | Coastal seafood         |
+| Villa Sorro             | -     | San Sebastian      | 109 km   | Modern Basque           |
+| Hôtel-Restaurant Berria | -     | Biarritz           | 69 km    | Hotel dining            |
 
 ### Other (Nouvelle-Aquitaine)

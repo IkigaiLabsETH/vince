@@ -3,6 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Solana Token Extensions (Token-2022)
 
 ## Analysis
@@ -19,7 +20,7 @@ Projects like Maple Finance and Ondo have explored Solana issuance partly becaus
 
 ### Confidential Transfers: Privacy Meets Compliance
 
-Using ElGamal encryption and zero-knowledge proofs, confidential transfers hide balances and amounts while keeping the transaction graph visible. This is a deliberate design choice: regulators can still see *who* transacts with *whom*, but not *how much*. It threads the needle between financial privacy and AML requirements — a balance that fully private chains like Zcash never achieved from a regulatory acceptance standpoint.
+Using ElGamal encryption and zero-knowledge proofs, confidential transfers hide balances and amounts while keeping the transaction graph visible. This is a deliberate design choice: regulators can still see _who_ transacts with _whom_, but not _how much_. It threads the needle between financial privacy and AML requirements — a balance that fully private chains like Zcash never achieved from a regulatory acceptance standpoint.
 
 ### Adoption Bottlenecks
 
@@ -33,4 +34,4 @@ Phantom and Solflare support basic Token-2022, but advanced extensions like conf
 
 Token-2022 is Solana's strongest argument for institutional adoption. If the infrastructure gap closes, Solana becomes the default rail for compliant on-chain securities — not because of speed alone, but because the compliance primitives are baked into the validator set. The competitive question: can Ethereum's ERC-3643 and similar standards match this with smart contract patterns, or does native runtime enforcement win?
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

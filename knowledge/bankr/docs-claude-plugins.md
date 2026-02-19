@@ -3,6 +3,7 @@ tags: [bankr, trading, protocol]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Bankr Claude Plugins — bankr-x402-sdk-dev (Ingested)
 
 Source: https://docs.bankr.bot/claude-plugins/bankr-x402-sdk-dev
@@ -55,14 +56,14 @@ claude plugin install bankr-x402-sdk-dev
 
 ## SDK features (by chain)
 
-| Feature | Supported chains |
-|--------|-------------------|
-| Prices & charts | All |
-| Token swaps | EVM chains |
-| Cross-chain bridges | EVM chains |
-| Leveraged trading | Base (Avantis) |
-| Portfolio tracking | All |
-| NFT operations | EVM chains |
+| Feature             | Supported chains |
+| ------------------- | ---------------- |
+| Prices & charts     | All              |
+| Token swaps         | EVM chains       |
+| Cross-chain bridges | EVM chains       |
+| Leveraged trading   | Base (Avantis)   |
+| Portfolio tracking  | All              |
+| NFT operations      | EVM chains       |
 
 ## x402 micropayments
 
@@ -75,7 +76,7 @@ The SDK uses **x402 micropayments** ($0.01 USDC per request on Base). Your walle
 ## Example: portfolio dashboard
 
 ```ts
-import { BankrClient } from '@bankr/sdk';
+import { BankrClient } from "@bankr/sdk";
 
 const client = new BankrClient({
   privateKey: process.env.PRIVATE_KEY as `0x${string}`,
@@ -83,7 +84,7 @@ const client = new BankrClient({
 
 async function getPortfolio() {
   const result = await client.promptAndWait({
-    prompt: 'what are my token balances on all chains?',
+    prompt: "what are my token balances on all chains?",
   });
   return result.response;
 }
@@ -130,7 +131,6 @@ For full feature access, use the Agent API or the bankr-agent plugin.
 - [bankr-x402-sdk-dev](https://docs.bankr.bot/claude-plugins/bankr-x402-sdk-dev)
 - [@bankr/sdk docs](https://docs.bankr.bot/sdk/installation)
 - [Agent API](https://docs.bankr.bot/agent-api/overview)
-
 
 ## Related
 

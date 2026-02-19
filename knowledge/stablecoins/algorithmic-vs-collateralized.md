@@ -3,6 +3,7 @@ tags: [stablecoins, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 ## Taxonomy of Stablecoins
 
 ### Category 1: Fiat-Backed (Fully Reserved)
@@ -21,6 +22,7 @@ last_reviewed: 2026-02-15
 **Mechanism:** Users deposit crypto collateral (ETH, stETH, etc.) worth >100% of stablecoins minted. Liquidation mechanisms protect solvency.
 
 **DAI/USDS (MakerDAO/Sky):**
+
 - Originally pure ETH-backed, now ~60%+ backed by RWAs (T-bills) and USDC
 - Collateral ratio: 150%+ for crypto vaults
 - DSR distributes protocol revenue to holders
@@ -28,12 +30,14 @@ last_reviewed: 2026-02-15
 - Market cap: ~$5-6B range
 
 **LUSD (Liquity v1):**
+
 - ETH-only collateral, 110% minimum ratio
 - Fully immutable smart contracts — no governance, no upgrades
 - Most decentralized stablecoin but limited scalability
 - Liquity v2 (BOLD) introduces new mechanics
 
 **crvUSD (Curve):**
+
 - Uses LLAMMA (Lending-Liquidating AMM Algorithm) — soft liquidation mechanism
 - Collateral gradually converts to stablecoin as price drops (no hard liquidation cliff)
 - Innovative but complex; requires deep understanding of band mechanics
@@ -49,6 +53,7 @@ last_reviewed: 2026-02-15
 
 **Why they fail:**
 The fundamental problem is reflexivity. When confidence drops:
+
 1. Stablecoin holders sell → price drops below peg
 2. Algorithm mints companion token to buy back stablecoin
 3. Companion token supply inflates → its price drops
@@ -64,6 +69,7 @@ The fundamental problem is reflexivity. When confidence drops:
 ### Category 4: Hybrid Models
 
 **Ethena USDe:**
+
 - Delta-neutral: holds stETH spot + short ETH perps
 - Not truly "collateralized" in traditional sense — backed by a trading position
 - Yield from staking rewards + funding rates
@@ -71,18 +77,21 @@ The fundamental problem is reflexivity. When confidence drops:
 - Market cap grew rapidly to $5B+ (2024-2025)
 
 **FRAX:**
+
 - Started as fractional-algorithmic (partially collateralized)
 - Evolved to fully collateralized after UST collapse — market demanded it
 - Now focused on frxETH and DeFi infrastructure
 - Trajectory proves market won't accept undercollateralization
 
 **GHO (Aave):**
+
 - Minted by Aave borrowers using their Aave collateral
 - Interest rate set by governance
 - Leverages Aave's existing overcollateralized lending infrastructure
 - Slow growth, struggles with peg maintenance
 
 **Usual USD0:**
+
 - RWA-backed (T-bills), yield distributed via USUAL token
 - Attempts to combine fiat-backing stability with DeFi-native distribution
 
@@ -98,4 +107,5 @@ The market has spoken clearly:
 **The winning formula emerging:** Real collateral (T-bills/crypto) + transparent on-chain mechanics + sustainable yield pass-through. Pure algorithms are dead; the debate is now about what KIND of collateral and how to distribute yield.
 
 ---
-*Last updated: 2026-02-15*
+
+_Last updated: 2026-02-15_

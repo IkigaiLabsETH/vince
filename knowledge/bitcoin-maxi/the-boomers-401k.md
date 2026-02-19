@@ -4,18 +4,20 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181327605.The Boomers 401k
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 931
 **Tags**: #bitcoin #btc #eth #portfolio #substack
+
 ---
 
 I’m staring at the same executive order PDF I’ve had open for four days. My phone just buzzed with a push alert: “Trump EO to let 401(k)s buy crypto.” I laughed so hard I almost spilled coffee on the cat. The cat didn’t move. He’s seen this movie before.
 
-Look, I’ve been writing about this shit since 2009. Back when you could buy a pizza with 10,000 BTC and the only people who cared were libertarians arguing on Bitcointalk about whether Satoshi was actually a time traveler. I filed stories from my apartment in Bushwick while the neighbors screamed about rent, and every editor after editor told me “nobody gives a fuck about magic internet money, kid.” 
+Look, I’ve been writing about this shit since 2009. Back when you could buy a pizza with 10,000 BTC and the only people who cared were libertarians arguing on Bitcointalk about whether Satoshi was actually a time traveler. I filed stories from my apartment in Bushwick while the neighbors screamed about rent, and every editor after editor told me “nobody gives a fuck about magic internet money, kid.”
 
 ## Context
 

@@ -4,13 +4,15 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180387551.Chokepoint 30
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: macro-economy
 **Word Count**: 1,253
 **Tags**: #bitcoin #eth #sol #defi #fed #portfolio #substack
+
 ---
 
 They came for him in the spring with the oldest weapon in Washington: a newspaper investigation. Five New York Times reporters, five months, unlimited budget, one assignment: prove that the new White House AI & Crypto Czar was corrupt. They left with nothing except their own shredded reputation.
@@ -27,7 +29,7 @@ Prologue: The Garrote Wire
 
 ## Main
 
-March 2025. The Trump administration is sixty days old. Bitcoin trades north of $109,000. The mood in crypto circles feels like the morning after V-J Day. 
+March 2025. The Trump administration is sixty days old. Bitcoin trades north of $109,000. The mood in crypto circles feels like the morning after V-J Day.
 
 Then the friction starts.
 
@@ -43,13 +45,13 @@ They never expected the Czar to fight dirty.
 
 Chapter I: The Smear That Backfired
 
-The New York Times piece was meant to be the kill shot. It would paint Sacks as the archetypal Silicon Valley grifter who finally bought his way into power: secret dinners with Nvidia’s Jensen Huang, defense contracts steered to portfolio companies, podcast sponsorships traded for Oval Office access. 
+The New York Times piece was meant to be the kill shot. It would paint Sacks as the archetypal Silicon Valley grifter who finally bought his way into power: secret dinners with Nvidia’s Jensen Huang, defense contracts steered to portfolio companies, podcast sponsorships traded for Oval Office access.
 
 The full villain arc.
 
 There was only one problem. None of it happened.
 
-Sacks spent twenty-five years in the PayPal Mafia perfecting a specific kind of paranoia: document everything, trust no one, assume the knives are already out.**When the Times reporters came knocking in June, he didn’t lawyer up and hide. He fed them. Every email, every ethics letter, every divestment confirmation, every calendar entry. Every time they returned with a new accusation, he buried them in more paper until the story suffocated under its own contradictions.
+Sacks spent twenty-five years in the PayPal Mafia perfecting a specific kind of paranoia: document everything, trust no one, assume the knives are already out.\*\*When the Times reporters came knocking in June, he didn’t lawyer up and hide. He fed them. Every email, every ethics letter, every divestment confirmation, every calendar entry. Every time they returned with a new accusation, he buried them in more paper until the story suffocated under its own contradictions.
 
 By November the reporters had burned five months and produced exactly zero evidence of wrongdoing. The piece that finally ran was a 2,400-word shrug, long on insinuation, short on facts, dead on arrival.
 
@@ -61,7 +63,7 @@ Within 48 hours the thread had 42 million views. The Clare Locke letter was down
 
 The message was crystalline: attack me in legacy media and I will autopsy you in public, in real time, with receipts attached.
 
-The hoax didn’t just fail. 
+The hoax didn’t just fail.
 
 It became the origin myth of the counteroffensive.
 
@@ -78,7 +80,7 @@ March: Joint resolution under the Congressional Review Act to repeal the IRS DeF
 
 Every rollback is framed the same way: national security, economic competitiveness, and a direct rebuke to the banks that spent years lobbying for the very rules now being torched.
 
-Chapter III: The Bitcoin Fortress**
+Chapter III: The Bitcoin Fortress\*\*
 
 Sacks saved the best for last.
 

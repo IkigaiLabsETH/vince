@@ -4,7 +4,6 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 On January 3, 2026, the world witnessed a dramatic escalation in U.S. foreign policy toward Venezuela. Following overnight military strikes on Caracas and other sites, U.S. forces captured Venezuelan President Nicolás Maduro and his wife, effectively ending the long-standing authoritarian regime. In subsequent statements, President Donald Trump announced that the United States would temporarily “run” the country during a transition period, with a particular emphasis on revitalizing its oil industry through heavy involvement of American companies. Trump described the operation as a success, noting that U.S. firms would invest billions to repair decayed infrastructure and ramp up production from the world’s largest proven crude oil reserves.
 
 This development has sparked intense discussion, exemplified by a widely shared analysis calculating the immense value of Venezuela’s oil wealth now under effective U.S. influence. Venezuela holds approximately 303 billion barrels of proven reserves—about 17% of the global total, surpassing even Saudi Arabia. At current crude oil prices around $57 per barrel (WTI futures trading near this level as markets closed for the weekend), the raw valuation of these reserves exceeds $17.3 trillion. Even at a discounted rate of half the market price, the figure stands at roughly $8.7 trillion—dwarfing the annual GDP of Japan (around $4 trillion) and approaching the combined economic output of most nations outside the U.S. and China.

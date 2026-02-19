@@ -3,6 +3,7 @@ tags: [regulation, compliance, legal]
 agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # US Regulatory Landscape 2026
 
 ## The Current Landscape
@@ -21,4 +22,4 @@ last_reviewed: 2026-02-15
 
 **What to watch**: White House-brokered compromise deadline (end of Feb 2026), Senate Banking Committee markup scheduling, and whether SEC Project Crypto rules can provide interim clarity while legislation develops.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

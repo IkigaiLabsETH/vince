@@ -7,6 +7,7 @@ Multi-agent coordination, standup system, team architecture
 ## Subdirectories
 
 - **MEMORY/** (3 files)
+
 ## Contents
 
 - AGENTS.md
@@ -17,4 +18,3 @@ Multi-agent coordination, standup system, team architecture
 - THREE-CURVES.md
 - TOOLS.md
 - USER.md
-

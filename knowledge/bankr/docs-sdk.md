@@ -3,6 +3,7 @@ tags: [bankr, trading, protocol]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Bankr @bankr/sdk — Ingested Docs (Advanced)
 
 Sources: [Installation](https://docs.bankr.bot/sdk/installation), [Client Setup](https://docs.bankr.bot/sdk/client-setup), [Prompt and Poll](https://docs.bankr.bot/sdk/prompt-and-poll), [Examples](https://docs.bankr.bot/sdk/examples)
@@ -50,21 +51,21 @@ Dependencies: `viem`, `x402-fetch` (included automatically).
 ### Basic
 
 ```ts
-import { BankrClient } from '@bankr/sdk';
+import { BankrClient } from "@bankr/sdk";
 
 const client = new BankrClient({
-  privateKey: '0xYourPrivateKey',
+  privateKey: "0xYourPrivateKey",
 });
 ```
 
 ### Configuration Options
 
-| Option | Required | Description |
-|--------|----------|-------------|
-| **privateKey** | Yes | Wallet private key (0x-prefixed hex). Used for signing x402 payments and authenticating job requests. Wallet address is derived automatically. |
-| **baseUrl** | No | API endpoint. Recommend `https://api.bankr.bot` (production). |
-| **timeout** | No | Request timeout in ms. Default: 600000 (10 min). |
-| **walletAddress** | No | Override context wallet for operations. Default: address derived from private key. Use when payment wallet differs from trading wallet, or when building a service that operates on behalf of users. |
+| Option            | Required | Description                                                                                                                                                                                          |
+| ----------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **privateKey**    | Yes      | Wallet private key (0x-prefixed hex). Used for signing x402 payments and authenticating job requests. Wallet address is derived automatically.                                                       |
+| **baseUrl**       | No       | API endpoint. Recommend `https://api.bankr.bot` (production).                                                                                                                                        |
+| **timeout**       | No       | Request timeout in ms. Default: 600000 (10 min).                                                                                                                                                     |
+| **walletAddress** | No       | Override context wallet for operations. Default: address derived from private key. Use when payment wallet differs from trading wallet, or when building a service that operates on behalf of users. |
 
 ### Getting the Wallet Address
 
@@ -96,7 +97,7 @@ Sends a prompt and waits for completion. Simplest usage.
 
 ```ts
 const result = await client.promptAndWait({
-  prompt: 'what is the price of ETH?',
+  prompt: "what is the price of ETH?",
 });
 console.log(result.response);
 ```
@@ -172,7 +173,6 @@ The SDK is fully typed. Import as needed: `BankrClient`, `BankrClientConfig`, `P
 - [Client Setup](https://docs.bankr.bot/sdk/client-setup)
 - [Prompt and Poll](https://docs.bankr.bot/sdk/prompt-and-poll)
 - [Examples](https://docs.bankr.bot/sdk/examples)
-
 
 ## Related
 

@@ -12,31 +12,31 @@ When to recommend what. Source: experience-prioritization-framework, lifestyle-r
 
 ## Best day for what
 
-| Day | Best for | Avoid |
-|-----|----------|-------|
-| **Monday** | Recovery, quiet restaurants (many closed — check schedule), museums, home cooking, yoga | Heavy dining out (limited openings) |
-| **Tuesday** | Gastronomic lunch, galleries, wellness, planning the week | Le Relais de la Poste / Côté Quillier (closed) |
-| **Wednesday** | **THE midweek escape day.** 5-star hotel + great dinner. Best availability, best value, best vibe. | Wasting it at home if they need a reset |
-| **Thursday** | Gastronomic lunch, lighter commitments, plan the weekend | Overcommitting — save energy for Friday |
-| **Friday** | Celebratory lunch, wellness + fine dining to close the week, social evening | Starting a new project (wind down, don't ramp up) |
-| **Saturday** | Market morning (Hossegor), active day (surf, drive, pool), hosting, Green Egg evening | Booking hotels (crowded, overpriced) |
-| **Sunday** | Restorative: yin yoga, walk, long oven cook, reading, creative session. The weekly audit. | Heavy socializing (recharge for the week) |
+| Day           | Best for                                                                                           | Avoid                                             |
+| ------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| **Monday**    | Recovery, quiet restaurants (many closed — check schedule), museums, home cooking, yoga            | Heavy dining out (limited openings)               |
+| **Tuesday**   | Gastronomic lunch, galleries, wellness, planning the week                                          | Le Relais de la Poste / Côté Quillier (closed)    |
+| **Wednesday** | **THE midweek escape day.** 5-star hotel + great dinner. Best availability, best value, best vibe. | Wasting it at home if they need a reset           |
+| **Thursday**  | Gastronomic lunch, lighter commitments, plan the weekend                                           | Overcommitting — save energy for Friday           |
+| **Friday**    | Celebratory lunch, wellness + fine dining to close the week, social evening                        | Starting a new project (wind down, don't ramp up) |
+| **Saturday**  | Market morning (Hossegor), active day (surf, drive, pool), hosting, Green Egg evening              | Booking hotels (crowded, overpriced)              |
+| **Sunday**    | Restorative: yin yoga, walk, long oven cook, reading, creative session. The weekly audit.          | Heavy socializing (recharge for the week)         |
 
 ---
 
 ## The defaults (apply unless they say otherwise)
 
-| Question | Default answer |
-|----------|---------------|
-| "Where to eat?" | **Lunch**, not dinner. Within 2h of home. From curated schedule (open today). Prefer landes-locals. |
+| Question        | Default answer                                                                                                        |
+| --------------- | --------------------------------------------------------------------------------------------------------------------- |
+| "Where to eat?" | **Lunch**, not dinner. Within 2h of home. From curated schedule (open today). Prefer landes-locals.                   |
 | "Dinner ideas?" | **Home.** Green Egg, Thermomix, oven. See home-cooking. Only suggest going out if they explicitly ask for dinner out. |
-| "Hotel?" | **Midweek** (Wed preferred). SW France palaces or relais. Not weekends (crowded, overpriced). |
-| "Wine?" | **French** (and Champagne). Default to Bordeaux or what's in the cellar. |
-| "Road trip?" | **Within 2h** of home. See within-2h-bordeaux-biarritz. Not Lisbon or Italy unless asked. |
-| "Surf?" | Check conditions first. Don't send them into 1ft mush. |
-| "Workout?" | **Pool** (Apr–Nov) or **rowing/yoga/indoor swim** (Dec–Feb). Match the season. |
-| "Rebalance?" | **One concrete move.** Pool, drive, cook, walk, midweek escape. See touch-grass-rebalance. |
-| "Tea?" | **Dammann Frères.** Morning = Darjeeling/Ceylon/Assam. Evening = caffeine-free (rooibos, herbal). |
+| "Hotel?"        | **Midweek** (Wed preferred). SW France palaces or relais. Not weekends (crowded, overpriced).                         |
+| "Wine?"         | **French** (and Champagne). Default to Bordeaux or what's in the cellar.                                              |
+| "Road trip?"    | **Within 2h** of home. See within-2h-bordeaux-biarritz. Not Lisbon or Italy unless asked.                             |
+| "Surf?"         | Check conditions first. Don't send them into 1ft mush.                                                                |
+| "Workout?"      | **Pool** (Apr–Nov) or **rowing/yoga/indoor swim** (Dec–Feb). Match the season.                                        |
+| "Rebalance?"    | **One concrete move.** Pool, drive, cook, walk, midweek escape. See touch-grass-rebalance.                            |
+| "Tea?"          | **Dammann Frères.** Morning = Darjeeling/Ceylon/Assam. Evening = caffeine-free (rooibos, herbal).                     |
 
 ---
 
@@ -65,11 +65,11 @@ When to recommend what. Source: experience-prioritization-framework, lifestyle-r
 
 ## Energy matching
 
-| Energy level | Suggest |
-|-------------|---------|
-| **High** | Surf, San Sebastián day trip, full Basque loop drive, long swim + Green Egg evening |
-| **Medium** | Gastronomic lunch, wine tasting, creative session, lake walk + oysters |
-| **Low** | Yin yoga, sauna, long oven cook, reading, Dammann tea, legs up the wall |
+| Energy level   | Suggest                                                                                      |
+| -------------- | -------------------------------------------------------------------------------------------- |
+| **High**       | Surf, San Sebastián day trip, full Basque loop drive, long swim + Green Egg evening          |
+| **Medium**     | Gastronomic lunch, wine tasting, creative session, lake walk + oysters                       |
+| **Low**        | Yin yoga, sauna, long oven cook, reading, Dammann tea, legs up the wall                      |
 | **Burned out** | Touch grass protocol. One concrete move from touch-grass-rebalance. No planning, no options. |
 
 ---

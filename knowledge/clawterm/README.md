@@ -11,4 +11,3 @@ ClawTerm terminal integration and ecosystem references
 - HIP3_AI_ASSETS.md
 - OPENCLAW_CLAWINDEX.md
 - OPENCLAW_STEIPETE.md
-

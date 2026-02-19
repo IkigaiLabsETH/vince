@@ -54,19 +54,23 @@ Once documents are loaded, ask naturally:
 ## Enhanced Knowledge Management
 
 We're using **`@elizaos/plugin-knowledge`** for improved knowledge management with:
+
 ### Core Features (Automatic)
+
 - **Content-based deduplication**: Prevents duplicate documents using content-based IDs
 - **Intelligent chunking**: Smart text splitting with 500 token chunks and 100 token overlap
 - **RAG metadata tracking**: Conversation memories enriched with knowledge usage metadata
 - **Knowledge Provider**: Automatically injects top 5 relevant fragments into conversations
 
 ### Configuration Features
+
 - **Better RAG capabilities**: Enhanced document processing and semantic search
 - **Automatic document loading**: Load documents from the `knowledge/` directory on startup
 - **Contextual embeddings**: 50% better retrieval accuracy when enabled (optional)
 - **Multiple file format support**: PDF, Markdown, text, code files, and more
 
 ### Management Features
+
 - **Web interface**: Manage documents through the web UI at `http://localhost:3000`
 - **REST API**: Programmatic document management via HTTP endpoints
 - **Document actions**: `PROCESS_KNOWLEDGE` and `SEARCH_KNOWLEDGE` actions for agent interactions
@@ -99,6 +103,7 @@ The Strategy Optimization Agent requires knowledge files to demonstrate how cont
 #### 1. `strategy-optimization/weekly-evaluation.md`
 
 Describe your team's methodology for evaluating options strategies weekly. Include:
+
 - Volatility assessment approaches
 - Market sentiment analysis methods
 - Risk-reward ratio calculation frameworks
@@ -106,25 +111,31 @@ Describe your team's methodology for evaluating options strategies weekly. Inclu
 - How to integrate multiple data sources
 
 Example structure:
+
 ```markdown
 # Weekly Options Strategy Evaluation Methodology
 
 ## Overview
+
 Our weekly evaluation process synthesizes multiple data sources to select optimal strikes...
 
 ## Volatility Assessment
+
 We assess volatility through multiple lenses:
+
 - Historical volatility from price data
 - Implied volatility from options markets
 - Protocol-level volatility from TVL/volume ratios
 
 ## Market Sentiment Analysis
+
 ...
 ```
 
 #### 2. `strategy-optimization/strike-selection.md`
 
 Document your strike selection methodology for covered calls and secured puts. Include:
+
 - Covered call strike selection criteria
 - Secured put strike selection criteria
 - OTM (Out-of-the-Money) distance calculations
@@ -134,6 +145,7 @@ Document your strike selection methodology for covered calls and secured puts. I
 #### 3. `strategy-optimization/market-structure.md`
 
 Explain how to interpret DeFiLlama metrics in context of options trading. Include:
+
 - How TVL/volume ratios indicate liquidity risk
 - Protocol fee trends as indicators of market structure changes
 - What metrics matter for options vs. general trading
@@ -142,6 +154,7 @@ Explain how to interpret DeFiLlama metrics in context of options trading. Includ
 #### 4. `strategy-optimization/hypersurface-dynamics.md`
 
 Document Hypersurface platform-specific knowledge. Include:
+
 - Options liquidity patterns by strike
 - Bid-ask spread considerations
 - Platform-specific risk factors
@@ -150,6 +163,7 @@ Document Hypersurface platform-specific knowledge. Include:
 #### 5. `strategy-optimization/risk-reward-analysis.md`
 
 Describe your risk-reward frameworks. Include:
+
 - How to calculate risk-reward ratios for covered calls
 - How to calculate risk-reward ratios for secured puts
 - Position sizing considerations
@@ -209,6 +223,7 @@ TEXT_EMBEDDING_MODEL=text-embedding-3-small
 ```
 
 **What This Does:**
+
 - Enriches each document chunk with surrounding context before embedding
 - Improves semantic search accuracy by ~50%
 - Caches document context to reduce costs by ~90% on reprocessing
@@ -249,6 +264,7 @@ MAX_OUTPUT_TOKENS=4096
 #### 1. Automatic Loading (Recommended)
 
 **Setup:**
+
 ```bash
 # .env
 LOAD_DOCS_ON_STARTUP=true
@@ -256,6 +272,7 @@ KNOWLEDGE_PATH=./knowledge
 ```
 
 **Usage:**
+
 - Place documents in `knowledge/strategy-optimization/`
 - Start agent: `bun start`
 - Documents are automatically processed on startup
@@ -263,12 +280,14 @@ KNOWLEDGE_PATH=./knowledge
 #### 2. Web Interface (Recommended for Management)
 
 **Access:**
+
 1. Start agent: `bun start`
 2. Open `http://localhost:3000` in browser
 3. Select your agent (StrategyOptimizer)
 4. Click **Knowledge tab** in right panel
 
 **Features:**
+
 - 📤 **Upload**: Drag & drop files or click to upload
 - 🔍 **Search**: Search through all documents
 - 📋 **View**: See all processed documents with metadata
@@ -276,6 +295,7 @@ KNOWLEDGE_PATH=./knowledge
 - ✅ **Status**: See processing status in real-time
 
 **Example Workflow:**
+
 ```
 1. Upload: Drag `new-strategy.pdf` into Knowledge tab
 2. Wait: Document is processed automatically
@@ -288,21 +308,24 @@ KNOWLEDGE_PATH=./knowledge
 Your agent automatically gets these capabilities:
 
 **PROCESS_KNOWLEDGE Action:**
+
 - "Remember this document: `/path/to/file.md`"
 - "Process this text: [paste content]"
 - Agent processes and stores the content for future retrieval
 
 **SEARCH_KNOWLEDGE Action:**
+
 - "Search your knowledge for strike selection methodology"
 - "What do you know about $HYPE volatility patterns?"
 - "Find information about risk-reward calculations"
 
 **Example Chat:**
+
 ```
 You: Search your knowledge for information about the $26 strike decision
-Agent: Based on my knowledge of the $HYPE wheel strategy, the $26 strike was 
-       selected because it offers 118% APR compared to 65% at $27, representing 
-       nearly double the yield. The position-level impact shows ~$1,000 additional 
+Agent: Based on my knowledge of the $HYPE wheel strategy, the $26 strike was
+       selected because it offers 118% APR compared to 65% at $27, representing
+       nearly double the yield. The position-level impact shows ~$1,000 additional
        weekly premium on a 3,600 $HYPE position...
 ```
 
@@ -345,6 +368,7 @@ knowledge: [
 ## How Knowledge Transforms Recommendations
 
 ### Example: Without Knowledge (Raw Data Only)
+
 ```
 BTC price: $67k
 Volatility: 45%
@@ -352,6 +376,7 @@ Recommendation: $70k strike (+4.5% OTM)
 ```
 
 ### Example: With Knowledge (Contextual Analysis)
+
 ```
 BTC price: $67k
 Volatility: 45%
@@ -495,9 +520,11 @@ MAX_OUTPUT_TOKENS=4096
 Place your markdown/PDF files in `knowledge/strategy-optimization/`:
 
 **Already Created:**
+
 - ✅ `hype-wheel-strategy.md` - Real-world $HYPE wheel strategy case study
 
 **Recommended Additional Files:**
+
 - 📝 `weekly-evaluation.md` - Weekly strategy evaluation methodology
 - 📝 `strike-selection.md` - Strike selection frameworks
 - 📝 `market-structure.md` - DeFiLlama metrics interpretation
@@ -505,6 +532,7 @@ Place your markdown/PDF files in `knowledge/strategy-optimization/`:
 - 📝 `risk-reward-analysis.md` - Risk-reward frameworks
 
 **Supported File Types:**
+
 - **Text:** `.txt`, `.md`, `.csv`, `.json`, `.xml`, `.yaml`
 - **Documents:** `.pdf`, `.doc`, `.docx`
 - **Code:** `.js`, `.ts`, `.py`, `.java`, `.cpp`, `.html`, `.css`, and more
@@ -518,6 +546,7 @@ elizaos start
 ```
 
 **What Happens:**
+
 - ✅ Documents in `knowledge/` are automatically discovered
 - ✅ All files are processed into searchable chunks
 - ✅ Embeddings are generated (with contextual enrichment if enabled)
@@ -526,12 +555,14 @@ elizaos start
 ### Step 5: Verify Setup
 
 **Check Web Interface:**
+
 1. Open `http://localhost:3000`
 2. Select StrategyOptimizer agent
 3. Click Knowledge tab
 4. Verify `hype-wheel-strategy.md` appears in the list
 
 **Test in Chat:**
+
 ```
 You: What do you know about the $HYPE wheel strategy?
 Agent: [Should reference content from hype-wheel-strategy.md]
@@ -604,6 +635,7 @@ knowledge/
 ```
 
 **Benefits:**
+
 - ✅ Automatic loading on startup
 - ✅ Version controlled (git)
 - ✅ Consistent across deployments
@@ -621,6 +653,7 @@ knowledge/
 ```
 
 **Benefits:**
+
 - ✅ No restart needed
 - ✅ Immediate processing
 - ✅ Easy testing
@@ -632,12 +665,10 @@ knowledge/
 
 ```typescript
 // ❌ DON'T do this for real documents
-knowledge: [
-  "Full 500-line strategy document here..."
-]
+knowledge: ["Full 500-line strategy document here..."];
 
 // ✅ DO use files instead
-knowledge/strategy-optimization/hype-wheel-strategy.md
+knowledge / strategy - optimization / hype - wheel - strategy.md;
 ```
 
 See [EXAMPLES.md](./EXAMPLES.md) for detailed examples and best practices.
@@ -649,6 +680,7 @@ See [EXAMPLES.md](./EXAMPLES.md) for detailed examples and best practices.
 **Symptoms:** Documents aren't appearing in the Knowledge tab or agent can't find them.
 
 **Check:**
+
 - ✅ `LOAD_DOCS_ON_STARTUP=true` is in your `.env` file
 - ✅ `knowledge/` folder exists in project root
 - ✅ Files are in supported formats (`.md`, `.pdf`, `.txt`, etc.)
@@ -656,6 +688,7 @@ See [EXAMPLES.md](./EXAMPLES.md) for detailed examples and best practices.
 - ✅ Check agent logs for processing errors
 
 **Solution:**
+
 ```bash
 # Verify .env has:
 LOAD_DOCS_ON_STARTUP=true
@@ -670,12 +703,14 @@ bun start
 **Symptoms:** Can't access `http://localhost:3000` or Knowledge tab not visible.
 
 **Check:**
+
 - ✅ Agent is running (`bun start` or `elizaos start`)
 - ✅ Using correct URL: `http://localhost:3000`
 - ✅ No other application using port 3000
 - ✅ Browser console shows no errors
 
 **Solution:**
+
 ```bash
 # Check if agent is running
 # Should see "Agent started" or similar message
@@ -690,15 +725,17 @@ PORT=3001 bun start
 **Symptoms:** Agent doesn't reference knowledge base or says "I don't know".
 
 **Check:**
+
 - ✅ Document was successfully processed (check Knowledge tab)
 - ✅ Using clear, specific search terms
 - ✅ Document actually contains the information you're asking about
 - ✅ `ragKnowledge: true` is set in character settings (✅ already configured)
 
 **Try:**
+
 ```
 # More specific queries work better:
-❌ "What do you know?" 
+❌ "What do you know?"
 ✅ "What does the $HYPE wheel strategy say about strike selection?"
 
 ❌ "Tell me about options"
@@ -710,12 +747,14 @@ PORT=3001 bun start
 **Symptoms:** Not seeing improved retrieval accuracy.
 
 **Check:**
+
 - ✅ `CTX_KNOWLEDGE_ENABLED=true` (must be lowercase `true`)
 - ✅ `TEXT_PROVIDER` and `TEXT_MODEL` are configured correctly
 - ✅ API keys are valid for your TEXT_PROVIDER
 - ✅ Check logs with `LOG_LEVEL=debug` to see "CTX enrichment ENABLED"
 
 **Verify:**
+
 ```bash
 # Add to .env for debugging
 LOG_LEVEL=debug
@@ -731,6 +770,7 @@ A: Yes! The plugin uses OpenAI embeddings (`text-embedding-3-small`) even if you
 
 **Q: Can I use different embedding models?**
 A: Yes! Configure via:
+
 ```bash
 EMBEDDING_PROVIDER=openai
 TEXT_EMBEDDING_MODEL=text-embedding-3-small
@@ -742,6 +782,7 @@ TEXT_EMBEDDING_MODEL=text-embedding-3-small
 **Symptoms:** Slow document processing or agent responses.
 
 **Optimize:**
+
 ```bash
 # Reduce parallel processing
 MAX_CONCURRENT_REQUESTS=15

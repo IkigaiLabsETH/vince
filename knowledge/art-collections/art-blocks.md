@@ -21,13 +21,17 @@ The breakthrough came in 2017 when Calderon discovered CryptoPunks on Reddit and
 ## Platform Tiers
 
 ### Curated
+
 The most selective tier, featuring premier generative art projects hand-picked by Art Blocks. Home to iconic collections like Chromie Squiggle, Ringers, Fidenza, Meridian, and Gazers.
 
 ### Presents (formerly Playground)
+
 Replaced Playground in October 2022. A space for artistic experimentation and innovation, featuring established and emerging artists.
 
 ### Engine & Engine Flex
+
 Custom-branded solutions for third-party partnerships:
+
 - **Engine**: Full on-chain generative art with code stored entirely in the smart contract
 - **Engine Flex**: Allows off-chain assets (IPFS/Arweave) for projects combining generative scripts with external inputs like images or ML models
 
@@ -44,52 +48,58 @@ Previously, while artwork code was on-chain, external libraries like p5.js and t
 ## Flagship Curated Collections
 
 ### Chromie Squiggle (Project #0)
+
 - **Artist**: Snowfro (Erick Calderon)
 - **Year**: 2020
 - **Significance**: The genesis Art Blocks project, created by the founder himself. Simple yet iconic squiggly lines that vary in color, density, and form.
 
 ### Ringers (Project #13)
+
 - **Artist**: Dmitri Cherniak
 - **Year**: January 2021
 - **Supply**: 1,000 pieces
 - **Significance**: Algorithmic variations of wrapping strings around pegs. Known for the famous "Goose" (#879) which sold for 1,800 ETH.
 
 ### Fidenza (Project #78)
+
 - **Artist**: Tyler Hobbs
 - **Year**: June 2021
 - **Supply**: 999 pieces
 - **Significance**: Flow field algorithm that became an icon of generative art. Fidenza #545 sold for 625 ETH ($1.2M). Tyler Hobbs is considered one of the most important generative artists.
 
 ### Meridian (Project #163)
+
 - **Artist**: Matt DesLauriers
 - **Year**: 2021
 - **Significance**: Topographic-inspired generative landscapes that push the boundaries of on-chain art.
 
 ### Gazers (Project #215)
+
 - **Artist**: Matt Kane
 - **Year**: 2021
 - **Significance**: Lunar-synchronized art that dynamically changes with real moon phases. A groundbreaking example of time-based generative art.
 
 ### Memories of Qilin (Project #282)
+
 - **Artist**: Emily Xie
 - **Year**: 2022
 - **Significance**: Chinese textile-inspired generative patterns that bridge cultural heritage with algorithmic art.
 
 ## Notable Artists
 
-| Artist | Notable Works | Style |
-|--------|---------------|-------|
-| **Snowfro** | Chromie Squiggle | Platform founder, pioneering generative art |
-| **Tyler Hobbs** | Fidenza, Incomplete Control | Flow fields, algorithmic brushstrokes |
-| **Dmitri Cherniak** | Ringers, The Eternal Pump | String art algorithms, conceptual commentary |
-| **Matt DesLauriers** | Meridian, Subscapes | Topographic landscapes, geometric forms |
-| **Emily Xie** | Memories of Qilin | Textile-inspired patterns, cultural fusion |
-| **Matt Kane** | Gazers | Time-based dynamic art |
-| **William Mapan** | Anticyclone | Atmospheric flow patterns |
-| **Piter Pasma** | Skulptuur | 3D sculptural generative art |
-| **Kjetil Golid** | Archetype, Paper Armada | Recursive patterns, origami forms |
-| **Monica Rizzolli** | Fragments of an Infinite Field | Botanical generative art |
-| **Casey REAS** | 100 Untitled Spaces | Minimalist spaces, Processing co-creator |
+| Artist               | Notable Works                  | Style                                        |
+| -------------------- | ------------------------------ | -------------------------------------------- |
+| **Snowfro**          | Chromie Squiggle               | Platform founder, pioneering generative art  |
+| **Tyler Hobbs**      | Fidenza, Incomplete Control    | Flow fields, algorithmic brushstrokes        |
+| **Dmitri Cherniak**  | Ringers, The Eternal Pump      | String art algorithms, conceptual commentary |
+| **Matt DesLauriers** | Meridian, Subscapes            | Topographic landscapes, geometric forms      |
+| **Emily Xie**        | Memories of Qilin              | Textile-inspired patterns, cultural fusion   |
+| **Matt Kane**        | Gazers                         | Time-based dynamic art                       |
+| **William Mapan**    | Anticyclone                    | Atmospheric flow patterns                    |
+| **Piter Pasma**      | Skulptuur                      | 3D sculptural generative art                 |
+| **Kjetil Golid**     | Archetype, Paper Armada        | Recursive patterns, origami forms            |
+| **Monica Rizzolli**  | Fragments of an Infinite Field | Botanical generative art                     |
+| **Casey REAS**       | 100 Untitled Spaces            | Minimalist spaces, Processing co-creator     |
 
 ## Technical Foundation
 
@@ -113,19 +123,19 @@ Art Blocks has fundamentally changed how generative art is created, collected, a
 
 ## OpenSea Slugs for Popular Collections
 
-| Collection | OpenSea Slug |
-|------------|--------------|
-| Chromie Squiggle | chromie-squiggle-by-snowfro |
-| Ringers | ringers-by-dmitri-cherniak |
-| Fidenza | fidenza-by-tyler-hobbs |
-| Meridian | meridian-by-matt-deslauriers |
-| Gazers | gazers-by-matt-kane |
+| Collection        | OpenSea Slug                   |
+| ----------------- | ------------------------------ |
+| Chromie Squiggle  | chromie-squiggle-by-snowfro    |
+| Ringers           | ringers-by-dmitri-cherniak     |
+| Fidenza           | fidenza-by-tyler-hobbs         |
+| Meridian          | meridian-by-matt-deslauriers   |
+| Gazers            | gazers-by-matt-kane            |
 | Memories of Qilin | memories-of-qilin-by-emily-xie |
-| Subscapes | subscapes-by-matt-deslauriers |
-| Pigments | pigments-by-darien-brito |
-| Archetype | archetype-by-kjetil-golid |
-| Anticyclone | anticyclone-by-william-mapan |
-| Skulptuur | skulptuur-by-piter-pasma |
+| Subscapes         | subscapes-by-matt-deslauriers  |
+| Pigments          | pigments-by-darien-brito       |
+| Archetype         | archetype-by-kjetil-golid      |
+| Anticyclone       | anticyclone-by-william-mapan   |
+| Skulptuur         | skulptuur-by-piter-pasma       |
 
 ## Resources
 

@@ -4,20 +4,22 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180399611.Intellectual Ancestry
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 723
 **Tags**: #bitcoin #eth #defi #fed #macro #substack
+
 ---
 
 Imagine a conference in Miami, 2025. The lights dim, the laser eyes glow, and the keynote panel walks onstage: Jesus of Nazareth, Nikola Tesla, Thomas Jefferson, Martin Luther, and Adam Smith. No security checks needed—none of them own anything the TSA could confiscate except, perhaps, a hardware wallet etched on stone tablets or copper wire.
 
 The audience expects a polite discussion about blockchain scalability. Instead, the venue is immediately struck by righteous lightning, the sound system catches holy fire, and Bitcoin surges past $500,000 before the fire department arrives. Because these five men would not merely understand Bitcoin. They would weaponize it.
-> 
-The tragedy of modern Bitcoin discourse is that it has become a tribal shouting match between tech bros, macro tourists, and accelerationist memes. We argue about ETFs and nation-state adoption while forgetting that the protocol is not new. It is ancient. Bitcoin is simply the first successful translation of pre-modern moral intuitions about power, money, and human dignity into unbreakable code.
+
+> The tragedy of modern Bitcoin discourse is that it has become a tribal shouting match between tech bros, macro tourists, and accelerationist memes. We argue about ETFs and nation-state adoption while forgetting that the protocol is not new. It is ancient. Bitcoin is simply the first successful translation of pre-modern moral intuitions about power, money, and human dignity into unbreakable code.
 
 ## Context
 
@@ -32,8 +34,8 @@ Jefferson’s hatred of central banking was not academic. He watched the First B
 Luther, that original shitposter, would stream nightly from Wittenberg, railing against “the Frankfurt School of indulgences known as modern monetary theory.” The 95 theses 2.0 would be a GitHub repository: each thesis a commit, each refutation of fiat a pull request that can never be merged against consensus.
 
 And Adam Smith? He would be quiet at first, taking notes. Then he would publish a slim volume—An Inquiry Into the Nature and Causes of the Wealth of Bitcoin—and the Chicago School would have to rewrite every textbook because the invisible hand finally has a glove that cannot be bought.
-> 
-The deeper point is that Bitcoin is not a “technology.” It is the rediscovery of a moral tradition that was nearly extinguished by the 20th century marriage of state and ledger. Every major critic of centralized power in history—from Christ to Tesla—arrived independently at the same conclusion: when the state can create claims on wealth without limit, freedom becomes temporary and truth becomes negotiable.
+
+> The deeper point is that Bitcoin is not a “technology.” It is the rediscovery of a moral tradition that was nearly extinguished by the 20th century marriage of state and ledger. Every major critic of centralized power in history—from Christ to Tesla—arrived independently at the same conclusion: when the state can create claims on wealth without limit, freedom becomes temporary and truth becomes negotiable.
 
 We spend our days debating whether Michael Saylor or BlackRock “gets it,” when the real validation has already been rendered by men who never lived to see a blockchain yet diagnosed our sickness perfectly. Bitcoin is not asking for their approval. It is their revenge.
 
@@ -41,7 +43,7 @@ So the next time someone tells you Bitcoin is just speculative tulips, or a toy 
 
 ## Conclusion
 
-The lightning strike in Miami would not be an accident. 
+The lightning strike in Miami would not be an accident.
 
 It would be a signature.
 

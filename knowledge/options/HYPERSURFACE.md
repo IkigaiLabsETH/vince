@@ -3,6 +3,7 @@ tags: [trading, options, derivatives]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Hypersurface: How It Works, How We Use It, Why
 
 Single source for Solus: everything about Hypersurface — mechanics summary, why we use it, and how we use it in this project.

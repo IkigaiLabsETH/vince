@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 The complete system for transforming your body, mind, and life. Everything that actually works. You know that feeling after a heavy session followed by sauna and cold plunge? That levitating buzz where everything just clicks?
 Most men feel that maybe once a month. If they're lucky.
 Waking up before your alarm actually excited to attack the day. Weights moving like butter. Walking into a room and people noticing. That quiet confidence where you don't need to prove anything.
@@ -34,7 +33,7 @@ Before the system, understand what you're fighting. Can't win a game you don't s
 Pendulums
 From a book called Reality Transurfing by Vadim Zeland. Obscure, but stay with me.
 A pendulum is any structure feeding on human energy. Social media. News. Political movements. Trends. Drama. Outrage culture. Even your friend group.
-Pendulums don't care about you. Only your attention and energy. Fear, anger, excitement, outrage,  whatever keeps you hooked.
+Pendulums don't care about you. Only your attention and energy. Fear, anger, excitement, outrage, whatever keeps you hooked.
 React to the news, feed a pendulum. Get outraged online, feed a pendulum. Compare yourself to someone on Instagram, feed a pendulum.
 When you're reacting to pendulums, you're not living your life. You're living theirs.
 How many of your opinions are actually yours? How many goals did YOU decide you wanted versus things you've been told to want?
@@ -42,7 +41,7 @@ Most men get pulled around by pendulums their entire lives. Wake up, check phone
 Simple equation: energy going to pendulums means no energy left to build your own life.
 Brain rot
 Your attention is under attack.
-Dopamine from scrolling, notifications, endless content, rewiring your brain. Killing your ability to focus, think deeply, build anything. 
+Dopamine from scrolling, notifications, endless content, rewiring your brain. Killing your ability to focus, think deeply, build anything.
 The symptoms. Can't read a book for five minutes without reaching for your phone. Need constant stimulation to feel normal. Doom scrolling before bed, first thing in the morning. Start tasks, can't finish. Brain fog.
 Your brain got hijacked. By people smarter than you. Engineers, psychologists, designers paid millions to keep you scrolling. Keep you hooked. Keep you coming back.
 Not accidental. By design. Infinite scroll, no stopping point. Autoplay, don't even have to choose. Notifications pulling you back. Variable rewards like a slot machine.
@@ -58,7 +57,7 @@ You aren't where you want to be because you aren't the person who would be there
 Do they have to "grind" to do what got them there? Seems like it on the surface. But they can't see themselves living any other way.
 Fit guy doesn't force himself to train. Forces himself NOT to train. Successful entrepreneur doesn't discipline himself to work on his business. Forces himself to take time off.
 If you want a specific outcome, you must have the lifestyle creating that outcome long before you reach it.
-Someone says they want to get lean but "can't wait until they're done dieting to enjoy food again"..  I don't believe them. Don't adopt the lifestyle that got you lean, for life, and you'll go straight back.
+Someone says they want to get lean but "can't wait until they're done dieting to enjoy food again".. I don't believe them. Don't adopt the lifestyle that got you lean, for life, and you'll go straight back.
 When you truly change, habits that don't move the needle become disgusting. Deep awareness of what kind of life those actions compound into.
 III – Treat life like a video game
 If you grew up playing video games, this makes perfect sense.
@@ -90,7 +89,7 @@ I get DMs every week asking how to grow an account. "How long until it works?" F
 Took me 3 months of posting into the void before anything clicked. 3 months of flopping. 3 months of wondering if it was even worth it.
 That was the boss battle. Most people tap out before the loot drops.
 Same with YouTube. Same with business. Same with your physique. The rewards are on the other side of the bit that makes you want to quit.
-Embrace boss battles. 
+Embrace boss battles.
 IV – 90% of how you look is just this
 Truth about appearance nobody wants to hear.
 90% of looking good is getting lean and building muscle.
@@ -130,7 +129,7 @@ Here's what that actually looks like:
 Deficit - 300-500 under maintenance. Nothing crazy. You're not on a deadline, you're building something sustainable. I see guys crash dieting into 1000 cal deficits then wondering why they look worse at the end. You lost muscle mate. That's why.
 Protein - 1g per pound. Minimum. This is what saves your muscle while the fat goes. Most guys think they're hitting this and they're not even close. Track it properly for a week. Bet you're shocked.
 Training - Keep lifting heavy. Heavier than feels right while cutting. The weights tell your body to keep the muscle. Drop the intensity and you end up skinny-fat. Seen it a hundred times.
-Steps - 8,000+ daily.  Morning walk, take calls while pacing,  podcast, whatever. This is where the extra burn comes from without hammering your recovery.
+Steps - 8,000+ daily. Morning walk, take calls while pacing, podcast, whatever. This is where the extra burn comes from without hammering your recovery.
 Sleep - 7-8 hours. I'm genuinely religious about this. Your body does the actual repair work while you're unconscious. Skimp on it and your hunger goes mental, your willpower vanishes, everything gets harder than it needs to be.
 60 days of this and you'll look different. Not because it's complicated. Because you actually did it properly.
 Phase 2, Days 30-90: Build the ratio.
@@ -145,7 +144,7 @@ The details:
 By now you're lean. Frame's coming together. This is the stuff that amplifies it.
 Skincare - Keep it dead simple. Beef tallow for my face, coconut oil for my body. That's it. No 10-step routine, no expensive serums. Just consistent. Your face is what people see first. If you're training hard but your skin looks rough, you're shooting yourself in the foot.
 Haircut - Find a good barber. Pay more than you want to. Ask their opinion on what suits your face shape. They do this all day mate, they know more than you do about it. Stop getting the same cut you've had since sixth form.
-Wardrobe - Your body's different now. Clothes that fit at higher body fat look baggy. Get stuff that actually fits the new frame. Doesn't have to be expensive. Just has to fit properly. Honestly, a plain black fitted tee is unmatched. Shows the shoulders, shows the V-taper, goes with everything. 
+Wardrobe - Your body's different now. Clothes that fit at higher body fat look baggy. Get stuff that actually fits the new frame. Doesn't have to be expensive. Just has to fit properly. Honestly, a plain black fitted tee is unmatched. Shows the shoulders, shows the V-taper, goes with everything.
 Posture - All that back work helps here. Shoulders back, chest open, chin tucked slightly. Few minutes of mobility work daily. Good posture makes you look taller, more confident, more like you've got your shit together. Bad posture undoes everything.
 That's it. That's the whole thing.
 90 days. Nothing revolutionary. Just the basics done properly with some consistency behind it.
@@ -164,7 +163,7 @@ Phone in another room. No notifications. Single task.
 Where real progress happens.
 Information diet
 Treat information like food. Most is junk.
-Curate ruthlessly. Unfollow anyone not adding value. Scheduled consumption only, not reactive. Books over social media. 
+Curate ruthlessly. Unfollow anyone not adding value. Scheduled consumption only, not reactive. Books over social media.
 Sleep
 Where most people sabotage themselves without realising.
 10 rules:
@@ -181,7 +180,7 @@ Bedroom for sleep and sex only
 Follow these and you sleep better than 90% of people.
 VI – Stop optimising, start living
 Where I diverge from most self-improvement advice.
-Perfect morning routine, optimal supplements, ideal training programme and guess what?  Still miserable.
+Perfect morning routine, optimal supplements, ideal training programme and guess what? Still miserable.
 Optimisation without living is just avoidance.
 Why chasing doesn't work
 You can't have what you need.

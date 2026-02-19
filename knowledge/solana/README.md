@@ -21,7 +21,6 @@ Solana ecosystem analysis, DeFi, and development
 - solana-vs-ethereum.md
 - solana.md
 
-
 ## Related Categories
 
 - [defi-metrics](../defi-metrics/)

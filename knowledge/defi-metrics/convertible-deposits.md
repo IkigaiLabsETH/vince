@@ -4,25 +4,26 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180458194.Convertible Deposits
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: defi-metrics
 **Word Count**: 1,553
 **Tags**: #bitcoin #ethereum #eth #sol #defi #nft #trading #substack
----> 
-Imagine a product that gives you all the juicy income of selling covered calls on a volatile token, but you never have to buy the token first, you can never lose a cent of principal, you earn five to six percent carry while you wait, and if the token moons you keep every single dollar of upside instead of watching your shares get called away at a fixed price. That sounds too good to be true. In traditional finance it would be impossible, and even in the wildest days of 2021 DeFi it did not exist. 
+--->
+Imagine a product that gives you all the juicy income of selling covered calls on a volatile token, but you never have to buy the token first, you can never lose a cent of principal, you earn five to six percent carry while you wait, and if the token moons you keep every single dollar of upside instead of watching your shares get called away at a fixed price. That sounds too good to be true. In traditional finance it would be impossible, and even in the wildest days of 2021 DeFi it did not exist.
 
 Yet as of December 2025, Olympus DAO is shipping exactly that product to anyone with a wallet and some USDS. They call it Convertible Deposits, and the newest short-dated version is quietly rewriting what “enhanced yield” can mean in crypto.
 
 ## Context
 
-At its core, the new Olympus Convertible Deposit works like this. You go to [deposit.olympusdao.finance](https://deposit.olympusdao.finance/), connect your wallet, and deposit USDS (Sky’s yield-bearing stablecoin). You pick a term of one, two, or three months. The moment the transaction confirms you receive two things: a receipt token that is fully redeemable for your original USDS plus all the yield it earned while sitting in the treasury, and an embedded right to convert that exact amount of USDS into freshly minted OHM at a fixed price (right now about $32.46 per OHM). 
+At its core, the new Olympus Convertible Deposit works like this. You go to [deposit.olympusdao.finance](https://deposit.olympusdao.finance/), connect your wallet, and deposit USDS (Sky’s yield-bearing stablecoin). You pick a term of one, two, or three months. The moment the transaction confirms you receive two things: a receipt token that is fully redeemable for your original USDS plus all the yield it earned while sitting in the treasury, and an embedded right to convert that exact amount of USDS into freshly minted OHM at a fixed price (right now about $32.46 per OHM).
 
 That conversion right is live from day one and expires for the whole tranche on January 1 2026, regardless of which term you chose.
 
-If OHM trades above $32.46 at any point before New Year’s Day, you can hit “convert” and instantly receive brand-new OHM at that discounted price. 
+If OHM trades above $32.46 at any point before New Year’s Day, you can hit “convert” and instantly receive brand-new OHM at that discounted price.
 
 ## Main
 
@@ -51,8 +52,8 @@ In short, Olympus has built a synthetic long position in OHM that behaves like a
 None of this is theoretical. The tranche that opened in late November 2025 is still live as I write this, with a conversion price of $32.4566 and OHM trading within pennies of that level. The effective discount is zero percent today, which means the market is pricing in roughly even odds of a move above $32.50 by New Year’s Day. If you are even mildly bullish on Olympus over the next thirty to ninety days, or simply want the best parking spot for idle stablecoins in crypto, there is no close competitor.
 
 The bigger story is what this means for the entire ecosystem. For years DeFi yield chasers have accepted massive downside risk in exchange for double-digit returns. Olympus just proved you can give people equity-like upside with treasury-bill downside and still strengthen the underlying protocol. If this model spreads (and there is no technical reason it cannot be copied by any treasury-backed token), the era of selling naked puts and praying is over. Stablecoin holders will never again have to choose between earning four percent in a lending protocol and gambling on thirty percent yields that can wipe them out.
-> 
-Convertible Deposits are not perfect. The conversion right is currently non-transferable unless you wrap it as an NFT, the tranche caps are small until governance scales them up, and you are still trusting Olympus smart contracts and governance not to rug (though the code is audited, battle-tested, and the treasury is massively overcollateralized). But for the first time in crypto history, a protocol has built a product that is objectively better in every meaningful dimension than the covered-call and cash-secured-put strategies that have defined option selling for fifty years.
+
+> Convertible Deposits are not perfect. The conversion right is currently non-transferable unless you wrap it as an NFT, the tranche caps are small until governance scales them up, and you are still trusting Olympus smart contracts and governance not to rug (though the code is audited, battle-tested, and the treasury is massively overcollateralized). But for the first time in crypto history, a protocol has built a product that is objectively better in every meaningful dimension than the covered-call and cash-secured-put strategies that have defined option selling for fifty years.
 
 If you hold stablecoins and you are not at least testing these short-dated Convertible Deposits right now, you are leaving free money and free upside on the table. The bar for “enhanced yield” just moved, permanently.
 

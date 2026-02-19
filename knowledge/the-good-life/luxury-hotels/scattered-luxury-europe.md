@@ -3,6 +3,7 @@ tags: [lifestyle]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Scattered Luxury Locations - Europe
 
 > **Region**: Various regions across France
@@ -10,7 +11,6 @@ last_reviewed: 2026-02-17
 > **Distance Reference**: Various distances from Southwest France base
 
 ---
-
 
 ## Côte d'Azur Region
 
@@ -23,6 +23,7 @@ last_reviewed: 2026-02-17
 - **Classification**: 5-Star Luxury Hotel
 
 **Details**:
+
 - Côte d'Azur icon
 - Cap Ferrat location
 - Mediterranean luxury
@@ -42,6 +43,7 @@ last_reviewed: 2026-02-17
 - **Classification**: 5-Star Luxury Hotel
 
 **Details**:
+
 - Beaulieu-sur-Mer location
 - Mediterranean setting
 - Riviera luxury
@@ -62,6 +64,7 @@ last_reviewed: 2026-02-17
 - **Classification**: 5-Star Luxury Hotel
 
 **Details**:
+
 - Languedoc wine country
 - Estate setting
 - Wine country luxury
@@ -80,6 +83,7 @@ last_reviewed: 2026-02-17
 - **Region**: Languedoc, near Montpellier
 
 **Details**:
+
 - Languedoc countryside
 - Estate property
 - Regional luxury
@@ -99,6 +103,7 @@ last_reviewed: 2026-02-17
 - **Classification**: 5-Star Luxury Hotel & Spa
 
 **Details**:
+
 - Brittany coast
 - Roscoff location
 - Spa facilities
@@ -117,6 +122,7 @@ last_reviewed: 2026-02-17
 - **Classification**: 5-Star Luxury Hotel & Spa
 
 **Details**:
+
 - Dinard location
 - Brittany's elegant resort
 - Spa facilities
@@ -137,6 +143,7 @@ last_reviewed: 2026-02-17
 - **Classification**: 5-Star Luxury Hotel
 
 **Details**:
+
 - Luberon, Provence
 - Bonnieux village
 - Provençal luxury
@@ -157,6 +164,7 @@ last_reviewed: 2026-02-17
 - **Classification**: 5-Star Luxury Hotel
 
 **Details**:
+
 - Marseille location
 - 3-star Michelin restaurant
 - Mediterranean cuisine
@@ -176,6 +184,7 @@ last_reviewed: 2026-02-17
 - **Classification**: 5-Star Luxury Hotel
 
 **Details**:
+
 - Provence countryside
 - Moustiers-Sainte-Marie village
 - Alain Ducasse property
@@ -188,39 +197,44 @@ last_reviewed: 2026-02-17
 
 ## Quick Reference
 
-| Hotel/Restaurant | Stars | Location | Distance | Region | Specialty |
-|------------------|-------|----------|----------|--------|-----------|
-| Le Petit Nice Passedat | 3* | Marseille | 510 km | Provence | 3-star seafood |
-| Hotel Royal-Riviera | 5* | Cap Ferrat | 662 km | Côte d'Azur | Riviera icon |
-| La Réserve de Beaulieu | 5* | Beaulieu-sur-Mer | 663 km | Côte d'Azur | Riviera luxury |
-| Domaine de Verchant | 5* | Castelnau-le-Lez | 390 km | Languedoc | Wine country |
-| Hotel Domaine de Biar | - | Lavérune | 382 km | Languedoc | Countryside estate |
-| Hôtel Brittany & Spa | 5* | Roscoff | 581 km | Brittany | Coastal spa |
-| Castelbrac | 5* | Dinard | 580 km | Brittany | Belle Époque |
-| Capelongue | 5* | Bonnieux | 500 km | Provence | Luberon luxury |
-| La Bastide de Moustiers | 5* | Moustiers-Sainte-Marie | 572 km | Provence | Ducasse property |
-| Les Pins de César | - | Sainte-Adresse | 641 km | Normandy | Coastal |
+| Hotel/Restaurant        | Stars | Location               | Distance | Region      | Specialty          |
+| ----------------------- | ----- | ---------------------- | -------- | ----------- | ------------------ |
+| Le Petit Nice Passedat  | 3\*   | Marseille              | 510 km   | Provence    | 3-star seafood     |
+| Hotel Royal-Riviera     | 5\*   | Cap Ferrat             | 662 km   | Côte d'Azur | Riviera icon       |
+| La Réserve de Beaulieu  | 5\*   | Beaulieu-sur-Mer       | 663 km   | Côte d'Azur | Riviera luxury     |
+| Domaine de Verchant     | 5\*   | Castelnau-le-Lez       | 390 km   | Languedoc   | Wine country       |
+| Hotel Domaine de Biar   | -     | Lavérune               | 382 km   | Languedoc   | Countryside estate |
+| Hôtel Brittany & Spa    | 5\*   | Roscoff                | 581 km   | Brittany    | Coastal spa        |
+| Castelbrac              | 5\*   | Dinard                 | 580 km   | Brittany    | Belle Époque       |
+| Capelongue              | 5\*   | Bonnieux               | 500 km   | Provence    | Luberon luxury     |
+| La Bastide de Moustiers | 5\*   | Moustiers-Sainte-Marie | 572 km   | Provence    | Ducasse property   |
+| Les Pins de César       | -     | Sainte-Adresse         | 641 km   | Normandy    | Coastal            |
 
 ---
 
 ## By Region Summary
 
 ### Côte d'Azur (2 locations)
+
 - Hotel Royal-Riviera (Cap Ferrat) - 662 km
 - La Réserve de Beaulieu (Beaulieu-sur-Mer) - 663 km
 
 ### Provence (3 locations)
-- Le Petit Nice Passedat (Marseille) - 510 km - 3* restaurant
+
+- Le Petit Nice Passedat (Marseille) - 510 km - 3\* restaurant
 - Capelongue (Bonnieux) - 500 km
 - La Bastide de Moustiers (Moustiers-Sainte-Marie) - 572 km
 
 ### Languedoc (2 locations)
+
 - Domaine de Verchant (Castelnau-le-Lez) - 390 km
 - Hotel Domaine de Biar (Lavérune) - 382 km
 
 ### Brittany (2 locations)
+
 - Hôtel Brittany & Spa (Roscoff) - 581 km
 - Castelbrac (Dinard) - 580 km
 
 ### Normandy (1 location)
+
 - Les Pins de César (Sainte-Adresse) - 641 km

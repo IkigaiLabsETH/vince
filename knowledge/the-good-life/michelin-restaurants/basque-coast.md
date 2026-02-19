@@ -3,13 +3,13 @@ tags: [lifestyle]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Basque Coast Fine Dining
 
 > **Region**: Biarritz, Anglet, Bidart, Guéthary, Bidarray, San Sebastian
 > **Vibe**: Ocean meets mountains, Basque heritage, international glamour
 
 ---
-
 
 ## Nobu Hotel San Sebastian
 
@@ -20,6 +20,7 @@ last_reviewed: 2026-02-17
 - **Style**: Belle Époque villa meets Japanese minimalism
 
 **Dining**:
+
 - Signature Nobu dishes + local Basque specialties
 - Panoramic La Concha Bay views
 - Omotenashi hospitality
@@ -40,11 +41,12 @@ last_reviewed: 2026-02-17
 - **Style**: Old Relais de poste transformed
 
 **Chefs**: Martin & David Ibarboure (father & son, 4 hands)
+
 - Innovative, modern, exciting
 - Fresh, seasonal, local producers
 - Basque mountain views from terrace
 
-**Hotel**: 4*, 14 rooms + suites, contemporary Basque style
+**Hotel**: 4\*, 14 rooms + suites, contemporary Basque style
 
 **Also**: Briket' Côté Bistrot - gourmet bistro by same team
 
@@ -61,11 +63,12 @@ last_reviewed: 2026-02-17
 - **Phone**: +33 5 59 47 58 30
 
 **The Brothers**:
+
 - **Xabi Ibarboure** (savory) - Maître Cuisinier de France
 - **Patrice Ibarboure** (pastry) - MOF Pâtissiers Confiseurs
 - 3rd generation family
 
-**Hotel**: 4*, 13 rooms, 2-hectare park, heated pool, Nordic cabin
+**Hotel**: 4\*, 13 rooms, 2-hectare park, heated pool, Nordic cabin
 
 **Philosophy**: Ecologically responsible, local producers, sea-mountain cuisine
 
@@ -84,12 +87,13 @@ last_reviewed: 2026-02-17
 - **Phone**: +33 5 59 37 91 91
 - **Style**: 17th-century farm + red-tile houses
 
-**Restaurant Lore Ttipia** (1*):
+**Restaurant Lore Ttipia** (1\*):
+
 - Fire cooking: grilling, smoking, braise
 - Sea/land/mountain inspiration
 - Natural, virtuous cooking
 
-**Hotel**: 5*, 26 rooms across 5 houses, 45-hectare estate with springs
+**Hotel**: 5\*, 26 rooms across 5 houses, 45-hectare estate with springs
 
 **Values**: Sustainability, local artisans, traditional savoir-faire
 
@@ -106,6 +110,7 @@ last_reviewed: 2026-02-17
 - **Phone**: +33 5 59 51 53 63
 
 **Unique Features**:
+
 - Floating lodges on the lake (boat access only!)
 - Regular château rooms + suites
 - Restaurant with lake views
@@ -126,6 +131,7 @@ last_reviewed: 2026-02-17
 - **Status**: Completely renovated 2025
 
 **Restaurant Abrazo**:
+
 - Chef Juan Arbelaez
 - Fire cooking, Basque-Latino inspirations
 - Sunday "Brunch à la braise"
@@ -157,13 +163,13 @@ last_reviewed: 2026-02-17
 
 ## Quick Reference
 
-| Restaurant | Stars | Location | Price | Specialty |
-|------------|-------|----------|-------|-----------|
-| Akelarre | 3* | San Sebastian | €€€€€ | Ultimate Basque |
-| Nobu | - | San Sebastian | €€€€ | Japanese-Basque |
-| Briketenia | 1* | Guéthary | €€€ | Family 4-hands |
-| Frères Ibarboure | 1* | Bidart | €€€ | MOF pastry |
-| Ostape Lore Ttipia | 1* | Bidarray | €€€ | Fire cooking |
-| Brindos | - | Anglet | €€€ | Lakeside luxury |
-| Maison Chiberta | - | Anglet | €€€ | Juan Arbelaez |
-| Le Garage | - | Biarritz | €€ | Design bistro |
+| Restaurant         | Stars | Location      | Price | Specialty       |
+| ------------------ | ----- | ------------- | ----- | --------------- |
+| Akelarre           | 3\*   | San Sebastian | €€€€€ | Ultimate Basque |
+| Nobu               | -     | San Sebastian | €€€€  | Japanese-Basque |
+| Briketenia         | 1\*   | Guéthary      | €€€   | Family 4-hands  |
+| Frères Ibarboure   | 1\*   | Bidart        | €€€   | MOF pastry      |
+| Ostape Lore Ttipia | 1\*   | Bidarray      | €€€   | Fire cooking    |
+| Brindos            | -     | Anglet        | €€€   | Lakeside luxury |
+| Maison Chiberta    | -     | Anglet        | €€€   | Juan Arbelaez   |
+| Le Garage          | -     | Biarritz      | €€    | Design bistro   |

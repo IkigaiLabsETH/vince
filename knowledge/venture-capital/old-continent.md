@@ -3,8 +3,11 @@ tags: [vc, startups, investment]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # 182195558.Old Continent
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: venture-capital
 **Word Count**: 923
@@ -49,10 +52,10 @@ A quiet realization in the age of trillion-dollar AI bets.
 
 I’ve been investing in crypto for over a decade now. Long enough to watch cycles come and go, hype inflate and deflate, and fortunes made (and lost) on nothing more than conviction and timing.
 
-Lately, though, I’ve found myself staring at charts that have nothing to do with Bitcoin or Ethereum. Charts of venture capital flows. Unicorn counts. 
+Lately, though, I’ve found myself staring at charts that have nothing to do with Bitcoin or Ethereum. Charts of venture capital flows. Unicorn counts.
 
 Valuation gaps.
-**
+\*\*
 And one image keeps coming back: that bubble chart from a couple years ago, showing the U.S. with hundreds of billion-dollar private tech companies, China close behind, and Europe... a distant third. A small cluster, mostly fintech, dwarfed by the American giants like OpenAI, SpaceX, and xAI.
 
 This isn’t schadenfreude. It’s a warning. And perhaps a lesson.
@@ -63,7 +66,7 @@ As of late 2025, the U.S. boasts around 750-800 unicorns — privately held star
 
 Total valuation tells an even grimmer story. American unicorns alone command trillions in paper wealth, fueled by the AI boom: OpenAI at $300-500 billion private valuation, Anthropic, xAI, Databricks — monsters that Europe can only dream of.Europe’s top private tech plays? Revolut in fintech, maybe a few AI upstarts like Mistral. Solid companies. But no trillion-dollar contenders. No category killers sucking up global capital like black holes.
 
-Venture funding reflects this. **
+Venture funding reflects this. \*\*
 
 In 2025, U.S. startups raised well over $150 billion in VC. Europe? Around $50-75 billion. A fraction. Q3 alone: U.S. dominated with $80+ billion. Europe scraped $17 billion. It’s not getting better. The gap is widening.
 
@@ -77,7 +80,7 @@ In the U.S., you build once for a unified 330-million-person market. In Europe, 
 
 **Contrast with Bitcoin. **
 
-Decentralized by design. No borders. No permission needed. 
+Decentralized by design. No borders. No permission needed.
 
 Send value anywhere, instantly, without asking Brussels or Berlin.
 
@@ -93,7 +96,7 @@ Late-stage funding? Scarcer still. The “scale-up valley of death” is real. M
 
 Result: Capital recycles slowly. Returns lag. The flywheel spins slower.
 
-Bitcoin? No exits needed. No IPO gatekeepers. 
+Bitcoin? No exits needed. No IPO gatekeepers.
 
 Just pure market pricing, 24/7. Liquidity for all.
 
@@ -107,11 +110,11 @@ Why? Better pay. Stock options that actually matter (thanks to favorable taxatio
 
 Europe’s labor laws protect workers — admirably — but stiffen mobility. Stock options taxed as income? Brutal.
 
-Founders feel it too. Build big in Europe, face brain drain. 
+Founders feel it too. Build big in Europe, face brain drain.
 
 Many European-origin companies now call the U.S. home.
 
-Crypto flips this. Blockchain talent clusters globally. 
+Crypto flips this. Blockchain talent clusters globally.
 
 Europe has strong pockets — Switzerland’s Crypto Valley, Estonia’s e-residency pioneers. But the network is borderless.
 
@@ -131,7 +134,7 @@ In 2025, Bitcoin outperforms most tech stocks year-to-date in relative strength 
 
 Crypto market cap rivals Europe’s tech unicorns combined — many times over. Blockchain startups? Europe has some — Ledger in France, strong DeFi plays. But few unicorns. The big ones (Chainalysis, etc.) often U.S.-based.
 
-Yet the protocol layer dominates without favoring any continent. 
+Yet the protocol layer dominates without favoring any continent.
 
 **Long-Term Optimism, Short-Term Skepticism**
 
@@ -149,6 +152,6 @@ The next big thing might not need Europe’s approval to succeed.
 
 It already doesn’t.
 
-Disclaimer: This is not financial advice. 
+Disclaimer: This is not financial advice.
 
 Markets are volatile. Do your own research.

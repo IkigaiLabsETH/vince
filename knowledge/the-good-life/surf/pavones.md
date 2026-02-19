@@ -22,7 +22,7 @@ Use this when the guest asks about **Pavones**, **long left**, **Costa Rica surf
 - **Discovery from the air:** A Southern California surfer (Dan Fowlie, "Danny Mack") is widely credited with recognizing Pavones from the air in **1974** after hearing about it from another surfer. He began buying land and employing locals; roads, houses, and the first real infrastructure followed. He’s often called "the King of Pavones" in the press—the one who turned an isolated stretch into a surf destination.
 - **1980s:** Another figure, the fugitive American financier Robert Vesco, invested heavily in Pavones while living in Costa Rica—roads, buildings, infrastructure. His presence added a layer of myth and controversy; the town’s development was partly built with money that had a complicated past. Vesco’s role is part of the lore: a reclusive billionaire and a wave in the jungle.
 - **Fowlie’s later story:** Fowlie faced serious legal trouble in the United States (drug-related charges, conviction, prison). After release he returned to Costa Rica and fought for land rights and his legacy in Pavones. The story is messy—hero to some, cautionary tale to others. The town itself outlasted the drama.
-- **Name:** "Pavones" comes from *pavón* (peacock), a bird once common in the area.
+- **Name:** "Pavones" comes from _pavón_ (peacock), a bird once common in the area.
 
 ## The cult
 
@@ -45,11 +45,11 @@ Use this when the guest asks about **Pavones**, **long left**, **Costa Rica surf
 
 ## Logistics
 
-- **Getting there:**  
-  - **Air:** Fly to Golfito (Sansa/Nature Air); then ~2 h on dirt road to Pavones. Or fly to Puerto Jiménez, ferry to Golfito, then drive.  
-  - **Car:** From San José, Caldera highway to Pacific, then Costanera Sur to Palmar Norte, Interamerican to Río Claro; turn left toward Pavones (before Golfito). Small ferry at Río Claro (~$0.50/person); then ~30 min. Mud, potholes, river crossings; 4WD recommended; many rentals don’t cover water damage.  
-  - **Bus:** San José (Tracopa) 7:00 and 15:30 (~8 h, ~$12); Golfito–Pavones 10:30 and 15:30 (~2.5–3 h, ~$2.40).  
-  - **Taxi:** 4WD from Golfito ~$60–70; arrange in advance.  
+- **Getting there:**
+  - **Air:** Fly to Golfito (Sansa/Nature Air); then ~2 h on dirt road to Pavones. Or fly to Puerto Jiménez, ferry to Golfito, then drive.
+  - **Car:** From San José, Caldera highway to Pacific, then Costanera Sur to Palmar Norte, Interamerican to Río Claro; turn left toward Pavones (before Golfito). Small ferry at Río Claro (~$0.50/person); then ~30 min. Mud, potholes, river crossings; 4WD recommended; many rentals don’t cover water damage.
+  - **Bus:** San José (Tracopa) 7:00 and 15:30 (~8 h, ~$12); Golfito–Pavones 10:30 and 15:30 (~2.5–3 h, ~$2.40).
+  - **Taxi:** 4WD from Golfito ~$60–70; arrange in advance.
   - **Boat:** Charter from Golfito possible (~$140); no proper dock at Pavones; expect to get wet.
 - **When to go:** April–November for serious south swells and the long wave. December–March mellower, fewer crowds, less consistent.
 - **Stay:** Small cabins, hotels (4–6 rooms), a few mid-range and luxury options, camping on the beach. Book ahead in peak swell season (April–October).

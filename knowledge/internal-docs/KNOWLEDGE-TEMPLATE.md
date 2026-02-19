@@ -10,16 +10,19 @@ Use this template when creating new knowledge files. Files that follow this stru
 ## Methodology and Framework
 
 **Key Concepts:**
+
 - [3-7 core concepts as bullets - the essential ideas]
 - [Each concept should be a transferable insight]
 - [Focus on "how to think" not "what happened"]
 
 **Analytical Approach:**
+
 - [The mental model for analyzing this topic]
 - [What questions to ask first]
 - [How to structure your thinking]
 
 **Decision Framework:**
+
 - [Step-by-step process for making decisions]
 - [When to do X vs Y - clear conditions]
 - [Thresholds and ranges, NOT absolute numbers]
@@ -27,12 +30,14 @@ Use this template when creating new knowledge files. Files that follow this stru
 - Example: "If BTC is $85,000" (bad - becomes outdated)
 
 **Pattern Recognition:**
+
 - [What signals indicate opportunity]
 - [What signals indicate danger]
 - [Red flags and warning signs]
 - [How to interpret conflicting signals]
 
 **Important Notes:**
+
 - Focus on methodology, not historical data
 - Extract frameworks, not specific numbers
 - This is HOW TO THINK, not what happened
@@ -47,37 +52,45 @@ Use this template when creating new knowledge files. Files that follow this stru
 # [Title - Clear and Descriptive]
 
 ## Context
+
 [Why this matters - 2-3 paragraphs max]
 [What problem does this framework solve?]
 [When would someone need this knowledge?]
 
 ## Core Framework
+
 [The main analytical framework - THIS IS THE KEY VALUE]
 [Make this section work standalone when retrieved by RAG]
 [Include clear if/then logic where possible]
 
 ### [Sub-framework 1]
+
 [Detailed explanation]
 
 ### [Sub-framework 2]
+
 [Detailed explanation]
 
 ## Application
+
 [How to apply the framework in practice]
 [Step-by-step process]
 [Real examples using the framework (not the prices)]
 
 ## Signals and Patterns
+
 [What to look for in practice]
 [Leading vs lagging indicators]
 [How different signals combine]
 
 ## Common Mistakes
+
 [What NOT to do - anti-patterns]
 [Traps that catch beginners]
 [How to avoid common errors]
 
 ## Conclusion
+
 - [Key takeaway 1]
 - [Key takeaway 2]
 - [Key takeaway 3]
@@ -89,12 +102,14 @@ Use this template when creating new knowledge files. Files that follow this stru
 ## What Makes Files Score High
 
 ### DO: Framework-First Content
+
 - Lead with transferable thinking patterns
 - Provide decision trees and step-by-step processes
 - Use relative thresholds ("high IV" not "IV = 45%")
 - Explain WHY before WHAT
 
 ### DON'T: Narrative Essays
+
 - Avoid personal stories without extractable frameworks
 - Don't list definitions without analytical guidance
 - Skip content a generic LLM already knows
@@ -105,26 +120,33 @@ Use this template when creating new knowledge files. Files that follow this stru
 ## Examples of Good vs Bad Content
 
 ### BAD: Generic Information
+
 ```markdown
 ## What is Funding Rate?
+
 Funding rate is a mechanism in perpetual futures...
 ```
+
 (LLM already knows this - adds no value)
 
 ### GOOD: Unique Framework
+
 ```markdown
 ## Funding Rate Interpretation Framework
 
 **When funding is positive and rising:**
+
 - Indicates crowded long positioning
 - Consider: Are longs paying to stay in?
 - Red flag if funding > 0.05% for 3+ days
 
 **Decision tree:**
+
 1. If funding flips negative after extended positive period → potential long squeeze
 2. If funding stays negative for 2-3 days → accumulation opportunity
 3. If funding spikes > 0.1% → extreme crowding, expect mean reversion
 ```
+
 (Unique framework with actionable thresholds)
 
 ---

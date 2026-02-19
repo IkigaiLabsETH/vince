@@ -3,6 +3,7 @@
 > **Teammate memory note**
 >
 > This file is the **curated long-term store** for information that should persist indefinitely. It is loaded every session (with the most recent daily logs).
+>
 > - **Use for:** Standing decisions, ongoing project context, corrections to agent behavior, rarely-changing preferences
 > - **Do NOT use for:** Every chat detail, raw numbers that go stale, one-off facts
 > - **Principle:** Same as knowledge base — provide **frameworks and intent** so the agent can think and anticipate; avoid noise. See knowledge/KNOWLEDGE-USAGE-GUIDELINES.md (methodology vs current data) and MEMORY/README.md (usage notes).
@@ -16,7 +17,7 @@ Use it for:
 
 **Do not** dump everything here. If you log every small detail, the agent burns more tokens and response quality can drop. Prefer: only what’s important for future sessions.
 
-**Habit:** When something is worth remembering, say in chat: *"Log this to MEMORY"* (or *"Add this to LONG-TERM"*) and state the line. Then add it below (or ask the agent to append it if you have that workflow).
+**Habit:** When something is worth remembering, say in chat: _"Log this to MEMORY"_ (or _"Add this to LONG-TERM"_) and state the line. Then add it below (or ask the agent to append it if you have that workflow).
 
 ---
 

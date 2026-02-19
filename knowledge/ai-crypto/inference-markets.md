@@ -3,9 +3,10 @@ tags: [ai, crypto, agents]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Decentralized Inference Markets
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_
 
 ## Methodology & Framework
 
@@ -21,7 +22,7 @@ This creates a fundamental tension: either you re-run the computation (expensive
 
 **Ritual** takes the infrastructure approach — a coprocessor network that lets smart contracts call AI models. Their key insight is that most on-chain use cases don't need full cryptographic proof of every inference. Instead, they use a combination of optimistic execution (assume honest, challenge if suspicious) and TEE (Trusted Execution Environment) attestations. Practical but relies on hardware trust assumptions. The protocol targets DeFi applications: risk scoring, dynamic parameters, intent resolution. Strongest when AI is a component of an on-chain action rather than the end product.
 
-**Allora** builds a network of ML models that compete on prediction accuracy, creating a self-improving inference market. Their "topic" system lets anyone create prediction markets around specific questions, with models staking tokens on their outputs. Accuracy is measured against ground truth over time. The clever part: they don't need to verify the computation itself — they verify the *result* against reality. Works well for forecasting, less applicable to generative AI where "correctness" is subjective.
+**Allora** builds a network of ML models that compete on prediction accuracy, creating a self-improving inference market. Their "topic" system lets anyone create prediction markets around specific questions, with models staking tokens on their outputs. Accuracy is measured against ground truth over time. The clever part: they don't need to verify the computation itself — they verify the _result_ against reality. Works well for forecasting, less applicable to generative AI where "correctness" is subjective.
 
 **Morpheus** takes a more community-driven approach — a decentralized network matching AI agents with compute providers and users. Uses a staking model where compute providers bond tokens against service quality. More focused on access and routing than cryptographic verification. Think of it as a decentralized API gateway for AI, with economic incentives replacing trust.
 
@@ -43,7 +44,6 @@ The honest assessment: most real AI workloads don't need trustless verification.
 3. **Model marketplaces** — creators monetizing models without intermediaries taking 30%+ cuts
 
 The market will likely bifurcate: practical projects using optimistic/TEE approaches capture near-term demand, while ZK-proof research plays the long game for eventual trustless verification. Watch for actual inference volume metrics, not just token price or partnership announcements. The projects processing real queries at sustainable unit economics will win.
-
 
 ## Related
 

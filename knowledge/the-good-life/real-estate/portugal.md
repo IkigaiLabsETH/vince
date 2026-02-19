@@ -4,9 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 If you’ve been following the Portugal crypto saga—or hell, if you’re just now googling “move to Europe tax-free Bitcoin”—you know the pitch: Hold your sats for 365 days, cash out to euros without Uncle Sam (or Tio Sam, in this case) taking a cut, and spend the savings on grilled sardines and third-wave espresso overlooking the Atlantic. It’s the dream that lured thousands of us here post-2020 bull run, turning Lisbon’s co-working cafes into de facto blockchain embassies and the Algarve into a surfboard-strewn startup incubator.
 
 But that line in the sand—”living on borrowed time”—isn’t hyperbole. It’s the quiet drumbeat of a continent-wide reckoning, where Brussels’ bureaucrats, armed with fresh directives and northern European grudges, are methodically dismantling the very asymmetries that made places like Portugal shine.

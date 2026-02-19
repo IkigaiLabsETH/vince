@@ -4,13 +4,15 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179508616.The Final Protest Vote
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: macro-economy
 **Word Count**: 945
 **Tags**: #bitcoin #btc #ethereum #eth #sol #defi #nft #inflation #portfolio #substack
+
 ---
 
 Man, it’s November 21, 2025, and if you’re reading this, you’re probably feeling it too—that low-key nausea that comes from watching the world pretend everything’s fine while the wheels are quietly coming off.
@@ -39,29 +41,21 @@ The system isn’t broken—it’s working exactly how they want it to. Extract 
 
 Every cycle, the same script plays out.
 
-- 
-Price moons
+- Price moons
 
-- 
-Normies pile in at the top
+- Normies pile in at the top
 
-- 
-Leverage builds up like Jenga
+- Leverage builds up like Jenga
 
-- 
-Something (tariffs, rate hikes, whatever) pulls a block
+- Something (tariffs, rate hikes, whatever) pulls a block
 
-- 
-Everything crashes
+- Everything crashes
 
-- 
-Bitcoin “dies” for the 400th time
+- Bitcoin “dies” for the 400th time
 
-- 
-The strong hands buy the dip
+- The strong hands buy the dip
 
-- 
-Cycle repeats higher
+- Cycle repeats higher
 
 We’re in that “Bitcoin dies” phase right now. And it’s beautiful.
 

@@ -4,13 +4,15 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179885808.Red Pill Blue Pill Or Purple Pill
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: altcoins
 **Word Count**: 1,139
 **Tags**: #bitcoin #btc #ethereum #eth #solana #sol #defi #fed #macro #inflation
+
 ---
 
 You remember the scene. Morpheus lays two pills on the table.
@@ -21,9 +23,9 @@ You remember the scene. Morpheus lays two pills on the table.
 
 The red pill is uglier. You stay in Wonderland, and I show you how deep the rabbit hole goes: the state didn’t lose—it joined. Most of your favourite chains are burning real-world resources at a terrifying rate to keep up the illusion of rebellion. A lot of what you were told was decentralised is just a more efficient casino with extra steps. And the old cypherpunk dream of pushing an orange button and disappearing into the sunset? That was always a half-truth at best.”
 
-Five years ago most people spat out the red pill and asked for seconds of blue.**Today, late 2025, the choice is no longer obvious. This is not another “BTC vs SOL” tribal war post. This is the post-pill report: what actually survives when you let both colours dissolve on your tongue at the same time.
+Five years ago most people spat out the red pill and asked for seconds of blue.\*\*Today, late 2025, the choice is no longer obvious. This is not another “BTC vs SOL” tribal war post. This is the post-pill report: what actually survives when you let both colours dissolve on your tongue at the same time.
 
-Part I – The Blue Pill Narrative (Still Half-True)**
+Part I – The Blue Pill Narrative (Still Half-True)\*\*
 
 ## Main
 
@@ -61,14 +63,11 @@ Solana won the product war and is still fighting the economic one. It is the onl
 
 The purple pill conclusion is brutally pragmatic:
 
-- 
-Allocate the majority of your dry-powder stack to Bitcoin, because in the endgame it is the only asset that has a realistic shot at being the global neutral reserve in a multipolar world.
+- Allocate the majority of your dry-powder stack to Bitcoin, because in the endgame it is the only asset that has a realistic shot at being the global neutral reserve in a multipolar world.
 
-- 
-Allocate a minority sleeve (5–20 %, size to insomnia tolerance) to Solana, because it is currently the highest-Sharpe way to play the speculative reflexive meta that crypto has openly become.
+- Allocate a minority sleeve (5–20 %, size to insomnia tolerance) to Solana, because it is currently the highest-Sharpe way to play the speculative reflexive meta that crypto has openly become.
 
-- 
-Hold nothing else that requires you to pretend the 2017 narratives are still fully intact. They aren’t.
+- Hold nothing else that requires you to pretend the 2017 narratives are still fully intact. They aren’t.
 
 **Outro – Back in the Chair**
 
@@ -76,7 +75,7 @@ You wake up. The pills are gone. Your Ledger still shows the same number.
 
 The difference is you now understand that the Matrix didn’t defeat the resistance. The resistance became the new retirement asset for the machines, and the machines became addicted to the only drug humans ever figured out how to print at planetary scale: credibly scarce tokens.
 
-There is no spoon, but there is still a 21-million hard cap and a 65 k theoretical TPS. 
+There is no spoon, but there is still a 21-million hard cap and a 65 k theoretical TPS.
 
 ## Conclusion
 

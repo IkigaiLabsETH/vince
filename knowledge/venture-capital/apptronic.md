@@ -3,8 +3,11 @@ tags: [vc, startups, investment]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Apptronik
+
 ## Metadata
+
 **Source**: Internal memo (compiled note; not a primary source)
 **Category**: venture-capital
 **Tags**: #robotics #humanoids
@@ -64,7 +67,6 @@ They spent years on NASA contracts, perfecting compact, efficient actuators (the
 By 2023 they decided it was time to go all-in on a full commercial humanoid. In 2025 they also launched a side venture called Elevate Robotics to build bigger, stronger machines that go beyond what humans can physically do.
 
 Most humanoid hype focuses on crazy agility or perfect hand dexterity. Apptronik went the other direction: reliability, safety, and cost. Apollo uses linear actuators instead of the usual fancy (and expensive) gear systems. It’s built to be safe around people, easy to maintain, and—crucially—cheap enough that companies will actually buy fleets of them.
-
 
 They’ve also locked in big partnerships to make the AI side actually useful. Google DeepMind is plugging Gemini models straight into Apollo, so it can handle new objects it’s never seen before or follow verbal instructions. Demos from 2025 showed it doing basic household chores, but the real focus is industrial work. They’re working with Texas Instruments on motor control, Jabil on manufacturing scale-up, and even running pilots with Mercedes-Benz in car factories.
 

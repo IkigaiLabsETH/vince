@@ -6,16 +6,18 @@
 
 • **Structured AI Onboarding**: Treating AI agents like human employees with formal documentation requirements
 • **Four Core Files Framework**:
-  - `IDENTITY.md` = defines the AI's role and persona
-  - `USER.md` = captures user preferences and working style
-  - `SOUL.md` = establishes tone, personality, and operational boundaries
-  - `AGENTS.md` = sets operating rules and protocols
-• **Professional AI Management**: Moving beyond ad-hoc prompting to systematic AI workforce management
-• **Consistency Through Documentation**: Standardized onboarding ensures reliable AI behavior across sessions
+
+- `IDENTITY.md` = defines the AI's role and persona
+- `USER.md` = captures user preferences and working style
+- `SOUL.md` = establishes tone, personality, and operational boundaries
+- `AGENTS.md` = sets operating rules and protocols
+  • **Professional AI Management**: Moving beyond ad-hoc prompting to systematic AI workforce management
+  • **Consistency Through Documentation**: Standardized onboarding ensures reliable AI behavior across sessions
 
 ## Context for Trading/Investing
 
 This framework addresses a critical gap in crypto trading operations where AI agents are increasingly used for:
+
 - Market analysis and research
 - Trade execution assistance
 - Portfolio monitoring
@@ -36,7 +38,8 @@ Without proper "onboarding," AI agents provide inconsistent results, miss contex
 
 **Tags**: `ai-management`, `trading-operations`, `workflow-optimization`, `documentation`, `agent-frameworks`, `operational-efficiency`
 
-**Cross-References**: 
+**Cross-References**:
+
 - AI trading assistant configuration
 - Systematic trading approaches
 - Risk management protocols

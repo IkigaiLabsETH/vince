@@ -4,18 +4,20 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181893912.Crypto Bandits
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: defi-metrics
 **Word Count**: 780
 **Tags**: #btc #eth #sol #defi #nft #substack
+
 ---
 
 I’m half-slumped on the couch scrolling X like an idiot. You know the vibe – can’t sleep, brain won’t shut off. Then this thread pops up. Anonymous dude unloading his confession: pulled over 10 million last cycle through straight-up grift. Rugs, ponzis, presales, ecosystem dumps. The works.
 
-But the real kick in the teeth? It yanks me back to my absolute worst bagholder moment – aping into Olympus DAO. That whole (3,3) rebase fairy tale, staking for “backing” while it hyperinflated to nothing. Millions gone. I still wince. Peak dumb money, buying the dream hard. Self-deprecating as hell now, but yeah... 
+But the real kick in the teeth? It yanks me back to my absolute worst bagholder moment – aping into Olympus DAO. That whole (3,3) rebase fairy tale, staking for “backing” while it hyperinflated to nothing. Millions gone. I still wince. Peak dumb money, buying the dream hard. Self-deprecating as hell now, but yeah...
 
 ## Context
 
@@ -29,13 +31,13 @@ Dude jumps in mid-2020, no clue about crypto, just figures everyone’s stuck ho
 
 The recipe? Embarrassingly basic. Whip up a ponzi or DeFi toy, fork it onto the hot new EVM chain. First-mover frenzy. Hot money bouncing: Drop an Aave on Fantom or Harmony – you’re early! Uniswap clone on Velas, BSC, Dogechain, Avax ghosts, Elastos, Oasis, Fuse, Telos, Astar. Early!
 
-Team? Bare bones. One dev does everything: domain, hosting, tweak public contracts with ponzi knobs – rug buttons, deadman switches, inside exploits. Marketer runs socials, pens those long “why we’re revolutionary” bait pieces for gullible retail, shills off-Twitter to hook normies new to crypto, handles BD for grants. CM sets up Discords/TGs, bots to ban FUD and spammers, spins explanations, occasional graphics. 
+Team? Bare bones. One dev does everything: domain, hosting, tweak public contracts with ponzi knobs – rug buttons, deadman switches, inside exploits. Marketer runs socials, pens those long “why we’re revolutionary” bait pieces for gullible retail, shills off-Twitter to hook normies new to crypto, handles BD for grants. CM sets up Discords/TGs, bots to ban FUD and spammers, spins explanations, occasional graphics.
 
 Artist? Churns 10k trash apes recolored for your chain, sources cheap pixel or 3D work, negotiates quick delivery, whips videos and charts. Couple months max. Boom – you’re “building.”
 
 Process? Dumb flowchart. Spot rising TVL on DefiLlama. Chain hot? Fill the gap: No Aave? Uniswap fork. Got basics? NFT market. More? RWA utility collection. OHM missing? Clone it (ha). Got that? Convex-style. Saturated? Memecoin with utility teases. Full house? Web3 game, mint crates and packs. Endless plays.
 
-Fuel was everywhere: Newbies discovering crypto, flush from ETH moons ($90 to $4k rides), UNI airdrops printing free thousands (multiple clean wallets, wealth effect max), COVID stimulus. 
+Fuel was everywhere: Newbies discovering crypto, flush from ETH moons ($90 to $4k rides), UNI airdrops printing free thousands (multiple clean wallets, wealth effect max), COVID stimulus.
 
 Everyone loaded, everyone naive. Dev-side heaven.
 

@@ -4,15 +4,15 @@ agents: [echo, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 # 180727626.The Robots Are Training
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: substack-essays
 **Word Count**: 805
 **Tags**: #eth #sol #substack
+
 ---
 
 Somewhere south of Stuttgart, in a converted warehouse that looks more like a CrossFit box than a robotics lab, the next industrial revolution is doing burpees.
@@ -26,8 +26,8 @@ While the rest of the industry has spent the last three years perfecting the art
 The results speak louder than any keynote. Their current prototype, the 4NE-1 Generation 3, can already recover from a hard shoulder check, pour water without looking at the glass, and walk across an uneven floor while carrying a tray. It is not the flashiest robot on the internet. It is simply the most competent one nobody outside a small circle of engineers has seen in person yet.
 
 That circle is about to get much larger.
-> 
-In November 2025, the Financial Times reported that NEURA is in advanced talks to raise €1 billion led by Tether at a valuation that could reach €10 billion. If the deal closes, a company founded six years ago in a country routinely written off as innovation-hostile will overnight become the most valuable private robotics company on earth. More importantly, the capital is earmarked almost entirely for one thing: building more gyms. Ten of them. Then fifty. A global network of physical training centers that will turn embodied intelligence from a research curiosity into a subscription service.
+
+> In November 2025, the Financial Times reported that NEURA is in advanced talks to raise €1 billion led by Tether at a valuation that could reach €10 billion. If the deal closes, a company founded six years ago in a country routinely written off as innovation-hostile will overnight become the most valuable private robotics company on earth. More importantly, the capital is earmarked almost entirely for one thing: building more gyms. Ten of them. Then fifty. A global network of physical training centers that will turn embodied intelligence from a research curiosity into a subscription service.
 
 ## Main
 

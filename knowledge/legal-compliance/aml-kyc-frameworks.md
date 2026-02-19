@@ -3,14 +3,17 @@ tags: [legal, compliance, regulation]
 agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # AML/KYC Frameworks for Crypto
 
 ## KYC Tiers
 
 ### Tier 0 — No KYC (Decentralized Protocols)
+
 Pure DeFi protocols with no custodial control generally fall outside VASP definitions. However, post-Tornado Cash (OFAC, 2022), even non-custodial interfaces face sanctions compliance obligations. The line is blurring — regulators increasingly argue that front-end operators and governance token holders may qualify as VASPs.
 
 ### Tier 1 — Basic KYC
+
 - Name, date of birth, country of residence
 - Government-issued ID (passport/national ID)
 - Liveness check (selfie matching)
@@ -18,12 +21,14 @@ Pure DeFi protocols with no custodial control generally fall outside VASP defini
 - Providers: Jumio, Onfido, Sumsub, Persona
 
 ### Tier 2 — Enhanced KYC
+
 - All Tier 1 requirements plus proof of address (utility bill, bank statement < 3 months)
 - Source of funds declaration
 - PEP (Politically Exposed Person) and sanctions screening
 - Required for: fiat on/off-ramps, higher transaction limits, institutional accounts
 
 ### Tier 3 — Enhanced Due Diligence (EDD)
+
 - Triggered by: high-risk jurisdictions (FATF grey/black list), PEP status, unusual transaction patterns, large volumes
 - Detailed source of wealth documentation
 - Ongoing monitoring with manual review
@@ -34,6 +39,7 @@ Pure DeFi protocols with no custodial control generally fall outside VASP defini
 The travel rule requires VASPs to share originator and beneficiary information for transfers exceeding applicable thresholds (USD/EUR 1,000 in most jurisdictions, $3,000 in the US). Implementation remains the single biggest operational challenge in crypto compliance.
 
 **Technical solutions:**
+
 - **TRISA** (Travel Rule Information Sharing Architecture) — open-source, decentralized protocol
 - **Notabene** — commercial travel rule platform, broadest VASP network coverage
 - **Sygna Bridge** — strong in APAC markets
@@ -68,4 +74,4 @@ Effective AML programs require continuous transaction monitoring, not just onboa
 5. **Record retention** — 5 years minimum (7 years in some jurisdictions) for all KYC data and transaction records
 6. **Independent audit** — annual AML program audit by external party
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

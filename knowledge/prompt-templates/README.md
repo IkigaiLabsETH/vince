@@ -10,6 +10,7 @@ Agent prompts, tiered by priority (MVP/supporting/experimental)
 - **tier-2-high-value/** (9 files)
 - **tier-3-supporting/** (13 files)
 - **tier-4-advanced/** (5 files)
+
 ## Contents
 
 - 179643791why-usdai.md
@@ -18,4 +19,3 @@ Agent prompts, tiered by priority (MVP/supporting/experimental)
 - indie-mobile-app-strategist.md
 - onboarding-framework-structured-markdown.md
 - x-thread-to-methodology.md
-

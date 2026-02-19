@@ -1,9 +1,9 @@
 ## Metadata
+
 **Source**: Direct Input | chat://direct-input/1769812837801
 **Category**: setup-guides
 **Word Count**: 1205
 **Tags**: #user-submitted #direct-input #chat #tweet-like
-
 
 # Clawdbot Architecture Deep Dive: How AI Agents Execute Computer Tasks
 
@@ -104,6 +104,7 @@ Clawd gives the agent significant computer access at your own risks. It uses an 
 - **On remote devices**
 
 Aside from that Clawd also has:
+
 - **Filesystem tools** (read, write, edit)
 - **Browser tool**, which is Playwright-based with semantic snapshots
 - **Process management** (process tool) for background long-term commands, kill processes, etc.

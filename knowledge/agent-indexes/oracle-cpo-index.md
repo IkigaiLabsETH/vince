@@ -1,7 +1,9 @@
 # Oracle — CPO Knowledge Index
+
 > Prediction markets, probability assessment, forecasting, and macro analysis
 
 ## Primary Categories
+
 - macro-economy/ — Macro regime analysis, geopolitics, monetary policy
 - options/ — Options as probability instruments, implied vol, skew signals
 - regulation/ — Regulatory probability assessment and policy forecasting
@@ -11,6 +13,7 @@
 ## Key Files
 
 ### macro-economy/
+
 - calendar.md — Economic calendar for event-driven forecasting
 - bretton-woods.md — Monetary system framework and regime change probability
 - debt.md — Sovereign debt dynamics and sustainability analysis
@@ -46,6 +49,7 @@
 - 182700127six-sigma-paradigm-shift.md — Low-probability high-impact events
 
 ### options/
+
 - options-fundamentals.md — Options as probability pricing instruments
 - 179544801fear-harvest.md — Fear as a tradeable probability
 - 179603955the-oracle-wager.md — Probability-weighted position sizing
@@ -55,6 +59,7 @@
 - 180704748the-25k-threshold.md — Key threshold probability analysis
 
 ### regulation/
+
 - global-regulatory-map.md — Global regulatory landscape mapping
 - us-regulatory-landscape-2026.md — US regulatory outlook 2026
 - mica-eu-framework.md — MiCA EU framework analysis
@@ -66,6 +71,7 @@
 - enforcement-case-studies.md — Enforcement pattern analysis
 
 ### stocks/
+
 - circle.md — Circle IPO/stock analysis
 - scandisk.md — SanDisk analysis
 - 182571856ram-heist.md — RAM/memory sector analysis
@@ -73,6 +79,7 @@
 - text--us-investments-in-key-sectors-a-trillion-dollar-b-1769649914942.md — US sector investment flows
 
 ### commodities/
+
 - commodity-supercycle-thesis.md — Commodity supercycle probability
 - gold-btc-correlation.md — Gold-BTC correlation analysis
 - inflation-hedging-framework.md — Inflation hedge effectiveness
@@ -81,10 +88,11 @@
 - 182620956great-rotation.md — Great rotation thesis
 
 ## Data Sources
+
 - Polymarket priority markets (teammate/POLYMARKET_PRIORITY_MARKETS.md)
 - FRED/Zillow macro data (prompt-templates tier-2: fred-zillow-macro)
 - CME futures data (prompt-templates tier-2: cme)
 - IMF global liquidity (prompt-templates tier-4: imf-global-liquidity)
 - Daily market brief (research-daily/)
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

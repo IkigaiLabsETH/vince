@@ -3,8 +3,8 @@ tags: [lifestyle]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
----
 
+---
 
 # Canonical Lifestyle Sources for ELIZA / VINCE
 

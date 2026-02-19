@@ -16,7 +16,6 @@ Regulatory frameworks, policy analysis, compliance
 - stablecoin-legislation.md
 - us-regulatory-landscape-2026.md
 
-
 ## Related Categories
 
 - [legal-compliance](../legal-compliance/)

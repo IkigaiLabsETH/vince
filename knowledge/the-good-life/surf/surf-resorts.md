@@ -15,6 +15,7 @@ Format: **Name** — Location | Country | Address.
 ## France — Southwest (Landes, Basque Coast, Brittany)
 
 ### Hossegor / Capbreton / Seignosse / Soorts-Hossegor
+
 - **Les Hortensias du Lac** — Hossegor | 1578 Avenue du Tour du Lac
 - **Hotel 202** — Hossegor | 202 Avenue du Golf
 - **Lake Loft** — Hossegor | 353 Avenue des Écureuils
@@ -26,6 +27,7 @@ Format: **Name** — Location | Country | Address.
 - **Hotel & Spa Villa Seren** — Hossegor | 1111 av du Touring Club de France, 40150
 
 ### Biarritz / Bidart / Anglet / Guéthary
+
 - **Hotel Villa Koegui** — Biarritz | 7 rue de Gascogne, 64200
 - **Hotel De Silhouette** — Biarritz | 30 Rue Gambetta, 64200
 - **Maison Arbolateia** — Bidart | chemin Manchulas, 64210
@@ -45,6 +47,7 @@ Format: **Name** — Location | Country | Address.
 - **Maison La fleur de sel** — Anglet | 5 Avenue de la Forêt, 64600
 
 ### Capbreton / Labenne / Seignosse / Azur / Angresse / Saubion / Lit-et-Mixe
+
 - **Bodysurf House** — Capbreton | 3 rue Desjobert
 - **Wood'n Sea Surf Lodge** — Capbreton | 6 Rue de Baye, 40130
 - **Ti'Boat - TinyLoft** — Capbreton | 23 Rue Jean Rameau, 40130
@@ -62,6 +65,7 @@ Format: **Name** — Location | Country | Address.
 - **Le Pakok** — Lit-et-Mixe | 421 Route de Malecare, 40170
 
 ### Contis / Biscarrosse / Messanges
+
 - **Hotel de la Plage** — Contis-Plage | Avenue de L'océan, 40170 Contis-les-Bains
 - **Côte & Dune Maison d'hôtes** — Biscarrosse | 675 avenue Gabriele d'Annunzio
 - **La Maison de la Prade** — Messanges | 16 Avenue de l'Océan, 40660
@@ -72,6 +76,7 @@ Format: **Name** — Location | Country | Address.
 - **Le Grand Hotel de la Plage** — Biscarrosse-Plage | 2 Avenue de la plage, 40600
 
 ### Mimizan / Soustons / Cap Ferret / Brittany (Penmarc'h, Saint-Guénolé, Plouharnel, Saint-Briac, Plélo)
+
 - **Single Fin Hotel & Lodge** — Mimizan-Plage | 16 Avenue du Courant, 40200
 - **Natural Surf Lodge** — Soustons | 280 Chemin de Bathurt, 40140
 - **la Cabane Yndō** — Cap Ferret | Avenue du Bassin, Lège-Cap-Ferret
@@ -112,6 +117,7 @@ Format: **Name** — Location | Country | Address.
 ## Costa Rica
 
 ### Santa Teresa / Malpaís
+
 - **Canaima Chill House** — Santa Teresa | 400 m up from Selina North Hostel, 60111
 - **Ranchos Itauna** — Santa Teresa | 100 mts norte del Super Costa, 60111
 - **Pranamar Villas and Yoga Retreat** — Santa Teresa
@@ -136,6 +142,7 @@ Format: **Name** — Location | Country | Address.
 - **Atrapasueños – Dreamcatcher Hotel** — Santa Teresa | 60111
 
 ### Tamarindo / Playa Langosta / Playa Grande / Nosara
+
 - **Cala Luna Tamarindo** — Tamarindo | Guanacaste, 50309
 - **RipJack Inn** — Playa Grande | Playa Grande, Guanacaste
 - **La Ponderosa** — Pavones | PO Box 81-8250, Ciudad Neily, 60704

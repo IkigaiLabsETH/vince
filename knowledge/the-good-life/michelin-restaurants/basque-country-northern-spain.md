@@ -3,6 +3,7 @@ tags: [lifestyle]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Basque Country / Northern Spain Fine Dining
 
 > **Region**: Basque Country, Northern Spain
@@ -10,7 +11,6 @@ last_reviewed: 2026-02-17
 > **Distance Reference**: 70-180 km from Southwest France base
 
 ---
-
 
 ## Arzak
 
@@ -22,6 +22,7 @@ last_reviewed: 2026-02-17
 - **Stars**: 3 Michelin Stars
 
 **The Legend**:
+
 - One of Spain's most iconic restaurants
 - Founded 1897, 3 stars since 1989
 - Elena Arzak continues family legacy with innovative Basque cuisine
@@ -40,6 +41,7 @@ last_reviewed: 2026-02-17
 - **Chef**: Paulo Airaudo
 
 **Details**:
+
 - Argentine chef Paulo Airaudo's Basque interpretation
 - Modern techniques with local ingredients
 - Part of Airaudo's San Sebastian restaurant group
@@ -57,6 +59,7 @@ last_reviewed: 2026-02-17
 - **Chef**: Martin Berasategui
 
 **Details**:
+
 - Bilbao location of the Berasategui empire
 - Modern Basque cuisine
 - Urban setting in Bilbao's riverside district
@@ -75,6 +78,7 @@ last_reviewed: 2026-02-17
 - **Stars**: 3 Michelin Stars
 
 **The Master**:
+
 - One of Spain's most decorated chefs
 - 3 stars since 2001
 - Multiple restaurants across Spain
@@ -94,6 +98,7 @@ last_reviewed: 2026-02-17
 - **Stars**: 3 Michelin Stars
 
 **The Innovation**:
+
 - Sustainable architecture and philosophy
 - Zero-waste approach
 - Modernist Basque cuisine
@@ -112,6 +117,7 @@ last_reviewed: 2026-02-17
 - **Chef**: Paulo Airaudo
 
 **Details**:
+
 - Second San Sebastian restaurant by Paulo Airaudo
 - Different concept from Ibai
 - Modern approach to Basque ingredients
@@ -130,6 +136,7 @@ last_reviewed: 2026-02-17
 - **Stars**: 2 Michelin Stars
 
 **The Philosophy**:
+
 - Experimental, avant-garde cuisine
 - 2 stars (previously held 2, closed and reopened)
 - Molecular techniques with Basque roots
@@ -149,6 +156,7 @@ last_reviewed: 2026-02-17
 - **Stars**: 1 Michelin Star
 
 **The Tradition**:
+
 - Specializes in whole grilled turbot (rodaballo)
 - Family-run since 1964
 - Coastal Getaria location
@@ -167,6 +175,7 @@ last_reviewed: 2026-02-17
 - **Region**: Zarautz, Gipuzkoa
 
 **Details**:
+
 - Traditional Basque restaurant
 - Zarautz coastal location
 - Local ingredients and techniques
@@ -184,6 +193,7 @@ last_reviewed: 2026-02-17
 - **Stars**: 1 Michelin Star
 
 **Details**:
+
 - Michelin-starred dining in San Sebastian
 - Traditional Basque with modern touches
 - Central location
@@ -201,6 +211,7 @@ last_reviewed: 2026-02-17
 - **Classification**: 5-Star Luxury Hotel
 
 **Details**:
+
 - Belle Époque palace hotel
 - San Sebastian's most prestigious address
 - Overlooking Urumea River
@@ -220,6 +231,7 @@ last_reviewed: 2026-02-17
 - **Classification**: 5-Star Hotel
 
 **Details**:
+
 - Boutique hotel opened 2017
 - Connected to 3-star Akelarre restaurant
 - Views over Cantabrian Sea
@@ -239,6 +251,7 @@ last_reviewed: 2026-02-17
 - **Region**: Getxo, Bizkaia
 
 **Details**:
+
 - Historic palace converted to luxury hotel
 - Coastal location near Bilbao
 - Belle Époque architecture
@@ -249,19 +262,19 @@ last_reviewed: 2026-02-17
 
 ## Quick Reference
 
-| Restaurant/Hotel | Stars | Location | Distance | Specialty |
-|------------------|-------|----------|----------|-----------|
-| Arzak | 3* | San Sebastian | 108 km | Legendary 3-star |
-| Martin Berasategui | 3* | Lasarte-Oria | 116 km | Technical excellence |
-| Azurmendi | 3* | Larrabetzu | 170 km | Sustainable innovation |
-| Mugaritz | 2* | Errenteria | 109 km | Avant-garde |
-| Elkano | 1* | Getaria | 125 km | Grilled turbot |
-| Kokotxa | 1* | San Sebastian | 110 km | Central Michelin |
-| Hotel Akelarre | 5* | San Sebastian | 115 km | 3-star + hotel |
-| Hotel Maria Cristina | 5* | San Sebastian | 110 km | Belle Époque luxury |
-| Garena | - | Lamindao/Dima | 174 km | Traditional jatetxea |
-| Ibai | - | San Sebastian | 110 km | Paulo Airaudo |
-| Ola Martin Berasategui | - | Bilbao | 178 km | Bilbao dining |
-| Amelia | - | San Sebastian | 110 km | Paulo Airaudo |
-| Zarate | - | Zarautz | 180 km | Coastal jatetxea |
-| Palacio Arriluce | - | Getxo | 181 km | Historic palace |
+| Restaurant/Hotel       | Stars | Location      | Distance | Specialty              |
+| ---------------------- | ----- | ------------- | -------- | ---------------------- |
+| Arzak                  | 3\*   | San Sebastian | 108 km   | Legendary 3-star       |
+| Martin Berasategui     | 3\*   | Lasarte-Oria  | 116 km   | Technical excellence   |
+| Azurmendi              | 3\*   | Larrabetzu    | 170 km   | Sustainable innovation |
+| Mugaritz               | 2\*   | Errenteria    | 109 km   | Avant-garde            |
+| Elkano                 | 1\*   | Getaria       | 125 km   | Grilled turbot         |
+| Kokotxa                | 1\*   | San Sebastian | 110 km   | Central Michelin       |
+| Hotel Akelarre         | 5\*   | San Sebastian | 115 km   | 3-star + hotel         |
+| Hotel Maria Cristina   | 5\*   | San Sebastian | 110 km   | Belle Époque luxury    |
+| Garena                 | -     | Lamindao/Dima | 174 km   | Traditional jatetxea   |
+| Ibai                   | -     | San Sebastian | 110 km   | Paulo Airaudo          |
+| Ola Martin Berasategui | -     | Bilbao        | 178 km   | Bilbao dining          |
+| Amelia                 | -     | San Sebastian | 110 km   | Paulo Airaudo          |
+| Zarate                 | -     | Zarautz       | 180 km   | Coastal jatetxea       |
+| Palacio Arriluce       | -     | Getxo         | 181 km   | Historic palace        |

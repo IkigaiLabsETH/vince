@@ -4,7 +4,6 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 Now, as we sit here on January 16, 2026—spot probing $25.50–$26.50, unlocks absorbed, ETF hype simmering—something deeper demands exploration: the sheer, mind-bending effectiveness of this wheel options strategy. With just 1 BTC’s worth of working capital deployed into HYPE tokens and used to write covered calls on Hypersurface, we’re consistently printing $2,000 a week.
 
 That’s not hyperbole; it’s unreal, almost alchemical.
@@ -26,9 +25,6 @@ Our position: ~3,600 HYPE at a blended $25.49 entry, equating to that 1 BTC capi
 If unassigned (69% probability in our Monte Carlo sims of 10,000 paths), keep the premium and roll; if called away, sell at strike (a profit from entry) and reset in USDT for rebuying dips. Annualized? Pushing 117%+ on capital, turning $95k into $111k+ yearly yields.
 
 That’s not yield farming with impermanent loss pitfalls; it’s active but systematic, enforcing discipline while buffering vol. A $1 drop hits principal by $3,600 (3.8% drawdown), but premiums cover it fast—five weeks for a $5 slide.
-
-
-
 
 Now, layering in SOL: We deployed stables for 1,400 tokens (at current levels around $143, a ~$200k allocation), wheeling covered calls on Hypersurface’s SOL pairs for similar fat premiums. Solana’s beta complements HYPE. This puts idle capital to work, potentially adding $2k–$4.8k weekly from SOL alone, compounding the machine without overextending.
 

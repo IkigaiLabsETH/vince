@@ -3,13 +3,13 @@ tags: [lifestyle]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Landes Interior Fine Dining
 
 > **Region**: Magescq, Mont-de-Marsan, St-Paul-lès-Dax, Uza
 > **Vibe**: Gascon tradition, family estates, countryside charm
 
 ---
-
 
 ## Villa Mirasol (Mont-de-Marsan)
 
@@ -18,15 +18,17 @@ last_reviewed: 2026-02-17
 - **Address**: 2 Boulevard Ferdinand de Candau, 40000 Mont-de-Marsan
 - **Website**: https://www.villamirasol.fr/
 - **Phone**: +33 5 58 44 14 14
-- **Style**: Belle Époque mansion (1912), 4* hotel
+- **Style**: Belle Époque mansion (1912), 4\* hotel
 
 **Chef**: Philippe Lagraula
+
 - Ex-Michel Troisgros, Michel Bras, Nicolas Le Bec
-- Former 1* at "Une cuisine en ville" (Dax)
+- Former 1\* at "Une cuisine en ville" (Dax)
 - Latin American influences
 
 **Restaurants**:
-- **Table Mirasol** (1* since 2023) - refined Southwest + travel inspirations
+
+- **Table Mirasol** (1\* since 2023) - refined Southwest + travel inspirations
 - **Bistrot 1912** (Bib Gourmand since 2022) - spontaneous, convivial
 
 **Hotel**: 7 rooms, gardens on Trois Rivières, Musée Despiau-Wlérick sculptures
@@ -47,6 +49,7 @@ For current opening hours call +33 5 58 44 14 14 or see villamirasol.fr.
 - **Chef**: Thierry Berthelier (30+ years)
 
 **Experience**:
+
 - Historic mill in pine forest
 - Lakeside terrace dining
 - 200+ wine references
@@ -70,6 +73,7 @@ For current opening hours call +33 5 58 44 14 14 or see villamirasol.fr.
 - **Style**: Modern local cuisine, author-driven
 
 **Experience**:
+
 - Renovated engineer's lodge from old forge
 - 30 covers inside + 30 on terrace
 - Own herb garden, edible flowers
@@ -87,14 +91,14 @@ For current opening hours call +33 5 58 44 14 14 or see villamirasol.fr.
 
 ## Quick Reference
 
-| Restaurant | Stars | Location | Price | Vibe |
-|------------|-------|----------|-------|------|
-| Relais de la Poste | 2* | Magescq | €€€€ | Gascon legend |
-| Côté Quillier | - | Magescq | €€ | Same estate bistro |
-| Villa Mirasol | 1* | Mont-de-Marsan | €€€ | Belle Époque refined |
-| Bistrot 1912 | Bib | Mont-de-Marsan | €€ | Same estate bistro |
-| Poustagnacq | - | St-Paul-lès-Dax | €€€ | Classic lakeside |
-| Table du Marensin | - | Uza | €€€ | Modern terroir |
+| Restaurant         | Stars | Location        | Price | Vibe                 |
+| ------------------ | ----- | --------------- | ----- | -------------------- |
+| Relais de la Poste | 2\*   | Magescq         | €€€€  | Gascon legend        |
+| Côté Quillier      | -     | Magescq         | €€    | Same estate bistro   |
+| Villa Mirasol      | 1\*   | Mont-de-Marsan  | €€€   | Belle Époque refined |
+| Bistrot 1912       | Bib   | Mont-de-Marsan  | €€    | Same estate bistro   |
+| Poustagnacq        | -     | St-Paul-lès-Dax | €€€   | Classic lakeside     |
+| Table du Marensin  | -     | Uza             | €€€   | Modern terroir       |
 
 ---
 

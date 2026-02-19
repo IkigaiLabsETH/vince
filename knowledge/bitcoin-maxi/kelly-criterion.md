@@ -4,19 +4,18 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 In 1956, a scientist at Bell Labs named John Kelly figured out something that sounds almost too good to be true: when you have a genuine edge, there is a single “perfect” amount to bet that will make your money grow faster than any other strategy, over and over again, for decades, while still protecting you from ever going completely broke. That perfect amount is called the Kelly Criterion.
 
-
 ## What Kelly Says
+
 It’s not gambling advice. It’s the mathematical law of how to get as rich as possible, as fast as possible, when you’ve actually found something that wins far more than it loses. Most of the time the answer is surprisingly small. If your edge is modest, Kelly tells you to risk only a tiny sliver of your money each time. That’s why professional gamblers and the sharpest investors usually sound boring and cautious. But when the edge is enormous (when the reward is many times bigger than the risk, and you’re extremely unlikely to lose everything forever), the same rule does something that feels insane: it tells you to go in huge. Sometimes 70 %, sometimes 80 %.
 
 That’s not greed talking. That’s the cold, calm voice of long-term compounding saying, “If you’re really right about this one, the fastest way to a life-changing fortune is to stop pretending this is just another investment and treat it like the rare monster opportunity it is.”
 
 Very few people in history have ever stumbled across an opportunity extreme enough for Kelly to scream “bet heavy.” A handful of early tech investors did it with companies like Apple or Amazon in the 1990s. A quiet group of Bitcoiners did it starting around 2011–2015. They didn’t get rich because they were geniuses at predicting the future. They got rich because when they became convinced they had found a once-in-a-lifetime asymmetry, they obeyed the same rule Kelly discovered in 1956 and refused to leave 90 % of the payoff on the table out of fear or social pressure. Bitcoin, for anyone who truly believes its story isn’t over, is that kind of opportunity again.
 
-
 ## Why 80% for Bitcoin
+
 The difference between putting in 10 % and putting in 80 % isn’t “a little more upside.” It’s the difference between doing very well and never having to think about money again, ever, for multiple generations. That gap is so large that the math says fear is the far bigger risk. The Kelly Criterion isn’t about being reckless. It’s about being honest: when something this lopsided comes along, the truly reckless move is staying small.
 
 You don’t need to be a genius to get rich holding Bitcoin. You just need one rule that almost nobody follows. Put 80 % of everything you own into Bitcoin and then do absolutely nothing aggressive with it for ten, twenty, thirty years.

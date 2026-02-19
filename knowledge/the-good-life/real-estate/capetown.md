@@ -4,9 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 Earth’s five classic Mediterranean climate zones – California, the Mediterranean Basin itself, central Chile, the Western Cape of South Africa, and southwestern Australia – share an almost magical recipe: hot, dry summers; mild, wet winters; dramatic coastlines; and fertile soils that produce world-class wines. These parallel ecosystems, clustered between roughly 30° and 45° latitude on western continental edges, create lifestyles built around outdoor living, biodiversity, and scenic splendor. When we ranked luxury real estate opportunities across these zones (based on prime coastal or hillside properties as of early 2026), the Western Cape stood out for exceptional value: high-end homes averaging USD 5,000–12,000 per square meter in the most desirable pockets, delivering Riviera-like glamour at a fraction of the cost seen in California (USD 15,000–25,000+) or the Côte d’Azur (USD 20,000–50,000+). Chile offers the deepest discounts, Australia a solid middle ground – but for many, Cape Town combines unmatched natural drama, vibrant culture, and investment upside.
 
 And if one city embodies this perfect convergence? It’s Cape Town.

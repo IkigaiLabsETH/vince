@@ -3,6 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Solana Stablecoin Flows
 
 ## Analysis
@@ -35,4 +36,4 @@ Stablecoin supply on Solana is one of the cleanest leading indicators for the ec
 
 For macro positioning, tracking the stablecoin supply ratio between Solana and competing chains provides a real-time read on where the marginal dollar of crypto capital is flowing.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

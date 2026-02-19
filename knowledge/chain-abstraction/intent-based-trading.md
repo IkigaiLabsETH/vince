@@ -3,6 +3,7 @@ tags: [intents, ux, cross-chain]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Intent-Based Trading
 
 ## The Intent Primitive
@@ -16,6 +17,7 @@ This is a fundamental architectural shift. The user signs an off-chain message (
 UniswapX is Uniswap's intent layer, launched in 2023 and now handling significant volume. Users sign an order specifying input/output tokens and a **Dutch auction** decay curve — the price starts favorable to the solver and decays toward the user's limit. First solver to fill wins.
 
 Key mechanics:
+
 - **Dutch auction pricing**: eliminates the need for users to set slippage; the market discovers the fair price
 - **Exclusive fillers**: a time window where one solver has priority, incentivizing tighter quotes
 - **Cross-chain UniswapX**: extends intents across chains — user signs on origin, solver fills on destination, settlement happens via bridge escrow
@@ -27,6 +29,7 @@ The cross-chain extension is significant. It turns UniswapX from a DEX aggregato
 CoW (Coincidence of Wants) Protocol pioneered batch auctions for intent settlement. Instead of filling orders individually, CoW batches orders together and finds **peer-to-peer matches** before routing remaining volume to on-chain liquidity.
 
 The batch auction model has unique properties:
+
 - **Uniform clearing prices**: all trades in a batch get the same price, eliminating ordering advantages
 - **Coincidence of Wants**: if Alice sells ETH for USDC and Bob sells USDC for ETH, they trade directly — zero LP fees, zero slippage
 - **Solver competition**: solvers submit complete batch solutions; the protocol picks the solution maximizing trader surplus
@@ -47,8 +50,7 @@ Intent-based trading is converging with chain abstraction. When users express in
 
 Open questions remain: solver centralization risk (few sophisticated solvers dominating flow), intent expressiveness limits (complex multi-step DeFi strategies are hard to express as single intents), and cross-chain settlement security (who guarantees the solver actually filled on the destination chain?).
 
-*Last updated: 2026-02-15*
-
+_Last updated: 2026-02-15_
 
 ## Related
 

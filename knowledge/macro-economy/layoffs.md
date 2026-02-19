@@ -4,7 +4,6 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 The layoff notices arrive quietly now, no more splashy headlines, just another Slack message, another HR calendar invite titled “1:1 – Urgent.” By December 2025 the American economy has quietly shed more people in a single year than it did during the worst of the pandemic. Three hundred and seven thousand federal workers, forty-eight thousand at UPS, thirty thousand inside Amazon’s corporate towers, twenty-four thousand at Intel, on and on until the names blur into a single low hum of dread. The question on every displaced person’s lips is simple and brutal: where do we go now?
 
 The answer is that most of them are walking straight into the furnace that fired them. This is not the collapse of 2008, when the financial system ate itself and took the rest of us down with it. That was a crisis of debt, of lies wrapped in triple-A ratings, of houses that were never homes. This is something colder and clearer: a crisis of efficiency. The machines have finally become cheaper than the people, and the people who own the machines have the cash to prove it.

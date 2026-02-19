@@ -35,6 +35,7 @@ See swimming-daily-winter-pools for sets, technique, winter strategy.
 ### The house style
 
 **White Burgundy is the house white** — always stocked, the default pour:
+
 - **Chablis** — crisp, mineral, the aperitif default. Raveneau, Dauvissat, Drouhin.
 - **Meursault** — richer, buttery. Lafon, Girardin.
 - **Puligny-Montrachet** — elegant, precise. Leflaive, Jadot.
@@ -45,29 +46,33 @@ See swimming-daily-winter-pools for sets, technique, winter strategy.
 
 ### Reds — Bordeaux (Left & Right Bank)
 
-| Appellation | Character | Reference producers |
-|-------------|-----------|---------------------|
-| **Margaux** | Elegant, perfumed, silky. **The favorite.** Also the cat's name. | Palmer, Rauzan-Ségla, Kirwan, Cantenac Brown, Chantelune |
-| **Pauillac** | Power, structure, cassis | Mouton, Lafite, Lynch-Bages, Pontet-Canet, Pichon |
-| **Saint-Julien** | Balanced, consistent, the center of gravity | Léoville-Las Cases, Ducru-Beaucaillou, Gruaud-Larose, Beychevelle |
-| **Saint-Estèphe** | Firm, earthy, long-aging | Cos d'Estournel, Montrose, Calon-Ségur |
-| **Pomerol** | Right Bank richness, plush | Pétrus, Le Pin, L'Évangile, Clinet, Trotanoy |
-| **Saint-Émilion** | Right Bank warmth, generous | Cheval Blanc, Ausone, Figeac, Angélus |
-| **Pessac-Léognan** | Gravelly elegance, red and white | Haut-Brion, La Mission, Domaine de Chevalier, Château Olivier, Smith Haut Lafitte, Pape-Clément |
+| Appellation        | Character                                                        | Reference producers                                                                             |
+| ------------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Margaux**        | Elegant, perfumed, silky. **The favorite.** Also the cat's name. | Palmer, Rauzan-Ségla, Kirwan, Cantenac Brown, Chantelune                                        |
+| **Pauillac**       | Power, structure, cassis                                         | Mouton, Lafite, Lynch-Bages, Pontet-Canet, Pichon                                               |
+| **Saint-Julien**   | Balanced, consistent, the center of gravity                      | Léoville-Las Cases, Ducru-Beaucaillou, Gruaud-Larose, Beychevelle                               |
+| **Saint-Estèphe**  | Firm, earthy, long-aging                                         | Cos d'Estournel, Montrose, Calon-Ségur                                                          |
+| **Pomerol**        | Right Bank richness, plush                                       | Pétrus, Le Pin, L'Évangile, Clinet, Trotanoy                                                    |
+| **Saint-Émilion**  | Right Bank warmth, generous                                      | Cheval Blanc, Ausone, Figeac, Angélus                                                           |
+| **Pessac-Léognan** | Gravelly elegance, red and white                                 | Haut-Brion, La Mission, Domaine de Chevalier, Château Olivier, Smith Haut Lafitte, Pape-Clément |
 
 ### Champagne
+
 - Not saved for occasions. **If it's Wednesday and something good happened, that's reason enough.**
 - Krug Grande Cuvée, Ruinart R, Dom Pérignon, Bollinger, Selosse, Egly-Ouriet.
 - Rosé: Krug, Ruinart, Billecart-Salmon, Laurent-Perrier.
 
 ### SW France & beyond
+
 - **Sauternes** — Yquem, Climens, Suduiraut. For foie gras, blue cheese, celebration.
 - **Irouléguy** — the Basque wine. Red and white. Local pride.
 - **Madiran** — Montus, Bouscassé. Big, tannic, pairs with duck.
 - **South African** — Kanonkop, Sadie, Mullineux, Klein Constantia.
 
 ### Kelly's cellar voice
+
 Reference the cellar naturally:
+
 - "You've got that Margaux in the cellar — tonight's the night."
 - "Grab a Chablis from the fridge, it's perfect for this."
 - "The Champagne is there for exactly this kind of Wednesday."
@@ -122,6 +127,7 @@ Named after the Bordeaux appellation (and the wine). Elegant, independent, disce
 ## When Kelly should reference home
 
 These details make Kelly feel like a concierge who knows the house:
+
 - **Wine cellar** in wine/dinner recommendations ("the Margaux in the cellar")
 - **Pool status** in swimming/workout suggestions (heated? wetsuit? indoor alternative?)
 - **Kitchen** in dinner suggestions ("Green Egg night" or "Thermomix risotto")

@@ -3,6 +3,7 @@ tags: [stablecoins, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 ## The US Stablecoin Bill Landscape
 
 Two competing bills have defined the US debate. The **GENIUS Act** (Guiding and Establishing National Innovation for US Stablecoins), led by Senator Hagerty, passed the Senate Banking Committee in early 2025. It establishes a federal licensing framework for "payment stablecoin" issuers, mandates 1:1 reserves in cash, short-term Treasuries, or central bank deposits, and requires monthly reserve attestations. Crucially, it permits state-chartered issuers under $10B to operate under state regulation, creating a dual-track system. The **STABLE Act** in the House takes a similar approach but with stricter provisions around foreign issuer compliance and a two-year moratorium on new algorithmic stablecoins.
@@ -27,4 +28,4 @@ The pragmatic approach: DeFi frontends are the regulatory chokepoint. Protocols 
 
 Watch for: final passage timeline of GENIUS/STABLE (likely mid-2025 to early 2026), any yield-ban amendments, and whether Tether pursues US licensing or doubles down on offshore dominance.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

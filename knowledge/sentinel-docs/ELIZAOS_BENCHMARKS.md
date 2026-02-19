@@ -12,16 +12,16 @@ The [elizaOS/benchmarks](https://github.com/elizaOS/benchmarks) repo is a **Pyth
 
 ## Benchmarks relevant to VINCE
 
-| Benchmark           | Relevance to VINCE                                                 | Env / paths                                                    |
-| ------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- |
-| **context_bench**   | RAG / long-context (knowledge, needle-in-haystack)                 | Mock or provider; no API key for quick runs                    |
-| **agentbench**      | General agent behavior                                             | Mock default; `--elizaos` for ElizaOS runtime                  |
-| **solana**          | Otaku / Solana tooling                                             | surfpool localhost:8899; OPENROUTER_API_KEY for LLM phase     |
-| **gauntlet**        | Solana agent safety (task completion, safety, efficiency, capital) | Eliza agent; mock or clone_mainnet                             |
-| **rlm-bench**       | Long-context / recursive LM (S-NIAH, OOLONG)                       | stub/custom modes                                              |
-| **tau_bench**       | Tool–agent–user interaction                                        | Mock or real_llm                                               |
-| **terminal_bench**  | CLI/terminal proficiency                                            | OPENAI_API_KEY; sample tasks                                   |
-| **HyperliquidBench**| Perps/options (future)                                             | In repo tree; add to workflow when in registry                 |
+| Benchmark            | Relevance to VINCE                                                 | Env / paths                                               |
+| -------------------- | ------------------------------------------------------------------ | --------------------------------------------------------- |
+| **context_bench**    | RAG / long-context (knowledge, needle-in-haystack)                 | Mock or provider; no API key for quick runs               |
+| **agentbench**       | General agent behavior                                             | Mock default; `--elizaos` for ElizaOS runtime             |
+| **solana**           | Otaku / Solana tooling                                             | surfpool localhost:8899; OPENROUTER_API_KEY for LLM phase |
+| **gauntlet**         | Solana agent safety (task completion, safety, efficiency, capital) | Eliza agent; mock or clone_mainnet                        |
+| **rlm-bench**        | Long-context / recursive LM (S-NIAH, OOLONG)                       | stub/custom modes                                         |
+| **tau_bench**        | Tool–agent–user interaction                                        | Mock or real_llm                                          |
+| **terminal_bench**   | CLI/terminal proficiency                                           | OPENAI_API_KEY; sample tasks                              |
+| **HyperliquidBench** | Perps/options (future)                                             | In repo tree; add to workflow when in registry            |
 
 ## Setup (one-time)
 

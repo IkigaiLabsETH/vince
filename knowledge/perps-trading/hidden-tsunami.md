@@ -4,23 +4,26 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 182619266.Hidden Tsunami
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: perps-trading
 **Word Count**: 834
 **Tags**: #bitcoin #eth #sol #defi #options #futures #fed #trading #substack
+
 ---
+
 2025 has been a year of reckoning. Officially, around $150 billion to $155 billion in long and short positions were liquidated across global exchanges, averaging $400 million to $500 million in daily leverage flushes.
 
-These figures, aggregated from trackers like CoinGlass, paint a picture of a market under constant pressure from geopolitical shocks, Federal Reserve policy whiplash, and speculative fervor. Yet, beneath this surface lies a deeper, murkier reality: the true scale of liquidations may be vastly underreported, potentially 3-5 times higher than publicized numbers. This opacity, particularly from dominant players like Binance, not only distorts market perceptions but also amplifies systemic risks in an industry already prone to cascades. 
+These figures, aggregated from trackers like CoinGlass, paint a picture of a market under constant pressure from geopolitical shocks, Federal Reserve policy whiplash, and speculative fervor. Yet, beneath this surface lies a deeper, murkier reality: the true scale of liquidations may be vastly underreported, potentially 3-5 times higher than publicized numbers. This opacity, particularly from dominant players like Binance, not only distorts market perceptions but also amplifies systemic risks in an industry already prone to cascades.
 
 ## Context
 
 Drawing on data from CoinGlass reports, exchange analyses, and insider critiques, this essay explores the reported chaos, the shadows of underreporting, and the broader implications for crypto’s future.
 
-The Surface-Level Carnage: A Year of Relentless Liquidations**
+The Surface-Level Carnage: A Year of Relentless Liquidations\*\*
 
 2025’s cryptocurrency derivatives market was a juggernaut, with total trading volume exploding to nearly $86 trillion—averaging $265 billion daily. This surge reflected institutional adoption, retail speculation, and the allure of high-leverage products like perpetual futures and options. But with great volume came great volatility, and liquidations became the year’s defining metric of pain.
 
@@ -43,16 +46,16 @@ At the epicenter stands Binance, commanding nearly 30% of global derivatives vol
 Critics argue Binance relies on internal pricing for collateral like USDe, bnSOL, and wBETH, bypassing external oracles and raising manipulation risks. In defenses posted by the exchange, it refuted claims of causing the crash or depegging issues, but skepticism persists.
 
 **The Underreporting Thesis: Multiplying the Pain**
-**
+\*\*
 Here’s where the thesis gains traction: the real liquidation figures could be 3-5 times higher, or even more in extreme cases. Industry voices, including Bybit’s CEO and Hyperliquid’s founder Jeff Yan, have admitted that public data understates the truth by “multifold” amounts.
 
 Yan alleged Binance bundles thousands of liquidation orders into single reported transactions, masking scale—potentially underreporting by up to 100x during the October crash, inflating the real figure from $2.5 billion to $250 billion.
 
-Discrepancies in long/short ratios (Binance claimed 60% longs vs. others’ 85-96%) further fuel doubts. This isn’t isolated; OTC desks, smaller platforms, and non-public data gaps contribute to underestimation across the board. 
+Discrepancies in long/short ratios (Binance claimed 60% longs vs. others’ 85-96%) further fuel doubts. This isn’t isolated; OTC desks, smaller platforms, and non-public data gaps contribute to underestimation across the board.
 
 Extrapolating Binance’s alleged 2-3x underreporting (a conservative estimate) to its 30% market share could push the true annual total to $300-500 billion, aligning with the 3-5x multiplier. As one analyst noted, “This wasn’t retail panic; it looked like a fund blew up,” highlighting structural unwinds hidden from view.
 
-Implications: Risks, Centralization, and the Path Forward**
+Implications: Risks, Centralization, and the Path Forward\*\*
 
 This underreporting breeds peril. It distorts risk assessments, encouraging overleverage and amplifying cascades—evident in how the October event transmitted shocks to decentralized exchanges (DEXes), where prices held better due to less opacity. Centralization in Binance and top-five exchanges (holding 90% of funds) exacerbates this, turning platforms into single points of failure.
 

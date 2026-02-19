@@ -11,7 +11,6 @@ MEV strategies, sandwich attacks, builder markets, PBS
 - mev-protection.md
 - mev-supply-chain.md
 
-
 ## Related Categories
 
 - [perps-trading](../perps-trading/)

@@ -15,6 +15,7 @@ The Knowledge Plugin allows agents to learn from documents in **three ways**:
 ### Current Setup (Strategy Optimization Agent)
 
 **Your Current Configuration:**
+
 ```
 knowledge/
 ├── strategy-optimization/
@@ -23,6 +24,7 @@ knowledge/
 ```
 
 **Configuration:**
+
 ```bash
 # .env
 LOAD_DOCS_ON_STARTUP=true
@@ -30,6 +32,7 @@ KNOWLEDGE_PATH=./knowledge
 ```
 
 **What Happens:**
+
 1. Agent starts
 2. Automatically finds all files in `knowledge/` directory
 3. Processes each document into searchable chunks
@@ -62,6 +65,7 @@ bun start
 ```
 
 **Console Output:**
+
 ```
 [INFO] Loaded 1 documents from knowledge folder on startup
 [INFO] Processing: hype-wheel-strategy.md
@@ -73,11 +77,11 @@ bun start
 
 ```
 You: "What does the $HYPE wheel strategy say about strike selection?"
-Agent: [Automatically searches knowledge, finds relevant sections from 
+Agent: [Automatically searches knowledge, finds relevant sections from
         hype-wheel-strategy.md, provides contextual answer]
 
 You: "What's your experience with the $26 vs $27 strike decision?"
-Agent: [Retrieves specific section about $26 strike optimization, 
+Agent: [Retrieves specific section about $26 strike optimization,
         cites methodology from knowledge base]
 ```
 
@@ -106,6 +110,7 @@ bun start
 ```
 
 **Benefits:**
+
 - ✅ Version controlled (commit to git)
 - ✅ Consistent across deployments
 - ✅ Automatically loaded on startup
@@ -131,6 +136,7 @@ bun start
    - Experiment with different content
 
 **How to Use:**
+
 ```
 1. Start agent: bun start
 2. Open: http://localhost:3000
@@ -150,7 +156,7 @@ knowledge: [
   "# $HYPE Wheel Strategy\n\nThe $26 strike offers... (500 lines)",
   "# Weekly Evaluation\n\nOur weekly evaluation... (1000 lines)",
   // This is inefficient and hard to maintain!
-]
+];
 ```
 
 **✅ Instead, use files:**
@@ -163,6 +169,7 @@ knowledge/
 ```
 
 **Why Files Are Better:**
+
 - ✅ Version control (git)
 - ✅ Easy to update
 - ✅ Better processing (deduplication, chunking)
@@ -170,6 +177,7 @@ knowledge/
 - ✅ No code changes needed to update knowledge
 
 **When to Use `knowledge` Array:**
+
 - ✅ Tiny snippets only (< 100 tokens)
 - ✅ Static information (office hours, contact info)
 - ✅ One-liners that don't need documents
@@ -178,8 +186,8 @@ knowledge/
 // ✅ OK for tiny snippets
 knowledge: [
   "Our trading window: Monday-Friday, 9 AM - 5 PM EST",
-  "Emergency contact: [email protected]"
-]
+  "Emergency contact: [email protected]",
+];
 ```
 
 ## 📚 Real-World Examples
@@ -189,12 +197,14 @@ knowledge: [
 **File:** `knowledge/strategy-optimization/hype-wheel-strategy.md`
 
 **Content:** Full strategy document with:
+
 - Multi-phase trading history
 - Strike selection methodology
 - Risk-reward calculations
 - Historical context
 
 **How Agent Uses It:**
+
 ```
 User: "What strike price should I use for $HYPE?"
 
@@ -205,8 +215,8 @@ Agent Process:
 4. Injects into context: "# Knowledge\n[retrieved chunks]"
 5. Agent uses this to provide recommendation
 
-Response: "Based on our $HYPE wheel strategy knowledge, the $26 strike 
-offers 118% APR compared to 65% at $27, representing nearly double the 
+Response: "Based on our $HYPE wheel strategy knowledge, the $26 strike
+offers 118% APR compared to 65% at $27, representing nearly double the
 yield with ~$1,000 additional weekly premium on a 3,600 token position..."
 ```
 
@@ -225,19 +235,23 @@ touch knowledge/strategy-optimization/weekly-evaluation.md
 # Weekly Options Strategy Evaluation Methodology
 
 ## Overview
+
 Our weekly evaluation process synthesizes multiple data sources...
 
 ## Volatility Assessment
+
 We assess volatility through multiple lenses:
+
 - Historical volatility from price data
 - Implied volatility from options markets
-...
+  ...
 
 ## Weekly Routine
+
 1. Check Price Monitor for current prices
 2. Analyze Metrics Analyst data for TVL/volume ratios
 3. Apply our framework for strike selection
-...
+   ...
 ```
 
 **Step 3: Restart Agent**
@@ -263,6 +277,7 @@ Agent: [Retrieves and references weekly-evaluation.md]
 **Scenario:** Quick test with a new strategy variation
 
 **Steps:**
+
 1. Create `test-strategy.md` on your computer
 2. Start agent: `bun start`
 3. Open `http://localhost:3000`
@@ -272,6 +287,7 @@ Agent: [Retrieves and references weekly-evaluation.md]
 7. Document processed immediately ✅
 
 **Console Output:**
+
 ```
 [INFO] Processing uploaded document: test-strategy.md
 [INFO] Generated 12 chunks from document
@@ -279,12 +295,14 @@ Agent: [Retrieves and references weekly-evaluation.md]
 ```
 
 **Test Immediately:**
+
 ```
 You: "What does test-strategy.md say about volatility?"
 Agent: [Uses newly uploaded document]
 ```
 
 **When Done Testing:**
+
 - Delete via Knowledge tab (web interface)
 - Or keep it if useful
 
@@ -308,18 +326,18 @@ Knowledge Provider:
 // 3. Injected into agent context
 Agent Context:
   "# Knowledge
-   
-   In the $HYPE wheel strategy section on strike selection, 
+
+   In the $HYPE wheel strategy section on strike selection,
    the $26 strike offers 118% APR compared to 65% at $27...
-   
+
    [More relevant chunks...]
-   
+
    User message: What strike price should I use for $HYPE?"
 
 // 4. Agent generates response using knowledge + message
-Agent: "Based on our $HYPE wheel strategy, I recommend the $26 
-        strike because it offers 118% APR, nearly double the 
-        65% yield at $27. For a 3,600 token position, this 
+Agent: "Based on our $HYPE wheel strategy, I recommend the $26
+        strike because it offers 118% APR, nearly double the
+        65% yield at $27. For a 3,600 token position, this
         provides ~$1,000 additional weekly premium..."
 ```
 
@@ -354,6 +372,7 @@ User Message
 ```
 
 **Key Points:**
+
 - ✅ **Automatic**: No special commands needed
 - ✅ **Transparent**: You can check RAG metadata to see what was used
 - ✅ **Efficient**: Only retrieves relevant chunks (top 5)
@@ -378,14 +397,14 @@ bun start
 
 ```
 You: "What documents do you have about $HYPE strategy?"
-Agent: "I have information about the $HYPE wheel strategy from 
-        hype-wheel-strategy.md, which covers strike selection, 
+Agent: "I have information about the $HYPE wheel strategy from
+        hype-wheel-strategy.md, which covers strike selection,
         risk management, and historical trading phases..."
 
 You: "What do you know about strike selection?"
-Agent: "Based on my knowledge of the $HYPE wheel strategy, strike 
-        selection involves comparing premiums at different strikes. 
-        For example, the $26 strike offers 118% APR compared to 
+Agent: "Based on my knowledge of the $HYPE wheel strategy, strike
+        selection involves comparing premiums at different strikes.
+        For example, the $26 strike offers 118% APR compared to
         65% at $27..."
 ```
 
@@ -447,6 +466,7 @@ knowledge/
 ```
 
 **Why This Structure:**
+
 - ✅ **Logical grouping**: Related topics together
 - ✅ **Easy to find**: Clear folder names
 - ✅ **Scalable**: Add more folders as needed
@@ -455,6 +475,7 @@ knowledge/
 ### Document Naming Conventions
 
 **✅ Good Names:**
+
 ```
 hype-wheel-strategy.md           # Clear, descriptive
 weekly-evaluation.md             # Specific topic
@@ -463,6 +484,7 @@ risk-reward-analysis.md          # Descriptive
 ```
 
 **❌ Bad Names:**
+
 ```
 doc1.md                          # Not descriptive
 strategy.md                      # Too generic
@@ -473,6 +495,7 @@ everything.md                    # Too broad
 ### One Topic Per Document
 
 **✅ Recommended:**
+
 ```
 knowledge/strategy-optimization/
 ├── strike-selection.md          # One topic: strike selection
@@ -481,12 +504,14 @@ knowledge/strategy-optimization/
 ```
 
 **❌ Avoid:**
+
 ```
 knowledge/strategy-optimization/
 └── all-strategies.md            # Too broad, harder to retrieve
 ```
 
 **Why One Topic:**
+
 - ✅ Better retrieval accuracy
 - ✅ Easier to update specific topics
 - ✅ Clearer document purpose
@@ -499,6 +524,7 @@ knowledge/strategy-optimization/
 **Scenario:** Weekly strategy evaluation, updating knowledge with new insights
 
 **Approach:**
+
 ```
 1. Create weekly-evaluation.md in knowledge/strategy-optimization/
 2. Document your weekly methodology
@@ -508,6 +534,7 @@ knowledge/strategy-optimization/
 ```
 
 **Or via Web Interface (Dynamic):**
+
 ```
 1. Update weekly-evaluation.md locally
 2. Upload via web interface (no restart needed)
@@ -519,6 +546,7 @@ knowledge/strategy-optimization/
 **Scenario:** Want to test a new strategy approach
 
 **Approach:**
+
 ```
 1. Create test-strategy.md
 2. Upload via web interface (http://localhost:3000)
@@ -533,6 +561,7 @@ knowledge/strategy-optimization/
 **Scenario:** Agent needs to synthesize information from multiple documents
 
 **How It Works:**
+
 ```
 You: "Compare our $HYPE strategy with BTC strategies"
 
@@ -542,8 +571,8 @@ Agent Process:
 3. Synthesizes information from both documents
 4. Provides comparative analysis
 
-Response: "Our $HYPE wheel strategy focuses on high-IV assets with 
-          118% APR yields, while our BTC strategy emphasizes stability 
+Response: "Our $HYPE wheel strategy focuses on high-IV assets with
+          118% APR yields, while our BTC strategy emphasizes stability
           with 1-1.3% weekly yields through lower volatility..."
 ```
 
@@ -552,11 +581,13 @@ Response: "Our $HYPE wheel strategy focuses on high-IV assets with
 ### Documents Not Loading
 
 **Problem:**
+
 ```
 No documents found in logs, Knowledge tab is empty
 ```
 
 **Check:**
+
 ```bash
 # 1. Verify .env has:
 LOAD_DOCS_ON_STARTUP=true
@@ -574,6 +605,7 @@ cat knowledge/strategy-optimization/hype-wheel-strategy.md
 ```
 
 **Solution:**
+
 ```bash
 # Restart agent after changing .env
 bun start
@@ -585,17 +617,20 @@ bun start
 ### Agent Can't Find Information
 
 **Problem:**
+
 ```
 Agent: "I don't have information about that"
 But you know it's in hype-wheel-strategy.md
 ```
 
 **Check:**
+
 1. **Document loaded?** Check Knowledge tab
 2. **Content exists?** Verify file has the information
 3. **Query too generic?** Try more specific terms
 
 **Try:**
+
 ```
 ❌ "What do you know?" (too generic)
 ✅ "What does the $HYPE wheel strategy say about strike selection?"
@@ -610,11 +645,13 @@ But you know it's in hype-wheel-strategy.md
 ### Slow Processing
 
 **Problem:**
+
 ```
 Document processing takes too long
 ```
 
 **Optimize:**
+
 ```bash
 # Reduce parallel processing
 MAX_CONCURRENT_REQUESTS=15  # Default is 30
@@ -627,21 +664,23 @@ TEXT_MODEL=anthropic/claude-3-haiku  # Faster than Sonnet
 
 ### Three Ways to Add Knowledge
 
-| Method | Best For | How | When |
-|--------|----------|-----|------|
-| **Auto-load from folder** | Production documents | Put in `knowledge/` folder | ✅ **Recommended for your use case** |
-| **Web interface upload** | Dynamic content, testing | Drag & drop at `http://localhost:3000` | User uploads, quick tests |
-| **Hardcode in array** | Tiny snippets only | `knowledge: [...]` in character | Static one-liners only |
+| Method                    | Best For                 | How                                    | When                                 |
+| ------------------------- | ------------------------ | -------------------------------------- | ------------------------------------ |
+| **Auto-load from folder** | Production documents     | Put in `knowledge/` folder             | ✅ **Recommended for your use case** |
+| **Web interface upload**  | Dynamic content, testing | Drag & drop at `http://localhost:3000` | User uploads, quick tests            |
+| **Hardcode in array**     | Tiny snippets only       | `knowledge: [...]` in character        | Static one-liners only               |
 
 ### Your Current Setup
 
 ✅ **What's Working:**
+
 - Plugin configured in agent
 - Auto-loading enabled (`LOAD_DOCS_ON_STARTUP=true`)
 - Custom path configured (`KNOWLEDGE_PATH=./knowledge`)
 - First document created (`hype-wheel-strategy.md`)
 
 📋 **Recommended Next Steps:**
+
 1. Add more strategy documents (weekly-evaluation.md, strike-selection.md)
 2. Test knowledge retrieval with specific queries
 3. Enable contextual embeddings for 50% better accuracy (optional)

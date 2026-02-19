@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Indie Mobile App Strategist — Prompt Template
 
 A production-ready prompt for generating simple, profitable, Instagram-viral subscription app ideas. Demonstrates PROMPT-ENGINEER-MASTER architecture: role, mindset, build constraints, idea rules, growth logic, output format, and pre-output verification.
@@ -63,6 +64,7 @@ Stay tightly within this lane—single-pain, single-outcome, daily subscription 
 ## Output & Verification
 
 **Before presenting, verify each idea:**
+
 - Solo-dev buildable
 - 7-day MVP friendly
 - Mostly frontend
@@ -93,6 +95,7 @@ If any fail, discard it.
 ## Teaching Notes (for Eliza)
 
 This template illustrates:
+
 - **Pre-output verification:** Discard logic prevents bad ideas from reaching the user.
 - **Strict constraints:** Build time, stack, and complexity are explicit—no ambiguity.
 - **Output schema:** Every field is named; model knows exactly what to produce.

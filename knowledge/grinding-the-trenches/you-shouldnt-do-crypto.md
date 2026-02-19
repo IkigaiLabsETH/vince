@@ -4,13 +4,15 @@ agents: [echo, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179665925.You Shouldnt Do Crypto
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: grinding-the-trenches
 **Word Count**: 1,367
 **Tags**: #bitcoin #btc #eth #solana #sol #defi #fed #macro #substack
+
 ---
 
 The President of the United States has not one but two memecoins. Senators are tweeting CA’s. Your Uber driver is farming points on something called “Virtuals” while stuck in traffic. Crypto isn’t “early” anymore—it’s the new casino on the Vegas strip, except the house is a rotating cast of 22-year-old pseudonymous degens, venture capitalists, and literal heads of state, and the cocktail waitresses are all paid in tokens they’re quietly distributing at the top.
@@ -27,19 +29,15 @@ The bigger the account, the more likely the post you’re reading exists because
 
 ## Main
 
-- 
-They got tokens OTC at 0.0001 and need you to pay 0.005 so they can buy a new Richard Mille.
+- They got tokens OTC at 0.0001 and need you to pay 0.005 so they can buy a new Richard Mille.
 
-- 
-Theyturned a $3M-market-cap “first dog on Base” into weekend sport
+- Theyturned a $3M-market-cap “first dog on Base” into weekend sport
 
-- 
-They’re literally being paid by the project
+- They’re literally being paid by the project
 
-- 
-They’re bagholding garbage and praying your FOMO becomes their bailout.
+- They’re bagholding garbage and praying your FOMO becomes their bailout.
 
-None of this is conspiracy. 
+None of this is conspiracy.
 
 It’s just incentives in a permissionless, zero-accountability playground running at 100x speed. Even the “Good Ones” Will Rekt You.
 
@@ -53,23 +51,17 @@ Honestly? Most of you should. If the thought of wondering whether the person rat
 
 But if you’re still here, moth to flame, at least fly smarter:
 
-- 
-Spend 90% of your time reading, 10% of your money (if any) buying.
+- Spend 90% of your time reading, 10% of your money (if any) buying.
 
-- 
-Treat every ticker shilled in public like a biological weapon.
+- Treat every ticker shilled in public like a biological weapon.
 
-- 
-Keep a private list of who pushed what and how it aged. Patterns reveal themselves fast.
+- Keep a private list of who pushed what and how it aged. Patterns reveal themselves fast.
 
-- 
-Have no idols. The second someone calls themselves “based” they’re selling you something—either coins or a personality cult.
+- Have no idols. The second someone calls themselves “based” they’re selling you something—either coins or a personality cult.
 
-- 
-Use platforms like Kaito that reward engagement instead of just bag size. They’re not perfect, but at least the game isn’t 100% rigged toward people who received ten-figure airdrops in 2021.
+- Use platforms like Kaito that reward engagement instead of just bag size. They’re not perfect, but at least the game isn’t 100% rigged toward people who received ten-figure airdrops in 2021.
 
-- 
-Build a small network of people as hungry and broke as you are. Real edge still exists; it’s just whispered in 6-person Discords, not screamed from 300k-follower accounts.
+- Build a small network of people as hungry and broke as you are. Real edge still exists; it’s just whispered in 6-person Discords, not screamed from 300k-follower accounts.
 
 **Final Thought**
 
@@ -85,7 +77,7 @@ If you’re forced to own one thing in this casino, own the house. Everything el
 
 **P.S. The Real Rug Pull: Banks vs. Bitcoin’s Epic Stand**
 
-Who could rug BTC? Not some Telegram anon—it’s the banking syndicate, led by JPMorgan, that’s been straight-up 15x since the GFC, consolidating power through every administration while the Fed pulls their strings. They despise Bitcoin, DeFi, and stablecoins, architecting quiet wars like Operation Chokepoint 2.0 to choke off banking access to crypto innovators. Now, they’re squeezing MicroStrategy—Saylor’s BTC fortress—with MSCI delisting threats that could trigger billions in outflows, all while BTC tests $85K lows. 
+Who could rug BTC? Not some Telegram anon—it’s the banking syndicate, led by JPMorgan, that’s been straight-up 15x since the GFC, consolidating power through every administration while the Fed pulls their strings. They despise Bitcoin, DeFi, and stablecoins, architecting quiet wars like Operation Chokepoint 2.0 to choke off banking access to crypto innovators. Now, they’re squeezing MicroStrategy—Saylor’s BTC fortress—with MSCI delisting threats that could trigger billions in outflows, all while BTC tests $85K lows.
 
 But here’s the plot twist: 2025 is Bitcoin’s battlefield, and the good guys are stacking the deck. Trump, Treasury Secretary Scott Bessent (pushing for a friendlier Fed), and a potential overhaul by May could flip the script, cementing BTC as a strategic national asset. This isn’t a rug—it’s an epic showdown. In a world gone mad, Bitcoin’s the rebel holding the line. Stack sats, watch the fireworks, and bet on the underdog that’s already winning.
 
@@ -95,24 +87,20 @@ Bitcoin does not have a built-in 4-year rhythm; its price has simply piggybacked
 
 Key points:
 
-- 
-We just lived through the longest business-cycle contraction on record (2022–2025).
-→ Global M2 barely grew, Fed QT removed ~$1.5T, rates peaked at 5.5%.
-→ Result: Bitcoin never got a true parabolic expansion; it only “pushed, crabbed, retraced” instead of exploding.
+- We just lived through the longest business-cycle contraction on record (2022–2025).
+  → Global M2 barely grew, Fed QT removed ~$1.5T, rates peaked at 5.5%.
+  → Result: Bitcoin never got a true parabolic expansion; it only “pushed, crabbed, retraced” instead of exploding.
 
-- 
-This cycle felt different because of massive institutional & government adoption (ETFs, MicroStrategy, U.S. Strategic Reserve, sovereign buying).
-→ These new buyers provided upward pressure even while liquidity was choked → Bitcoin rose anyway, confusing cycle purists who expected a total collapse.
+- This cycle felt different because of massive institutional & government adoption (ETFs, MicroStrategy, U.S. Strategic Reserve, sovereign buying).
+  → These new buyers provided upward pressure even while liquidity was choked → Bitcoin rose anyway, confusing cycle purists who expected a total collapse.
 
-- 
-The liquidity drought ends now.
-→ Fed officially stops QT on December 1, 2025.
-→ Global M2 is already turning up, China is easing aggressively, ECB/BoE poised to follow.
-→ Historically, Bitcoin lags liquidity turns by 10–12 weeks and then explodes.
+- The liquidity drought ends now.
+  → Fed officially stops QT on December 1, 2025.
+  → Global M2 is already turning up, China is easing aggressively, ECB/BoE poised to follow.
+  → Historically, Bitcoin lags liquidity turns by 10–12 weeks and then explodes.
 
-- 
-On-chain and sentiment indicators show zero blow-off top signals:
-→ MVRV Z-score ~1.0 (undervalued), Puell Multiple <1, LTH supply still near ATH, no retail FOMO, funding rates reset.
+- On-chain and sentiment indicators show zero blow-off top signals:
+  → MVRV Z-score ~1.0 (undervalued), Puell Multiple <1, LTH supply still near ATH, no retail FOMO, funding rates reset.
 
 ## Conclusion
 

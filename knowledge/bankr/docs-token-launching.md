@@ -3,6 +3,7 @@ tags: [bankr, trading, protocol]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Bankr Docs — Token Launching Overview (Ingested)
 
 Source: https://docs.bankr.bot/token-launching/overview
@@ -25,7 +26,7 @@ When you launch a token through Bankr:
 ## Supported Networks
 
 | Chain  | Vaulting | Vesting | Fee Splitting |
-|--------|----------|---------|---------------|
+| ------ | -------- | ------- | ------------- |
 | Base   | Yes      | Yes     | Yes           |
 | Solana | Yes      | Yes     | Yes           |
 
@@ -46,7 +47,7 @@ Deploy from X (Twitter) by tagging @bankrbot:
 ## Deployment Limits
 
 | User Type  | Tokens Per Day |
-|------------|----------------|
+| ---------- | -------------- |
 | Standard   | 1              |
 | Bankr Club | 10             |
 
@@ -55,9 +56,11 @@ Gas is sponsored within these limits. Additional launches require paying gas (~0
 ## Fee Structure
 
 ### Base
+
 Trading fees split: **Deployer 60%**, **Bankr 40%**. Fees accumulate in your token and WETH from the 1% fee liquidity pool.
 
 ### Solana
+
 - **During Bonding Curve:** 1% platform fee (Bankr), 0.5% creator fee (your wallet)
 - **After Migration to CPMM Pool:** 50% LP tokens locked to creator, 40% to Bankr, 10% burned. You earn ongoing trading fees from your locked LP position.
 
@@ -71,7 +74,6 @@ Trading fees split: **Deployer 60%**, **Bankr 40%**. Fees accumulate in your tok
 - Vaulting and Vesting: https://docs.bankr.bot/token-launching/vaulting-vesting
 - Fee Splitting: https://docs.bankr.bot/token-launching/fee-splitting
 - Claiming Fees: https://docs.bankr.bot/token-launching/claiming-fees
-
 
 ## Related
 

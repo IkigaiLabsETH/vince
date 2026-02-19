@@ -58,11 +58,11 @@ TEXT_EMBEDDING_MODEL=text-embedding-3-small
 
 According to the [OpenAI plugin documentation](https://docs.elizaos.ai/plugin-registry/llm/openai):
 
-| Model | Quality | Speed | Cost | Best For |
-|-------|---------|-------|------|----------|
-| `text-embedding-3-small` | ⭐⭐⭐ | ⚡⚡⚡ | 💰 | **Default** - Best balance (recommended) |
-| `text-embedding-3-large` | ⭐⭐⭐⭐⭐ | ⚡⚡ | 💰💰 | Higher quality, slightly slower |
-| `text-embedding-ada-002` | ⭐⭐ | ⚡⚡⚡ | 💰 | Legacy model (still supported) |
+| Model                    | Quality    | Speed  | Cost | Best For                                 |
+| ------------------------ | ---------- | ------ | ---- | ---------------------------------------- |
+| `text-embedding-3-small` | ⭐⭐⭐     | ⚡⚡⚡ | 💰   | **Default** - Best balance (recommended) |
+| `text-embedding-3-large` | ⭐⭐⭐⭐⭐ | ⚡⚡   | 💰💰 | Higher quality, slightly slower          |
+| `text-embedding-ada-002` | ⭐⭐       | ⚡⚡⚡ | 💰   | Legacy model (still supported)           |
 
 **Recommendation:** Use `text-embedding-3-small` for most use cases. Upgrade to `text-embedding-3-large` only if you need the highest quality embeddings.
 
@@ -71,9 +71,11 @@ According to the [OpenAI plugin documentation](https://docs.elizaos.ai/plugin-re
 To verify OpenAI is configured correctly for embeddings:
 
 1. **Check logs** on startup:
+
    ```bash
    LOG_LEVEL=debug bun start
    ```
+
    Look for embedding model registration logs.
 
 2. **Test RAG retrieval**:
@@ -98,21 +100,25 @@ settings: {
 ```
 
 OpenAI plugin will only be used for:
+
 - ✅ `ModelType.TEXT_EMBEDDING` calls
 - ✅ Knowledge plugin embedding generation
 - ❌ NOT used for `ModelType.TEXT_SMALL` or `ModelType.TEXT_LARGE`
 
 ## 💡 Cost Optimization
 
-**Embeddings are cheap:** 
+**Embeddings are cheap:**
+
 - `text-embedding-3-small`: ~$0.02 per 1M tokens
 - Minimal cost compared to text generation
 
 **Text generation is the expensive part:**
+
 - Claude 3.5 Sonnet: ~$3-15 per 1M tokens (depending on input/output)
 - This is where Anthropic is used
 
 **Cost breakdown example:**
+
 - 100-page document (~400 chunks): ~$0.001 for embeddings (OpenAI)
 - Same document contextual analysis: ~$0.10-0.50 for text generation (Anthropic)
 

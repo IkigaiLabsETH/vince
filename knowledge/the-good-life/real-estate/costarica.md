@@ -4,9 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 I’m writing this from the beachfront plot in Pavones, Costa Rica, full moon pouring silver across the longest left-hand wave on Earth, the break peeling empty and perfect while howler monkeys argue in the almond trees behind me. The land is already ours. The LLC is already formed.
 
 We paid $5k for a Fairmint account and still haven’t pressed “deploy.” Almost ten years in crypto, 99 % of it unpaid, thousands of hours of research, trades, tax battles, and quiet underwriting of the same investment thesis we still ride today. This Substack is brand new, only a few months old, born as a place to finally put some of those thoughts in public, raw and unfiltered, with zero paywall, zero ads, zero begging. Until now. Quiet rants about the slow suffocation of European freedom, and the occasional photo of a wave so perfect it felt illegal to keep to myself. That experiment ends, or evolves, the day we find 150 aligned humans.

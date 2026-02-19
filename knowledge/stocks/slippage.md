@@ -4,17 +4,19 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 182197762.Slippage
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: stocks
 **Word Count**: 889
 **Tags**: #btc #sol #defi #options #perps #fed #macro #trading #substack
+
 ---
 
 You’re a degen who’s survived three cycles, stacked a fat bag from shitcoins and BTC dips, and now you’re eyeing that sweet, sweet Tesla moonshot.
-**
+\*\*
 Elon’s out there tweeting about robotaxis turning every Cybertruck into a money-printing ATM, FSD finally not killing anyone, and Optimus bots folding laundry better than your ex.
 
 TSLA’s ripping to $482, market cap $1.6T – bigger than most countries’ GDPs.
@@ -33,7 +35,7 @@ So you fire up the wallet, hunt for tokenized TSLA.
 
 And reality hits you like a liquidation wick.
 
-The On-Chain Liquidity Mirage**
+The On-Chain Liquidity Mirage\*\*
 
 First stop: the “modern” hybrid venues. Robinhood drops nearly 2,000 tokenized stocks on Arbitrum overnight – big dick energy move. Contracts deployed, EU degens hyped. But TVL? A pathetic $10-13 million across the whole lineup. TSLA slice? Crumbs. You try a test trade – fine for five figs. But seven figs … NGMI ser.
 
@@ -49,18 +51,18 @@ Tokenized TSLA liquidity? Solid for retail apes, low slippage on small size. But
 
 Now the hedge. TradFi TSLA options? Deepest pool on earth, billions notional daily, tight IV surfaces. On-chain? Crickets.
 
-No real options protocols for tokenized equities yet. 
+No real options protocols for tokenized equities yet.
 
-No proper order books for calls/puts that track spot without deviating. 
+No proper order books for calls/puts that track spot without deviating.
 
-Closest is lending – borrow against your Ondo TSLA to delta-hedge indirectly. 
+Closest is lending – borrow against your Ondo TSLA to delta-hedge indirectly.
 
 Or structured yield shit that’s still baby mode.
 [
-![](https://substack-post-media.s3.amazonaws.com/public/images/99c6d675-dc1e-4bc4-848a-c571cf743934_3220x1396.jpeg)**
+![](https://substack-post-media.s3.amazonaws.com/public/images/99c6d675-dc1e-4bc4-848a-c571cf743934_3220x1396.jpeg)\*\*
 
 ](https://substackcdn.com/image/fetch/$s_!-AxQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99c6d675-dc1e-4bc4-848a-c571cf743934_3220x1396.jpeg)
-You pivot to synthetics: Hyperliquid perps.**
+You pivot to synthetics: Hyperliquid perps.\*\*
 
 Platform crushing $9B daily volume, OI $7B+. Equity perps like TSLA ripping hundreds of millions daily notional, $350M+ across tokenized stock perps. Tight spreads, permissionless, no KYC bullshit. You can hedge spot perfectly, flip long/short on funding rates, go 10x on a satellite bet without blinking.
 
@@ -82,11 +84,11 @@ We’re told tokenized equities are the killer app: brrrrr 24/7 markets, fractio
 
 All true... in 2030 maybe.
 
-December 2025? 
+December 2025?
 
-It’s like trying to trade BTC on Mt. Gox in 2013. 
+It’s like trying to trade BTC on Mt. Gox in 2013.
 
-Pipes are there, interfaces slicker than a Fed pivot, institutions quietly stacking (BlackRock, Ondo, Robinhood, Coinbase incoming). 
+Pipes are there, interfaces slicker than a Fed pivot, institutions quietly stacking (BlackRock, Ondo, Robinhood, Coinbase incoming).
 
 But liquidity? Still thin as a shitcoin dev’s roadmap.
 
@@ -102,14 +104,14 @@ Once secondary depth hits, bridges unify chains, options layers drop – TradFi 
 
 Weekend gaps? Barbaric. 9-4 hours? Wage-cuck energy.
 
-Institutions pouring in: Ondo $1.8B+ total RWAs, Bitget $500M volumes, Hyperliquid trillions cumulative perps. Slowly then suddenly. But today? 
+Institutions pouring in: Ondo $1.8B+ total RWAs, Bitget $500M volumes, Hyperliquid trillions cumulative perps. Slowly then suddenly. But today?
 
 If you’re dropping 7-figs on TSLA exposure with proper hedging and leverage...You’re splitting: Core in TradFi brokerage (no slippage rekt). Satellite degen on Hyperliquid perps (leverage, 24/7, pure alpha). Toe-dip tokenized spot via Ondo/Robinhood for the vision. Watch the OI, volumes, bridges like a hawk.
 [
-![](https://substack-post-media.s3.amazonaws.com/public/images/b7b1cfb0-3280-40c1-927e-9f8046506363_4928x3264.jpeg)**
+![](https://substack-post-media.s3.amazonaws.com/public/images/b7b1cfb0-3280-40c1-927e-9f8046506363_4928x3264.jpeg)\*\*
 
 ](https://substackcdn.com/image/fetch/$s_!LH_G!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7b1cfb0-3280-40c1-927e-9f8046506363_4928x3264.jpeg)
-Trading Outlook: TSLA Price Targets**
+Trading Outlook: TSLA Price Targets\*\*
 
 Wall Street normies averaging $380-400 targets – downside from $482? Lmao, cope. They’re pricing 2025 deliveries flat/declining, margins squeezed, competition eating lunch. Contrarian degen view: Robotaxi narrative reignites hard in 2026, energy storage brrrrrs, Optimus starts shipping.
 

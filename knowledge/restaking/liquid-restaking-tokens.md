@@ -3,6 +3,7 @@ tags: [restaking, ethereum, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Liquid Restaking Tokens (LRTs)
 
 ## What Are LRTs?
@@ -51,4 +52,4 @@ The yield stack: ETH staking yield (~3-4%) + EigenLayer AVS rewards + LRT protoc
 - **Yield illusion**: Much of LRT "yield" has been points/airdrop speculation, not sustainable AVS revenue. As points programs end, real yield may disappoint relative to the risk taken.
 - **Liquidity mismatch**: Billions in TVL, millions in DEX liquidity. Exiting a large LRT position quickly can mean significant slippage or waiting in redemption queues.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

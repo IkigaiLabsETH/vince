@@ -16,6 +16,7 @@ Wine, hotels, restaurants, real estate, lifestyle optimization
 - **roadtrips-travel/** (6 files)
 - **surf/** (8 files)
 - **wine-tasting/** (40 files)
+
 ## Contents
 
 - 180016973live-the-life.md
@@ -34,4 +35,4 @@ Wine, hotels, restaurants, real estate, lifestyle optimization
 - kelly-quick-ref.md
 - lifestyle-canonical-sources.md
 
-*Plus 2 more files.*
+_Plus 2 more files._

@@ -1,7 +1,9 @@
 # Solus — CFO Knowledge Index
+
 > Trading execution, position sizing, risk management, and market structure
 
 ## Primary Categories
+
 - trading/ — Core trading frameworks, entry/exit rules, portfolio construction
 - perps-trading/ — Perpetual futures mechanics, funding rates, liquidation patterns
 - options/ — Options strategies, wheel, theta decay, strike selection
@@ -13,12 +15,14 @@
 ## Key Files
 
 ### trading/
+
 - entry-exit-frameworks.md — Systematic entry/exit rules and triggers
 - market-regime-detection.md — Framework for identifying bull/bear/chop regimes
 - portfolio-construction.md — Portfolio allocation and rebalancing methodology
 - risk-management-framework.md — Position sizing, stop-losses, max drawdown rules
 
 ### perps-trading/
+
 - perps.md — Perpetual futures fundamentals and mechanics
 - funding-rates.md — Funding rate mechanics and interpretation
 - funding-rate-interpretation.md — How to read funding as a trading signal
@@ -39,6 +43,7 @@
 - strike-selection-from-perps.md — Using perps data for options strike selection
 
 ### options/
+
 - options-fundamentals.md — Options basics and Greeks
 - hype-wheel-strategy.md — Wheel strategy on HYPE token
 - current-positions.md — Current options positions tracker
@@ -60,6 +65,7 @@
 - 182404118the-endgame-60f.md — Endgame options thesis
 
 ### macro-economy/
+
 - calendar.md — Economic calendar and key dates
 - tariffs.md — Tariff impact analysis
 - debt.md — Sovereign debt dynamics
@@ -70,6 +76,7 @@
 - 182268902q4-unbelievable.md — Q4 macro review
 
 ### defi-metrics/
+
 - on-chain-fundamentals.md — On-chain metrics methodology
 - tvl-analysis.md — TVL analysis framework
 - protocols/hyperliquid.md — Hyperliquid protocol metrics
@@ -80,6 +87,7 @@
 - 182081573stablecoin-supercycle.md — Stablecoin growth thesis
 
 ### stablecoins/
+
 - usdc-usdt-mechanics.md — USDC/USDT mechanics comparison
 - depeg-risk-framework.md — Depeg risk assessment
 - stablecoin-yield-strategies.md — Yield strategies across stablecoins
@@ -88,18 +96,19 @@
 - algorithmic-vs-collateralized.md — Algo vs collateralized comparison
 
 ### mev/
+
 - mev-overview.md — MEV landscape overview
 - mev-protection.md — MEV protection strategies
 - mev-supply-chain.md — MEV supply chain analysis
 - cross-chain-mev.md — Cross-chain MEV dynamics
 
 ## Data Sources
+
 - Daily market brief (research-daily/) — morning macro + positions context
 - Prompt templates tier-1 (coinglass, deribit, skew) — real-time derivatives data
 - Prompt templates tier-2 (CME, binance-research) — institutional flow data
 
-*Last updated: 2026-02-15*
-
+_Last updated: 2026-02-15_
 
 ## Related
 

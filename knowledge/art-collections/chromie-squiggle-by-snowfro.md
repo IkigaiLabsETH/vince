@@ -3,17 +3,18 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Chromie Squiggle
 
 OpenSea Slug: `chromie-squiggle-by-snowfro`
 
 ## The Artist
 
-Snowfro is Erick Calderon—artist, tinkerer, founder of Art Blocks. He ran a ceramic tile company in Houston for nearly two decades before CryptoPunks sent him down the NFT rabbit hole. He built Art Blocks because he wanted a place where generative art could live *as* generative art: algorithm in, unique output out, no curator picking favourites. Chromie Squiggle, released in November 2020, was the first project on the platform. He’s called it “the soul of Art Blocks” and his personal signature. It’s the genesis. Everything else came after.
+Snowfro is Erick Calderon—artist, tinkerer, founder of Art Blocks. He ran a ceramic tile company in Houston for nearly two decades before CryptoPunks sent him down the NFT rabbit hole. He built Art Blocks because he wanted a place where generative art could live _as_ generative art: algorithm in, unique output out, no curator picking favourites. Chromie Squiggle, released in November 2020, was the first project on the platform. He’s called it “the soul of Art Blocks” and his personal signature. It’s the genesis. Everything else came after.
 
 ## Why It Matters
 
-Squiggles *are* Art Blocks in distilled form. Simple idea—a single colourful squiggle—massive variation. They’re recognisable, shareable, and they proved that generative art could scale. MoMA acquired eight Squiggles (plus eight Punks) in late 2025. LACMA got Squiggles in the Cozomo de’ Medici donation and minted the final Squiggle into its collection in 2024. When institutions tell the story of on-chain art, Squiggles are in the first chapter.
+Squiggles _are_ Art Blocks in distilled form. Simple idea—a single colourful squiggle—massive variation. They’re recognisable, shareable, and they proved that generative art could scale. MoMA acquired eight Squiggles (plus eight Punks) in late 2025. LACMA got Squiggles in the Cozomo de’ Medici donation and minted the final Squiggle into its collection in 2024. When institutions tell the story of on-chain art, Squiggles are in the first chapter.
 
 They also built community. Squiggle DAO, collectors, derivatives—the project became a hub. It’s not just a set of images; it’s a reference point for a whole segment of NFT culture.
 
@@ -39,7 +40,7 @@ People collect Squiggles for the narrative, the platform story, and the institut
 
 ## Personal Take
 
-Squiggles are the friendly face of Art Blocks. They’re approachable, they’re iconic, and they’ve aged well. Snowfro made something that *looks* simple and *is* simple, and that’s why it works. No overdesign.
+Squiggles are the friendly face of Art Blocks. They’re approachable, they’re iconic, and they’ve aged well. Snowfro made something that _looks_ simple and _is_ simple, and that’s why it works. No overdesign.
 
 I don’t think they’re overrated. The museum acquisitions say everything. If you’re putting together a “foundational NFT art” set, Squiggles belong next to Punks, Autoglyphs, and a handful of Art Blocks heavy hitters. They’re not the fanciest algorithm, but they’re one of the most important.
 

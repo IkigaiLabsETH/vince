@@ -3,6 +3,7 @@ tags: [regulation, compliance, legal]
 agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Global Crypto Regulatory Map
 
 ## 🇺🇸 United States — 🔴 Hostile (Improving)
@@ -33,7 +34,7 @@ The FCA regulates crypto under the anti-money laundering framework, requiring re
 
 MAS (Monetary Authority of Singapore) runs a clear licensing regime under the Payment Services Act. Singapore encourages institutional crypto and blockchain innovation while restricting retail speculation (advertising restrictions, no retail leverage trading).
 
-**Reality:** The licensing process is rigorous — many applications pending for 2+ years. Post-FTX, MAS tightened retail protections. Singapore is friendly to *serious* players, not to everyone. Tax: no capital gains tax, but trading as a business triggers income tax.
+**Reality:** The licensing process is rigorous — many applications pending for 2+ years. Post-FTX, MAS tightened retail protections. Singapore is friendly to _serious_ players, not to everyone. Tax: no capital gains tax, but trading as a business triggers income tax.
 
 ## 🇦🇪 UAE — 🟢 Friendly (Aggressive Recruitment)
 
@@ -61,4 +62,4 @@ Japan was an early mover post-Mt. Gox, creating a licensing framework under the 
 
 **Bottom line:** Expensive to live in, but arguably the best regulatory environment globally for crypto businesses seeking legitimacy and stability.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

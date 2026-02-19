@@ -166,7 +166,7 @@ Use this when the guest asks about **surf in [country]**, **where to surf in [re
 
 **Réunion** — Indian Ocean; reef breaks; powerful; shark considerations; best May–Sep; check local advice.
 
-**Senegal** — Atlantic; N’gor (from *The Endless Summer*), Dakar area; warm; uncrowded; best Nov–Mar.
+**Senegal** — Atlantic; N’gor (from _The Endless Summer_), Dakar area; warm; uncrowded; best Nov–Mar.
 
 **Seychelles** — Indian Ocean; reef breaks; uncrowded; tropical; best Apr–May, Sep–Oct.
 

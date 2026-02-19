@@ -3,6 +3,7 @@ tags: [bitcoin, l2, scaling]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Bitcoin L2 Landscape
 
 ## The Scaling Problem
@@ -37,21 +38,20 @@ Citrea builds a ZK-rollup on Bitcoin, using zero-knowledge proofs to compress ex
 
 ## Landscape Summary
 
-| Project | Type | Trust Model | BTC Integration | Maturity |
-|---------|------|-------------|-----------------|----------|
-| Lightning | State channels | Trustless | Native | Production |
-| Liquid | Federated sidechain | Federated (11/15) | Federated peg | Production |
-| Stacks | Smart contract L1.5 | Open signer set | sBTC (decentralized) | Production |
-| BitVM | Verification layer | 1-of-n honest | Trustless bridge | Early |
-| BOB | EVM rollup | BitVM-based | Hybrid bridge | Testnet/Early |
-| Citrea | ZK rollup | ZK + BitVM | Trust-minimized | Early |
+| Project   | Type                | Trust Model       | BTC Integration      | Maturity      |
+| --------- | ------------------- | ----------------- | -------------------- | ------------- |
+| Lightning | State channels      | Trustless         | Native               | Production    |
+| Liquid    | Federated sidechain | Federated (11/15) | Federated peg        | Production    |
+| Stacks    | Smart contract L1.5 | Open signer set   | sBTC (decentralized) | Production    |
+| BitVM     | Verification layer  | 1-of-n honest     | Trustless bridge     | Early         |
+| BOB       | EVM rollup          | BitVM-based       | Hybrid bridge        | Testnet/Early |
+| Citrea    | ZK rollup           | ZK + BitVM        | Trust-minimized      | Early         |
 
 ## Key Insight
 
 The Bitcoin L2 landscape is converging on BitVM as the missing piece for trustless bridging. Lightning won payments. The open question is whether Stacks/BOB/Citrea can win programmability without the federation compromises that limited Liquid's growth.
 
-*Last updated: 2026-02-15*
-
+_Last updated: 2026-02-15_
 
 ## Related
 

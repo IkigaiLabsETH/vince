@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Where My Vans Go
 
 OpenSea Slug: `where-my-vans-go`
@@ -13,7 +14,7 @@ Isaac Wright—DrifterShoots. Former paratrooper, urban explorer, photographer. 
 
 ## Why It Matters
 
-Where My Vans Go is one of the highest-selling photography NFT projects. Floor has often sat around 2 ETH; total volume in the thousands of ETH. Wright proved that documentary, risk, and story could hold their own in a PFP-dominated market. The imagery is literal—edges, drops, cityscape—but the *why* (veteran, healing, defiance) gives it weight. For collectors who care about photography NFTs and narrative, it’s essential.
+Where My Vans Go is one of the highest-selling photography NFT projects. Floor has often sat around 2 ETH; total volume in the thousands of ETH. Wright proved that documentary, risk, and story could hold their own in a PFP-dominated market. The imagery is literal—edges, drops, cityscape—but the _why_ (veteran, healing, defiance) gives it weight. For collectors who care about photography NFTs and narrative, it’s essential.
 
 ## The Art
 

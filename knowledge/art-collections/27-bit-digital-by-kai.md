@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # 27-Bit Digital
 
 OpenSea Slug: `27-bit-digital-by-kai`

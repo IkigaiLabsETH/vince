@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # XCOPY (KnownOrigin)
 
 OpenSea Slug: `xcopy-knownorigin`
@@ -37,7 +38,7 @@ Watch out for editions vs 1/1s. Know what you’re buying. And if you’re deriv
 
 ## Personal Take
 
-XCOPY has been making the same point about death and tech for years, and it still lands. The work is repetitive by design; the repetition *is* the point. Not every piece is a banger, but the body of work holds together. I find the best ones unsettling in a good way—they don’t let you look away.
+XCOPY has been making the same point about death and tech for years, and it still lands. The work is repetitive by design; the repetition _is_ the point. Not every piece is a banger, but the body of work holds together. I find the best ones unsettling in a good way—they don’t let you look away.
 
 From a market angle, he’s blue-chip 1/1. The KnownOrigin collection is the canonical place to own him. Whether the prices are justified depends on how much you value consistency, concept, and cultural impact over sheer novelty. I think he’s earned it. Overrated? No. Underrated by traditional art? Probably. If you’re building a “greatest hits” NFT art collection, he belongs in it.
 

@@ -1,6 +1,6 @@
 # Multi-Agent Setup (VINCE)
 
-**North star:** A Discord (or other channel) where your agents have names and profile images, talk to you and to each other, and run heartbeat-style check-ins that sometimes spark small conversations between them. When you're all collaborating, it can feel genuinely *alive*—like you're building together. You have to remind yourself it's you and a bunch of AIs. That feeling is what we're optimizing for.
+**North star:** A Discord (or other channel) where your agents have names and profile images, talk to you and to each other, and run heartbeat-style check-ins that sometimes spark small conversations between them. When you're all collaborating, it can feel genuinely _alive_—like you're building together. You have to remind yourself it's you and a bunch of AIs. That feeling is what we're optimizing for.
 
 This doc is the **reference for our use case**: how we get there with VINCE. It covers ASK_AGENT (one agent asking another and relaying the answer), elizaOS attachment, Discord Option C (one bot identity per agent), A2A policy, standups (Kelly-coordinated 2×/day), and subagent-style options. One team, one dream—implemented here.
 
@@ -80,11 +80,11 @@ The `A2A_LOOP_GUARD` evaluator automatically:
 
 ### Env Configuration
 
-| Variable | Default | Description |
-|----------|---------|-------------|
-| `A2A_ENABLED` | `true` | Set to `"false"` to disable loop guard (not recommended) |
-| `A2A_MAX_EXCHANGES` | `3` | Max responses to same bot in recent history |
-| `A2A_LOOKBACK_MESSAGES` | `10` | How many messages to look back for counting exchanges |
+| Variable                | Default | Description                                              |
+| ----------------------- | ------- | -------------------------------------------------------- |
+| `A2A_ENABLED`           | `true`  | Set to `"false"` to disable loop guard (not recommended) |
+| `A2A_MAX_EXCHANGES`     | `3`     | Max responses to same bot in recent history              |
+| `A2A_LOOKBACK_MESSAGES` | `10`    | How many messages to look back for counting exchanges    |
 
 ### Example Flow
 
@@ -184,10 +184,10 @@ Not every feedback is a code change. Sometimes the gap is **knowledge** (e.g. "K
 
 ### Deliverables (when implemented)
 
-| Type        | Owner   | Path                               | Purpose |
-|------------|---------|------------------------------------|---------|
-| PRD        | Sentinel| `standup-deliverables/prds/`       | Code/behavior change; paste into Cursor. |
-| Eliza task | Sentinel| `standup-deliverables/eliza-tasks/`| Knowledge gap; what to add/update where for Eliza or human. |
+| Type       | Owner    | Path                                | Purpose                                                     |
+| ---------- | -------- | ----------------------------------- | ----------------------------------------------------------- |
+| PRD        | Sentinel | `standup-deliverables/prds/`        | Code/behavior change; paste into Cursor.                    |
+| Eliza task | Sentinel | `standup-deliverables/eliza-tasks/` | Knowledge gap; what to add/update where for Eliza or human. |
 
 ### Implementation notes (for later)
 
@@ -216,7 +216,7 @@ The current setup (ElizaOS, ASK_AGENT, in-process `elizaOS.handleMessage`, stand
 
 ### Strategy: OpenClaw as dev worker?
 
-A different way to get “where we need to be” is to **run [OpenClaw](https://github.com/openclaw/openclaw) with access to this repo and instructions to keep working on it**—i.e. use OpenClaw as the *executor* that turns our deliverables into code and knowledge, rather than (or in addition to) humans and Cursor.
+A different way to get “where we need to be” is to **run [OpenClaw](https://github.com/openclaw/openclaw) with access to this repo and instructions to keep working on it**—i.e. use OpenClaw as the _executor_ that turns our deliverables into code and knowledge, rather than (or in addition to) humans and Cursor.
 
 **Two interpretations:**
 
@@ -260,7 +260,7 @@ A different way to get “where we need to be” is to **run [OpenClaw](https://
 3. **What this means in practice**  
    Our agents (Vince, Kelly, Sentinel, etc.) are powerful **tools** for synthesis, routing, and deliverables within well-defined domains. They are not "true AGI": they can't guarantee correct interventional reasoning in novel, safety-critical, or open-ended environments. Design and review should assume human oversight for high-stakes or novel cases.
 
-*Summary derived from validated research (Nature, Anthropic, DeepMind, causal identifiability theory) as of Feb 2026; see full analysis in "Artificial General Intelligence Limitations: A Mathematical and Scientific Analysis" (kardashevscale1, 17 Feb 2026).*
+_Summary derived from validated research (Nature, Anthropic, DeepMind, causal identifiability theory) as of Feb 2026; see full analysis in "Artificial General Intelligence Limitations: A Mathematical and Scientific Analysis" (kardashevscale1, 17 Feb 2026)._
 
 ### High-stakes boundary
 

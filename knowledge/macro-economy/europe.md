@@ -4,7 +4,6 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 A quiet realization in the age of trillion-dollar AI bets.
 
 I’ve been investing in crypto for over a decade now. Long enough to watch cycles come and go, hype inflate and deflate, and fortunes made (and lost) on nothing more than conviction and timing.

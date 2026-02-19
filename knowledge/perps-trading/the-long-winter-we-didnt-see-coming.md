@@ -4,13 +4,15 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179511300.The Long Winter We Didnt See Coming
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: perps-trading
 **Word Count**: 580
 **Tags**: #bitcoin #eth #portfolio #substack
+
 ---
 
 It’s late. The charts are red, the group chats are silent, and the only sound in my apartment is the low hum of the fridge and the occasional notification that another stop-loss just got executed somewhere in the world.

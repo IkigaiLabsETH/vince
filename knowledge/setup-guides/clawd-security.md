@@ -23,9 +23,9 @@ One researcher extracted a private key from a compromised system in under five m
 
 A security researcher sent a single email to someone running Clawdbot with email integration. The email contained hidden instructions that tricked the AI into:
 
-1. Reading the victim's 5 most recent emails  
-2. Creating a summary of their contents  
-3. Forwarding that summary to the attacker's email address  
+1. Reading the victim's 5 most recent emails
+2. Creating a summary of their contents
+3. Forwarding that summary to the attacker's email address
 
 Client meetings, invoices, personal messages—all exposed through one email. No hacking required.
 
@@ -47,9 +47,9 @@ clawdbot gateway status
 
 Look for the **bind** setting:
 
-| Setting | Meaning |
-|--------|---------|
-| `bind=loopback` (127.0.0.1) | Bound to localhost only. **Good.** |
+| Setting                      | Meaning                                           |
+| ---------------------------- | ------------------------------------------------- |
+| `bind=loopback` (127.0.0.1)  | Bound to localhost only. **Good.**                |
 | `bind=lan` or `bind=0.0.0.0` | Listening on all interfaces. **Fix immediately.** |
 
 **In plain English:**
@@ -160,10 +160,10 @@ source ~/.bashrc   # or source ~/.zshrc
 
 **Windows:**
 
-1. Search for "Environment Variables" in the Start menu.  
-2. Under "User variables," click "New."  
-3. Variable name: `CLAWDBOT_DISABLE_BONJOUR`  
-4. Variable value: `1`  
+1. Search for "Environment Variables" in the Start menu.
+2. Under "User variables," click "New."
+3. Variable name: `CLAWDBOT_DISABLE_BONJOUR`
+4. Variable value: `1`
 5. OK.
 
 ### Step 4: Run the Security Audit (~2 minutes)
@@ -372,12 +372,12 @@ Keep the gateway bound to loopback (and/or Tailscale). Use a VPN or Tailscale fo
 
 ## Quick Reference
 
-| Goal | Action |
-|------|--------|
-| Bind to localhost only | `"gateway": { "bind": "loopback" }` in `clawdbot.json` |
-| Restrict config files | `chmod 700 ~/.clawdbot` and `chmod 600 ~/.clawdbot/clawdbot.json` |
-| Disable Bonjour | `export CLAWDBOT_DISABLE_BONJOUR=1` |
-| Run audit | `clawdbot security audit --deep` (add `--fix` to auto-fix) |
-| Node.js | Use v22.12.0+ |
-| Auth | Set `CLAWDBOT_GATEWAY_TOKEN` or password in config |
-| Remote access | Use Tailscale (or similar); do not expose port 18789 |
+| Goal                   | Action                                                            |
+| ---------------------- | ----------------------------------------------------------------- |
+| Bind to localhost only | `"gateway": { "bind": "loopback" }` in `clawdbot.json`            |
+| Restrict config files  | `chmod 700 ~/.clawdbot` and `chmod 600 ~/.clawdbot/clawdbot.json` |
+| Disable Bonjour        | `export CLAWDBOT_DISABLE_BONJOUR=1`                               |
+| Run audit              | `clawdbot security audit --deep` (add `--fix` to auto-fix)        |
+| Node.js                | Use v22.12.0+                                                     |
+| Auth                   | Set `CLAWDBOT_GATEWAY_TOKEN` or password in config                |
+| Remote access          | Use Tailscale (or similar); do not expose port 18789              |

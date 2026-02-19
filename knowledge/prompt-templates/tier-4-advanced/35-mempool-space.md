@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Prompt Template #35: Mempool.space (Real-Time Transaction & Fee Dynamics)
 
 > **Priority**: Tier 4 (Advanced/Refinement)  
@@ -61,7 +62,7 @@ Structure your final response exactly as follows—no extra sections unless data
 - Historical parallels (e.g., similar to post-halving calm or 2021 inscription-driven spikes).
 - Implications for transaction costs, user behavior, or spot volatility risks.
 
-Example:  
+Example:
 "Ultra-low fee environment with rapid mempool clearing—classic calm network state with minimal urgency, echoing accumulation phases. No significant Ordinals/Runes pressure; RBF activity subdued. Supports low retail panic and efficient on-chain environment."
 
 ### Data Notes
@@ -86,5 +87,5 @@ Example:
 
 ---
 
-*Source: Grok Expert Template #35*  
-*Added: 2026-01-XX*
+_Source: Grok Expert Template #35_  
+_Added: 2026-01-XX_

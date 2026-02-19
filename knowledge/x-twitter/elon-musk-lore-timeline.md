@@ -1,4 +1,5 @@
 # Elon Musk Lore Timeline
+
 > The definitive CT guide to the most powerful shitposter on Earth.
 > Last updated: Feb 2026
 
@@ -13,7 +14,7 @@ His father, Errol Musk, partly owned an emerald mine. This is one of those facts
 contested endlessly online, but Errol himself confirmed owning "a portion of emeralds from
 three small mines" in Zambia. So yes — emerald mine kid. CT never lets him forget it.
 
-Young Elon got bullied *badly*. We're talking hospitalized-after-being-thrown-down-stairs
+Young Elon got bullied _badly_. We're talking hospitalized-after-being-thrown-down-stairs
 badly. His father reportedly berated him afterward instead of comforting him. Errol is,
 by all accounts from Elon and his brother, a genuinely terrible person. Elon has called
 him "a terrible human being" publicly multiple times.
@@ -46,7 +47,7 @@ Not "generational wealth" money, but "I can take some big swings" money.
 
 **X.com → PayPal (1999-2002)**
 
-Founded X.com as an online bank. Yes, the name X has been an obsession for *decades*.
+Founded X.com as an online bank. Yes, the name X has been an obsession for _decades_.
 Merged with Confinity, which had this little product called PayPal. Internal power
 struggle ensued. Musk got fired as CEO while on his honeymoon (lol). Peter Thiel took
 over. The PayPal Mafia was born.
@@ -68,7 +69,7 @@ He literally bet everything. Every dollar.
 
 **The 2008 Near-Death Experience**
 
-This is the part of the story CT should understand because it explains *everything* about
+This is the part of the story CT should understand because it explains _everything_ about
 how Musk operates under pressure.
 
 SpaceX had three consecutive failed launches. Three rockets. Three fireballs. The company
@@ -108,7 +109,8 @@ A $40 million weed joke. King behavior or securities fraud? CT says both.
 
 **The 420/69 Obsession**
 
-This wasn't a one-off. The man is *committed* to the bit:
+This wasn't a one-off. The man is _committed_ to the bit:
+
 - $54.20 per share Twitter offer (420 again)
 - Constant 420 and 69 references in tweets
 - Tesla merch priced at $69.420
@@ -179,7 +181,7 @@ After signing the deal, Musk tried to back out, claiming Twitter had too many bo
 Twitter sued to force the deal. Discovery was going to be brutal (Musk's texts would
 become public). He caved and completed the acquisition.
 
-Those leaked texts, by the way? *Chef's kiss.* Every tech bro and their mother DMing
+Those leaked texts, by the way? _Chef's kiss._ Every tech bro and their mother DMing
 Elon with "ideas" for Twitter. Larry Ellison texting like someone's drunk uncle.
 
 **"Let That Sink In" (October 26, 2022)**
@@ -197,6 +199,7 @@ His first tweet as owner. Four words. Timeline went nuclear.
 **The Polls**
 
 Started running Twitter polls to make actual business decisions:
+
 - Should Trump be reinstated? (Yes won, Trump was unbanned)
 - Should I step down as CEO? (Yes won, he eventually appointed Linda Yaccarino... sort of)
 
@@ -229,7 +232,7 @@ Called out the Anti-Defamation League, accused them of pressuring advertisers, t
 to sue. Massive controversy. #BanTheADL trended. Musk briefly liked/shared some tweets
 from accounts with antisemitic content, creating a firestorm.
 
-**"Go F*ck Yourself" (November 2023)**
+**"Go F\*ck Yourself" (November 2023)**
 
 At the DealBook conference, Andrew Ross Sorkin asked about advertisers leaving. Musk's
 response, directed at advertisers and specifically calling out Bob Iger (Disney CEO) who
@@ -325,17 +328,17 @@ cinematic universe.
 
 These are the stats ECHO should know cold:
 
-| Stat | Number |
-|------|--------|
-| Net worth | ~$852B (Feb 2026, Forbes) |
-| Wealthiest person in the world | Since 2025 |
-| Children | 14 (at least) |
-| Baby mamas | Multiple (Justine Wilson, Grimes, Shivon Zilis, others) |
-| Companies run simultaneously | 6 (SpaceX, Tesla, xAI, X, Neuralink, Boring Company) |
-| Tesla pay package | $1T (approved Nov 2025, largest executive comp in history) |
-| SpaceX valuation | $1T (Feb 2026) |
-| xAI valuation | $250B (Feb 2026) |
-| X followers | 200M+ (most-followed account on the platform he owns) |
+| Stat                           | Number                                                     |
+| ------------------------------ | ---------------------------------------------------------- |
+| Net worth                      | ~$852B (Feb 2026, Forbes)                                  |
+| Wealthiest person in the world | Since 2025                                                 |
+| Children                       | 14 (at least)                                              |
+| Baby mamas                     | Multiple (Justine Wilson, Grimes, Shivon Zilis, others)    |
+| Companies run simultaneously   | 6 (SpaceX, Tesla, xAI, X, Neuralink, Boring Company)       |
+| Tesla pay package              | $1T (approved Nov 2025, largest executive comp in history) |
+| SpaceX valuation               | $1T (Feb 2026)                                             |
+| xAI valuation                  | $250B (Feb 2026)                                           |
+| X followers                    | 200M+ (most-followed account on the platform he owns)      |
 
 The 14 children thing is CT-relevant because it keeps going up. Every few months there's
 a new one. He's explicitly said he thinks population decline is the biggest threat to
@@ -363,6 +366,7 @@ cycle that CT has identified and tracks:
 ### The Evidence
 
 **Full Self-Driving (FSD)**
+
 - "Next year" — every year since 2016
 - Still not fully autonomous in 2026
 - Rebranded from "Full Self-Driving" to "Supervised FSD" when regulators got mad
@@ -370,12 +374,14 @@ cycle that CT has identified and tracks:
 - It's genuinely impressive technology that is also genuinely not what was promised
 
 **Robotaxi**
+
 - Promised for 2020
 - Unveiled concept in 2024
 - "Coming soon" as of 2026
 - The Cybercab reveal event had pre-programmed routes, not actual autonomous driving
 
 **Cybertruck**
+
 - Promised 2021
 - Delivered late 2023
 - Looked different from the concept (it could never have been exactly as shown — physics)
@@ -383,11 +389,13 @@ cycle that CT has identified and tracks:
 - Actually kind of took off after initial mockery
 
 **Mars Colony**
+
 - Promised people on Mars by 2024
 - Now doing Moon first
 - SpaceX is genuinely incredible at rockets but the Mars timeline is pure vibes
 
 **Tesla Semi**
+
 - Announced 2017
 - "Limited production" started 2022
 - If you've seen one in the wild, you're in the 1%
@@ -396,6 +404,7 @@ cycle that CT has identified and tracks:
 
 Every Musk announcement follows this cycle. When he tweets about a new product or timeline,
 ECHO should:
+
 1. Note the claim
 2. Track actual delivery against promised timeline
 3. Apply the historical ~2-5x timeline multiplier
@@ -431,6 +440,7 @@ crypto history.
 **Memecoins**
 
 Musk is the godfather of memecoin pumps:
+
 - Tweeted about SHIB → pump
 - Named his dog Floki → FLOKI pumped
 - Any Musk tweet with a dog → every dog coin pumps
@@ -440,6 +450,7 @@ Musk is the godfather of memecoin pumps:
 **X/Twitter Crypto Narrative**
 
 The Twitter acquisition itself created massive crypto speculation:
+
 - "Will Twitter integrate crypto payments?"
 - "Will there be a Twitter coin?"
 - "Web3 Twitter" narrative
@@ -452,16 +463,16 @@ The Twitter acquisition itself created massive crypto speculation:
 
 ECHO should track these accounts for signal:
 
-| Account | What to Watch For |
-|---------|-------------------|
-| **@elonmusk** | Everything. 200M+ followers. Every tweet is potential market signal. |
-| **@Tesla** | Product announcements, delivery numbers, earnings teasers |
-| **@SpaceX** | Launch schedules, Starship updates, contract wins |
-| **@Neuralink** | Brain-computer interface milestones (long-term narrative play) |
-| **@BoringCompany** | Tunnel updates (lower signal, mostly memes) |
-| **@xAI** | Grok updates, AI competition narrative |
-| **@KimbalMusk** | Brother, Tesla board member, sometimes leaks family dynamics |
-| **@MayeMusk** | Mother, frequently amplifies Elon's posts, wholesome engagement |
+| Account            | What to Watch For                                                    |
+| ------------------ | -------------------------------------------------------------------- |
+| **@elonmusk**      | Everything. 200M+ followers. Every tweet is potential market signal. |
+| **@Tesla**         | Product announcements, delivery numbers, earnings teasers            |
+| **@SpaceX**        | Launch schedules, Starship updates, contract wins                    |
+| **@Neuralink**     | Brain-computer interface milestones (long-term narrative play)       |
+| **@BoringCompany** | Tunnel updates (lower signal, mostly memes)                          |
+| **@xAI**           | Grok updates, AI competition narrative                               |
+| **@KimbalMusk**    | Brother, Tesla board member, sometimes leaks family dynamics         |
+| **@MayeMusk**      | Mother, frequently amplifies Elon's posts, wholesome engagement      |
 
 ### Engagement Patterns to Note
 
@@ -477,26 +488,30 @@ ECHO should track these accounts for signal:
 For deep context, these are the canonical sources:
 
 **Biographies**
-- *"Elon Musk"* by Ashlee Vance (2015): The OG biography. Covers SpaceX and Tesla early
+
+- _"Elon Musk"_ by Ashlee Vance (2015): The OG biography. Covers SpaceX and Tesla early
   years. Written with Musk's cooperation. Best source for the 2002-2014 era.
-- *"Elon Musk"* by Walter Isaacson (2023): The authorized big biography. Revealed the
+- _"Elon Musk"_ by Walter Isaacson (2023): The authorized big biography. Revealed the
   "demon mode" management style, childhood trauma details, and the chaotic decision-making
   behind the Twitter acquisition. Key term: "demon mode" — when Musk goes dark and makes
   rapid, sometimes destructive decisions.
-- *"Character Limit"* by Kate Conger & Ryan Mac (2024): The Twitter acquisition deep dive.
+- _"Character Limit"_ by Kate Conger & Ryan Mac (2024): The Twitter acquisition deep dive.
   Best source for the actual chaos inside Twitter during the takeover.
 
 **Critical Takes**
-- *"Ludicrous"* by Edward Niedermeyer (2019): Critical examination of Tesla. Good for
+
+- _"Ludicrous"_ by Edward Niedermeyer (2019): Critical examination of Tesla. Good for
   understanding the bear case.
-- *"Power Play"* by Tim Higgins (2021): Tesla internal politics and power struggles.
+- _"Power Play"_ by Tim Higgins (2021): Tesla internal politics and power struggles.
 
 **Space Nerd Stuff**
-- *"Liftoff"* by Eric Berger (2021): Early SpaceX story. The failed launches, the Kwaj
+
+- _"Liftoff"_ by Eric Berger (2021): Early SpaceX story. The failed launches, the Kwaj
   Island days, the desperation. If you want to understand why SpaceX people are ride-or-die
   for Musk, read this.
 
 **Video/Audio**
+
 - Joe Rogan episodes (multiple) — the weed one (2018), but also the later ones where he
   talks about AI risk, simulation theory, and Mars
 - SNL appearance (May 2021) — the DOGE "hustle" moment
@@ -512,28 +527,28 @@ How to interpret Elon Musk's X behavior for sentiment analysis and market signal
 
 ### Tweet Frequency Analysis
 
-| Pattern | Likely Meaning |
-|---------|---------------|
-| High-frequency meme posting | Upcoming announcement or distraction from bad news |
-| Late-night rage tweeting | Something went wrong internally, or he's in a feud |
-| Replying to small accounts | Bored, looking for engagement, or building narrative |
-| Going quiet for 12+ hours | Something big happening behind the scenes |
-| Posting polls | He's already decided, wants to manufacture consent |
-| Engaging with critics | Stressed. The more he punches down, the worse things are. |
+| Pattern                     | Likely Meaning                                            |
+| --------------------------- | --------------------------------------------------------- |
+| High-frequency meme posting | Upcoming announcement or distraction from bad news        |
+| Late-night rage tweeting    | Something went wrong internally, or he's in a feud        |
+| Replying to small accounts  | Bored, looking for engagement, or building narrative      |
+| Going quiet for 12+ hours   | Something big happening behind the scenes                 |
+| Posting polls               | He's already decided, wants to manufacture consent        |
+| Engaging with critics       | Stressed. The more he punches down, the worse things are. |
 
 ### Content Signal Mapping
 
-| Content Type | Market Relevance |
-|-------------|-----------------|
-| Dog/Shiba Inu memes | DOGE pump incoming (or already happening) |
-| Rocket/Mars content | SpaceX milestone approaching, check launch schedule |
-| "Soon" or "Exciting announcement" | Apply 2-5x timeline multiplier |
-| Political hot takes | Check Tesla stock — controversy often correlates with dips |
-| AI/Grok posts | xAI narrative play, may affect AI token sector |
-| Vague positive emojis (🚀, ❤️, 👀) | Usually responding to something — check the parent tweet |
-| Financial figures or production numbers | Earnings or delivery data incoming |
-| Attacking media/journalists | Bad story about to drop or just dropped |
-| "Deleted tweet" alerts | He tweeted something too honest. Find the screenshot. |
+| Content Type                            | Market Relevance                                           |
+| --------------------------------------- | ---------------------------------------------------------- |
+| Dog/Shiba Inu memes                     | DOGE pump incoming (or already happening)                  |
+| Rocket/Mars content                     | SpaceX milestone approaching, check launch schedule        |
+| "Soon" or "Exciting announcement"       | Apply 2-5x timeline multiplier                             |
+| Political hot takes                     | Check Tesla stock — controversy often correlates with dips |
+| AI/Grok posts                           | xAI narrative play, may affect AI token sector             |
+| Vague positive emojis (🚀, ❤️, 👀)      | Usually responding to something — check the parent tweet   |
+| Financial figures or production numbers | Earnings or delivery data incoming                         |
+| Attacking media/journalists             | Bad story about to drop or just dropped                    |
+| "Deleted tweet" alerts                  | He tweeted something too honest. Find the screenshot.      |
 
 ### The Musk Sentiment Gradient
 
@@ -549,7 +564,7 @@ Reading Musk's emotional state from his posting:
 5. **Philosophical Elon** — Simulation theory, population collapse, Mars necessity.
    Usually means he's between crises. Low signal.
 6. **Reply Guy Elon** — Responding to everyone, especially small accounts. He's either
-   extremely bored or avoiding something. Check what he's *not* talking about.
+   extremely bored or avoiding something. Check what he's _not_ talking about.
 
 ### Key Rules for ECHO
 
@@ -573,5 +588,5 @@ Reading Musk's emotional state from his posting:
 
 ---
 
-*This document is a living reference. Update as new lore drops.*
-*ECHO should cross-reference this timeline when analyzing any Musk-related signal.*
+_This document is a living reference. Update as new lore drops._
+_ECHO should cross-reference this timeline when analyzing any Musk-related signal._

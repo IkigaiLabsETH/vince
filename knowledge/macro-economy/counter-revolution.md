@@ -4,13 +4,15 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180259536.Counter Revolution
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: macro-economy
 **Word Count**: 1,094
 **Tags**: #eth #options #portfolio #substack
+
 ---
 
 We are living through the slowest emergency in history. It is the sound of an entire economic dream quietly dying, and of two generations—Millennials and Gen Z—reacting in radically different ways to the same corpse.
@@ -57,10 +59,10 @@ The first question produced grief.
 The second is producing portfolios.
 
 There is a moment in every historical shift when the old world and the new world occupy the same room. We are in that room right now. In one corner sits the Millennial who refreshed Zillow for eight years and finally gave up. In the other corner sits the 23-year-old who just bought her first sliver of a cash-flowing duplex with the money she used to spend on avocado toast—and who will, mathematically, retire richer than her parents.
-> 
-Both of them are rational.
-Both of them are wounded.
-Only one of them is still bleeding.
+
+> Both of them are rational.
+> Both of them are wounded.
+> Only one of them is still bleeding.
 
 The great danger is that we romanticise one response and pathologise the other. The Millennials did not “fail.” They were the shock absorbers for a multi-decade policy disaster: under-built housing, wage stagnation, the privatisation of retirement risk, the financialisation of shelter itself. Their despair is earned. Their pivot to crypto gambling is not moral weakness; it is the predictable reaction of intelligent animals locked in a cage with a slot machine as the only visible door.
 

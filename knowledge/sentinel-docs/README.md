@@ -22,4 +22,4 @@ Sentinel agent PRDs, technical specs, development progress
 - NORTH_STAR_DELIVERABLES.md
 - NOTIFICATIONS.md
 
-*Plus 32 more files.*
+_Plus 32 more files._

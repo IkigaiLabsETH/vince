@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Hackatao
 
 OpenSea Slug: `hackatao`
@@ -13,7 +14,7 @@ Hackatao is an Italian duo—S and N, pseudonymous. They’ve been collaborating
 
 ## Why It Matters
 
-Hackatao are crypto-art pioneers. 2018 puts them in the first wave. Their dualistic, symbolic style—Queens+Kings, totems, ritual—became a reference for “NFT art” before the PFP wave. The combination of tradition (ceramic, myth) and tech (blockchain, digital) landed. For collectors who care about NFT *history* and artist-led work, Hackatao are essential. The “hackatao” slug often aggregates their output across platforms.
+Hackatao are crypto-art pioneers. 2018 puts them in the first wave. Their dualistic, symbolic style—Queens+Kings, totems, ritual—became a reference for “NFT art” before the PFP wave. The combination of tradition (ceramic, myth) and tech (blockchain, digital) landed. For collectors who care about NFT _history_ and artist-led work, Hackatao are essential. The “hackatao” slug often aggregates their output across platforms.
 
 ## The Art
 

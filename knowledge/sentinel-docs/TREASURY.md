@@ -3,8 +3,8 @@
 ```
   ██╗   ██╗██╗███╗   ██╗ ██████╗███████╗
   ██║   ██║██║████╗  ██║██╔════╝██╔════╝
-  ██║   ██║██║██╔██╗ ██║██║     █████╗  
-  ╚██╗ ██╔╝██║██║╚██╗██║██║     ██╔══╝  
+  ██║   ██║██║██╔██╗ ██║██║     █████╗
+  ╚██╗ ██╔╝██║██║╚██╗██║██║     ██╔══╝
    ╚████╔╝ ██║██║ ╚████║╚██████╗███████╗
     ╚═══╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
 ```
@@ -84,13 +84,13 @@ Apply these in code, infra, and prompt design. Review periodically.
 
 Keep this section updated as strategies are tried:
 
-| Area              | Status        | Notes                          |
-|-------------------|---------------|--------------------------------|
-| Prediction markets| Not started   | Consider after paper edge proof |
-| Token/fee revenue | Not started   | Pending eligibility/approval   |
-| Micro-tasks       | Research      | Evaluate MTurk, freelance APIs |
-| Cost optimization| In progress   | Cache, batching, model choice; session token tracking + Usage tab live |
-| **Monthly target**| e.g. cover 20% of API costs | Adjust as data comes in |
+| Area               | Status                      | Notes                                                                  |
+| ------------------ | --------------------------- | ---------------------------------------------------------------------- |
+| Prediction markets | Not started                 | Consider after paper edge proof                                        |
+| Token/fee revenue  | Not started                 | Pending eligibility/approval                                           |
+| Micro-tasks        | Research                    | Evaluate MTurk, freelance APIs                                         |
+| Cost optimization  | In progress                 | Cache, batching, model choice; session token tracking + Usage tab live |
+| **Monthly target** | e.g. cover 20% of API costs | Adjust as data comes in                                                |
 
 ---
 
@@ -129,21 +129,21 @@ Single source of truth for Sentinel: all project costs, LLM choice, data API tie
 
 ### Data APIs (tiers and differences)
 
-| API / service      | Tier / limit              | What we use it for                    |
-|--------------------|---------------------------|----------------------------------------|
-| Nansen             | 100 credits/month         | Smart money, wallet tracking (NANSEN_API_KEY) |
-| Sanbase (Santiment)| 1K calls/month            | On-chain analytics, flows/whales (SANTIMENT_API_KEY) |
-| CoinGlass          | Free tier / Hobbyist      | L/S ratio, funding, OI, fear/greed (COINGLASS_API_KEY) |
-| Binance, Deribit   | Public/free where used    | Taker flow, IV, funding                |
-| Hyperliquid        | Public API                | OI, funding, options pulse             |
-| CoinGecko          | Free tier                 | Prices, exchange health (COINGECKO_API_KEY) |
-| Birdeye            | Per tier                  | Memes, Solana wallets (BIRDEYE_API_KEY; plugin-vince TopTraders) |
-| DexScreener       | Free / tier               | Meme scanner, traction                 |
-| Helius             | Per tier                  | Solana RPC (HELIUS_API_KEY; .env.example) |
-| OpenSea            | Limited / tier            | NFT floors (OPENSEA_API_KEY; CryptoPunks, Meridian) |
-| X (Twitter)        | Basic tier or higher      | Read-only research, sentiment (X_BEARER_TOKEN) |
-| Firecrawl          | Optional                  | Web URLs for upload (FIRECRAWL_API_KEY) |
-| Supabase           | Project plan              | Feature store, ML bucket (SUPABASE_*; optional) |
+| API / service       | Tier / limit           | What we use it for                                               |
+| ------------------- | ---------------------- | ---------------------------------------------------------------- |
+| Nansen              | 100 credits/month      | Smart money, wallet tracking (NANSEN_API_KEY)                    |
+| Sanbase (Santiment) | 1K calls/month         | On-chain analytics, flows/whales (SANTIMENT_API_KEY)             |
+| CoinGlass           | Free tier / Hobbyist   | L/S ratio, funding, OI, fear/greed (COINGLASS_API_KEY)           |
+| Binance, Deribit    | Public/free where used | Taker flow, IV, funding                                          |
+| Hyperliquid         | Public API             | OI, funding, options pulse                                       |
+| CoinGecko           | Free tier              | Prices, exchange health (COINGECKO_API_KEY)                      |
+| Birdeye             | Per tier               | Memes, Solana wallets (BIRDEYE_API_KEY; plugin-vince TopTraders) |
+| DexScreener         | Free / tier            | Meme scanner, traction                                           |
+| Helius              | Per tier               | Solana RPC (HELIUS_API_KEY; .env.example)                        |
+| OpenSea             | Limited / tier         | NFT floors (OPENSEA_API_KEY; CryptoPunks, Meridian)              |
+| X (Twitter)         | Basic tier or higher   | Read-only research, sentiment (X_BEARER_TOKEN)                   |
+| Firecrawl           | Optional               | Web URLs for upload (FIRECRAWL_API_KEY)                          |
+| Supabase            | Project plan           | Feature store, ML bucket (SUPABASE\_\*; optional)                |
 
 When suggesting features or answering "what does it cost?", cite these limits so we stay within tier and avoid surprise burn.
 
@@ -162,4 +162,4 @@ When suggesting features or answering "what does it cost?", cite these limits so
 
 ---
 
-*Last updated: 2026-02-13. Update this file when activating new revenue streams or cost levers.*
+_Last updated: 2026-02-13. Update this file when activating new revenue streams or cost levers._

@@ -4,18 +4,20 @@ agents: [echo, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181548764.Grind Of Hxxi
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: grinding-the-trenches
 **Word Count**: 710
 **Tags**: #bitcoin #btc #eth #sol #defi #options #trading #substack
+
 ---
 
 It’s 2 a.m. again, and I’m staring at this half-empty bottle of overpriced Bordeaux that I bought because the label looked pretentious enough to match my mood. You know the one—some 2018 vintage that’s supposed to “open up” after an hour but mostly just tastes like regret and tannins. Anyway, here we are, you and me, doomscrolling through crypto Twitter like the burned-out degenerates we are, and I can’t stop thinking about this little vault called hXXI on Hyperliquid.
-> 
-Look, seven months ago, back in May, D2 Finance drops this thing with all the fanfare of a Medium post that screamed “We’re bringing TradFi’s Bitcoin premium arbitrage to DeFi, but transparently this time!” The pitch was juicy: TradFi suckers were paying 2-3x for packaged Bitcoin through outfits like Strategy (you remember when that was still MicroStrategy?) and this new hotness, Twenty One Capital. So hXXI was gonna wrap your BTC, sling it into HyperEVM, and milk volatility trades, synthetic options, funding arb—whatever it took to print real BTC yield without the Wall Street middleman or some SPAC clownshow.
+
+> Look, seven months ago, back in May, D2 Finance drops this thing with all the fanfare of a Medium post that screamed “We’re bringing TradFi’s Bitcoin premium arbitrage to DeFi, but transparently this time!” The pitch was juicy: TradFi suckers were paying 2-3x for packaged Bitcoin through outfits like Strategy (you remember when that was still MicroStrategy?) and this new hotness, Twenty One Capital. So hXXI was gonna wrap your BTC, sling it into HyperEVM, and milk volatility trades, synthetic options, funding arb—whatever it took to print real BTC yield without the Wall Street middleman or some SPAC clownshow.
 
 Phase 2 was the killer app: actually short those bloated proxies and pocket the spread when they traded at stupid premiums. Accumulate more sats per sat, keep your keys, no black boxes. Sounded almost too sane for this space.
 
@@ -33,7 +35,7 @@ I laughed—actually laughed out loud—when I dug through the old threads. Comm
 
 It’s exhausting, isn’t it? We’ve seen this movie before. Remember 2021, when I chased some “revolutionary” yield farm that promised 1000% APY on ETH pairs? I was younger, dumber—threw in five figures because the Discord was popping and the whitepaper had fancy charts. Ended in tears, impermanent loss, and me writing a rant Substack at 4 a.m. titled “Why I Hate Farmers (The Crypto Kind).”
 
-Self-deprecating as hell, subscribers loved it, but I still feel that sting. 
+Self-deprecating as hell, subscribers loved it, but I still feel that sting.
 
 Point is, hype dies fast. Discipline? That shit compounds.
 

@@ -3,6 +3,7 @@ tags: [intents, ux, cross-chain]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Chain Abstraction Overview
 
 ## The Problem: Chain-Aware Users
@@ -49,8 +50,7 @@ The end state is an application layer where a user clicks "buy NFT" and the syst
 
 The chains that win won't be the ones users choose — they'll be the ones users never notice.
 
-*Last updated: 2026-02-15*
-
+_Last updated: 2026-02-15_
 
 ## Related
 

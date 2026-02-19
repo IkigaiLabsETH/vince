@@ -3,6 +3,7 @@ tags: [restaking, ethereum, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # EigenLayer Deep Dive
 
 ## Operators
@@ -57,4 +58,4 @@ EigenLayer's moat rests on three pillars:
 
 Competitors (Symbiotic, Karak) are attempting to challenge with different collateral flexibility (any ERC-20, not just ETH/LSTs) and more modular architectures, but EigenLayer's head start in TVL and AVS partnerships remains substantial.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

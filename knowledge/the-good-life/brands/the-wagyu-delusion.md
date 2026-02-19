@@ -4,11 +4,10 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 # 180328087.The Wagyu Delusion
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: macro-economy
 **Word Count**: 1,177
@@ -37,39 +36,32 @@ Left Bank Bordeaux was born for this moment.
 
 Saint-Julien (the sweet spot)
 
-- 
-2016 Château Léoville-Barton
-Cassis, graphite, cold cigar box, and an iron backbone that makes the mineral edge of grass-fed beef stand up and sing. My forever choice.
+- 2016 Château Léoville-Barton
+  Cassis, graphite, cold cigar box, and an iron backbone that makes the mineral edge of grass-fed beef stand up and sing. My forever choice.
 
-- 
-2016 Château Ducru-Beaucaillou
-Silkier, almost dangerously seductive, yet still with enough tannic grip to refresh the palate between massive bites.
+- 2016 Château Ducru-Beaucaillou
+  Silkier, almost dangerously seductive, yet still with enough tannic grip to refresh the palate between massive bites.
 
 Saint-Estèphe (when you want smoke to meet smoke)
 
-- 
-2016 Château Montrose
-Pure seawater and iron. One of the most “carnivorous” red wines on earth.
+- 2016 Château Montrose
+  Pure seawater and iron. One of the most “carnivorous” red wines on earth.
 
-- 
-2016 Château Cos d’Estournel
-Black fruit, incense, and exotic spice that dance with quebracho coals like they were separated at birth.
+- 2016 Château Cos d’Estournel
+  Black fruit, incense, and exotic spice that dance with quebracho coals like they were separated at birth.
 
 Pauillac (the heavyweight division)
 
-- 
-2016 Château Pichon-Longueville Comtesse de Lalande
-The cashmere hammer. Perfume for days, then a tidal wave of flavor that somehow never bullies the beef.
+- 2016 Château Pichon-Longueville Comtesse de Lalande
+  The cashmere hammer. Perfume for days, then a tidal wave of flavor that somehow never bullies the beef.
 
-- 
-2010 or 2016 Château Grand-Puy-Lacoste
-Classic pencil-lead Pauillac that drinks like it costs twice as much.
+- 2010 or 2016 Château Grand-Puy-Lacoste
+  Classic pencil-lead Pauillac that drinks like it costs twice as much.
 
 Margaux (only one, because most Margaux is too delicate for hardcore asado)
 
-- 
-2016 Château Palmer
-The lone Margaux with enough muscle and dark fruit to stand on the same stage as a one-kilogram bife de chorizo.
+- 2016 Château Palmer
+  The lone Margaux with enough muscle and dark fruit to stand on the same stage as a one-kilogram bife de chorizo.
 
 Any of these bottles, given two hours in a decanter, will make a $35 piece of Argentine grass-fed Angus taste like the most profound thing you’ve eaten all year. So let the Green Egg cult keep their scented candles disguised as steak. I’ll be in the backyard, coals glowing, a thick entrecot resting on a wooden board, coarse salt falling like the first snow of winter, and a glass of 2016 Léoville-Barton turning the night air purple.
 
@@ -91,6 +83,6 @@ You’ll get the same result you got on that legendary rusty grill, only without
 Fire is still king.
 But if the tool lets you nail perfect slow-rendered, smoke-kissed, grass-fed perfection every single time without standing there like a coal-streaked maniac… maybe the green religion isn’t all bad.
 
-Just don’t tell anyone I said that. 
+Just don’t tell anyone I said that.
 
 I still have a reputation to uphold.

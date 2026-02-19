@@ -22,4 +22,4 @@ Platform architecture, agent specs, system documentation
 - OLD.md
 - OPENAI-EMBEDDINGS-SETUP.md
 
-*Plus 20 more files.*
+_Plus 20 more files._

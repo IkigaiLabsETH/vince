@@ -3,13 +3,16 @@ tags: [trading, options, derivatives]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # 180704748.The 25k Threshold
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: options
 **Word Count**: 1,839
 **Tags**: #btc #eth #sol #options #substack
----> 
+--->
 We were sitting at one of those tiny marble tables outside Café de Flore, late November, the kind of grey Paris afternoon that makes you order a second café crème just to justify staying longer. Two guys at the table next to us, early thirties, hoodies under cashmere coats, were deep into the eternal French crypto debate. One of them, let’s call him Lucas, had that tired look you only get after three hours with an expert-comptable. He was explaining to his friend why he had just dissolved the SAS he created eighteen months earlier.
 
 “Listen,” he said, lighting another cigarette, “everyone told me the same thing: ‘Create the SAS, kill the cotisation subsidiaire, pay 15 % IS instead of 30 %, deduct the Ledger, the co-working space, the flight to Devcon, everything.’ So I did it. Spent four grand in fees, found an accountant who actually understands on-chain options, opened the bank account at Shine, the whole circus.”
@@ -30,15 +33,15 @@ A silence fell. The waiter brought two more coffees nobody had ordered; in Paris
 
 He crushed the cigarette, stood up, and left a twenty-euro note under the saucer. We never saw him again, but the conversation stayed with us the rest of the holiday. Somewhere between the Christmas lights on the Champs-Élysées and the vin chaud at the Marché de Noël, we realised that in France, at least in 2025, the most sophisticated tax strategy for a crypto yield farmer is sometimes the oldest one: stay small, stay private, and wait until the activity is large enough that the bureaucracy finally pays for itself.
 
-Everything else is just theatre. 
+Everything else is just theatre.
 
 Beautiful, expensive, Parisian theatre.
 
 ---
 
 Chapter Two - Carnegie Club, Manhattan – 11:58 p.m., December 2025
-> 
-You push through the heavy mahogany door and the city dissolves behind you as completely as a bad memory, replaced in a single heartbeat by a cocoon of warm cedar, slow-burning Cuban leaf, and low amber light that feels older than Manhattan itself, while the jazz trio breathes so softly in the corner that every brushed cymbal seems to hang in the air like incense and the upright bass walks a line so lazy you could balance a twenty-three-year-old Pappy Van Winkle on it without spilling a drop.
+
+> You push through the heavy mahogany door and the city dissolves behind you as completely as a bad memory, replaced in a single heartbeat by a cocoon of warm cedar, slow-burning Cuban leaf, and low amber light that feels older than Manhattan itself, while the jazz trio breathes so softly in the corner that every brushed cymbal seems to hang in the air like incense and the upright bass walks a line so lazy you could balance a twenty-three-year-old Pappy Van Winkle on it without spilling a drop.
 
 At the far corner table, three silhouettes lean in over heavy crystal tumblers and Cohibas that glow like tiny red suns, their French vowels floating above the hush, lighter and looser than any conversation you ever overheard on the terrace of the Café de Flore under a grey November sky.
 
@@ -53,13 +56,13 @@ He lets the numbers bleed for a long, deliberate moment, long enough for the ice
 Léo exhales a ribbon of smoke that catches the amber light like a ghost of Parisian rain and laughs with the faint scar tissue of someone who once believed the system could be gamed, then continues, rolling the memory around his mouth like a bad vintage he is finally ready to spit out.
 
 “Tools?” he asks, drawing the word out until it sounds obscene. “Dext for receipts, Pennylane for the compta, Shine for the bank that still asked for paper proofs in 2025, Notion for the tears, and an accountant who charged €1,200 just to open the Hyperliquid export and sigh dramatically.
-> 
-Monthly burn before we had eaten a single euro of our own yield: €2,100, every month, like clockwork, like penance. Every January the avis d’imposition arrived like a funeral invitation written in bureaucratic calligraphy and sealed with the cold kiss of the Direction Générale des Finances Publiques.
+
+> Monthly burn before we had eaten a single euro of our own yield: €2,100, every month, like clockwork, like penance. Every January the avis d’imposition arrived like a funeral invitation written in bureaucratic calligraphy and sealed with the cold kiss of the Direction Générale des Finances Publiques.
 
 ”Romain, the quiet one who actually writes the options that make the money while the rest of us sleep, leans forward, the ember of his Cohiba flaring like a tiny red star against the dark, taps the phone once, and the dashboard expands into something that feels almost indecent in its elegance: clean lines, real-time dilution math, programmable vesting cliffs that lock and unlock themselves, treasury guardrails written in immutable code, and a weekly dividend contract that looks less like software and more like poetry written in pure, unemotional money. “Compare that to tonight,” he murmurs, the words rolling out slow and deliberate, savoring every syllable the way you savor the last pull of a cigar you know you will never smoke in Paris again.
 
 “Delaware Series LLC formed in forty-eight hours for less than the price of a Paris parking ticket, Fairmint onboarded us the following Monday, minted ERC-1400 security tokens by Tuesday, and by Wednesday morning an angel bought five percent while his G650 taxied at Teterboro, all from his phone, no notary, no greffe, no existential crisis. The entire cap table lives on-chain, updated in real time, prettier than any Notion board we ever built in the 7th arrondissement.
-Treasury guardrail at ninety days runway, automated 1099s, secondary market toggle locked until we decide the world is ready. 
+Treasury guardrail at ninety days runway, automated 1099s, secondary market toggle locked until we decide the world is ready.
 
 Monthly software burn? Mercury banking: zero. Less than one Parisian accountant’s espresso and croissant on a slow Tuesday.
 

@@ -3,6 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Solana: Risks & Bear Cases
 
 ## Analysis
@@ -39,6 +40,6 @@ Solana's early fundraising resulted in significant insider holdings with vesting
 
 **Ethereum L2 ecosystem** collectively offers fragmented but enormous liquidity, developer tooling, and institutional adoption. The risk isn't any single L2 beating Solana — it's the aggregate L2 ecosystem being "good enough" while retaining Ethereum's network effects.
 
-The bear case isn't that Solana dies; it's that Solana becomes one of several fast-cheap chains rather than *the* alternative to Ethereum. In a multi-chain world, winner-take-most dynamics may not apply, and valuation premiums for "the Ethereum killer" narrative compress.
+The bear case isn't that Solana dies; it's that Solana becomes one of several fast-cheap chains rather than _the_ alternative to Ethereum. In a multi-chain world, winner-take-most dynamics may not apply, and valuation premiums for "the Ethereum killer" narrative compress.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

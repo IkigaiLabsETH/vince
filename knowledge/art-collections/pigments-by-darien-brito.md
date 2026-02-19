@@ -3,13 +3,14 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Pigments
 
 OpenSea Slug: `pigments-by-darien-brito`
 
 ## The Artist
 
-Darien Brito—Ecuadorian audiovisual artist and creative coder, based in The Hague. Pigments dropped 6 August 2021, Art Blocks Curated: 1,024 pieces. GLSL/WebGL. The project is a study in *colour*. The algorithm distorts the canvas—warping, altering—before “pigment” is applied; structures emerge from noise and randomness. The result evokes natural substances, minerals, organic growth. Brito offers prints (paper, sublimated metal) for holders. The work sits between abstraction and nature.
+Darien Brito—Ecuadorian audiovisual artist and creative coder, based in The Hague. Pigments dropped 6 August 2021, Art Blocks Curated: 1,024 pieces. GLSL/WebGL. The project is a study in _colour_. The algorithm distorts the canvas—warping, altering—before “pigment” is applied; structures emerge from noise and randomness. The result evokes natural substances, minerals, organic growth. Brito offers prints (paper, sublimated metal) for holders. The work sits between abstraction and nature.
 
 ## Why It Matters
 

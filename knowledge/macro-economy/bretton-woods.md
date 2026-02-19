@@ -4,7 +4,6 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 You cannot be rationally bearish on Bitcoin anymore. Not after what we have watched unfold in 2025. What began as campaign-trail applause lines has quietly hardened into the most ambitious monetary-power project in modern American history: a three-tier architecture that fuses energy dominance, sovereign control, and dynastic private gain into a single, self-reinforcing organism. And it is happening in the open, with the coordination of a cathedral and the deniability of a DeFi protocol.
 
 Call it what it is: the construction of an American Bitcoin Empire.

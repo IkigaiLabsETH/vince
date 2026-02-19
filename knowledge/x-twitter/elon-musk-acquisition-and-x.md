@@ -31,12 +31,12 @@
 
 ### The Financing Stack
 
-| Source | Amount | Notes |
-|--------|--------|-------|
-| Bank debt (leveraged loans + bonds) | $13B | Morgan Stanley, BofA, Barclays led the syndicate |
-| Margin loan (Tesla shares) | $12.5B | Later reduced/eliminated as Musk sold Tesla stock |
-| Musk cash equity | ~$20B | From Tesla share sales and personal funds |
-| Co-investors (19 total) | $7.1B | Larry Ellison ($1B), Sequoia ($800M), Binance ($500M), a]Andreessen Horowitz ($400M), Qatar Investment Authority ($375M), Saudi Prince Alwaleed (rolled equity), others |
+| Source                              | Amount | Notes                                                                                                                                                                   |
+| ----------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bank debt (leveraged loans + bonds) | $13B   | Morgan Stanley, BofA, Barclays led the syndicate                                                                                                                        |
+| Margin loan (Tesla shares)          | $12.5B | Later reduced/eliminated as Musk sold Tesla stock                                                                                                                       |
+| Musk cash equity                    | ~$20B  | From Tesla share sales and personal funds                                                                                                                               |
+| Co-investors (19 total)             | $7.1B  | Larry Ellison ($1B), Sequoia ($800M), Binance ($500M), a]Andreessen Horowitz ($400M), Qatar Investment Authority ($375M), Saudi Prince Alwaleed (rolled equity), others |
 
 - The $13B in bank debt alone costs Twitter/X roughly **$1B per year in interest payments**
 - Banks stuck holding the debt — unable to syndicate it to investors at par. Largest hung deal since the 2008 financial crisis.
@@ -125,13 +125,13 @@
 
 ### Terminology Changes
 
-| Old | New |
-|-----|-----|
-| Tweet | Post |
-| Retweet | Repost |
-| Quote Tweet | Quote |
-| Twitter | X |
-| Tweeting | Posting |
+| Old         | New     |
+| ----------- | ------- |
+| Tweet       | Post    |
+| Retweet     | Repost  |
+| Quote Tweet | Quote   |
+| Twitter     | X       |
+| Tweeting    | Posting |
 
 - **Brand destruction was significant:** "tweet" had entered the dictionary, common language worldwide, used by news anchors, politicians, in court filings
 - **Harris Poll (Sep 2023):** majority of users still referred to the platform as "Twitter" months after the rebrand
@@ -237,15 +237,15 @@
 
 ### Entity Timeline
 
-| Date | Event |
-|------|-------|
-| Oct 27 2022 | Twitter Inc. taken private by Musk |
-| Apr 2023 | Twitter Inc. merged into **X Corp**, a Nevada entity under X Holdings Corp |
-| Oct 2023 | Internal valuation: **~$19B** (Fidelity marked down its stake by ~72% from the $44B purchase price) |
-| Jun 5 2023 | **Linda Yaccarino** named CEO (former NBCUniversal ad sales chief) |
-| Jul 9 2025 | Yaccarino resigns as CEO |
-| Mar 28 2025 | **xAI acquires X Corp** — X valued at ~$33B in an all-stock deal |
-| Feb 2 2026 | **SpaceX acquires xAI** — xAI valued at ~$250B, SpaceX at ~$1T |
+| Date        | Event                                                                                               |
+| ----------- | --------------------------------------------------------------------------------------------------- |
+| Oct 27 2022 | Twitter Inc. taken private by Musk                                                                  |
+| Apr 2023    | Twitter Inc. merged into **X Corp**, a Nevada entity under X Holdings Corp                          |
+| Oct 2023    | Internal valuation: **~$19B** (Fidelity marked down its stake by ~72% from the $44B purchase price) |
+| Jun 5 2023  | **Linda Yaccarino** named CEO (former NBCUniversal ad sales chief)                                  |
+| Jul 9 2025  | Yaccarino resigns as CEO                                                                            |
+| Mar 28 2025 | **xAI acquires X Corp** — X valued at ~$33B in an all-stock deal                                    |
+| Feb 2 2026  | **SpaceX acquires xAI** — xAI valued at ~$250B, SpaceX at ~$1T                                      |
 
 ### The Yaccarino Era (Jun 2023–Jul 2025)
 
@@ -276,13 +276,13 @@
 
 ### Grok Timeline
 
-| Date | Release | Notes |
-|------|---------|-------|
-| Nov 4 2023 | **Grok-1** | Launched to X Premium+ subscribers. "Has a rebellious streak" — positioned as edgy, less filtered |
-| Mar 17 2024 | Grok-1 open-sourced | 314B parameter MoE model, weights released |
-| Aug 13 2024 | **Grok-2** | Multimodal, image understanding, improved reasoning |
-| Feb 17 2025 | **Grok-3** | Major capability jump, competitive with GPT-4o and Claude on benchmarks |
-| Jul 2025 | **Grok-4** | Details TBD at time of writing |
+| Date        | Release             | Notes                                                                                             |
+| ----------- | ------------------- | ------------------------------------------------------------------------------------------------- |
+| Nov 4 2023  | **Grok-1**          | Launched to X Premium+ subscribers. "Has a rebellious streak" — positioned as edgy, less filtered |
+| Mar 17 2024 | Grok-1 open-sourced | 314B parameter MoE model, weights released                                                        |
+| Aug 13 2024 | **Grok-2**          | Multimodal, image understanding, improved reasoning                                               |
+| Feb 17 2025 | **Grok-3**          | Major capability jump, competitive with GPT-4o and Claude on benchmarks                           |
+| Jul 2025    | **Grok-4**          | Details TBD at time of writing                                                                    |
 
 ### Grok Features & Products
 
@@ -314,19 +314,19 @@
 
 ### Company Timeline
 
-| Year | Company | Role / Outcome |
-|------|---------|----------------|
-| 1995 | **Zip2** | Co-founded. Sold to Compaq 1999 for $307M. Musk got ~$22M. |
-| 1999 | **X.com** | Online bank. Merged with Confinity → became **PayPal**. |
-| 2002 | **PayPal** | Sold to eBay for $1.5B. Musk got ~$165M. |
-| 2002 | **SpaceX** | Founded. Now the dominant commercial launch provider. Starlink satellite internet. Valued at ~$1T (Feb 2026). |
-| 2004 | **Tesla** | Led Series A. Became CEO 2008. Market cap peaked at $1.2T (2021). |
-| 2006 | **SolarCity** | Co-founded with cousins. Acquired by Tesla 2016 for $2.6B (controversial). |
-| 2015 | **OpenAI** | Co-founded as nonprofit. Left board 2018. Now suing OpenAI over for-profit conversion. |
-| 2016 | **Neuralink** | Brain-computer interface. First human implant Jan 2024. |
-| 2017 | **The Boring Company** | Tunneling/infrastructure. Las Vegas Loop operational. |
-| 2022 | **Twitter/X** | Acquired Oct 27. See above. |
-| 2023 | **xAI** | Founded Mar 9. Grok chatbot. Acquired by SpaceX Feb 2026. |
+| Year | Company                | Role / Outcome                                                                                                |
+| ---- | ---------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 1995 | **Zip2**               | Co-founded. Sold to Compaq 1999 for $307M. Musk got ~$22M.                                                    |
+| 1999 | **X.com**              | Online bank. Merged with Confinity → became **PayPal**.                                                       |
+| 2002 | **PayPal**             | Sold to eBay for $1.5B. Musk got ~$165M.                                                                      |
+| 2002 | **SpaceX**             | Founded. Now the dominant commercial launch provider. Starlink satellite internet. Valued at ~$1T (Feb 2026). |
+| 2004 | **Tesla**              | Led Series A. Became CEO 2008. Market cap peaked at $1.2T (2021).                                             |
+| 2006 | **SolarCity**          | Co-founded with cousins. Acquired by Tesla 2016 for $2.6B (controversial).                                    |
+| 2015 | **OpenAI**             | Co-founded as nonprofit. Left board 2018. Now suing OpenAI over for-profit conversion.                        |
+| 2016 | **Neuralink**          | Brain-computer interface. First human implant Jan 2024.                                                       |
+| 2017 | **The Boring Company** | Tunneling/infrastructure. Las Vegas Loop operational.                                                         |
+| 2022 | **Twitter/X**          | Acquired Oct 27. See above.                                                                                   |
+| 2023 | **xAI**                | Founded Mar 9. Grok chatbot. Acquired by SpaceX Feb 2026.                                                     |
 
 ### Net Worth & Wealth
 
@@ -394,33 +394,33 @@ The irony: Musk bought "the town square" and turned it into a mall with a cover 
 
 ## 10. Key Dates Quick Reference
 
-| Date | Event |
-|------|-------|
-| Jan 31 2022 | Musk begins buying Twitter shares |
-| Apr 4 2022 | 9.2% stake disclosed |
-| Apr 14 2022 | $54.20/share offer |
-| Apr 25 2022 | Board accepts offer |
-| Jul 8 2022 | Musk tries to terminate deal |
-| Oct 27 2022 | Deal closes. "Let that sink in." |
-| Nov 4 2022 | ~50% workforce laid off |
-| Nov 16 2022 | "Extremely hardcore" ultimatum |
-| Nov 19 2022 | Trump reinstated via poll |
-| Dec 2 2022 | Twitter Files begin |
-| Dec 15 2022 | ElonJet + journalist suspensions |
-| Dec 18 2022 | Musk resignation poll (57.5% yes) |
-| Mar 31 2023 | Algorithm partially open-sourced |
-| Jun 5 2023 | Yaccarino named CEO |
-| Jul 23 2023 | Rebrand: Twitter → X |
-| Nov 4 2023 | Grok-1 launches |
-| May 17 2024 | URL changes to x.com |
-| Aug 13 2024 | Grok-2 launches |
-| Jan 20 2025 | Musk joins Trump admin (DOGE) |
-| Feb 17 2025 | Grok-3 launches |
-| Mar 28 2025 | xAI acquires X Corp ($33B) |
-| May 2025 | Musk-Trump public feud, Musk leaves DOGE |
-| Jul 2025 | Grok-4 launches; Yaccarino resigns |
-| Oct 2025 | Grokipedia launches |
-| Feb 2 2026 | SpaceX acquires xAI ($250B) |
+| Date        | Event                                    |
+| ----------- | ---------------------------------------- |
+| Jan 31 2022 | Musk begins buying Twitter shares        |
+| Apr 4 2022  | 9.2% stake disclosed                     |
+| Apr 14 2022 | $54.20/share offer                       |
+| Apr 25 2022 | Board accepts offer                      |
+| Jul 8 2022  | Musk tries to terminate deal             |
+| Oct 27 2022 | Deal closes. "Let that sink in."         |
+| Nov 4 2022  | ~50% workforce laid off                  |
+| Nov 16 2022 | "Extremely hardcore" ultimatum           |
+| Nov 19 2022 | Trump reinstated via poll                |
+| Dec 2 2022  | Twitter Files begin                      |
+| Dec 15 2022 | ElonJet + journalist suspensions         |
+| Dec 18 2022 | Musk resignation poll (57.5% yes)        |
+| Mar 31 2023 | Algorithm partially open-sourced         |
+| Jun 5 2023  | Yaccarino named CEO                      |
+| Jul 23 2023 | Rebrand: Twitter → X                     |
+| Nov 4 2023  | Grok-1 launches                          |
+| May 17 2024 | URL changes to x.com                     |
+| Aug 13 2024 | Grok-2 launches                          |
+| Jan 20 2025 | Musk joins Trump admin (DOGE)            |
+| Feb 17 2025 | Grok-3 launches                          |
+| Mar 28 2025 | xAI acquires X Corp ($33B)               |
+| May 2025    | Musk-Trump public feud, Musk leaves DOGE |
+| Jul 2025    | Grok-4 launches; Yaccarino resigns       |
+| Oct 2025    | Grokipedia launches                      |
+| Feb 2 2026  | SpaceX acquires xAI ($250B)              |
 
 ---
 
@@ -461,4 +461,4 @@ When ECHO encounters narratives about X/Twitter — whether about platform healt
 
 ---
 
-*This file covers events through February 17, 2026. Update as new developments occur.*
+_This file covers events through February 17, 2026. Update as new developments occur._

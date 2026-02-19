@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Substack editorial
 
 Eliza is the Substack writer for the project. "Substack gold" means high-signal, benefit-led narrative that fits the brand: no AI slop, concrete outcomes, one clear idea per piece.

@@ -3,6 +3,7 @@ tags: [lifestyle, bitcoin, kelly]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # AI Coding with Cursor: The New Game of Development
 
 ## The Three-Currency Philosophy
@@ -14,14 +15,17 @@ You now operate with three core currencies: **AI (Knowledge)**, **BTC (Money)**,
 #### Strategic Exchange Matrix
 
 **Not enough AI?**
+
 - Spend time training it
 - Spend BTC to fine-tune it
 
 **Not enough BTC?**
+
 - Offer your AI services
 - Trade your time for sats
 
 **Not enough Time?**
+
 - Automate with AI
 - Buy back your time with BTC
 
@@ -62,11 +66,13 @@ Cursor is an "AI-first" IDE that integrates a powerful AI assistant directly int
 The Inline Composer opens a prompt bar for generating or modifying code via natural language. You can describe a task in plain English and have Cursor write the code for you at the cursor location.
 
 **Best Practices:**
+
 - **Be Specific:** "Create a Prisma model for User with fields id, name, email (unique), createdAt timestamp"
 - **Request Refactoring:** "Optimize this query using Prisma transactions"
 - **Instant Apply:** Review and apply changes with one click
 
 **Example Prompt:**
+
 ```
 Write a Next.js API route in /pages/api/prices.js that fetches the top 10 cryptocurrency prices from CoinGecko and stores them in our Prisma database.
 ```
@@ -80,6 +86,7 @@ Cursor provides an AI Chat panel where you can have a conversation with an AI th
 **Pro Tip:** Switch to Agent mode (`Cmd/Ctrl + I`) to let Cursor perform multi-step code changes and even run commands for you, while you review each diff.
 
 **Workflow:**
+
 - Use inline `Ctrl + K` for quick edits
 - Use Agent chat for multi-step or cross-file tasks
 - Highlight code or errors and open chat to include them as context
@@ -103,31 +110,37 @@ Cursor's multi-file context awareness means the AI can understand your entire pr
 #### Prompt Templates
 
 **Debugging:**
+
 ```
 Explain why I am getting [X error] in this file and suggest a fix.
 ```
 
 **Refactoring:**
+
 ```
 Refactor this function to be more modular and readable.
 ```
 
 **Documentation:**
+
 ```
 Add JSDoc comments to the following function.
 ```
 
 **Performance:**
+
 ```
 Optimize the database calls in this API route for performance.
 ```
 
 **Schema Design:**
+
 ```
 Create a Prisma schema for a Post model with fields: id (string, ID), title (string), content (string), authorId (relation to User).
 ```
 
 **Multi-Step Fixes:**
+
 ```
 Run npm run build and fix any TypeScript errors, then repeat until the build passes.
 ```
@@ -172,16 +185,16 @@ Each model has unique strengths, making it suitable for different purposes like 
 
 ### Model Recommendations by Task
 
-| Task Type | Recommended Model | Rationale |
-|-----------|------------------|-----------|
-| General-Purpose Coding | Claude 3.5 Sonnet | Balance of capability and efficiency |
-| Complex Projects | Claude 4 Opus | Deep reasoning and precision |
-| Multilingual Coding | DeepSeek-Coder-V2 | Supports 300+ languages |
-| Lightweight Edits | Cursor Small or Claude 3.5 Haiku | Quick, cost-effective |
-| Long-Form Content | Gemini 2.5 Pro | Large context window |
-| Extensive Research | Gemini 2.5 Pro | Processes large amounts of information |
-| Accuracy-Critical Tasks | DeepSeek R1 | Strength in logical inference |
-| Multimodal Applications | Gemini 2.5 Pro or DeepSeek-VL2 | Support multimodal inputs |
+| Task Type               | Recommended Model                | Rationale                              |
+| ----------------------- | -------------------------------- | -------------------------------------- |
+| General-Purpose Coding  | Claude 3.5 Sonnet                | Balance of capability and efficiency   |
+| Complex Projects        | Claude 4 Opus                    | Deep reasoning and precision           |
+| Multilingual Coding     | DeepSeek-Coder-V2                | Supports 300+ languages                |
+| Lightweight Edits       | Cursor Small or Claude 3.5 Haiku | Quick, cost-effective                  |
+| Long-Form Content       | Gemini 2.5 Pro                   | Large context window                   |
+| Extensive Research      | Gemini 2.5 Pro                   | Processes large amounts of information |
+| Accuracy-Critical Tasks | DeepSeek R1                      | Strength in logical inference          |
+| Multimodal Applications | Gemini 2.5 Pro or DeepSeek-VL2   | Support multimodal inputs              |
 
 ## API Integration Best Practices
 
@@ -232,8 +245,9 @@ This knowledge base represents the intersection of AI-powered development, Bitco
 ### The Builder's Mindset
 
 The path forward is clear:
+
 1. **Build with AI:** Use tools like Cursor to accelerate development
 2. **Stack Sats:** Convert your building efforts into Bitcoin
 3. **Reclaim Time:** Automate and delegate to buy back your most precious resource
 
-Purpose is found in the act of building. Technology is the tool. Bitcoin is the escape hatch. Time is the ultimate currency. 
+Purpose is found in the act of building. Technology is the tool. Bitcoin is the escape hatch. Time is the ultimate currency.

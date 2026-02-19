@@ -3,12 +3,16 @@ tags: [altcoins, tokens, evaluation]
 agents: [echo, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # 182037920.The Adults Table
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: altcoins
 **Word Count**: 1,324
 **Tags**: #btc #eth #sol #defi #nft #perps #trading #substack
+
 ---
 
 Few criticisms have stuck as persistently as the “kids’ table” analogy for altcoin governance tokens. Holders get voting rights—often meaningless in practice—but capture little to no real economic upside from the protocol’s success.
@@ -17,7 +21,7 @@ Meanwhile, equity investors in the underlying company reap the rewards of growth
 
 ## Context
 
-Yet, in 2025, a quiet revolution is underway. Projects like Rainbow Wallet and Morpho Protocol are pioneering structures that grant token holders true equity-like rights, bridging the gap between on-chain governance and off-chain company value. At the same time, infrastructure like Fairmint is making full cap table tokenization accessible. 
+Yet, in 2025, a quiet revolution is underway. Projects like Rainbow Wallet and Morpho Protocol are pioneering structures that grant token holders true equity-like rights, bridging the gap between on-chain governance and off-chain company value. At the same time, infrastructure like Fairmint is making full cap table tokenization accessible.
 
 These innovations not only address the alignment problem but also challenge the dominant “buyback everything” narrative sweeping DeFi—arguing instead for ruthless reinvestment to fuel compounding growth in a still-nascent industry.
 
@@ -27,7 +31,7 @@ These innovations not only address the alignment problem but also challenge the 
 
 Since the ICO era, most crypto projects have separated equity (held by VCs and founders in a for-profit entity) from tokens (governance/utility for the public).
 
-This creates perverse incentives: Company value accrues off-chain, while tokens rely on speculative demand or diluted voting. 
+This creates perverse incentives: Company value accrues off-chain, while tokens rely on speculative demand or diluted voting.
 
 Critics rightly point out that this leaves token holders at the “kids’ table”—participating without meaningful ownership.
 
@@ -41,42 +45,33 @@ Rektguy NFTs (launched 2022): In 2024, Rekt Brands Inc. granted actual equity sh
 
 Two standout projects demonstrate viable paths forward:
 
-- 
-Rainbow Wallet ($RNBW): The Rainbow Foundation holds 20% of the company’s equity (via a special Class F share class) on behalf of token holders, making it the largest shareholder. This stake ensures holders share in upside from growth, acquisitions, or exits—proceeds distributed directly. Launched with a CoinList sale in late 2025 and TGE set for February 2026, Rainbow supplements this with real-time buybacks from platform earnings (swaps, perps). It’s a deliberate fix: Token value tied to both usage and traditional company metrics.
+- Rainbow Wallet ($RNBW): The Rainbow Foundation holds 20% of the company’s equity (via a special Class F share class) on behalf of token holders, making it the largest shareholder. This stake ensures holders share in upside from growth, acquisitions, or exits—proceeds distributed directly. Launched with a CoinList sale in late 2025 and TGE set for February 2026, Rainbow supplements this with real-time buybacks from platform earnings (swaps, perps). It’s a deliberate fix: Token value tied to both usage and traditional company metrics.
 
-- 
-Morpho Protocol (MORPHO): In mid-2025, Morpho Labs transferred 100% of shares to the Morpho Association (a French nonprofit controlled by the DAO). This eliminates external equity holders, ensuring all company value (IP, development) flows back to the protocol and token holders. Nonprofit laws prevent profit distribution or sales, aligning incentives for long-term network growth. Founder Paul Frambot emphasizes: No separate winners—token holders capture the full upside.
+- Morpho Protocol (MORPHO): In mid-2025, Morpho Labs transferred 100% of shares to the Morpho Association (a French nonprofit controlled by the DAO). This eliminates external equity holders, ensuring all company value (IP, development) flows back to the protocol and token holders. Nonprofit laws prevent profit distribution or sales, aligning incentives for long-term network growth. Founder Paul Frambot emphasizes: No separate winners—token holders capture the full upside.
 
 These hybrids avoid pure securities classification while delivering economic rights closer to equity than governance alone.
 
 **The Ultimate Bridge: Fairmint and Cap Table Tokenization**
-**
-Fairmint stands out. As an SEC-registered Transfer Agent, it enables companies to tokenize their entire cap table natively on-chain via the Open Cap Table Protocol (OCP)—an open-source standard for programmable equity. 
+\*\*
+Fairmint stands out. As an SEC-registered Transfer Agent, it enables companies to tokenize their entire cap table natively on-chain via the Open Cap Table Protocol (OCP)—an open-source standard for programmable equity.
 
 By late 2025, Fairmint surpassed $1 billion in on-chain equity administered:
 
-- 
-Observer Nodes on Canton Network for regulatory oversight with privacy.
+- Observer Nodes on Canton Network for regulatory oversight with privacy.
 
-- 
-Partnerships (e.g., IntellectEU) and submissions to the SEC Crypto Task Force advocating blockchain for private markets.
+- Partnerships (e.g., IntellectEU) and submissions to the SEC Crypto Task Force advocating blockchain for private markets.
 
-- 
-Tools for migrating SAFEs/notes/shares to smart contracts, enabling compliant transfers, vesting, and DeFi primitives.
+- Tools for migrating SAFEs/notes/shares to smart contracts, enabling compliant transfers, vesting, and DeFi primitives.
 
-> 
-Fairmint targets the $6 trillion private equity market’s inefficiencies (Excel chaos, slow settlements). It’s native tokenized stock—holders own real shares in wallets, with upside from acquisitions or growth.
+> Fairmint targets the $6 trillion private equity market’s inefficiencies (Excel chaos, slow settlements). It’s native tokenized stock—holders own real shares in wallets, with upside from acquisitions or growth.
 
-Yet, crypto-native adoption lags. Reasons include:**
+Yet, crypto-native adoption lags. Reasons include:\*\*
 
-- 
-KYC/Accreditation Barriers: Compliance requires identity verification and often accreditation—clashing with DeFi’s permissionless ethos.
+- KYC/Accreditation Barriers: Compliance requires identity verification and often accreditation—clashing with DeFi’s permissionless ethos.
 
-- 
-U.S.-Centric Structure: Suited for C-Corps under Reg D/CF; many crypto projects avoid U.S. entities for regulatory flexibility. (no longer true?)
+- U.S.-Centric Structure: Suited for C-Corps under Reg D/CF; many crypto projects avoid U.S. entities for regulatory flexibility. (no longer true?)
 
-- 
-Maturity Gap: Best for established companies; early protocols prioritize token launches.
+- Maturity Gap: Best for established companies; early protocols prioritize token launches.
 
 As regulation clarifies, Fairmint could unlock widespread hybrids.
 
@@ -86,49 +81,43 @@ As regulation clarifies, Fairmint could unlock widespread hybrids.
 
 But this risks starving growth. Crypto isn’t mature like Apple; it’s high-growth startups battling for dominance in lending, perps, wallets, RWAs.Key trade-offs:
 
-- 
-Buybacks provide “sugar highs” but drain reinvestment buffers
+- Buybacks provide “sugar highs” but drain reinvestment buffers
 
-- 
-Sustainable only with recurring fees; many dip into treasuries.
+- Sustainable only with recurring fees; many dip into treasuries.
 
-- 
-In bears, forced distributions weaken resilience.
+- In bears, forced distributions weaken resilience.
 
 Contrast Morpho/Rainbow/Fairmint models: Structural alignment + reinvestment. Morpho explicitly rejects heavy distributions: “Would a high-growth startup payout instead of expanding? No.” Fees compound into better rates/TVL flywheels.
 
 Reinvestment wins because:
 
-- 
-Network effects demand scale (liquidity, UX moats).
+- Network effects demand scale (liquidity, UX moats).
 
-- 
-Innovation race (AI, mobile, RWAs).
+- Innovation race (AI, mobile, RWAs).
 
-- 
-Pie growth > slicing a stagnant one.
+- Pie growth > slicing a stagnant one.
 
-Buybacks treat symptoms (impatience); 
+Buybacks treat symptoms (impatience);
 
 true alignment + growth cures the disease.
 
 **Toward a Mature Crypto Economy**
-> 
-The “kids’ table” era is ending. Rainbow’s 20% stake, Morpho’s nonprofit capture, Rektguy’s success, and Fairmint’s infrastructure show tokens can evolve into real ownership claims—without sacrificing growth.
 
-Crypto needs more Amazons: 
+> The “kids’ table” era is ending. Rainbow’s 20% stake, Morpho’s nonprofit capture, Rektguy’s success, and Fairmint’s infrastructure show tokens can evolve into real ownership claims—without sacrificing growth.
 
-Reinvest aggressively early, 
+Crypto needs more Amazons:
 
-compound dominance, 
+Reinvest aggressively early,
 
-let aligned holders win big later. 
+compound dominance,
 
-As 2025 closes, these models point the way: 
+let aligned holders win big later.
 
-Structural fixes over quick yields. 
+As 2025 closes, these models point the way:
 
-Growth first—always. 
+Structural fixes over quick yields.
+
+Growth first—always.
 
 The adults’ table awaits.
 

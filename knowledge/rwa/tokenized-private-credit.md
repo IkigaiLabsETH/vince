@@ -3,9 +3,10 @@ tags: [rwa, tokenization, institutional]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Tokenized Private Credit
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_
 
 ## The Protocols
 

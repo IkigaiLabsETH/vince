@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 Picture this: It’s October 2025, and the AI hype train is barreling forward at warp speed. NVIDIA’s stock is mooning on whispers of $300 billion in global AI capex next year. But behind the headlines, smaller AI labs are starving for capital. Wall Street won’t touch them—too risky, too niche. Enter USDai.
 
 What started as a quiet experiment by Permian Labs has exploded into a $1.02 billion protocol that’s rewriting the rules of stablecoins. Backed by blue-chip VCs like Dragonfly, Binance’s YZi Labs, and now Coinbase Ventures, USDai isn’t just holding dollars—it’s building the machine economy.
@@ -27,7 +28,7 @@ This isn’t a stablecoin. It’s a high-yield bond fund for the AI arms race.
 
 **The Moat: From Vaporware to Verifiable Metal**
 
-Most RWA plays? Smoke and mirrors—tokenized “promises” with zero recourse. USDai’s CALIBER framework is the anti-vapor: GPUs must be burned-in, SSH-verified, and insured before a dime moves. Permian Labs (doxxed directors, UK-bonded) issues the Wrapped Receipts. Brokers like Hydra stand ready for liquidations. Proof? Zero losses in four months. Audits from KTL and Cantina confirm reserves. 
+Most RWA plays? Smoke and mirrors—tokenized “promises” with zero recourse. USDai’s CALIBER framework is the anti-vapor: GPUs must be burned-in, SSH-verified, and insured before a dime moves. Permian Labs (doxxed directors, UK-bonded) issues the Wrapped Receipts. Brokers like Hydra stand ready for liquidations. Proof? Zero losses in four months. Audits from KTL and Cantina confirm reserves.
 
 **The Money Machine: Yields That Actually Print**
 
@@ -37,46 +38,38 @@ At scale, this funds the unbanked AI operators while you sip 400–800 bps over 
 
 Valuation: From $1B Launch to AI’s Reserve Dollar
 
-Base: $2.5B TVL, $1B FDV (8x run-rate, DAI comp + yield premium).**Bull: $4–5B TVL, $2.5–3.5B (12–15x, Ondo + GPU halo).
+Base: $2.5B TVL, $1B FDV (8x run-rate, DAI comp + yield premium).\*\*Bull: $4–5B TVL, $2.5–3.5B (12–15x, Ondo + GPU halo).
 Moon (2027): $10B+ TVL, $6–8B (15–20x, default AI infra dollar).
 
 $100M community bag at $1B FDV? Paid by real revenue. Cheapest launch ever.
 
 Fixed-income? sUSDai’s your 10%+ pegged paradise. Degens? Allo farm like it’s 2021. Believers? This powers agents and infra for the machine age.
 
-The Allo Game**
+The Allo Game\*\*
 
 The Allo Game is a strategic points-and-alignment system by USD.AI that lets participants earn “Allo points” toward rewards in an upcoming token launch, tied to real yield from AI infrastructure (not emissions farming).
 
 Two Paths (Alignment):
 
-- 
-ICO Alignment (Owner/Brown): Mint and hold USDai → Pays to buy tokens at launch. Rewards: 70% of the 10% token float (2/3 of total rewards).
+- ICO Alignment (Owner/Brown): Mint and hold USDai → Pays to buy tokens at launch. Rewards: 70% of the 10% token float (2/3 of total rewards).
 
-- 
-Airdrop Alignment (Earner/Teal): Mint USDai → stake as sUSDai for yield → Free tokens + passive yield. Rewards: 30% of the float (1/3 of total rewards).
+- Airdrop Alignment (Earner/Teal): Mint USDai → stake as sUSDai for yield → Free tokens + passive yield. Rewards: 30% of the float (1/3 of total rewards).
 
 How Points Work:
 
-- 
-Every dollar deployed (via minting USDai or approved strategies like Pendle YT boosts, LP vaults, etc.) earns daily Allo points.
+- Every dollar deployed (via minting USDai or approved strategies like Pendle YT boosts, LP vaults, etc.) earns daily Allo points.
 
-- 
-Riskier/leverage strategies (e.g., Pendle YT for up to 100x exposure) amplify points and shift alignment faster.
+- Riskier/leverage strategies (e.g., Pendle YT for up to 100x exposure) amplify points and shift alignment faster.
 
 Endgame:
 
-- 
-Game ends when USD.AI pays out $20M in total yield.
+- Game ends when USD.AI pays out $20M in total yield.
 
-- 
-Token launches at $300M FDV ($30M circulating market cap) with a 10% float unlocked.
+- Token launches at $300M FDV ($30M circulating market cap) with a 10% float unlocked.
 
-- 
-Final rewards determined by your Allo points × final Alignment relative to the community average (above-average on a side = better outcome).
+- Final rewards determined by your Allo points × final Alignment relative to the community average (above-average on a side = better outcome).
 
-- 
-ICO side requires KYC; airdrop side does not.
+- ICO side requires KYC; airdrop side does not.
 
 ## Conclusion
 

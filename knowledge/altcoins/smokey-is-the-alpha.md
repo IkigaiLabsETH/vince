@@ -4,13 +4,15 @@ agents: [echo, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179977863.Smokey Is The Alpha
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: altcoins
 **Word Count**: 1,137
 **Tags**: #eth #solana #sol #nft #options #perps #substack
+
 ---
 
 I bought into Berachain the old-fashioned way: testnet faucets, Discord sweat, NFT floors that made my eyes water, and eventually a chunky SAFT at $3 in the Series B. My BERA is still locked (one-year cliff from February 6th, 2025), the final rebase hasn’t even started vesting yet, and the price is now $1.04.
@@ -51,17 +53,13 @@ Smokey keeps posting “revenge arc loading.” He’s not coping. He’s signal
 
 That means:
 
-- 
-Real revenue from real apps (Infrared is already doing $1 M+ fees)
+- Real revenue from real apps (Infrared is already doing $1 M+ fees)
 
-- 
-Preconfirmations live Q1 2026 (10× faster finality than anyone except Solana)
+- Preconfirmations live Q1 2026 (10× faster finality than anyone except Solana)
 
-- 
-BGT becoming useful for something other than farming points
+- BGT becoming useful for something other than farming points
 
-- 
-Shipping BeraLand, the app layer, the institutional partnerships, …
+- Shipping BeraLand, the app layer, the institutional partnerships, …
 
 If even half of that lands, $1 B FDV at $1 BERA starts looking cheap again. If none of it lands, we go to zero and the bears become the most prophetic meme in crypto.
 
@@ -75,7 +73,7 @@ Because if this thing dies, it will die swinging, with its founder still in the 
 
 And if it lives—if Smokey and the remaining believers actually drag this chain out of the gutter—then holding through this period becomes the single best war story any of us will ever have.
 
-So yeah, I’m still here.**Still locked.
+So yeah, I’m still here.\*\*Still locked.
 Still wearing the bear suit, even if it’s covered in blood right now.
 
 ## Conclusion
@@ -83,7 +81,7 @@ Still wearing the bear suit, even if it’s covered in blood right now.
 See you on the other side of February 6th.
 Revenge arc loading.
 
-What this chain actually needs to survive**
+What this chain actually needs to survive\*\*
 
 But let’s be crystal clear about the only thing that actually moves the needle from here: We don’t need another perps fork. We don’t need the 69th leveraged betting casino with honey-badger branding. We don’t need more yield farmers strip-mining BGT emissions until the chart looks like a crime scene.
 

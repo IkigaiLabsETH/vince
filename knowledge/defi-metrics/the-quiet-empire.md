@@ -4,13 +4,15 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180139813.The Quiet Empire
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: defi-metrics
 **Word Count**: 1,226
 **Tags**: #btc #ethereum #eth #solana #sol #perps #futures #trading #substack
+
 ---
 
 Six months ago almost no one had heard of [Felix](https://www.usefelix.xyz?ref=F21049C1). Today it is the second-largest protocol on HyperEVM, the borrowing hub for every serious trader on Hyperliquid, and the single biggest sink for USDH outside the exchange itself. It did all of this without a token, without a pre-mine, and without ever paying for a single sponsored tweet. The rise feels accidental only if you weren’t paying attention.
@@ -55,57 +57,45 @@ That, it turns out, is an extremely loud signal in a very noisy industry.
 
 Here’s what to do next, from easiest to spicier:
 
-- 
-Do nothing → Keep the 10 % + free Felix points. Totally fine.
+- Do nothing → Keep the 10 % + free Felix points. Totally fine.
 
-- 
-One-click upgrade (2 minutes)
-Go to Felix app → Vanilla → “Vaults” → Move your deposit into the top USDT0/USDH vault.
-You now get 12–14 % instead of 10 %, still super safe, still earning points. Done.
+- One-click upgrade (2 minutes)
+  Go to Felix app → Vanilla → “Vaults” → Move your deposit into the top USDT0/USDH vault.
+  You now get 12–14 % instead of 10 %, still super safe, still earning points. Done.
 
 Slightly more juice (5 minutes)
 In the same Felix app:
 
-- 
-Borrow a bit of HYPE against your deposit (safe at 50–60 % loan-to-value)
+- Borrow a bit of HYPE against your deposit (safe at 50–60 % loan-to-value)
 
-- 
-Mint feUSD with that HYPE (0 % interest)
+- Mint feUSD with that HYPE (0 % interest)
 
-- 
-Swap feUSD back to USDH/USDT0 and put it back in the lending pool
-→ You now earn 16–20 % on the same money + way more points.
-(Just never go below 160 % collateral ratio and you’re safe.)
+- Swap feUSD back to USDH/USDT0 and put it back in the lending pool
+  → You now earn 16–20 % on the same money + way more points.
+  (Just never go below 160 % collateral ratio and you’re safe.)
 
-- 
-Fun mode (optional)
-Take 10–20 % of your stack, swap half to feUSD, add liquidity on KittenSwap (USDH–feUSD pool) → 15–25 % APY + extra partner points.
+- Fun mode (optional)
+  Take 10–20 % of your stack, swap half to feUSD, add liquidity on KittenSwap (USDH–feUSD pool) → 15–25 % APY + extra partner points.
 
-Pick 1, 2, 3, or 4. Most people just do step 2 or 3 and chill. 
+Pick 1, 2, 3, or 4. Most people just do step 2 or 3 and chill.
 
 That’s literally it — no spreadsheets required.
 
 Eight months in, Felix is no longer quiet:
 
-- 
-Total deposits > $1.5B, second-largest protocol on HyperEVM
+- Total deposits > $1.5B, second-largest protocol on HyperEVM
 
-- 
-USDH fully integrated as the chain’s fiat-backed stable (4%+ base yield now passes through to lenders)
+- USDH fully integrated as the chain’s fiat-backed stable (4%+ base yield now passes through to lenders)
 
-- 
-Vanilla lending vaults boosted to 12–25%+ APR with fresh Merkl incentives
+- Vanilla lending vaults boosted to 12–25%+ APR with fresh Merkl incentives
 
-- 
-Borrowing rates still sub-5%: HYPE 3.3%, kHYPE 2.6%, UBTC 1.98%
+- Borrowing rates still sub-5%: HYPE 3.3%, kHYPE 2.6%, UBTC 1.98%
 
-- 
-HIP-3 equity perps live (TSLA-USDH, CRCL-USDH, COIN-USDH) – borrow USDH cheap, go long/short real stocks at 3× with occasional 100%+ annualized funding
+- HIP-3 equity perps live (TSLA-USDH, CRCL-USDH, COIN-USDH) – borrow USDH cheap, go long/short real stocks at 3× with occasional 100%+ annualized funding
 
 ## Conclusion
 
-- 
-Still no token, still just points, still zero paid marketing
+- Still no token, still just points, still zero paid marketing
 
 The empire has started speaking and the rest of crypto is finally listening.
 

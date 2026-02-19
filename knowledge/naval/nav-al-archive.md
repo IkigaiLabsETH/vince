@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-17
 ---
+
 # nav.al Archive — Essay Index
 
 Naval's long-form writing lives at https://nav.al/archive. This file lists every essay title by year and category so the agent can reference specific pieces.

@@ -63,4 +63,4 @@ We built this so we can **stay in the game** (informed, stimulated, some PnL, co
 
 The goal isn't to quit crypto. It's to **treat it so we can live well**: stay in the game, evolve, earn, contribute—and still allocate the bulk of our time to sport, sun, learning, travel, reading, genuine people. VINCE and Eliza are the infrastructure for that balance.
 
-*avec amour*
+_avec amour_

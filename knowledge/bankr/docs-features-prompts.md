@@ -3,6 +3,7 @@ tags: [bankr, trading, protocol]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Bankr Features — Prompt Phrasings (Ingested)
 
 Source: docs.bankr.bot/features (Portfolio, Transfers, NFTs, Leveraged Trading, DCA, TWAP, Stop Orders, Limit Orders, Swaps, Features Table)
@@ -70,31 +71,38 @@ These phrasings are sent to Bankr via **BANKR_AGENT_PROMPT**. Forward the user's
 Buy, sell, mint, and transfer NFTs. **EVM only** (Base, Ethereum, Polygon, Unichain). Not Solana. Pricing in ETH/WETH; OpenSea fees apply on sales.
 
 **Viewing**
+
 - "show my NFTs" / "what NFTs do I own?" / "my NFTs on base"
 - "show the floor price for Nouns" / "trending NFT collections" / "top NFTs on base"
 
 **Buying**
+
 - "buy this NFT: [opensea link]" / "buy the cheapest Noun" / "buy floor Pudgy Penguin"
 - "buy the cheapest NFT from Nouns" / "show me listings for Based Punks under 0.1 ETH"
 - "buy https://opensea.io/assets/base/0x1234.../1"
 
 **Selling**
+
 - "list my Noun #123 for 50 ETH" / "sell my NFT for 0.5 ETH" / "list my NFT #42 for 1 ETH on base"
 - "cancel my NFT listing" / "remove my Noun from sale"
 - "what offers do I have on my NFTs?" / "accept the best offer on my Noun" / "show offers on my NFTs" / "best offer for my Noun?"
 
 **Minting**
+
 - "mint from [manifold link]" / "mint this NFT: https://app.manifold.xyz/..."
 - "mint from [seadrop link]"
 - "what's minting today?" / "show featured NFT mints"
 
 **Transferring**
+
 - "send my Noun #123 to 0x1234..." / "transfer my NFT to vitalik.eth" / "send this NFT to @username"
 
 **Searching**
+
 - "search for Pudgy Penguins" / "find NFT collection: Based Punks"
 
 **Tips**
+
 - "show details for [opensea link]" then "buy it" (check before buying)
 - Use OpenSea links to identify NFTs reliably. Verify recipient addresses; NFT transfers are irreversible.
 
@@ -197,7 +205,6 @@ EVM only. Not Solana. Not XMTP.
 - "buy $50 of BTC/USD with 1% slippage"
 
 Base only. Commodities (GOLD, SILVER, OIL), crypto (BTC/USD, ETH/USD, SOL/USD), forex (EUR/USD, GBP/USD). Up to 150x leverage.
-
 
 ## Related
 

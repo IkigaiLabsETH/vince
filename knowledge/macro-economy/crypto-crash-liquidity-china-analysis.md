@@ -3,17 +3,21 @@ tags: [macro, economy, markets]
 agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
+
 ---
+
 title: "## Why crypto fell off a cliff — liquidity, China, and gold"
 source: https://www.youtube.com/watch?v=f64xSIbL0Sc
 category: macro-economy
 ingestedWith: summarize
 tags:
-  - vince-upload
-  - user-submitted
-  - chat
-created: 2026-02-04T22:19:04.169Z
-wordCount: 385
+
+- vince-upload
+- user-submitted
+- chat
+  created: 2026-02-04T22:19:04.169Z
+  wordCount: 385
+
 ---
 
 # ## Why crypto fell off a cliff — liquidity, China, and gold
@@ -24,7 +28,7 @@ wordCount: 385
 
 ## Why crypto fell off a cliff — liquidity, China, and gold
 
-Michael Howell’s core argument: the recent crypto weakness isn’t primarily an adoption or narrative failure but a liquidity story — global liquidity is peaking and Bitcoin is extremely sensitive to that inflection. *Bitcoin is the world's most sensitive asset on the planet*; when liquidity growth slows, risk assets react first and hardest. At the same time gold’s large, short-term surge is being driven by a China-specific liquidity impulse rather than a simultaneous global loss of confidence in bonds; *gold is an alternative trade* rather than a simple “risk-off” asset.
+Michael Howell’s core argument: the recent crypto weakness isn’t primarily an adoption or narrative failure but a liquidity story — global liquidity is peaking and Bitcoin is extremely sensitive to that inflection. _Bitcoin is the world's most sensitive asset on the planet_; when liquidity growth slows, risk assets react first and hardest. At the same time gold’s large, short-term surge is being driven by a China-specific liquidity impulse rather than a simultaneous global loss of confidence in bonds; _gold is an alternative trade_ rather than a simple “risk-off” asset.
 
 Key supporting points from the conversation: Chinese liquidity has been rising fast (Howell cites roughly $1.1 trillion injected by the People’s Bank of China in the past year), Chinese equities and tech are outperforming (he notes Chinese stocks up strongly, ~25%), and China’s domestic buying and policy are pushing the yuan-denominated gold price higher, which then feeds the dollar gold price. Major bond markets show relatively stable term premia and low volatility overall, so the bond complex isn’t signaling a global sell-off; the Japanese move has been concentrated at the very long end and reflects a relative shift into equities more than a sovereign-credit panic. Howell distinguishes two liquidity conduits: “Treasury QE” (short-term issuance monetized through the banking sector) that feeds the real economy, and central-bank balance-sheet operations that prime financial markets; both matter for asset flows and can move different asset classes in different ways.
 

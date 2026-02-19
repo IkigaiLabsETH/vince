@@ -3,6 +3,7 @@ tags: [ai, crypto, agents]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Decentralized Compute Networks
 
 ## Render Network (RNDR/RENDER)
@@ -43,8 +44,7 @@ Bear case: Bittensor subsidizes AI outputs through emissions rather than real de
 
 TAO's root network (subnet 0) governs emission allocation across subnets, making it a meta-governance layer for AI resource allocation. This is either brilliant mechanism design or an emissions Ponzi depending on whether real demand materializes.
 
-*Last updated: 2026-02-15*
-
+_Last updated: 2026-02-15_
 
 ## Related
 

@@ -4,27 +4,29 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181530571.Benner Cycle
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 703
 **Tags**: #bitcoin #sol #defi #nft #fed #substack
+
 ---
 
 It’s 2 a.m. and I’m staring at this half-empty bottle of Bordeaux that cost way more than it should, scrolling through charts on my phone like some degenerate who can’t sleep. You know that feeling? When the market’s been teasing you all year—pumping to 126k back in October, then dumping us down to these mid-90s like it’s personal. And here we are in December 2025, Bitcoin hovering around 90 grand, everyone’s yelling about Fed cuts or whatever, but I’m just sitting here thinking about this dusty old cycle from the 1800s that’s been nagging at me.
 [
 ![](https://substack-post-media.s3.amazonaws.com/public/images/9a431583-46ae-4917-a13a-4d7192778aca_1400x691.jpeg)
 
-](https://substackcdn.com/image/fetch/$s_!hiuc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a431583-46ae-4917-a13a-4d7192778aca_1400x691.jpeg)> 
+](https://substackcdn.com/image/fetch/$s_!hiuc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a431583-46ae-4917-a13a-4d7192778aca_1400x691.jpeg)>
 This Benner Cycle thing. Some farmer dude in 1875 draws up this chart predicting booms and busts, and crypto bros keep dragging it out every few years like it’s the holy grail. It flagged peaks before ‘29, the dot-com mess, 2008... and now it’s pointing at 2026 as the big “good times” climax before things get ugly into the 2030s. Honestly? I’m not totally sold—cycles break, markets evolve, all that. But damn if it doesn’t line up creepy well with Bitcoin’s halving rhythm. The 2024 halving kicked off this run, and historically peaks hit 12-18 months later. We’re right there now, kinda extended already, but not exploding like past ones.
 
 ## Context
 
-Look, every bull feels endless when you’re in it. 
+Look, every bull feels endless when you’re in it.
 
-2017 was ICO madness, everyone a genius. 2021? NFTs and DeFi fever, “to the moon” tattoos and all that crap. This time? It’s been... exhausting. Faster gains early on post-halving, then choppy as hell. Valuations stretched—whales dumping while ETFs saw huge inflows earlier in the year but slowed down lately. Sentiment’s all over: retail chasing $200k calls, but on-chain shows long-term holders taking profits. 
+2017 was ICO madness, everyone a genius. 2021? NFTs and DeFi fever, “to the moon” tattoos and all that crap. This time? It’s been... exhausting. Faster gains early on post-halving, then choppy as hell. Valuations stretched—whales dumping while ETFs saw huge inflows earlier in the year but slowed down lately. Sentiment’s all over: retail chasing $200k calls, but on-chain shows long-term holders taking profits.
 
 Global liquidity? Fed’s done easing for now, everything’s priced in. It’s that classic top vibe, where nothing’s screaming crash yet, but everything feels tired.
 
@@ -38,7 +40,7 @@ Phase one: trimming on the way up, if we get it. We’re already seeing rallies 
 
 Phase two: wait for the real pain, whenever it comes—maybe late ‘26 or ‘27 if Benner or halving history rhymes. Deploy in chunks at the lows, the kind that make your stomach turn. Sub-50k? Hell yes, if we get there like past bears.
 
-Could rotate a bit into gold if fiat keeps debasing, or solid alts that aren’t pure hype. But mostly? Liquidity. 
+Could rotate a bit into gold if fiat keeps debasing, or solid alts that aren’t pure hype. But mostly? Liquidity.
 
 Cash is king when everyone’s leveraged and capitulating.
 

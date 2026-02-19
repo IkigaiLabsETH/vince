@@ -23,22 +23,26 @@ Primary sport. Kelly must know the pool, the sets, the winter strategy, and the 
 Variety keeps 1000m+ engaging. Rotate these across the week:
 
 ### Endurance base
+
 - **10 × 100m** — 15–20s rest between. Steady pace. The bread-and-butter set.
 - **5 × 200m** — 20–30s rest. Longer intervals build sustained rhythm.
 - **2 × 500m** — 30–45s rest. Mental toughness set. Even pacing is the skill.
 
 ### Speed and pace change
+
 - **4 × 250m** — descend (each one faster than the last). Teaches pace awareness.
 - **Pyramid: 100–200–300–200–100** — builds up, peaks, comes back down. 15–20s rest between.
 - **8 × 50m sprint** + 200m easy cool-down. Short, fast efforts break the monotony.
 
 ### Technique focus
+
 - **Catch-up drill:** 4 × 50m. Hands meet at front before the next stroke. Forces full extension.
 - **Fingertip drag:** 4 × 50m. Drag fingertips along the water surface during recovery. Promotes high elbow.
 - **Kick sets:** 4 × 50m with a kickboard. Builds leg propulsion — often neglected in daily distance swimmers.
 - **Breathing pattern:** 4 × 100m on a 3-5-3-5 breath pattern (breathe every 3 strokes, then every 5). Builds breath control and bilateral balance.
 
 ### The 12m pool factor
+
 - 12m pool means more turns per 100m than a 25m pool. **Turns are an advantage** — use them to practice flip turns or open turns with a strong push-off.
 - Count lengths carefully. A watch or lap counter removes the mental load so you can focus on stroke.
 - The short pool naturally builds **turn fitness and underwater streamline** — skills that transfer to any pool.
@@ -82,18 +86,20 @@ When the backyard pool is cold and the wetsuit isn't appealing, make an extra ef
 
 ### Preferred options
 
-| Property | Location | Pool | Closes | Reopens |
-|----------|----------|------|--------|---------|
-| **Hôtel du Palais** | Biarritz (~45 min) | Imperial indoor pool, sea views | Early Dec | **Feb 12** |
-| **Les Sources de Caudalie** | Martillac (~1h45) | Spa + indoor pool, vinothérapie | Early Dec | **Feb 5** |
-| **Les Prés d'Eugénie** | Eugénie-les-Bains (~1h) | Thermal spa + pool, Guérard kitchen | Late Nov | **Mar 6** |
+| Property                    | Location                | Pool                                | Closes    | Reopens    |
+| --------------------------- | ----------------------- | ----------------------------------- | --------- | ---------- |
+| **Hôtel du Palais**         | Biarritz (~45 min)      | Imperial indoor pool, sea views     | Early Dec | **Feb 12** |
+| **Les Sources de Caudalie** | Martillac (~1h45)       | Spa + indoor pool, vinothérapie     | Early Dec | **Feb 5**  |
+| **Les Prés d'Eugénie**      | Eugénie-les-Bains (~1h) | Thermal spa + pool, Guérard kitchen | Late Nov  | **Mar 6**  |
 
 ### Rules
+
 - **Only suggest a stay when the property is open.** Caudalie reopens first (Feb 5), then Palais (Feb 12), then Eugénie (Mar 6).
 - **January and early February:** All three are closed. Options: wetsuit in backyard, rowing at home, or find an open public/hotel pool (use WEB_SEARCH for current indoor pools in the area).
 - **When suggesting a winter swim stay,** state the reopen date so they can plan: "Caudalie reopens Feb 5 — book a midweek night and swim there."
 
 ### Winter alternatives (when palaces are closed)
+
 - **Wetsuit swim at home:** 5/3mm in the backyard pool. Different feel, but keeps the habit.
 - **Water rower:** 30 min steady state or intervals. Same pull chain as swimming. See water-rowing-surf-swim-fit.
 - **Yoga:** Swimmer yoga sequences (pre/post swim focus on lats, pecs, hip flexors, thoracic). See yoga-vinyasa-surfers-swimmers.
@@ -104,6 +110,7 @@ When the backyard pool is cold and the wetsuit isn't appealing, make an extra ef
 ## Progression ideas (beyond just distance)
 
 Once 1000m/day is solid and automatic:
+
 - **Time your sets.** Track 10×100m times weekly. See pace improve without trying harder.
 - **Add distance gradually.** 1200m, 1500m, 2000m on weekends. The daily 1000m is the base; longer sessions build aerobic capacity.
 - **Open water (summer).** Ocean or lake swim once a week. Different skills: sighting, navigation, waves. The lake at Hossegor is perfect for this — flat, salt water, pine-framed.

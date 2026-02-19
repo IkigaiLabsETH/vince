@@ -3,13 +3,14 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Lifeguard Towers: Miami
 
 OpenSea Slug: `lifeguard-towers-miami`
 
 ## The Artist
 
-Tommy Kwak is a photographer. “Lifeguard Towers: Miami” documents Miami Beach’s iconic towers—redesigned in vibrant “tropical deco” after Hurricane Andrew (1992) to uplift the community. Architect William Lane led the design. Kwak’s approach is methodical: consistent framing, long exposures, minimal sky and sea, so each tower’s colour and character stand out. The series has won Prix de la Photographie (Architecture Photographer of the Year), FAPA Bronze, and ND Awards Bronze. He also published a hardcover (Blurring Books, 42 photographs, intro by *The New Yorker*’s Karen Taylor Quinn); it’s in its fourth printing. The NFT set lives on Foundation—28 pieces, 16 owners.
+Tommy Kwak is a photographer. “Lifeguard Towers: Miami” documents Miami Beach’s iconic towers—redesigned in vibrant “tropical deco” after Hurricane Andrew (1992) to uplift the community. Architect William Lane led the design. Kwak’s approach is methodical: consistent framing, long exposures, minimal sky and sea, so each tower’s colour and character stand out. The series has won Prix de la Photographie (Architecture Photographer of the Year), FAPA Bronze, and ND Awards Bronze. He also published a hardcover (Blurring Books, 42 photographs, intro by _The New Yorker_’s Karen Taylor Quinn); it’s in its fourth printing. The NFT set lives on Foundation—28 pieces, 16 owners.
 
 ## Why It Matters
 

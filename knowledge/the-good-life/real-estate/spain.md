@@ -4,9 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 Spain is not a country. It is a feeling. It is one of the most complete places on Earth: gastronomy that rewires your brain, weather that makes antidepressants obsolete, renewable-energy infrastructure that humiliates half the G20, and a culture so rich it feels like cheating.
 
 And right now, Spain is in the process of throwing it all away.

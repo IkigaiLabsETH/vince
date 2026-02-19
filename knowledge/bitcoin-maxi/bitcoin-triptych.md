@@ -4,7 +4,6 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # The Bitcoin Triptych: $BTC is for Saving, $MSTR is for Investing, $STRC is for Earning
 
 A simple yet profound mantra has emerged among Bitcoin enthusiasts and investors: **"$BTC is for saving. $MSTR is for investing. $STRC is for earning."**
@@ -86,7 +85,6 @@ Saylor has essentially weaponized greed to defend BTC, which is genius and could
 ## Toward a Bitcoin Standard
 
 The mantra **"$BTC is for saving. $MSTR is for investing. $STRC is for earning"** distills a transformative approach to wealth management. In a future where fiat erodes and digital assets dominate, this triptych offers a roadmap: Save in scarce money, invest in its amplifiers, and earn through innovative yields. Strategy's ecosystem isn't just innovative—it's a harbinger of a Bitcoin standard, where sound money underpins prosperity. As adoption grows, those embracing this model may find themselves not just surviving, but thriving in the digital economy. The question isn't whether to participate, but how soon.
-
 
 ## Related
 

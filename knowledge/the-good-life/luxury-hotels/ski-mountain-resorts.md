@@ -15,11 +15,13 @@ Format: **Name** — Type | Location | Country | Address.
 ## France
 
 ### Chamonix
+
 - **Le Morgane** — Modern | Chamonix | 145 Avenue de l'Aiguille du Midi
 - **Les Aiglons** — Modern | Chamonix
 - **Heliopic** — Chamonix
 
 ### Val d'Isère
+
 - **Hotel Avenue Lodge** — Luxury | Val d'Isère
 - **Chalet Lhotse** — Luxury | Val d'Isère
 - **Chalet Marco Polo** — Luxury | Val d'Isère
@@ -27,6 +29,7 @@ Format: **Name** — Type | Location | Country | Address.
 - **Chalet Solyneou** — Luxury | Val d'Isère
 
 ### Courchevel
+
 - **The Strato** — Luxury | Courchevel | Route de Bellecôte
 - **The Alpes Hotel Pralong** — Courchevel | Route de l'Altiport
 - **Portetta** — Luxury | Courchevel 1650
@@ -35,22 +38,28 @@ Format: **Name** — Type | Location | Country | Address.
 - **Hotel Le K2 1850** — Luxury | Courchevel | Rue des Clarines, 73120
 
 ### Val Thorens
+
 - **Altapura** — Luxury | Val Thorens
 
 ### Les Arcs
+
 - **Hotel Le Golf Arc 1800** — Design | Les Arcs 1800
 
 ### Les Menuires
+
 - **Les Bruyeres** — Modern | Les Menuires
 
 ### Méribel
+
 - **Le Kaila** — Luxury | Méribel | Route de la Montée, 73550 Les Allues
 - **Hotel Le Savoy** — Boutique | Méribel | Route du Centre, 73550
 
 ### Tignes
+
 - **Les Suites Du Nevada Maison Bouvier** — Luxury | Val Claret, Tignes
 
 ### Megève
+
 - **M de Megève** — Luxury | Megève | 15 route de Rochebrune
 
 ---
@@ -98,6 +107,7 @@ Format: **Name** — Type | Location | Country | Address.
 ## Canada
 
 ### Whistler
+
 - **Nita Lake Lodge** — Authentic | Whistler | 2131 Lake Placid Road
 - **Four Seasons Resort Whistler** — Classic / Luxury | Whistler | 4591 Blackcomb Way
 - **Coast Blackcomb Suites** — Authentic | Whistler | 4899 Painted Cliff Road
@@ -105,6 +115,7 @@ Format: **Name** — Type | Location | Country | Address.
 - **Coast Range Heliskiing** — Authentic | Pemberton/Whistler | 1641 Airport Rd, Pemberton
 
 ### Revelstoke
+
 - **Bighorn** — Luxury | Revelstoke
 - **Eagle Pass Heliski** — Authentic | Revelstoke | 109 Connaught Ave
 - **Selkirk Tangiers** — Classic | Revelstoke
@@ -112,10 +123,12 @@ Format: **Name** — Type | Location | Country | Address.
 - **CMH Bobbie Burns** — Classic | Revelstoke
 
 ### Golden
+
 - **Chatter Creek** — Authentic | Golden
 - **CMH Adamant Lodge** — Classic | Golden area, Canada (CMH heli-ski)
 
 ### Other Canada
+
 - **Crescent Spur Heli-Skiing** — Authentic | Crescent Spur
 - **Baldface Lodge** — Authentic | Nelson | 309 Jam Factory Ln
 

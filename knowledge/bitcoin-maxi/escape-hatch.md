@@ -4,14 +4,15 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181227164.Escape Hatch
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 728
 **Tags**: #bitcoin #eth #sol #defi #macro #inflation #substack
----3:17 a.m. again. The apartment smells like yesterday’s espresso and the specific brand of despair that only comes from refreshing the same three charts for six hours straight. I’m half-watching some 24-year-old TikTok bro explain why the next bull run is “literally guaranteed, fam” while I mute him and stare at the CoinShares 2026 outlook I was supposed to skim for “work.” 
+---3:17 a.m. again. The apartment smells like yesterday’s espresso and the specific brand of despair that only comes from refreshing the same three charts for six hours straight. I’m half-watching some 24-year-old TikTok bro explain why the next bull run is “literally guaranteed, fam” while I mute him and stare at the CoinShares 2026 outlook I was supposed to skim for “work.”
 
 Seventy-seven pages of institutional beige. My eyes glaze over by page four.
 
@@ -30,8 +31,8 @@ So when I tell you that 2026 feels different, understand I’m saying it through
 Here’s the thing nobody wants to admit out loud: the revolution already happened. It just looks like BlackRock launching another ETF and some senator finally figuring out what a stablecoin is. The boring stuff. The plumbing. The part that actually matters when you’re trying to pay rent in a country that’s not yours without losing 9% to Western Union and a prayer.
 
 CoinShares basically shrugs and says yeah, the macro’s messy—growth on life support, inflation playing possum, tariffs coming, deficits that would make a Roman emperor blush—but every single path they model for bitcoin is up. Bull case $150k+, base case $110-140k, bear case you eat a 40% drawdown and still end up richer than if you’d stayed in the casino that is the S&P treasury department. Pick your poison. They all taste like winning.
-> 
-And the kicker? The worse fiat looks, the better the orange coin smells. Dollar reserve share already down to the mid-50s. Countries hoarding gold like it’s 1971. Meanwhile bitcoin just sits there, not asking nicely, not filling out forms in triplicate.
+
+> And the kicker? The worse fiat looks, the better the orange coin smells. Dollar reserve share already down to the mid-50s. Countries hoarding gold like it’s 1971. Meanwhile bitcoin just sits there, not asking nicely, not filling out forms in triplicate.
 
 I laughed—actually laughed—when I saw public miners pivoting half their rigs to AI compute. Remember when we screamed about “decentralization” and “don’t trust, verify” and now Marathon’s making more running GPUs for ChatGPT than hashing SHA-256? That’s not betrayal, that’s survival. Electricity costs real dollars no matter how pure your ideology is.
 
@@ -39,7 +40,7 @@ Hybrid finance. God, even typing that phrase makes me want to gargle bleach. But
 
 It won’t feel dramatic. That’s the trick. One day you’ll open your banking app and realize it’s just a clunky skin over a blockchain you could access directly for a tenth the cost. You’ll wonder why you ever paid those fees. You’ll feel a little stupid. We all will.
 
-I’m not totally sold on everything, don’t get me wrong. Regulation could still screw us six ways to Sunday. Some senator will discover crypto right before midterms and we’ll get another round of “think of the children” theater. Could be wrong here, but I give it 50/50 we get clarity in the U.S. by late ’26 and Europe keeps moving at the speed of wet toast. 
+I’m not totally sold on everything, don’t get me wrong. Regulation could still screw us six ways to Sunday. Some senator will discover crypto right before midterms and we’ll get another round of “think of the children” theater. Could be wrong here, but I give it 50/50 we get clarity in the U.S. by late ’26 and Europe keeps moving at the speed of wet toast.
 
 The exits are open. Wide open. And the old world’s too busy yelling about culture-war nonsense to notice we’re walking out the door with the furniture.
 

@@ -3,8 +3,8 @@ tags: [lifestyle]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
----
 
+---
 
 # Top UHNW Destinations 2026 (Barnes City Index)
 

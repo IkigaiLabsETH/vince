@@ -16,7 +16,6 @@ Real-world asset tokenization, evaluation frameworks
 - tokenized-private-credit.md
 - tokenized-treasuries.md
 
-
 ## Related Categories
 
 - [stablecoins](../stablecoins/)

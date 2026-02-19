@@ -3,8 +3,8 @@ tags: [lifestyle, surf, travel]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
----
 
+---
 
 # Water Rowing: Surf and Swim Fit
 
@@ -70,11 +70,11 @@ Suggest the rower when they ask about: **workout today**, **cardio**, **surf fit
 
 ## Quick reference: example sessions
 
-| Session | Duration | Rate (spm) | Notes |
-|---------|----------|------------|--------|
-| Steady state | 20 min | 18–22 | Conversational; base builder. |
-| Steady state | 30 min | 18–22 | Same; good when they have more time. |
-| Intervals | 4×5 min, 2 min rest | 22–26 on work | One harder session per week. |
-| 1 min on / 1 min off | 20 min total | 24–28 on | Short power intervals. |
+| Session              | Duration            | Rate (spm)    | Notes                                |
+| -------------------- | ------------------- | ------------- | ------------------------------------ |
+| Steady state         | 20 min              | 18–22         | Conversational; base builder.        |
+| Steady state         | 30 min              | 18–22         | Same; good when they have more time. |
+| Intervals            | 4×5 min, 2 min rest | 22–26 on work | One harder session per week.         |
+| 1 min on / 1 min off | 20 min total        | 24–28 on      | Short power intervals.               |
 
 After rowing: suggest swimmer yoga (post-swim sequence—lats, pecs, hip flexors, thoracic twist) from yoga-vinyasa-surfers-swimmers.

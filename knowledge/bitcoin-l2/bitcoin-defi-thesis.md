@@ -3,6 +3,7 @@ tags: [bitcoin, l2, scaling]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Bitcoin DeFi Thesis
 
 ## The Dormant Capital Argument
@@ -10,6 +11,7 @@ last_reviewed: 2026-02-15
 Bitcoin's market cap hovers around $1.7-2T. The vast majority sits idle — held in cold storage, on exchanges, or in long-term HODL wallets. Contrast this with Ethereum, where ~$50B+ is actively deployed in DeFi (lending, DEXs, staking). If even 5% of BTC's market cap entered productive DeFi, that's $85-100B — larger than Ethereum's entire DeFi TVL.
 
 This isn't theoretical. The demand for BTC yield already exists:
+
 - **wBTC on Ethereum** peaked at ~280K BTC (~$15B) — people bridge BTC to access DeFi despite custodian trust assumptions (BitGo)
 - **Grayscale/ETF inflows** — institutional demand for BTC exposure with yield characteristics
 - **Babylon BTC staking** — attracted billions in BTC for PoS security staking
@@ -60,8 +62,7 @@ The thesis is structurally sound but timing-dependent. The capital is there ($1.
 
 **Conviction:** Medium-high on the thesis, lower on timing. BTC DeFi TVL likely reaches $10-20B within 2 years but won't challenge Ethereum's DeFi dominance in that timeframe. The asymmetric bet is on sBTC/Stacks ecosystem as the most likely winner for BTC-native DeFi, with BitVM-based rollups as a dark horse if they ship production-grade bridges.
 
-*Last updated: 2026-02-15*
-
+_Last updated: 2026-02-15_
 
 ## Related
 

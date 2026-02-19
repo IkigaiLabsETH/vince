@@ -3,6 +3,7 @@ tags: [mev, trading, ethereum]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # MEV Supply Chain
 
 ## The Pre-PBS World
@@ -64,4 +65,4 @@ The MEV supply chain creates multiple centralization vectors:
 
 The community response includes ePBS proposals, inclusion lists (forcing builders to include certain transactions), FOCIL (Fork-Choice Enforced Inclusion Lists), and encrypted mempools. None are deployed yet. The tension between efficiency (specialized builders) and decentralization (anyone can build blocks) remains unresolved.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

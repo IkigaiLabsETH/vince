@@ -22,6 +22,7 @@ Enhanced:    Perps Pulse + IV + Delta → Strike
 ### Step 1: Gather Perps Pulse (HyperliquidAnalyst)
 
 Query HyperliquidAnalyst for:
+
 - Funding rates for BTC, ETH, SOL, HYPE
 - Squeeze risk assessment
 - Overall market bias
@@ -31,17 +32,18 @@ Query HyperliquidAnalyst for:
 
 Based on funding data:
 
-| Funding | Crowding | Call Strike | Put Strike |
-|---------|----------|-------------|------------|
-| > +0.03% | Extreme longs | 25-30 delta | 25-30 delta |
-| +0.01% to +0.03% | Crowded longs | 25 delta | 20-25 delta |
-| -0.01% to +0.01% | Neutral | 20-25 delta | 20-25 delta |
-| -0.03% to -0.01% | Crowded shorts | 20-25 delta | 20 delta |
-| < -0.03% | Extreme shorts | 25-30 delta | 15-20 delta |
+| Funding          | Crowding       | Call Strike | Put Strike  |
+| ---------------- | -------------- | ----------- | ----------- |
+| > +0.03%         | Extreme longs  | 25-30 delta | 25-30 delta |
+| +0.01% to +0.03% | Crowded longs  | 25 delta    | 20-25 delta |
+| -0.01% to +0.01% | Neutral        | 20-25 delta | 20-25 delta |
+| -0.03% to -0.01% | Crowded shorts | 20-25 delta | 20 delta    |
+| < -0.03%         | Extreme shorts | 25-30 delta | 15-20 delta |
 
 ### Step 3: Final Strike Selection (DeribitAnalyst)
 
 Combine perps pulse with:
+
 - Current IV levels
 - Historical IV percentile
 - Expiry (weekly Friday)
@@ -52,7 +54,7 @@ Combine perps pulse with:
 **Friday Morning Routine:**
 
 1. Ask HyperliquidAnalyst: "Friday strikes please"
-2. Receive: 
+2. Receive:
    - BTC: +0.02% (crowded) → Wider calls
    - ETH: +0.005% (neutral) → Standard
    - SOL: -0.01% (shorts paying) → Tighter CSPs OK
@@ -63,27 +65,30 @@ Combine perps pulse with:
    - Perps guidance from HyperliquidAnalyst
    - Current IV surface
    - Premium targets ($1K-$2K weekly)
-   
 5. Final strikes selected with perps-informed adjustments
 
 ## Asset-Specific Considerations
 
 ### BTC
+
 - Most liquid perps market
 - Funding usually tracks overall crypto sentiment
 - Standard interpretation applies
 
 ### ETH
+
 - Often trades with BTC but can diverge
 - Check for ETF flow impacts
 - Gas usage affects positioning
 
 ### SOL
+
 - More volatile than BTC/ETH
 - Funding can swing more dramatically
 - Consider additional buffer on strikes
 
 ### HYPE
+
 - Unique to Hyperliquid
 - Often more crowded (both directions)
 - Consider 1.5x strike width adjustments
@@ -121,6 +126,7 @@ The workflow involves two agents:
    - Output: Specific strike recommendations
 
 This separation ensures:
+
 - Specialized expertise per agent
 - Clear data provenance
 - Consistent workflow every Friday

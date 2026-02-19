@@ -4,13 +4,15 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180125352.The Electron Rush
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 1,529
 **Tags**: #bitcoin #btc #sol #substack
+
 ---
 
 Sixteen years ago, a pseudonymous genius gave the world a new form of money that anyone with a laptop could help create. In 2009, mining Bitcoin felt like printing gold with spare electricity. Today it is the most ferocious, capital-intensive, energy-arbitrage game on Earth. The bedroom rigs are gone. The GPUs are museum pieces. The network is now guarded by rivers of molten silicon in the middle of nowhere, humming at 830 exahashes per second and burning more power than the entire nation of Poland.
@@ -47,7 +49,7 @@ Texas became the new Kansas of the digital frontier.
 
 West Texas is carpeted with wind turbines spinning in the dark for almost no one. Transmission lines can’t keep up. When the wind howls at 3 a.m., wholesale prices go negative. ERCOT, the state’s wild-west grid operator, will pay you to take power away. Miners showed up with shipping containers full of Antminers and said, “Hold my beer.”
 
-Riot Platforms made thirty-one million dollars in a single month not by mining, but by turning their machines off during a heat wave and selling reserved capacity back to the grid. 
+Riot Platforms made thirty-one million dollars in a single month not by mining, but by turning their machines off during a heat wave and selling reserved capacity back to the grid.
 
 Marathon Digital bought an entire wind farm just to keep old S19s profitable.
 
@@ -75,30 +77,25 @@ France has the fuel. It simply refuses to light the fire.
 
 The law is now crystal clear: Bitcoin hash rate follows stranded, monetizable energy that is allowed to be monetized.
 
-Wherever electrons are wasted because pipes can’t carry them or batteries can’t store them, and wherever policy lets flexible buyers capture that waste, mining will bloom. Texas figured it out first. Paraguay, Iceland, Bhutan, Oman, and parts of Africa are next. 
+Wherever electrons are wasted because pipes can’t carry them or batteries can’t store them, and wherever policy lets flexible buyers capture that waste, mining will bloom. Texas figured it out first. Paraguay, Iceland, Bhutan, Oman, and parts of Africa are next.
 
 France, Germany, Sweden—nations drowning in clean surplus—watch from the sidelines because their regulators still see mining as a vice rather than the most powerful demand-response tool ever invented.
 
 Act V – How France (or Any Nuclear/Renewable Giant) Can Still Win
 
-It is not too late. The 2028 halving is coming. AI data centers are about to compete for every spare watt on the planet. The countries that move fastest will lock in decades of advantage. 
+It is not too late. The 2028 halving is coming. AI data centers are about to compete for every spare watt on the planet. The countries that move fastest will lock in decades of advantage.
 
 Here is the playbook France could execute tomorrow if it chose to wake up:
 
-- 
-Create a new tariff class—“Programmable Zero-Marginal Demand”—for loads that can shut off in under ten seconds. Price it at actual marginal cost: three to five euro cents, sometimes zero, sometimes negative. Do it behind-the-meter near existing plants so no new transmission is required.
+- Create a new tariff class—“Programmable Zero-Marginal Demand”—for loads that can shut off in under ten seconds. Price it at actual marginal cost: three to five euro cents, sometimes zero, sometimes negative. Do it behind-the-meter near existing plants so no new transmission is required.
 
-- 
-Declare a five-year moratorium on special environmental reviews for mining projects that run exclusively on curtailed or exported energy. One page of paperwork instead of five hundred.
+- Declare a five-year moratorium on special environmental reviews for mining projects that run exclusively on curtailed or exported energy. One page of paperwork instead of five hundred.
 
-- 
-Offer ten-year tax holidays on mined Bitcoin if the operation is co-located with waste-heat reuse—district heating, greenhouses, desalination, whatever. Finland already heats thousands of homes with mining exhaust; France could heat entire towns.
+- Offer ten-year tax holidays on mined Bitcoin if the operation is co-located with waste-heat reuse—district heating, greenhouses, desalination, whatever. Finland already heats thousands of homes with mining exhaust; France could heat entire towns.
 
-- 
-Launch a sovereign mining entity—call it France BTC—that bids for one gigawatt of surplus blocks and stacks the coins as a national reserve. El Salvador started with fifty million dollars and now sits on over five thousand BTC. France could do the same at ten times the scale and pay for new reactors with the proceeds.
+- Launch a sovereign mining entity—call it France BTC—that bids for one gigawatt of surplus blocks and stacks the coins as a national reserve. El Salvador started with fifty million dollars and now sits on over five thousand BTC. France could do the same at ten times the scale and pay for new reactors with the proceeds.
 
-- 
-Market it aggressively. Tell Marathon, Riot, TeraWulf, and Bitfarms: come build in Gravelines, Flamanville, or the sun-drenched south-west. We will beat Texas on carbon intensity and match them on price.
+- Market it aggressively. Tell Marathon, Riot, TeraWulf, and Bitfarms: come build in Gravelines, Flamanville, or the sun-drenched south-west. We will beat Texas on carbon intensity and match them on price.
 
 Do those five things and France doesn’t just join the game—it leapfrogs straight to the top table. Steady nuclear baseload beats intermittent Texas wind on uptime. French engineering plus French electricity plus French speed of execution would be unstoppable.
 

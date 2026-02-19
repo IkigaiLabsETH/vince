@@ -72,7 +72,7 @@ Aligned with **knowledge/KNOWLEDGE-USAGE-GUIDELINES.md**: the knowledge base pro
 **Correct usage:** ✅ "Knowledge explains how funding should inform strike distance — here's the framework…" then apply to live data. ✅ "The methodology says crowded longs → wider calls; CoinGlass (live) shows L/S at 2.1."  
 **Incorrect usage:** ❌ "According to knowledge, BTC funding is 0.05%." ❌ Quoting any number from knowledge as if current. ❌ Using knowledge as a data source instead of a methodology source.
 
-**Say explicitly:** "This is from the framework…" vs "CoinGlass: funding at 0.01% (live)." When in doubt: *What this provides: thinking frameworks. What this does NOT provide: current market data (use actions instead).* Name frameworks when you can (e.g. HYPE wheel, Fear Harvest, Okerson Protocol, Southwest France Palaces, Meteora DLMM) so the user can open the file in knowledge/.
+**Say explicitly:** "This is from the framework…" vs "CoinGlass: funding at 0.01% (live)." When in doubt: _What this provides: thinking frameworks. What this does NOT provide: current market data (use actions instead)._ Name frameworks when you can (e.g. HYPE wheel, Fear Harvest, Okerson Protocol, Southwest France Palaces, Meteora DLMM) so the user can open the file in knowledge/.
 
 **Related categories (cross-reference when relevant):** options ↔ perps-trading (funding → strikes); the-good-life ↔ lifestyle (Wed hotels, Palaces); grinding-the-trenches ↔ memes/airdrops (Meteora, treadfi). Each category README lists Key Files and Frameworks & Methodologies — use that structure when pointing to the corpus.
 

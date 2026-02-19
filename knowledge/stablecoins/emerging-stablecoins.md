@@ -3,6 +3,7 @@ tags: [stablecoins, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 ## PayPal USD (PYUSD)
 
 Launched August 2023, issued by Paxos, fully backed by cash and short-term Treasuries. PYUSD's differentiator isn't mechanism — it's distribution. PayPal's 400M+ user base gives it a fiat on/off-ramp advantage no crypto-native issuer can match. Initially Ethereum-only, it expanded to Solana in mid-2024, where adoption accelerated due to low fees.
@@ -39,4 +40,4 @@ USDM is a yield-bearing stablecoin backed by short-term US Treasuries, with yiel
 
 **Key risk:** Regulatory — if US regulators assert extraterritorial jurisdiction or if Bermuda regulation proves insufficient. Rebasing mechanism can cause integration issues with some DeFi protocols that don't handle balance changes gracefully. Smaller market cap (~$100-200M) means less liquidity and fewer integrations.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

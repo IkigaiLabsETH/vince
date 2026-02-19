@@ -4,13 +4,15 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180921350.The Poly Strat
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: defi-metrics
 **Word Count**: 776
 **Tags**: #bitcoin #ethereum #eth #sol #trading #substack
+
 ---
 
 A single trader, known only as black-rabbit, has spent the last month turning a few thousand dollars into consistent middle-five-figure weekly gains on Polymarket. He is not a Counter-Strike savant. He is not glued to every map veto or clutch round. He barely watches the games. Yet he sits near the very top of the platform’s public leaderboard, week after week, with mechanical precision.

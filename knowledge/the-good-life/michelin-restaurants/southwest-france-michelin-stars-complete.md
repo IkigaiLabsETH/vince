@@ -6,7 +6,7 @@ last_reviewed: 2026-02-17
 
 # Southwest France — Every MICHELIN-Starred Restaurant (Nouvelle-Aquitaine)
 
-Complete reference of MICHELIN-starred restaurants (3*, 2*, 1*) in Southwest France (Nouvelle-Aquitaine). Use this as the canonical list for "every starred restaurant in the region." For current year, new stars, and Bib Gourmand, check **MICHELIN Guide** (guide.michelin.com).
+Complete reference of MICHELIN-starred restaurants (3*, 2*, 1\*) in Southwest France (Nouvelle-Aquitaine). Use this as the canonical list for "every starred restaurant in the region." For current year, new stars, and Bib Gourmand, check **MICHELIN Guide** (guide.michelin.com).
 
 > **Knowledge Base Note:** Star awards change annually. Verify current distinctions at guide.michelin.com.
 
@@ -15,7 +15,7 @@ Complete reference of MICHELIN-starred restaurants (3*, 2*, 1*) in Southwest Fra
 ## 3 Stars (Exceptional cuisine)
 
 - **Les Prés d'Eugénie** — Eugénie-les-Bains (Landes). Chef Michel Guérard; cuisine minceur, thermal spa destination.
-- *(Guide lists 2 three-star in Nouvelle-Aquitaine — verify second on guide.michelin.com.)*
+- _(Guide lists 2 three-star in Nouvelle-Aquitaine — verify second on guide.michelin.com.)_
 
 ## 2 Stars (Excellent cooking)
 
@@ -25,14 +25,14 @@ Complete reference of MICHELIN-starred restaurants (3*, 2*, 1*) in Southwest Fra
 - **Skiff Club** — Pyla-sur-Mer (Ha(a)ïtza). Philippe Starck hotel; ocean, modern.
 - **Relais de la Poste** — Magescq (Landes). Chef Jean Coussau; Gascon legend, 54 years starred.
 - **L'Auberge Basque** — Saint-Pée-sur-Nivelle. Chef Cédric Béchade; contemporary Basque, rural inn.
-- *(Other 2* in region — verify guide.michelin.com for full list of 9.)*
+- _(Other 2_ in region — verify guide.michelin.com for full list of 9.)\*
 
 ## 1 Star (High quality cooking)
 
 ### Bordeaux & Gironde
 
 - **Amicis** — Bordeaux. Creative.
-- *(Other 1* in Bordeaux city and wine country — see bordeaux-region.md; verify guide.michelin.com.)*
+- _(Other 1_ in Bordeaux city and wine country — see bordeaux-region.md; verify guide.michelin.com.)\*
 
 ### Biarritz & Basque Coast (France)
 
@@ -46,18 +46,18 @@ Complete reference of MICHELIN-starred restaurants (3*, 2*, 1*) in Southwest Fra
 
 ### Landes
 
-- **Relais de la Poste** (Table Gastronomique) — Magescq. 2* (see above); also referenced for Gascon.
-- **Villa Mirasol** (Table Mirasol) — Mont-de-Marsan. Chef Philippe Lagraula; Belle Époque, 1*.
+- **Relais de la Poste** (Table Gastronomique) — Magescq. 2\* (see above); also referenced for Gascon.
+- **Villa Mirasol** (Table Mirasol) — Mont-de-Marsan. Chef Philippe Lagraula; Belle Époque, 1\*.
 - **Villa de l'Etang Blanc** — Seignosse. Chef David Sulpice; lakeside, intimate.
 - **Jean des Sables** — Hossegor. Seafood, Basque-Landais; check current star status.
 
 ### Dordogne & Périgord
 
-- *(1* in Dordogne — verify guide.michelin.com.)*
+- _(1_ in Dordogne — verify guide.michelin.com.)\*
 
 ### Charente / Charente-Maritime / Other NA
 
-- *(1* across Charente, La Rochelle, Poitiers, etc. — verify guide.michelin.com for full 48.)*
+- _(1_ across Charente, La Rochelle, Poitiers, etc. — verify guide.michelin.com for full 48.)\*
 
 ---
 

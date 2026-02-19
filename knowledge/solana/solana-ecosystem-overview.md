@@ -3,6 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Solana Ecosystem Overview
 
 ## Current State of the Network
@@ -17,13 +18,13 @@ Solana has established itself as the leading alternative L1 by most activity met
 
 ## Key Metrics vs Competitors
 
-| Metric | Solana | Ethereum L1 | Base |
-|--------|--------|-------------|------|
-| Avg Transaction Fee | ~$0.001-0.01 | $1-10+ | $0.01-0.10 |
-| Block Time | 400ms | 12s | 2s |
-| Daily Active Addresses | 2-5M | 400-500K | 500K-1M |
-| TVL | $7-12B | $50-60B | $3-6B |
-| DEX Volume (monthly) | $30-60B | $20-40B | $10-20B |
+| Metric                 | Solana       | Ethereum L1 | Base       |
+| ---------------------- | ------------ | ----------- | ---------- |
+| Avg Transaction Fee    | ~$0.001-0.01 | $1-10+      | $0.01-0.10 |
+| Block Time             | 400ms        | 12s         | 2s         |
+| Daily Active Addresses | 2-5M         | 400-500K    | 500K-1M    |
+| TVL                    | $7-12B       | $50-60B     | $3-6B      |
+| DEX Volume (monthly)   | $30-60B      | $20-40B     | $10-20B    |
 
 ## Ecosystem Composition
 
@@ -37,4 +38,4 @@ Network outages, while less frequent post-2023, remain a reputational concern. T
 
 Concentration risk exists in the validator set's hardware requirements (high-end servers) and geographic distribution (heavily US/Europe). State growth and the cost of running validators remain ongoing concerns.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

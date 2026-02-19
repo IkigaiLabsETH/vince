@@ -4,13 +4,15 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180184034.The Quiet Theft
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 844
 **Tags**: #bitcoin #eth #sol #inflation #portfolio #substack
+
 ---
 
 I used to think inflation was something that happened to other people. You know — Argentinians, Venezuelans, Zimbabweans, those poor souls on the news clutching wheelbarrows of banknotes just to buy bread. I lived in a “stable” country with a “responsible” central bank that solemnly promised to keep inflation around 2 % forever. Two percent sounded harmless. Almost polite.
@@ -27,7 +29,7 @@ Bitcoin has the most brilliant, ruthless marketing department in history: the gl
 
 ## Main
 
-That single line has done more to sell Bitcoin than a thousand TED talks. 
+That single line has done more to sell Bitcoin than a thousand TED talks.
 
 Sixteen years later, the flare is still burning.
 
@@ -46,17 +48,13 @@ The Asymmetry That Hurts to Look At
 
 Let me show you something obscene. If you had put $10,000 into:
 
-- 
-The U.S. stock market in January 2009 → ~$70,000 today
+- The U.S. stock market in January 2009 → ~$70,000 today
 
-- 
-Gold → ~$28,000 today
+- Gold → ~$28,000 today
 
-- 
-A “balanced” 60/40 portfolio → ~$55,000 today
+- A “balanced” 60/40 portfolio → ~$55,000 today
 
-- 
-Bitcoin → somewhere north of $300 million today
+- Bitcoin → somewhere north of $300 million today
 
 That’s not a typo.
 That’s not leverage.
@@ -83,7 +81,7 @@ Forever.
 
 Welcome to the Other Side. If you’re reading this because the latest CPI print made your stomach drop, congratulations. You’ve taken the same journey millions of us did: from comfortable ignorance to cold, furious clarity.
 
-The good news? 
+The good news?
 
 You’re not powerless.
 You’re not too late.

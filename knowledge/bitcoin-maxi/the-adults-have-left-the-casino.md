@@ -4,16 +4,18 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179911974.The Adults Have Left The Casino
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 785
 **Tags**: #bitcoin #btc #eth #solana #sol #defi #options #inflation #portfolio #substack
+
 ---
 
-Most people will tell you crypto is up huge in 2025.**They’re not wrong about the price.
+Most people will tell you crypto is up huge in 2025.\*\*They’re not wrong about the price.
 They’re completely blind to the distribution.
 
 Behind the ticker there is a structural avalanche that nobody talks about out loud: A generation of winners from 2011–2021 now have children in private school, mortgages in Miami and Dubai, parents who need care, and a perfectly normal human desire to stop looking at charts every five minutes.
@@ -37,9 +39,9 @@ The era of asymmetric 100× bets funded by people who literally had nothing to l
 
 That single structural fact explains everything that follows.
 
-Why We Personally Rotated – The Scar Tissue Version**
+Why We Personally Rotated – The Scar Tissue Version\*\*
 
-We are not Satoshi-era whales, but we are definitely 2013 survivors. We started buying Bitcoin in 2013 in tiny increments, then went actually big in the 2018–2019 capitulation when BTC fell from $20k back to $3k. That’s when we built the real position. 
+We are not Satoshi-era whales, but we are definitely 2013 survivors. We started buying Bitcoin in 2013 in tiny increments, then went actually big in the 2018–2019 capitulation when BTC fell from $20k back to $3k. That’s when we built the real position.
 
 Fast-forward to the 2021–2022 blow-off: we got sucked into the Solana casino like everyone else, bought the absolute lows in late 2022, rode it past a clean 10×, and then — unlike almost everyone we know — we actually hit “sell” and rotated every single satoshi back into Bitcoin before the 2023–2024 alt bleed kicked in again. That one disciplined exit is the sole reason we still have the same Bitcoin stack today that we had at the 2021 top, instead of being another broken ghost on Crypto Twitter telling the “I was up 40× and now I’m back to my initial” story. Scar tissue is expensive, but it’s the best teacher we ever had.
 

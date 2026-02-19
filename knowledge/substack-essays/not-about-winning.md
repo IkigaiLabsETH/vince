@@ -4,23 +4,22 @@ agents: [echo, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 # 180844963.Not About Winning
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: substack-essays
 **Word Count**: 622
 **Tags**: #eth #sol #substack
----> 
+--->
 I spent an evening this week watching The Thinking Game, the new DeepMind documentary that Google quietly dropped for free on YouTube last week, and I have not stopped thinking about it since. This is not another glossy tech promo, even though it could have been. Instead, Greg Kohs, the same director who gave us the perfect AlphaGo film, delivers something rarer: a quiet, almost reverent portrait of what happens when a handful of people decide that solving intelligence is the only problem worth a lifetime.
 
 At the center stands Demis Hassabis, child chess prodigy, video-game designer, neuroscientist, now Nobel laureate and knight, speaking in calm sentences that somehow carry the weight of centuries. You see him at thirteen beating grown grandmasters, at seventeen shipping a game that sold four million copies, at thirty-something convincing investors that games are not toys but the fastest path to general intelligence. The arc feels mythic because it is lived, not invented.
 
 ## Context
 
-What struck me hardest is how patiently the film refuses hype. 
+What struck me hardest is how patiently the film refuses hype.
 
 There is no swelling music when AlphaGo wins, no slow-motion triumph when AlphaFold cracks the protein code. Instead we get long silences in London meeting rooms, engineers staring at screens at 3 a.m., the soft click of markers on whiteboards. Breakthroughs arrive not as explosions but as dawns, slow, undeniable, almost shy.
 
@@ -36,11 +35,11 @@ AlphaFold is already used by two million researchers in two hundred countries. M
 
 I keep returning to one line Hassabis says near the end. He is talking about artificial general intelligence, the thing everyone screams about, and he simply calls it “the most powerful force in the universe.” Then he pauses and adds the part no one clips for Twitter: “if we get it right.”
 
-That “if” is the entire film. 
+That “if” is the entire film.
 
 Not triumph, not terror, but responsibility dressed as wonder.
-> 
-Watch it when you have eighty-three undistracted minutes. Watch it with the lights low and the phone in another room. Let it remind you that the future is still being written by people who believe thinking is the ultimate game, and that the only way to play well is to care more about understanding than about winning. Because in the end, the thinking game is not about the machine. It is about what kind of ancestors we choose to be.
+
+> Watch it when you have eighty-three undistracted minutes. Watch it with the lights low and the phone in another room. Let it remind you that the future is still being written by people who believe thinking is the ultimate game, and that the only way to play well is to care more about understanding than about winning. Because in the end, the thinking game is not about the machine. It is about what kind of ancestors we choose to be.
 
 Tell me what it made you feel.
 

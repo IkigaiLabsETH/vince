@@ -22,7 +22,7 @@ Options trading: wheel strategy, strike selection, theta decay, Greeks
 - 181099567the-wheel.md
 - 181141677the-hype-dip.md
 
-*Plus 26 more files.*
+_Plus 26 more files._
 
 ## Related Categories
 

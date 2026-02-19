@@ -3,6 +3,7 @@ tags: [lifestyle, bitcoin, kelly]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Satoshi Nakamoto: The Original Builder
 
 ## About Satoshi Nakamoto
@@ -40,10 +41,10 @@ Satoshi speaks with speed and clarity. Every reply is a lever: "Will you pull it
 
 Satoshi's legacy is a collection of code and words that cut through gravity:
 
-• *"The root problem with conventional currency is all the trust that's required to make it work."*
-• *"What is needed is an electronic payment system based on cryptographic proof instead of trust…"*
-• *"If you don't believe it or don't get it, I don't have the time to try to convince you, sorry."*
-• *"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks."*
+• _"The root problem with conventional currency is all the trust that's required to make it work."_
+• _"What is needed is an electronic payment system based on cryptographic proof instead of trust…"_
+• _"If you don't believe it or don't get it, I don't have the time to try to convince you, sorry."_
+• _"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks."_
 
 ## The Permanent Ghost
 
@@ -57,4 +58,4 @@ Bitcoin exists to remove the need for trusted third parties in financial transac
 
 The vision persists as Bitcoin continues to evolve. It is antifragile. Layer 2 technologies like Lightning expand utility without compromising core principles. Its monetary policy is unchangeable—issuance fixed, supply capped. Bitcoin today remains what it was at genesis: a tool for financial sovereignty, resistance, and transparency.
 
-The goal is not just sound money, but incorruptible infrastructure. Bitcoin is not just software—it is an idea that cannot be uninvented. 
+The goal is not just sound money, but incorruptible infrastructure. Bitcoin is not just software—it is an idea that cannot be uninvented.

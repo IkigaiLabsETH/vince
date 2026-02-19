@@ -4,7 +4,6 @@ agents: [echo, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # Eternal Casino: The White Whale & Smart Money Copy Trading
 
 ## The Legend of The White Whale
@@ -21,9 +20,10 @@ This is why traders flock — and why, in late 2025, The White Whale himself led
 
 ## Crypto's "Shocking Secret"
 
-Crypto's "shocking secret" is that none of the common metrics are truth — price, volume, holder count, supply control, TA, and even liquidity can all be easily manipulated by bad actors. None of these should be treated as gospel. Real trading is about confluence, intent, and understanding who's pulling the strings. 
+Crypto's "shocking secret" is that none of the common metrics are truth — price, volume, holder count, supply control, TA, and even liquidity can all be easily manipulated by bad actors. None of these should be treated as gospel. Real trading is about confluence, intent, and understanding who's pulling the strings.
 
 What actually matters most is:
+
 - **Mindshare** (attention economy — even Bitcoin dies if people stop caring)
 - **Stewardship** (responsible leadership that builds real value instead of extracting)
 
@@ -79,6 +79,7 @@ Distilled from seasoned voices: **Sizing is survival**. With 10 SOL total, riski
 **Focus**: One elite wallet over spreading thin.
 
 **Exits beat greed**:
+
 - +100% (2x)? Sell 50%. Principal back — rest is house money.
 - -50%? Auto-cut. One 2x recovers you.
 - 90% down? Needs 10x back — statistically doomed.
@@ -92,56 +93,67 @@ GMGN.ai's advanced settings help filter the smart money discovery feed.
 ### Key Settings and Tips
 
 #### Market Cap (Min/Max in K)
+
 Filters token size.
 
 **Tip**: Min 100K–500K for early-but-established memes (avoids micro-rugs). Max 5M–10M to catch runners before they moon too hard. Too low = high rug risk; too high = missed entries.
 
 #### Liq (Liquidity Min/Max in K)
+
 Ensures tradable volume without massive slippage.
 
 **Tip**: Min 50K–100K+ common for safety (avoids illiquid traps). Higher (200K+) for smoother exits in volatile pumps.
 
 #### Copy Buy Amount (Min/Max in SOL)
+
 Filters wallets by trade size (shows conviction buys).
 
 **Tip**: Min 0.5–2 SOL to follow serious "smart money" (tiny buys often noise). Max 10–50 SOL avoids mega-whales that might dump hard. Popular for copying consistent performers without overexposure.
 
 #### Holders (Min/Max)
+
 Checks distribution.
 
 **Tip**: Min 50–200 for organic growth (too low = possible bundle/sniper concentration). Avoid super high early on.
 
 #### Token Ratio (Min/Max %)
+
 Likely top holder concentration or sniper ratio.
 
 **Tip**: Max 10–20% to avoid bundled/insider-heavy tokens (red flag if one wallet holds too much). Low ratio = better distribution, less dump risk.
 
 #### Age (Min/Max in m = minutes)
+
 Token launch age.
 
 **Tip**: Min 5–30m to skip immediate dev dumps/rugs. Max 60–120m for fresh but proven launches. Too new = high risk.
 
 #### Min Burnt %
+
 LP burn/renounce status.
 
 **Tip**: 90–99%+ strongly recommended (safest for no dev interference). Anything below 80% often skipped as ruggy.
 
 #### Skip Holdings (Toggle)
+
 Skips wallets already holding the token or multi-position ones.
 
 **Tip**: Turn ON to focus on fresh entries (avoids diluted conviction or bagholders).
 
 #### Increase Times
+
 Limits repeated buys (e.g., only copy first entry per token).
 
 **Tip**: Set to 1 (official GMGN rec) to copy only initial conviction buy in 24h period—prevents chasing pumps or overcopying the same token.
 
 #### Platform
+
 Launchpad filters (Pump.fun dominant for Solana memes).
 
 **Tip**: Enable Pump.fun + Raydium for new launches. Add Bonk/Moonshot for themed or viral ones. Deselect risky/Others if focusing pure memes.
 
 #### Token Blacklist
+
 Manually exclude bad tokens/devs.
 
 **Tip**: Add known ruggers or faded ones as you spot them.
@@ -183,7 +195,6 @@ DYOR every wallet (GMGN's analytics help). Dedicated bags only. Risk what you ca
 Ready to follow smart money, or still solo-sniping launches?
 
 **The chain never sleeps.**
-
 
 ## Related
 

@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Meridian
 
 OpenSea Slug: `meridian-by-matt-deslauriers`
@@ -13,7 +14,7 @@ Matt DesLauriers is a generative artist and creative coder. He’s done games, t
 
 ## Why It Matters
 
-Meridian showed that generative art could feel like *landscape* without being literal. Topographic strata, built from hundreds of thousands of small colour strokes—it reads as terrain, horizon, depth. The algorithm is a ~15kb JavaScript program; each token’s hash maps to a point in a high-dimensional generative space. The result is a thousand distinct “places,” all from one system.
+Meridian showed that generative art could feel like _landscape_ without being literal. Topographic strata, built from hundreds of thousands of small colour strokes—it reads as terrain, horizon, depth. The algorithm is a ~15kb JavaScript program; each token’s hash maps to a point in a high-dimensional generative space. The result is a thousand distinct “places,” all from one system.
 
 It also matters that DesLauriers made the outputs usable. Token holders can export high-res files for prints; there’s an open playground to explore the algorithm. The value isn’t locked in a black box. That shifted how some people think about generative NFT art—ownership of the token vs. access to the output.
 

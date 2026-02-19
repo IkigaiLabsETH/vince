@@ -4,7 +4,6 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 ## TL;DR – The Nine Months That Changed History Forever
 
 March to December 2020 was the perfect monetary storm: lockdowns obliterated MicroStrategy’s software pipeline and let Microsoft poach its best engineers over Zoom; the Fed smashed rates to zero, turning the company’s hard-earned $500 million cash hoard into an ice cube that was visibly melting at 12–20 % a year in real purchasing power; corporate travel died overnight, vaporizing the entire business-intelligence budget category; remote work turned every talented coder into a free agent, and Saylor watched his R&D team walk out the virtual door straight to Redmond. For the first time in thirty-one years there was no legal, “responsible” asset on Earth that could outrun inflation. The company was dying in slow motion, and everyone in the C-suite knew it. COVID didn’t just hurt MicroStrategy; it handed Michael Saylor the clearest “fight or die” ultimatum any public-company CEO has ever received, and the only weapon within reach was a twelve-year-old digital bearer asset trading at ten grand.

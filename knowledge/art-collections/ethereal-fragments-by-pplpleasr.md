@@ -3,13 +3,14 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Ethereal Fragments
 
 OpenSea Slug: `ethereal-fragments-by-pplpleasr`
 
 ## The Artist
 
-Pplpleasr (Emily Yang)—NFT artist known for DeFi visuals. She made viral animations for Aave, SushiSwap, Uniswap. Her breakout was “x*y=k,” the Uniswap V3 unicorn NFT. PleasrDAO won it for 310 ETH (~$525K); she donated all proceeds to Stand With Asians. That auction spawned PleasrDAO, which later bought Edward Snowden’s first NFT ($5M+), the Doge photo ($4M+), and more. She’s done Fortune covers, Shibuya (interactive NFT video), and Ethereal Fragments. The plugin lists “ethereal-fragments-by-pplpleasr” as DeFi art pioneer, Uniswap collaboration. She prefers Rarible and Foundation over OpenSea.
+Pplpleasr (Emily Yang)—NFT artist known for DeFi visuals. She made viral animations for Aave, SushiSwap, Uniswap. Her breakout was “x\*y=k,” the Uniswap V3 unicorn NFT. PleasrDAO won it for 310 ETH (~$525K); she donated all proceeds to Stand With Asians. That auction spawned PleasrDAO, which later bought Edward Snowden’s first NFT ($5M+), the Doge photo ($4M+), and more. She’s done Fortune covers, Shibuya (interactive NFT video), and Ethereal Fragments. The plugin lists “ethereal-fragments-by-pplpleasr” as DeFi art pioneer, Uniswap collaboration. She prefers Rarible and Foundation over OpenSea.
 
 ## Why It Matters
 
@@ -21,7 +22,7 @@ Likely animation, graphic, or conceptual. Her work tends to be polished, symboli
 
 ## Notable Pieces
 
-Structure depends on the Ethereal Fragments drop. Her Uniswap “x*y=k” and other 1/1s have sold at major levels. Check Foundation, Rarible, OpenSea for activity.
+Structure depends on the Ethereal Fragments drop. Her Uniswap “x\*y=k” and other 1/1s have sold at major levels. Check Foundation, Rarible, OpenSea for activity.
 
 ## Context for Collectors
 

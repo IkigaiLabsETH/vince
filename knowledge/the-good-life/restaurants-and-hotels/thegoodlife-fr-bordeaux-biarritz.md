@@ -1,5 +1,15 @@
 ---
-tags: [hotels, restaurants, fine-dining, bordeaux, biarritz, pays-basque, landes, 5-star]
+tags:
+  [
+    hotels,
+    restaurants,
+    fine-dining,
+    bordeaux,
+    biarritz,
+    pays-basque,
+    landes,
+    5-star,
+  ]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 source: thegoodlife.fr

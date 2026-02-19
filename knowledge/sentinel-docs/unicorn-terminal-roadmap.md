@@ -22,18 +22,18 @@ We're building what Bloomberg would be if it were invented today:
 
 Each of our 11 agents maps to what would be a separate Bloomberg module:
 
-| Agent | Role | Bloomberg Equivalent |
-|---|---|---|
-| Eliza | CEO / Orchestrator | Bloomberg Terminal itself |
-| VINCE | CDO / Data Intelligence | Bloomberg Data License |
-| Solus | CFO / Options & Risk | Bloomberg MARS / Options Pricing |
-| Otaku | COO / DeFi Operations | Bloomberg PORT (Portfolio) |
-| Kelly | CVO / Lifestyle | No equivalent (our differentiator) |
-| Sentinel | CTO / Technical Strategy | Bloomberg BSYS (Systems) |
-| ECHO | CSO / X Sentiment | Bloomberg News / Social Sentiment |
-| Clawterm | AI Terminal Interface | Bloomberg Command Line |
-| Oracle | Prediction Markets | Bloomberg FORE (Forecasts) |
-| Naval | Philosophy / First Principles | No equivalent (our differentiator) |
+| Agent    | Role                          | Bloomberg Equivalent               |
+| -------- | ----------------------------- | ---------------------------------- |
+| Eliza    | CEO / Orchestrator            | Bloomberg Terminal itself          |
+| VINCE    | CDO / Data Intelligence       | Bloomberg Data License             |
+| Solus    | CFO / Options & Risk          | Bloomberg MARS / Options Pricing   |
+| Otaku    | COO / DeFi Operations         | Bloomberg PORT (Portfolio)         |
+| Kelly    | CVO / Lifestyle               | No equivalent (our differentiator) |
+| Sentinel | CTO / Technical Strategy      | Bloomberg BSYS (Systems)           |
+| ECHO     | CSO / X Sentiment             | Bloomberg News / Social Sentiment  |
+| Clawterm | AI Terminal Interface         | Bloomberg Command Line             |
+| Oracle   | Prediction Markets            | Bloomberg FORE (Forecasts)         |
+| Naval    | Philosophy / First Principles | No equivalent (our differentiator) |
 
 The difference: Bloomberg modules don't talk to each other intelligently. Our agents do. ECHO picks up sentiment shift → VINCE correlates with onchain data → Solus prices the options play → Otaku checks DeFi liquidity → the ALOHA report synthesizes it all into one actionable thesis. That's not a terminal. That's a team.
 
@@ -42,10 +42,12 @@ The difference: Bloomberg modules don't talk to each other intelligently. Our ag
 Bloomberg: $24K/year × 325K users = ~$12B revenue, ~$6B profit. $60B+ valuation.
 
 If we capture 1% of that market at 10% of the price:
+
 - 3,250 users × $2,400/year = $7.8M ARR
 - At 20x revenue multiple (SaaS + AI premium) = $156M valuation
 
-If we capture the *new* market Bloomberg can't serve (onchain-native traders, DeFi operators, crypto funds):
+If we capture the _new_ market Bloomberg can't serve (onchain-native traders, DeFi operators, crypto funds):
+
 - 50,000 users × $1,800/year average = $90M ARR
 - At 20x = $1.8B valuation
 
@@ -121,6 +123,7 @@ We're built on ElizaOS v2.8. Upstream breaking changes can cascade. We've mitiga
 Not 11 agents. Not ML loops. Not knowledge files. One sentence: every morning, you get a push notification with today's highest-conviction trade thesis, the reasoning behind it, and the exact instrument to express it. That's ALOHA as a product.
 
 **What ships in public beta:**
+
 1. ALOHA daily report — push notification/email, one thesis per day
 2. Paper bot dashboard — see the ML bot's trades, P&L, confidence scores
 3. X sentiment feed — ECHO's real-time read on crypto Twitter
@@ -128,23 +131,27 @@ Not 11 agents. Not ML loops. Not knowledge files. One sentence: every morning, y
 5. Basic onboarding — sign up, pick your interests, get your first ALOHA in 60 seconds
 
 **What doesn't ship yet:**
+
 - Live trading (too risky without more data)
 - Agent customization (complexity kills adoption)
 - Marketplace (no supply-side yet)
 - Mobile app (web-first, OpenClaw for mobile access)
 
 **Pricing:**
+
 - Free tier: ALOHA daily report (delayed 4 hours), basic chat
 - Paid tier ($49/mo): Real-time ALOHA, full paper bot, all agents, X sentiment
 - No institutional tier yet (premature)
 
 **Success metrics:**
+
 - 100 daily active users by month 6
 - 40%+ ALOHA open rate
 - 10%+ free-to-paid conversion
 - NPS > 40
 
 **What we learn:**
+
 - Do users want daily thesis or real-time alerts?
 - Which agents do they actually talk to?
 - Is paper bot performance compelling enough to retain?
@@ -156,13 +163,14 @@ Not 11 agents. Not ML loops. Not knowledge files. One sentence: every morning, y
 
 **Subscription tiers (refined from Phase 1 learnings):**
 
-| Tier | Price | Features |
-|---|---|---|
-| Basic | $49/mo | ALOHA daily, X sentiment, basic signals, 2 agents |
-| Pro | $149/mo | Full paper bot + ML, options strategy, HIP-3, all 11 agents, custom alerts |
-| Institutional | $499/mo | API access, custom agents, white-label, priority support |
+| Tier          | Price   | Features                                                                   |
+| ------------- | ------- | -------------------------------------------------------------------------- |
+| Basic         | $49/mo  | ALOHA daily, X sentiment, basic signals, 2 agents                          |
+| Pro           | $149/mo | Full paper bot + ML, options strategy, HIP-3, all 11 agents, custom alerts |
+| Institutional | $499/mo | API access, custom agents, white-label, priority support                   |
 
 **Revenue math:**
+
 - 500 Basic × $49 = $24,500/mo
 - 400 Pro × $149 = $59,600/mo
 - 100 Institutional × $499 = $49,900/mo
@@ -171,6 +179,7 @@ Not 11 agents. Not ML loops. Not knowledge files. One sentence: every morning, y
 Round up with annual plans and overages → $1.8M ARR target.
 
 **Key builds:**
+
 - Stripe billing integration
 - Usage metering (API calls, agent interactions)
 - Knowledge access control (premium files for paid tiers)
@@ -178,6 +187,7 @@ Round up with annual plans and overages → $1.8M ARR target.
 - Referral program (each user brings 1.5 more)
 
 **Growth channels:**
+
 - Crypto Twitter / X (ECHO's domain — use it)
 - Discord community (already have OpenClaw integration)
 - Content marketing: publish ALOHA-style analysis publicly (teaser for paid)
@@ -189,6 +199,7 @@ Round up with annual plans and overages → $1.8M ARR target.
 
 **Live trading graduation.**
 This is the moment. Paper bot has 6+ months of data, models are trained on 1000+ trades, risk controls are battle-tested. Graduated rollout:
+
 1. Live trading with $100 max position size
 2. Increase limits based on performance
 3. User-configurable risk parameters
@@ -196,23 +207,27 @@ This is the moment. Paper bot has 6+ months of data, models are trained on 1000+
 
 **Mobile app.**
 iOS and Android. Not a wrapper — a native experience optimized for:
+
 - Morning ALOHA push notification
 - One-tap trade execution (when live)
 - Agent chat on the go
 - Portfolio P&L at a glance
 
 **Social layer.**
+
 - Share your ALOHA thesis (anonymized performance)
 - Follow top-performing agent configurations
 - Community strategies with transparent track records
 - Leaderboards (paper and live, separate)
 
 **Marketplace v1.**
+
 - Custom knowledge packs (domain expertise for sale)
 - Signal configurations (share your edge, or sell it)
 - Agent personality configs (your version of VINCE)
 
 **International.**
+
 - Multi-language knowledge files (agents respond in user's language)
 - Region-specific signal sources
 - Timezone-aware ALOHA delivery
@@ -225,12 +240,14 @@ iOS and Android. Not a wrapper — a native experience optimized for:
 Anyone can build an agent that plugs into the VINCE terminal. The agent marketplace is our App Store moment. Revenue share: 70/30 (developer/platform).
 
 **Institutional grade.**
+
 - Compliance: audit trails, trade reporting, regulatory frameworks
 - Risk management: firm-wide position limits, exposure monitoring
 - Multi-user: team accounts, role-based access
 - White-label: hedge funds run VINCE under their own brand
 
 **Fund management.**
+
 - Community-managed funds using agent strategies
 - Multi-sig execution (no single point of failure)
 - Transparent performance with onchain verification
@@ -250,6 +267,7 @@ Each item scored on: Impact (how much it moves the needle) × Urgency (how soon 
 These block everything. Nothing else matters until these are done.
 
 **1. Public beta launch**
+
 - Impact: 10/10 | Urgency: 10/10 | Feasibility: 7/10
 - Clean up the frontend. Build an onboarding flow that gets a new user to their first ALOHA in under 60 seconds. Write basic docs (not 800 knowledge files — a simple getting-started guide).
 - Owner: Sentinel + Eliza
@@ -257,6 +275,7 @@ These block everything. Nothing else matters until these are done.
 - Definition of done: A non-technical person can sign up and get value in their first session.
 
 **2. User authentication**
+
 - Impact: 9/10 | Urgency: 10/10 | Feasibility: 8/10
 - Supabase auth. Email/password + wallet connect. User accounts with profile, preferences, subscription tier. Session management.
 - Owner: Sentinel
@@ -264,6 +283,7 @@ These block everything. Nothing else matters until these are done.
 - Definition of done: Users can sign up, log in, and have persistent preferences.
 
 **3. Hosted deployment**
+
 - Impact: 9/10 | Urgency: 10/10 | Feasibility: 6/10
 - Users cannot be expected to self-host ElizaOS. We need cloud deployment — likely Railway, Fly.io, or custom k8s. Multi-tenant architecture where each user gets agent access without running their own instance.
 - Owner: Sentinel
@@ -271,6 +291,7 @@ These block everything. Nothing else matters until these are done.
 - Definition of done: Users access VINCE via a URL, not a GitHub clone.
 
 **4. ALOHA as a product**
+
 - Impact: 10/10 | Urgency: 9/10 | Feasibility: 8/10
 - The daily ALOHA report is our single most compelling feature. Make it a standalone product: push notification, email digest, web dashboard. One thesis per day with full reasoning chain. Track engagement metrics.
 - Owner: VINCE + ECHO + Solus (content), Sentinel (delivery)
@@ -282,24 +303,28 @@ These block everything. Nothing else matters until these are done.
 These turn users into paying customers. Start building in parallel with P0.
 
 **5. Stripe integration**
+
 - Impact: 9/10 | Urgency: 8/10 | Feasibility: 9/10
 - Subscription billing. Three tiers. Annual discount. Upgrade/downgrade flow. Webhook handling for failed payments. Stripe is well-documented; this is straightforward.
 - Owner: Sentinel
 - Dependencies: Auth (item 2)
 
 **6. Usage metering**
+
 - Impact: 7/10 | Urgency: 7/10 | Feasibility: 7/10
 - Track per-user: API calls, agent interactions, knowledge file accesses, paper bot trades. This data drives pricing decisions and identifies power users for upsell.
 - Owner: Sentinel
 - Dependencies: Auth (item 2)
 
 **7. Knowledge access control**
+
 - Impact: 7/10 | Urgency: 7/10 | Feasibility: 6/10
 - Premium knowledge files gated by subscription tier. Free users get general knowledge; paid users get deep domain files (options strategies, HIP-3 analysis, etc.). This is our content paywall.
 - Owner: Sentinel + VINCE
 - Dependencies: Auth (item 2), Stripe (item 5)
 
 **8. Paper bot dashboard**
+
 - Impact: 8/10 | Urgency: 8/10 | Feasibility: 7/10
 - Visual P&L chart. Trade history with entry/exit reasoning. ML confidence scores per trade. Feature importance visualization. This is the "proof" that the ML loop works — users need to see it to believe it.
 - Owner: Sentinel + VINCE
@@ -310,6 +335,7 @@ These turn users into paying customers. Start building in parallel with P0.
 These create defensibility. Start after P1 is underway.
 
 **9. Live trading graduation**
+
 - Impact: 10/10 | Urgency: 6/10 | Feasibility: 5/10
 - Paper → real with configurable risk limits. Graduated rollout: micro positions first, scale with confidence. Requires: exchange API integration hardening, slippage handling, position size management, kill switches.
 - Owner: Sentinel + Solus + Otaku
@@ -317,18 +343,21 @@ These create defensibility. Start after P1 is underway.
 - Risk: This is where real money is at stake. Triple-check everything. Audit the execution path.
 
 **10. Mobile push notifications**
+
 - Impact: 8/10 | Urgency: 7/10 | Feasibility: 7/10
 - ALOHA and trade alerts via OpenClaw to phone. Morning thesis, intraday alerts for high-conviction signals, end-of-day recap. Push is the engagement driver — email gets ignored, push gets opened.
 - Owner: Sentinel
 - Dependencies: ALOHA product (item 4)
 
 **11. Social layer**
+
 - Impact: 7/10 | Urgency: 5/10 | Feasibility: 6/10
 - Share strategies, compare performance, follow top traders' agent configs. This creates network effects — users stay because other users are there. Start simple: public paper bot leaderboard.
 - Owner: Sentinel + Eliza
 - Dependencies: Auth (item 2), Paper bot dashboard (item 8)
 
 **12. Agent customization**
+
 - Impact: 7/10 | Urgency: 5/10 | Feasibility: 5/10
 - Users configure their own agent personality, focus areas, risk tolerance. "Make VINCE more aggressive" or "Make Solus focus on weekly options only." This is the personalization play — every user's terminal is unique.
 - Owner: Sentinel + all agents
@@ -339,21 +368,25 @@ These create defensibility. Start after P1 is underway.
 These are the endgame. Don't build until Phase 3+.
 
 **13. Agent marketplace**
+
 - Impact: 9/10 | Urgency: 3/10 | Feasibility: 4/10
 - Third-party developers create and sell agents. Revenue share model. Agent certification/review process. SDK and documentation for agent developers.
 - Dependencies: Agent customization (item 12), significant user base
 
 **14. Knowledge marketplace**
+
 - Impact: 7/10 | Urgency: 3/10 | Feasibility: 5/10
 - Buy/sell domain expertise packs. A macro analyst sells their knowledge files. A DeFi researcher packages protocol deep-dives. Content creators monetize expertise.
 - Dependencies: Knowledge access control (item 7), significant user base
 
 **15. API for institutions**
+
 - Impact: 8/10 | Urgency: 3/10 | Feasibility: 6/10
 - White-label VINCE for hedge funds and trading desks. Custom integrations. SLA guarantees. This is where $499/mo becomes $5,000/mo.
 - Dependencies: Live trading (item 9), compliance framework
 
 **16. Fund tooling**
+
 - Impact: 8/10 | Urgency: 2/10 | Feasibility: 3/10
 - Multi-sig execution. Community fund management. Onchain performance verification. Regulatory compliance. This is the most complex and highest-stakes feature.
 - Dependencies: Everything above
@@ -364,30 +397,31 @@ These are the endgame. Don't build until Phase 3+.
 
 ### Direct Competitors
 
-| Competitor | What They Do | Their Strength | Our Edge |
-|---|---|---|---|
-| Bloomberg Terminal | Data + news + analytics | 40 years of data, regulatory moat, habit | AI-native, onchain, 100x cheaper, lifestyle |
-| TradingView | Charts + social trading | 50M+ users, great UX, Pine Script | Multi-agent AI, not just charts, execution |
-| Dune Analytics | Onchain SQL dashboards | Developer love, open queries | Push not pull, AI interpretation, no SQL needed |
-| Nansen | Onchain wallet analytics | Smart money tracking, labels | Broader coverage (lifestyle, options, macro) |
-| Arkham Intelligence | Onchain entity tracking | Entity resolution, investigative | Multi-agent, actionable not just investigative |
-| Copin | Copy trading aggregator | Simple UX, proven model | AI-generated strategies, not just copying humans |
-| Kaito | AI crypto research | Strong NLP, good data sources | Multi-agent execution, not just research papers |
-| DeFiLlama | DeFi TVL and protocol data | Comprehensive, free, trusted | AI layer on top, actionable not just data |
+| Competitor          | What They Do               | Their Strength                           | Our Edge                                         |
+| ------------------- | -------------------------- | ---------------------------------------- | ------------------------------------------------ |
+| Bloomberg Terminal  | Data + news + analytics    | 40 years of data, regulatory moat, habit | AI-native, onchain, 100x cheaper, lifestyle      |
+| TradingView         | Charts + social trading    | 50M+ users, great UX, Pine Script        | Multi-agent AI, not just charts, execution       |
+| Dune Analytics      | Onchain SQL dashboards     | Developer love, open queries             | Push not pull, AI interpretation, no SQL needed  |
+| Nansen              | Onchain wallet analytics   | Smart money tracking, labels             | Broader coverage (lifestyle, options, macro)     |
+| Arkham Intelligence | Onchain entity tracking    | Entity resolution, investigative         | Multi-agent, actionable not just investigative   |
+| Copin               | Copy trading aggregator    | Simple UX, proven model                  | AI-generated strategies, not just copying humans |
+| Kaito               | AI crypto research         | Strong NLP, good data sources            | Multi-agent execution, not just research papers  |
+| DeFiLlama           | DeFi TVL and protocol data | Comprehensive, free, trusted             | AI layer on top, actionable not just data        |
 
 ### Indirect Competitors
 
-| Competitor | Threat Level | Notes |
-|---|---|---|
-| ChatGPT / Claude with plugins | Medium | General purpose, not specialized for trading |
-| Perplexity Finance | Medium | Good at research, can't execute |
-| Telegram trading bots | High | Already have users, simple UX, but dumb |
-| Jupiter / Raydium frontends | Low | DEX-specific, not terminal |
-| Custom quant setups | Low | High barrier, not productized |
+| Competitor                    | Threat Level | Notes                                        |
+| ----------------------------- | ------------ | -------------------------------------------- |
+| ChatGPT / Claude with plugins | Medium       | General purpose, not specialized for trading |
+| Perplexity Finance            | Medium       | Good at research, can't execute              |
+| Telegram trading bots         | High         | Already have users, simple UX, but dumb      |
+| Jupiter / Raydium frontends   | Low          | DEX-specific, not terminal                   |
+| Custom quant setups           | Low          | High barrier, not productized                |
 
 ### Our Unique Moat
 
 **No one else has all four:**
+
 1. **AI agents** — not chatbots, specialized agents with deep domain knowledge and A2A communication
 2. **Onchain execution** — native to Hyperliquid, HIP-3, Hypersurface options
 3. **Lifestyle integration** — Kelly handles the whole person, not just the trader
@@ -427,6 +461,7 @@ Hyperliquid does $10 billion in daily volume. HIP-3 is bringing stocks and commo
 **Market size:** Onchain finance TAM growing 40%+ annually. Bloomberg's $12B revenue is the comp. We need 0.1% of that to be a $100M business.
 
 **Why now:**
+
 - Hyperliquid's volume explosion proves onchain perps PMF
 - HIP-3 bringing TradFi assets onchain (stocks, commodities, indices)
 - HIP-4 / Hypersurface bringing options onchain
@@ -442,27 +477,27 @@ Hyperliquid does $10 billion in daily volume. HIP-3 is bringing stocks and commo
 
 ### Key Metrics to Track (Pre-Revenue)
 
-| Metric | Why It Matters | Target (Month 6) |
-|---|---|---|
-| Daily Active Users | Core engagement | 100 |
-| ALOHA open rate | Content quality | 40%+ |
-| Paper bot Sharpe ratio | Strategy quality | > 1.5 |
-| Paper bot win rate | Strategy quality | > 55% |
-| Knowledge files created/day | Platform vitality | 5+ |
-| Agent interactions/user/day | Stickiness | 3+ |
-| Time to first value | Onboarding quality | < 60 seconds |
-| Free → Paid conversion | Business model | 10%+ |
-| Monthly churn | Retention | < 5% |
+| Metric                      | Why It Matters     | Target (Month 6) |
+| --------------------------- | ------------------ | ---------------- |
+| Daily Active Users          | Core engagement    | 100              |
+| ALOHA open rate             | Content quality    | 40%+             |
+| Paper bot Sharpe ratio      | Strategy quality   | > 1.5            |
+| Paper bot win rate          | Strategy quality   | > 55%            |
+| Knowledge files created/day | Platform vitality  | 5+               |
+| Agent interactions/user/day | Stickiness         | 3+               |
+| Time to first value         | Onboarding quality | < 60 seconds     |
+| Free → Paid conversion      | Business model     | 10%+             |
+| Monthly churn               | Retention          | < 5%             |
 
 ### Key Metrics to Track (Post-Revenue)
 
-| Metric | Target (Month 12) | Target (Month 24) |
-|---|---|---|
-| MRR | $150K | $800K+ |
-| Paying users | 1,000 | 10,000 |
-| Net revenue retention | 110%+ | 120%+ |
-| CAC payback period | < 3 months | < 2 months |
-| LTV:CAC ratio | > 3:1 | > 5:1 |
+| Metric                | Target (Month 12) | Target (Month 24) |
+| --------------------- | ----------------- | ----------------- |
+| MRR                   | $150K             | $800K+            |
+| Paying users          | 1,000             | 10,000            |
+| Net revenue retention | 110%+             | 120%+             |
+| CAC payback period    | < 3 months        | < 2 months        |
+| LTV:CAC ratio         | > 3:1             | > 5:1             |
 
 ---
 
@@ -519,6 +554,7 @@ When performing Project Radar scans, Sentinel evaluates the entire codebase, kno
 If there's a bug in onboarding, a broken frontend route, missing documentation for new users, or a deployment issue — this comes first. Nothing else matters if users can't get in.
 
 Examples:
+
 - "Frontend login flow has a race condition — auth state isn't persisting across page refreshes"
 - "Onboarding doesn't explain what ALOHA is. Add a 30-second explainer."
 - "Docker build fails on M1 Macs — need multi-arch support for contributors"
@@ -527,6 +563,7 @@ Examples:
 Once beta is live, revenue infrastructure is next. Stripe integration, subscription management, usage tracking, premium feature gating.
 
 Examples:
+
 - "Stripe webhook handler doesn't handle subscription downgrades gracefully"
 - "Need to add usage metering middleware — can't price tiers without data"
 - "Paper bot dashboard should show ML confidence scores — users asked for this"
@@ -535,6 +572,7 @@ Examples:
 Every improvement to the paper bot compounds. More features, better signal processing, faster retraining, more robust backtesting. The ML loop is the core technology — keep it improving.
 
 Examples:
+
 - "Current ONNX export drops the ensemble model metadata — retraining can't reproduce results"
 - "Add Hyperliquid funding rate as a feature — it's the strongest alpha signal we're not using"
 - "Paper bot should log feature importance after each retraining — need this for dashboard"
@@ -543,6 +581,7 @@ Examples:
 Each new signal source improves every trade the paper bot makes and every ALOHA report generated. Prioritize free/cheap sources, then evaluate paid ones by expected alpha contribution.
 
 Examples:
+
 - "Hyperliquid liquidation data is available via WebSocket — free, high signal"
 - "Polymarket has an API — Oracle should ingest prediction market odds"
 - "CoinGecko free tier gives us 30 calls/minute — enough for top 100 tokens"
@@ -551,6 +590,7 @@ Examples:
 Every knowledge file makes every agent smarter. But quality over quantity — one deep analysis of Hyperliquid's fee structure is worth more than ten surface-level token summaries.
 
 Examples:
+
 - "Write knowledge file on HIP-3 fee structure — Solus needs this for options pricing"
 - "ECHO's X sentiment patterns should be documented — what keywords actually predict moves?"
 - "Kelly's wine knowledge is impressive but restaurant coverage is thin — expand Bay Area"
@@ -559,6 +599,7 @@ Examples:
 The multi-agent architecture is our moat. The better agents communicate, the more valuable the system. Focus on: standup quality, cross-agent references, conflict resolution (what happens when ECHO is bullish but Solus sees options risk?).
 
 Examples:
+
 - "Morning standup takes 45 seconds but agents aren't referencing each other's previous reports"
 - "ECHO and VINCE are analyzing the same data independently — add shared context"
 - "Need a disagreement protocol — when agents have opposing views, how does ALOHA resolve it?"
@@ -567,6 +608,7 @@ Examples:
 As we approach platform phase, external developers need to build on VINCE. Good DX now means ecosystem growth later.
 
 Examples:
+
 - "Add a CONTRIBUTING.md with local dev setup in under 5 minutes"
 - "Agent creation should have a template — too many files to create manually"
 - "Knowledge file format needs a schema — inconsistent formats slow down parsing"
@@ -599,6 +641,7 @@ Each daily suggestion from Sentinel should follow:
 ### Weekly Strategic Review
 
 Every Monday, Sentinel should also:
+
 1. Compare actual progress against this roadmap's phase milestones
 2. Identify if we're on track, ahead, or behind
 3. Flag any assumptions in this roadmap that new data has invalidated
@@ -608,23 +651,24 @@ Every Monday, Sentinel should also:
 
 ## 9. Risk Register
 
-| Risk | Probability | Impact | Mitigation |
-|---|---|---|---|
-| ElizaOS breaking change | Medium | High | Pin versions, maintain fork option, deep knowledge files as buffer |
-| Hyperliquid API changes | Low | High | Abstraction layer, multiple exchange support roadmap |
-| ML model overfitting | High | Medium | Ensemble approach, out-of-sample testing, walk-forward validation |
-| User data breach | Low | Critical | Supabase auth, no custody of funds, minimal PII |
-| Competitor launches similar product | Medium | Medium | Knowledge base depth as moat, ship faster, community lock-in |
-| API cost explosion at scale | Medium | Medium | Caching, rate limiting, self-hosted alternatives where possible |
-| Regulatory action against onchain trading | Low | High | No custody, paper trading default, compliance roadmap for live |
-| Key person risk (single developer) | High | High | Open source, documentation, agent-as-documentation |
-| Market downturn kills crypto interest | Medium | High | Cross-asset coverage (HIP-3 stocks), lifestyle retention (Kelly) |
+| Risk                                      | Probability | Impact   | Mitigation                                                         |
+| ----------------------------------------- | ----------- | -------- | ------------------------------------------------------------------ |
+| ElizaOS breaking change                   | Medium      | High     | Pin versions, maintain fork option, deep knowledge files as buffer |
+| Hyperliquid API changes                   | Low         | High     | Abstraction layer, multiple exchange support roadmap               |
+| ML model overfitting                      | High        | Medium   | Ensemble approach, out-of-sample testing, walk-forward validation  |
+| User data breach                          | Low         | Critical | Supabase auth, no custody of funds, minimal PII                    |
+| Competitor launches similar product       | Medium      | Medium   | Knowledge base depth as moat, ship faster, community lock-in       |
+| API cost explosion at scale               | Medium      | Medium   | Caching, rate limiting, self-hosted alternatives where possible    |
+| Regulatory action against onchain trading | Low         | High     | No custody, paper trading default, compliance roadmap for live     |
+| Key person risk (single developer)        | High        | High     | Open source, documentation, agent-as-documentation                 |
+| Market downturn kills crypto interest     | Medium      | High     | Cross-asset coverage (HIP-3 stocks), lifestyle retention (Kelly)   |
 
 ---
 
 ## 10. Success Definition by Phase
 
 ### Phase 1 Success (Month 6)
+
 - [ ] 100 daily active users
 - [ ] Public beta live and stable
 - [ ] ALOHA delivered daily with 40%+ engagement
@@ -632,6 +676,7 @@ Every Monday, Sentinel should also:
 - [ ] At least 3 paid users (proves willingness to pay)
 
 ### Phase 2 Success (Month 12)
+
 - [ ] 1,000 paying users
 - [ ] $1.5M+ ARR
 - [ ] Paper bot Sharpe > 1.5 (public, verifiable)
@@ -639,6 +684,7 @@ Every Monday, Sentinel should also:
 - [ ] Mobile push notifications live
 
 ### Phase 3 Success (Month 24)
+
 - [ ] 10,000 paying users
 - [ ] $10M+ ARR
 - [ ] Live trading launched (graduated rollout)
@@ -647,6 +693,7 @@ Every Monday, Sentinel should also:
 - [ ] Series A closed
 
 ### Phase 4 Success (Month 36)
+
 - [ ] 50,000+ users
 - [ ] $50M+ ARR
 - [ ] Agent marketplace with 50+ third-party agents
@@ -684,6 +731,6 @@ Bloomberg serves TradFi. The terminal for this new financial system doesn't exis
 
 ---
 
-*This document is Sentinel's strategic bible. Reference it when prioritizing suggestions, evaluating PRs, and planning sprints. Update it when milestones are hit or assumptions change. The goal is simple: build the terminal that makes every onchain trader better, every day.*
+_This document is Sentinel's strategic bible. Reference it when prioritizing suggestions, evaluating PRs, and planning sprints. Update it when milestones are hit or assumptions change. The goal is simple: build the terminal that makes every onchain trader better, every day._
 
-*— Drafted 2026-02-17 | VINCE Project*
+_— Drafted 2026-02-17 | VINCE Project_

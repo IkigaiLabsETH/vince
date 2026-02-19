@@ -35,12 +35,12 @@ If you only remember one thing: _ALOHA in, better ML out._
 
 The paper bot runs a **complete ML lifecycle in production** without paying per model update:
 
-| What | How |
-|------|-----|
-| **Feature store** | Paper trade features dual-write to Supabase table `vince_paper_bot_features`. Data persists across redeploys. |
-| **Training in prod** | At 90+ complete trades, TRAIN_ONNX_WHEN_READY runs the Python pipeline inside the container. No local train-and-copy. |
-| **Models in Supabase Storage** | Trained .onnx + training_metadata.json upload to bucket `vince-ml-models`. ML service reloads so new thresholds apply immediately. |
-| **One-time setup** | Run scripts/supabase-feature-store-bootstrap.sql in Supabase; create Storage bucket vince-ml-models. Set SUPABASE_SERVICE_ROLE_KEY + SUPABASE_URL in .env. See [DEPLOY.md](../../docs/DEPLOY.md) and [FEATURE-STORE.md](../../docs/FEATURE-STORE.md). |
+| What                           | How                                                                                                                                                                                                                                                   |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Feature store**              | Paper trade features dual-write to Supabase table `vince_paper_bot_features`. Data persists across redeploys.                                                                                                                                         |
+| **Training in prod**           | At 90+ complete trades, TRAIN_ONNX_WHEN_READY runs the Python pipeline inside the container. No local train-and-copy.                                                                                                                                 |
+| **Models in Supabase Storage** | Trained .onnx + training_metadata.json upload to bucket `vince-ml-models`. ML service reloads so new thresholds apply immediately.                                                                                                                    |
+| **One-time setup**             | Run scripts/supabase-feature-store-bootstrap.sql in Supabase; create Storage bucket vince-ml-models. Set SUPABASE_SERVICE_ROLE_KEY + SUPABASE_URL in .env. See [DEPLOY.md](../../docs/DEPLOY.md) and [FEATURE-STORE.md](../../docs/FEATURE-STORE.md). |
 
 **TL;DR:** One deploy. Features and models live in Supabase. Training runs on Cloud. New models take effect without another redeploy.
 
@@ -88,19 +88,19 @@ elizaos dev
 
 ## Configuration
 
-| What | Where |
-|------|--------|
-| VINCE character & agent | src/agents/vince.ts |
-| Paper bot, ML, actions, providers | src/plugins/plugin-vince/ |
-| Teammate context | knowledge/teammate/ — USER.md, SOUL.md, TOOLS.md |
+| What                              | Where                                            |
+| --------------------------------- | ------------------------------------------------ |
+| VINCE character & agent           | src/agents/vince.ts                              |
+| Paper bot, ML, actions, providers | src/plugins/plugin-vince/                        |
+| Teammate context                  | knowledge/teammate/ — USER.md, SOUL.md, TOOLS.md |
 
 ## Documentation
 
-| Doc | Purpose |
-|-----|---------|
-| [FEATURE-STORE.md](../../docs/FEATURE-STORE.md) | Paper bot feature storage, training, env flags |
-| [DEPLOY.md](../../docs/DEPLOY.md) | Deploy to Eliza Cloud, env vars, troubleshooting |
-| [CLAUDE.md](../../CLAUDE.md) | ElizaOS project dev guide |
-| [TREASURY.md](../../docs/TREASURY.md) | Cost coverage and profitability mandate |
-| [plugin-vince README](../../src/plugins/plugin-vince/README.md), [WHAT.md](../../src/plugins/plugin-vince/WHAT.md), [WHY.md](../../src/plugins/plugin-vince/WHY.md), [HOW.md](../../src/plugins/plugin-vince/HOW.md), [CLAUDE.md](../../src/plugins/plugin-vince/CLAUDE.md) | Plugin purpose, rationale, development |
-| [models/README.md](../../src/plugins/plugin-vince/models/README.md) | Ship ONNX models for Eliza Cloud |
+| Doc                                                                                                                                                                                                                                                                         | Purpose                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [FEATURE-STORE.md](../../docs/FEATURE-STORE.md)                                                                                                                                                                                                                             | Paper bot feature storage, training, env flags   |
+| [DEPLOY.md](../../docs/DEPLOY.md)                                                                                                                                                                                                                                           | Deploy to Eliza Cloud, env vars, troubleshooting |
+| [CLAUDE.md](../../CLAUDE.md)                                                                                                                                                                                                                                                | ElizaOS project dev guide                        |
+| [TREASURY.md](../../docs/TREASURY.md)                                                                                                                                                                                                                                       | Cost coverage and profitability mandate          |
+| [plugin-vince README](../../src/plugins/plugin-vince/README.md), [WHAT.md](../../src/plugins/plugin-vince/WHAT.md), [WHY.md](../../src/plugins/plugin-vince/WHY.md), [HOW.md](../../src/plugins/plugin-vince/HOW.md), [CLAUDE.md](../../src/plugins/plugin-vince/CLAUDE.md) | Plugin purpose, rationale, development           |
+| [models/README.md](../../src/plugins/plugin-vince/models/README.md)                                                                                                                                                                                                         | Ship ONNX models for Eliza Cloud                 |

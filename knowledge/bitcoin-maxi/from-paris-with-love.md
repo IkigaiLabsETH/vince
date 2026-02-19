@@ -4,36 +4,36 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180312735.From Paris With Love
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 851
 **Tags**: #bitcoin #btc #fed #macro #trading #substack
+
 ---
 
 If you’re thinking of moving to France, planning to live the life, stop scrolling for that stone house in Provence. Read this first, before you move out the USA.
 
-Because the French State has a very special welcome package waiting for you — and if you ever get fed up and eye the exit, they’ve got a parting gift too. 
+Because the French State has a very special welcome package waiting for you — and if you ever get fed up and eye the exit, they’ve got a parting gift too.
 
 ## Context
 
-Oh, and that postcard-perfect hop down south to Portugal? Spoiler: It’s starting to look like a temporary tan, not a permanent fix. France will happily collect the second bite via exit tax, wealth tax, succession rules, or reassessments. 
+Oh, and that postcard-perfect hop down south to Portugal? Spoiler: It’s starting to look like a temporary tan, not a permanent fix. France will happily collect the second bite via exit tax, wealth tax, succession rules, or reassessments.
 
 Every single time you want to live the good life, you’ll pay:
 
-- 
-Sell a sliver of BTC to buy a car? → 30 % flat tax.
+- Sell a sliver of BTC to buy a car? → 30 % flat tax.
 
 ## Main
 
-- 
-Spend the proceeds on literally anything? → 20 % VAT on top. 
+- Spend the proceeds on literally anything? → 20 % VAT on top.
 
-And for this obscene tribute, the Republic will give you… 
+And for this obscene tribute, the Republic will give you…
 
-Exactly zero rights. No pension credits. No healthcare. No matter how many decades you spend drinking fine wine on their soil and keeping their villages alive with your spending. While you’re busy financing half the new tram line in Bordeaux, the civil servant who paid less tax in forty years than you did on moving day will retire at 62 on a fat indexed pension. 
+Exactly zero rights. No pension credits. No healthcare. No matter how many decades you spend drinking fine wine on their soil and keeping their villages alive with your spending. While you’re busy financing half the new tram line in Bordeaux, the civil servant who paid less tax in forty years than you did on moving day will retire at 62 on a fat indexed pension.
 
 You? Private insurance and crossed fingers.
 
@@ -56,7 +56,7 @@ But hey, at least there’s Portugal, right? That sunny EU sibling with the 0% l
 
 Except… it’s not. Not for long. Portugal’s golden goose — the NHR program that turbocharged its appeal for crypto retirees — got the axe for new applicants in 2024, a screaming “canary in the coal mine” for what’s coming next. That one-year hold for tax-free bliss? It’s a “subsidy for the rich” that’s already on borrowed time, thanks to the EU’s slow-motion squeeze via MiCA and DAC8.
 
-Brussels is harmonizing taxes across the bloc — think a minimum 15–20% floor on crypto disposals, closing loopholes faster than you can say “grilled sardines overlooking the Atlantic.” Germany’s already floating its own “unproductive capital” taxes, and with France leading the charge in ECOFIN meetings, Portugal’s “blockchain embassy” status is crumbling. 
+Brussels is harmonizing taxes across the bloc — think a minimum 15–20% floor on crypto disposals, closing loopholes faster than you can say “grilled sardines overlooking the Atlantic.” Germany’s already floating its own “unproductive capital” taxes, and with France leading the charge in ECOFIN meetings, Portugal’s “blockchain embassy” status is crumbling.
 
 By 2027? That sweet spot could be a 28% short-term trap or worse, turning your escape pod into just another overpriced surfboard rental. And let’s not even start on the wine — Portugal’s ports are punchy, sure, but they’ll never touch a crisp Sancerre or a brooding Bordeaux. You’re trading fiscal freedom for… third-wave espresso and a tan that fades.
 

@@ -4,15 +4,15 @@ agents: [echo, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 # 181381055.Crypto Cards
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: substack-essays
 **Word Count**: 710
 **Tags**: #eth #solana #sol #substack
+
 ---
 
 I’ve got that familiar hollow laugh in my chest, the same one I had in 2012 when people swore Google+ was going to kill Facebook, or in 2017 when every ICO deck promised “Uber for toothbrushes, but on the blockchain.”

@@ -4,13 +4,15 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181727834.The Great Shift
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: stocks
 **Word Count**: 688
 **Tags**: #bitcoin #defi #nft #inflation #trading #investing #portfolio #substack
+
 ---
 
 In the shadowed aftermath of the 2008 financial crisis, a generation came of age under the weight of broken promises. Millennials and Gen Z entered adulthood not with the tailwinds of postwar prosperity that lifted their parents, but with headwinds: stagnant wages, skyrocketing housing costs, and a financial system that seemed rigged against them. Equities traded at lofty valuations, bonds offered paltry yields, and real estate priced out all but the privileged. The traditional path to wealth—steady jobs, patient saving, prudent investing—felt like a relic from another era.
@@ -29,17 +31,13 @@ This isn’t mere anecdote. Surveys reveal the divide starkly: Nearly half of Mi
 
 Historical patterns echo this evolution. Each generation has crowned its own asset king during its prime earning years:
 
-- 
-The Silent Generation rode gold’s inflationary surge in the 1970s, peaking at $850 an ounce in 1980.
+- The Silent Generation rode gold’s inflationary surge in the 1970s, peaking at $850 an ounce in 1980.
 
-- 
-Baby Boomers fueled multi-decade equity bulls, with the S&P 500 climbing from post-recession lows.
+- Baby Boomers fueled multi-decade equity bulls, with the S&P 500 climbing from post-recession lows.
 
-- 
-Gen X embraced the dot-com era, propelling Nasdaq giants.
+- Gen X embraced the dot-com era, propelling Nasdaq giants.
 
-- 
-Now, Millennials and Gen Z align with Bitcoin’s ascent—from near-zero in 2009 to peaks above $100,000 in recent years, with institutional inflows and ETFs maturing the market.
+- Now, Millennials and Gen Z align with Bitcoin’s ascent—from near-zero in 2009 to peaks above $100,000 in recent years, with institutional inflows and ETFs maturing the market.
 
 Yet the real catalyst looms: the Great Wealth Transfer. Boomers hold over half of U.S. household wealth—around $78 trillion as of recent estimates. Over the next two decades, projections range from $84 trillion to $124 trillion passing to heirs and charities, with the bulk flowing to Gen X, Millennials, and Gen Z. Annual inflows could peak at trillions, but crucially, recipients favor alternatives. Where Boomers parked in stocks and bonds, younger heirs tilt toward crypto, tech, and digital assets. One analysis estimates $160–225 billion in net new crypto inflows from this alone—$20–28 million daily buying pressure.
 

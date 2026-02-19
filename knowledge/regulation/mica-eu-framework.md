@@ -3,6 +3,7 @@ tags: [regulation, compliance, legal]
 agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # MiCA: EU Crypto Regulatory Framework
 
 ## What MiCA Covers
@@ -21,4 +22,4 @@ last_reviewed: 2026-02-15
 
 **Global template effect**: MiCA's framework is being studied and partially replicated by regulators in the UK, Hong Kong, Singapore, and Brazil. US lawmakers have referenced MiCA as both a model and a competitive threat — the argument that the EU is ahead on regulatory clarity has been a catalyst for US legislative urgency.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

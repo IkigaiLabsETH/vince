@@ -4,16 +4,18 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 182081573.Stablecoin Supercycle
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: defi-metrics
 **Word Count**: 1,010
 **Tags**: #eth #sol #defi #fed #portfolio #substack
+
 ---
 
-I’m pulling up old charts—DefiLlama snapshots from December 19, 2025—total stablecoin cap sitting right around $310 billion, give or take a few depending on who’s counting. Up 50-60% on the year from the low $200s back in January. 
+I’m pulling up old charts—DefiLlama snapshots from December 19, 2025—total stablecoin cap sitting right around $310 billion, give or take a few depending on who’s counting. Up 50-60% on the year from the low $200s back in January.
 
 And honestly... it feels kind of wild.
 
@@ -23,8 +25,8 @@ But not in the moonboy way. More like watching something you spotted early final
 
 Look, I’ve been around long enough to remember when stablecoins were this sketchy side experiment. Tether in 2017-18, those endless debates about reserves—attestations that felt like reading tea leaves. I dipped toes then, mostly USDC once Circle started getting serious about transparency. Sold too much too soon, classic me. Thought the depeg risks weren’t worth it when Treasuries were paying nothing anyway.
 
-And now? Here we are. 
-**
+And now? Here we are.
+\*\*
 The GENIUS Act signed back in July ‘25—Guiding and Establishing National Innovation for U.S. Stablecoins, what a mouthful—finally gave the thing a federal spine. No more patchwork state rules; issuers have to back 1:1 with real liquid stuff, monthly disclosures, the works. Institutions could finally stop pretending they weren’t interested.
 
 ## Main
@@ -33,21 +35,21 @@ Honestly, that was the unlock. Not some hype cycle. Just boring clarity.
 
 Remember the early days? I’d sit there reloading Tether’s reserve page, wondering if tomorrow was the day it all cracked. Fast forward, USDT’s pushing $186 billion cap, still the liquidity king—dominant in Asia, LatAm, anywhere fiat’s a headache. USDC trailing at $77-78 billion, but the one institutions actually trust, with those Deloitte attestations and BlackRock ties.
 
-And the yield stuff... that’s where it gets interesting.**
+And the yield stuff... that’s where it gets interesting.\*\*
 
-But first, a regret. I missed the full ride on a couple plays. Back in ‘23-’24, I had some DAI in Maker’s old savings rate—nice little 5-8% when rates were climbing. Felt safe, overcollateralized. Then Sky rebrand hits in ‘25, USDS/sUSDS takes over, TVL balloons to $4-5 billion in savings alone, SSR tracking Treasuries at 4-4.5%. I rotated out too early, chasing some alt that melted. 
+But first, a regret. I missed the full ride on a couple plays. Back in ‘23-’24, I had some DAI in Maker’s old savings rate—nice little 5-8% when rates were climbing. Felt safe, overcollateralized. Then Sky rebrand hits in ‘25, USDS/sUSDS takes over, TVL balloons to $4-5 billion in savings alone, SSR tracking Treasuries at 4-4.5%. I rotated out too early, chasing some alt that melted.
 
 Sold too soon—again.
 
 Same story with Ondo. Tokenized Treasuries looked boring when USDY was tiny. Now? TVL north of $690 million, yields steady 4-5%, multi-chain, institutions piling in. Private credit side exploding too—total non-stable RWAs around $30-35 billion, private credit leading at $15-16B, Treasuries $7-9B. Capital climbing the risk curve, just like it always does.
-**
+\*\*
 Ethena was the wild one. sUSDe hitting double digits early ‘25 on funding rates, TVL spiking to $14 billion or so mid-year. I threw a chunk in during a dip, rode some nice yields—averaged maybe 8-10% for a stretch. Then rates normalized, TVL halved to $7-8 billion by December, APY down to 4-5%. Still held peg, BlackRock integrations helped credibility. But the unwind stung. Levered loops blowing up everywhere. Felt like ‘22 all over again.
 
 And PayPal’s PYUSD... bet you didn’t see that coming mainstream. Started small, now $3.9 billion supply, baked into Venmo, YouTube payouts even. Consumer side finally waking up.
 
 Coinbase got clever too—USDC lending via Morpho vaults right in the app. Yields spiked to 10.8% back in September when demand was hot, settled to 5-7% by year-end. Accessible DeFi without leaving the platform. Smart. I parked some there for the ease, though the smart contract risks keep me up sometimes. Bad debt, liquidity crunches—no FDIC.
 
-Risks? Yeah, let’s talk straight.**
+Risks? Yeah, let’s talk straight.\*\*
 
 USDT still offshore, transparency better but history lingers. One bad attestation and... poof. USDC cleaner, regulated, but tied to banking system—remember ‘23 SVB scare? Depegged hard then.
 
@@ -61,7 +63,7 @@ Analysts talking supercycle now—Polygon folks saying 100,000 issuers by 2030, 
 
 But banks won’t roll over. They’ll fight with tokenized deposits, CBDC pilots.
 
-Reminds me of WebTV days—pioneered streaming boxes, Apple featured us, Quiksilver cash flowing. Thought we were early forever. Then YouTube hit, everything changed overnight. Same feeling here. 
+Reminds me of WebTV days—pioneered streaming boxes, Apple featured us, Quiksilver cash flowing. Thought we were early forever. Then YouTube hit, everything changed overnight. Same feeling here.
 
 Stablecoins aren’t going away. They’re the rails.
 
@@ -69,7 +71,7 @@ Entering ‘26, yield-bearing dollars, fragmented issuers, TradFi bridges deepen
 
 We’ll see. Markets always humble you. Keep reading the attestations, watch the reserves, stack quietly. And if I’m wrong again? Well... nothing new I guess!
 
-And one last thing before I shut this screen down...This Canton announcement landed just a few days ago—December 16 press release, fresh as the coffee I’m about to brew. World Liberty Financial, that Trump-family tied outfit, saying they’re intending to drop their USD1 stablecoin onto the Canton Network. 
+And one last thing before I shut this screen down...This Canton announcement landed just a few days ago—December 16 press release, fresh as the coffee I’m about to brew. World Liberty Financial, that Trump-family tied outfit, saying they’re intending to drop their USD1 stablecoin onto the Canton Network.
 
 USD1’s already north of $2 billion cap (some trackers say $2.7B), fastest grower out there, backed by Treasuries and cash equivalents, handled through BitGo. Canton isn’t some retail wild west chain. It’s privacy-by-design, built for the big boys—regulated finance, selective disclosure so your trades don’t flash to competitors. They’re talking intraday repos, bond settlements, collateral for derivatives. Compliant rails with actual decentralization flavor.
 

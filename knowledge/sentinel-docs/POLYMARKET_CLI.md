@@ -18,10 +18,10 @@ bun run scripts/polymarket-once.ts
 
 ## Exit codes and monitoring
 
-| Exit code | Meaning |
-| --------- | ------- |
-| **0**    | Success: active markets fetched and summary printed to stdout. |
-| **1**    | Failure: error message written to **stderr**. |
+| Exit code | Meaning                                                        |
+| --------- | -------------------------------------------------------------- |
+| **0**     | Success: active markets fetched and summary printed to stdout. |
+| **1**     | Failure: error message written to **stderr**.                  |
 
 **Supervision:** Use exit codes for cron, systemd, or Kubernetes: exit 0 = healthy tick; exit 1 = fail (e.g. network, API down). Capture stderr in logs and alert on non-zero exit.
 

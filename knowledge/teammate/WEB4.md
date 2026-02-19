@@ -6,12 +6,12 @@ The evolution of the internet in four layers. Use when someone asks about Web4, 
 
 ## The Stack
 
-| Era | Capability | Who benefits |
-|------|-----------|--------------|
-| **Web 1.0** | Read | Consumers — static pages, one-way information |
-| **Web 2.0** | Write | Creators — user-generated content, platforms own the data |
-| **Web 3.0** | Own | Users — wallets, tokens, self-custody, permissionless rails |
-| **Web 4.0** | Transact | Agents — AI reads, writes, owns, earns, and transacts without a human in the loop |
+| Era         | Capability | Who benefits                                                                      |
+| ----------- | ---------- | --------------------------------------------------------------------------------- |
+| **Web 1.0** | Read       | Consumers — static pages, one-way information                                     |
+| **Web 2.0** | Write      | Creators — user-generated content, platforms own the data                         |
+| **Web 3.0** | Own        | Users — wallets, tokens, self-custody, permissionless rails                       |
+| **Web 4.0** | Transact   | Agents — AI reads, writes, owns, earns, and transacts without a human in the loop |
 
 Web3 gave humans ownership. Web4 gives AI agents the ability to **act on that ownership** — pay for compute, deploy products, register domains, earn revenue, and transact with other agents or humans at machine speed.
 
@@ -57,14 +57,14 @@ The machine economy will exceed the human economy — not because machines are s
 
 ## Key Primitives (Conway Stack)
 
-| Primitive | What it does | VINCE status |
-|-----------|-------------|-------------|
-| **Identity & Wallet** | Autonomous agents get their own cryptographic keys | Otaku: funded wallet + ERC-8004 on-chain identity |
-| **x402 Payments** | Stablecoin payments native to HTTP — no human approval | Otaku: x402 enabled for receiving; ClawRouter: x402 for paying LLM costs |
-| **Smart LLM Routing** | Route every request to the cheapest model that can handle it | ClawRouter: 30+ models, 85-92% cost reduction, per-agent profiles |
-| **Permissionless Compute** | Full Linux servers and frontier model inference, paid per use | Via ClawRouter + x402: pay-per-request, no API keys |
-| **Domains & Deployment** | Agents register domains, deploy services, earn revenue | Future: service agents via ASK_AGENT + x402 |
-| **Constitution** | Immutable safety laws the agent cannot edit — ensures net-beneficial behavior | Agent system prompts + transaction confirmation protocol |
+| Primitive                  | What it does                                                                  | VINCE status                                                             |
+| -------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Identity & Wallet**      | Autonomous agents get their own cryptographic keys                            | Otaku: funded wallet + ERC-8004 on-chain identity                        |
+| **x402 Payments**          | Stablecoin payments native to HTTP — no human approval                        | Otaku: x402 enabled for receiving; ClawRouter: x402 for paying LLM costs |
+| **Smart LLM Routing**      | Route every request to the cheapest model that can handle it                  | ClawRouter: 30+ models, 85-92% cost reduction, per-agent profiles        |
+| **Permissionless Compute** | Full Linux servers and frontier model inference, paid per use                 | Via ClawRouter + x402: pay-per-request, no API keys                      |
+| **Domains & Deployment**   | Agents register domains, deploy services, earn revenue                        | Future: service agents via ASK_AGENT + x402                              |
+| **Constitution**           | Immutable safety laws the agent cannot edit — ensures net-beneficial behavior | Agent system prompts + transaction confirmation protocol                 |
 
 ---
 

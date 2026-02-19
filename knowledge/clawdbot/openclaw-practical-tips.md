@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # OpenClaw: What’s Actually Working (Practical Tips)
 
 Lots of posts make wild claims about OpenClaw. In practice it’s powerful but finicky—great at some things, bad at others. Here’s what’s been working for me so far, and what hasn’t.
@@ -19,7 +20,7 @@ Lots of posts make wild claims about OpenClaw. In practice it’s powerful but f
 ### 2. Keep tasks small and script-like
 
 - OpenClaw is strong for **smaller, repeatable tasks** and **running scripts**.
-- Example that works well: *“Get the news every day at 6am and summarize it for me.”*
+- Example that works well: _“Get the news every day at 6am and summarize it for me.”_
 - **Complex, multi-step systems** are harder—it tends to get stuck in bad loops or overcomplicate things. If you need full control over a workflow, see #3.
 
 ### 3. Use Claude Code (or similar) for full control over a project
@@ -91,7 +92,6 @@ A second perspective from someone running OpenClaw day to day—aligned with the
 ## Share your tips
 
 If you’ve found patterns that work (or don’t)—context, memory, channels, scripts, or integration—please share. Still trying to learn as much as possible from people who are actually running it day to day.
-
 
 ## Related
 

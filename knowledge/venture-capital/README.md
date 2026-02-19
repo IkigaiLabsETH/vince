@@ -18,7 +18,6 @@ Startup evaluation, crypto VC frameworks, fund analysis
 - apptronic.md
 - fortytwo-benchmark-beating-analysis.md
 
-
 ## Related Categories
 
 - [stocks](../stocks/)

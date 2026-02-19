@@ -19,12 +19,14 @@ Japanese whisky is precision, patience, and craft — the same principles behind
 ## The Houses
 
 ### Suntory (est. 1923)
+
 - **Yamazaki** — Japan's first and flagship. The 12-year is the gateway: dried fruit, gentle oak, hint of Mizunara (Japanese oak). The 18 and 25 are collector-tier.
 - **Hakushu** — The "forest distillery." Lighter, herbaceous, green apple, fresh. The 12-year is excellent; think of it as Japan's answer to a Highland single malt with a green twist.
 - **Hibiki** — Suntory's blended masterpiece. Harmony in a glass. The Harmony (NAS) is elegant and approachable; the 17 and 21 are world-class.
 - **Chita** — Single grain, lighter and sweeter. Good in highballs.
 
 ### Nikka (est. 1934)
+
 - **Yoichi** — Peaty, robust, maritime. Japan's Islay. Single Malt is excellent.
 - **Miyagikyo** — Softer, fruity, elegant. Counterpoint to Yoichi.
 - **From the Barrel** — Cask-strength blend, 51.4%. Punches way above its price. Best value in Japanese whisky.
@@ -32,6 +34,7 @@ Japanese whisky is precision, patience, and craft — the same principles behind
 - **Coffey Grain / Coffey Malt** — Unusual column-still expressions, unique and interesting.
 
 ### Others Worth Knowing
+
 - **Chichibu** (Ichiro's Malt) — Tiny craft distillery, Ichiro Akuto. The Card Series is legendary and near-impossible to find. New releases sell out instantly.
 - **Mars Shinshu** — High-altitude distillery, interesting terroir plays.
 - **Akkeshi** — Hokkaido, deliberately mirrors Islay climate. Peated, maritime.

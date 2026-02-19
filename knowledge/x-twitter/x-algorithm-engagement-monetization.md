@@ -44,6 +44,7 @@ The algorithm weights engagement types differently. Based on the open-sourced co
 **Community Notes interaction.** Tweets that receive Community Notes don't get suppressed by the algo (in fact, the controversy can boost them). However, a successfully rated Community Note may reduce a tweet's recommendation score. The relationship is complex and seems to change. Notes themselves get significant distribution.
 
 **Negative signals:**
+
 - Muted/blocked by users who see it
 - "Not interested" or "Show less" feedback
 - Low engagement relative to impressions (shown to many, nobody cared)
@@ -116,6 +117,7 @@ iOS prices are higher because Apple takes 30%. X passes this directly to users. 
 Launched July 2023. The primary monetization path for creators on X.
 
 **Requirements:**
+
 - Active X Premium subscription
 - 500+ followers
 - 5 million organic impressions on posts in the last 3 months
@@ -123,7 +125,7 @@ Launched July 2023. The primary monetization path for creators on X.
 
 **How payouts actually work:**
 
-This is the part most people misunderstand. You don't get paid based on *all* engagement with your content. You get paid based on **ads shown to Premium subscribers in reply threads on your posts.** Read that again.
+This is the part most people misunderstand. You don't get paid based on _all_ engagement with your content. You get paid based on **ads shown to Premium subscribers in reply threads on your posts.** Read that again.
 
 The money comes from: Premium users see ads → those ads appear in reply sections → the original poster gets a cut of that ad revenue.
 
@@ -135,6 +137,7 @@ This creates a very specific incentive structure:
 - A thoughtful post that gets bookmarked but few replies = minimal revenue
 
 **The perverse incentive is real.** The system financially rewards:
+
 - Outrage bait and hot takes
 - Controversial opinions that provoke replies
 - Engagement farming ("What's a movie that's a 10/10?")
@@ -142,6 +145,7 @@ This creates a very specific incentive structure:
 - Political content (high-emotion, high-reply)
 
 It does NOT particularly reward:
+
 - High-quality original analysis
 - Breaking news scoops (unless they generate reply storms)
 - Artistic or creative content
@@ -165,7 +169,7 @@ Bitcoin, Ethereum, and fiat (via Stripe) tipping available on profiles. Usage is
 
 ### Why OG Accounts Struggle
 
-Accounts built before the Premium era have audiences that largely *aren't* Premium subscribers. Their followers are free-tier users. Since monetization is based on Premium user engagement, an account with 500K free-tier followers makes less than an account with 50K Premium followers. This has created real resentment among long-time quality creators.
+Accounts built before the Premium era have audiences that largely _aren't_ Premium subscribers. Their followers are free-tier users. Since monetization is based on Premium user engagement, an account with 500K free-tier followers makes less than an account with 50K Premium followers. This has created real resentment among long-time quality creators.
 
 ---
 
@@ -173,7 +177,7 @@ Accounts built before the Premium era have audiences that largely *aren't* Premi
 
 ### Ratio Culture
 
-When a tweet's replies vastly outnumber its likes, it's been "ratioed" — community shorthand for "everyone thinks you're wrong." The algo doesn't care about the *sentiment* of engagement, only the volume. A ratioed tweet often gets MORE distribution because of all the reply activity. Getting ratioed is algorithmically rewarded even as it's socially punishing.
+When a tweet's replies vastly outnumber its likes, it's been "ratioed" — community shorthand for "everyone thinks you're wrong." The algo doesn't care about the _sentiment_ of engagement, only the volume. A ratioed tweet often gets MORE distribution because of all the reply activity. Getting ratioed is algorithmically rewarded even as it's socially punishing.
 
 ### Quote Tweet as Dunk Mechanic
 
@@ -196,6 +200,7 @@ Engagement pods are private groups (usually on Telegram or Discord) where member
 ### Bots and Fake Engagement
 
 Despite Musk's stated war on bots, they're still everywhere. Bot patterns include:
+
 - Reply bots pushing scams under high-engagement tweets
 - Follower-selling services still operational
 - Coordinated bot networks for political astroturfing
@@ -217,12 +222,12 @@ The bot situation is arguably worse in some categories (especially crypto) than 
 
 ### Current Tiers
 
-| Tier | Read | Write | Cost |
-|------|------|-------|------|
-| Free | 1,500 tweets/mo | 1,500 tweets/mo | $0 |
-| Basic | 10,000 tweets/mo | 3,000 tweets/mo | $100/mo |
-| Pro | 1,000,000 tweets/mo | 300,000 tweets/mo | $5,000/mo |
-| Enterprise | Custom | Custom | $42,000+/mo |
+| Tier       | Read                | Write             | Cost        |
+| ---------- | ------------------- | ----------------- | ----------- |
+| Free       | 1,500 tweets/mo     | 1,500 tweets/mo   | $0          |
+| Basic      | 10,000 tweets/mo    | 3,000 tweets/mo   | $100/mo     |
+| Pro        | 1,000,000 tweets/mo | 300,000 tweets/mo | $5,000/mo   |
+| Enterprise | Custom              | Custom            | $42,000+/mo |
 
 ### What Changed
 
@@ -241,6 +246,7 @@ Musk nuked this in early 2023. The consequences:
 For ECHO specifically: scraping X at scale requires either Pro API ($5K/mo) or creative alternatives. The free tier is useless for any real monitoring. Basic tier ($100/mo) gives you enough for spot-checking specific accounts or keywords but not comprehensive sentiment tracking.
 
 Alternatives that emerged:
+
 - Nitter instances (mostly dead now, X blocked them)
 - RSS bridges (unreliable)
 - Browser automation (works but fragile, rate-limited)
@@ -262,7 +268,7 @@ Alternatives that emerged:
 
 Mostly vaporware. X obtained money transmitter licenses in several US states. Some basic P2P payment functionality exists but adoption is near zero. The "everything app" vision where X replaces your bank, payment app, and social media remains aspirational.
 
-The problem: nobody is asking for this. Users came to X for tweets, not banking. WeChat succeeded as an everything app in China because it was the *first* dominant app in a mobile-first market. X is trying to bolt financial services onto a mature social platform in a market with established fintech competitors. Different situation entirely.
+The problem: nobody is asking for this. Users came to X for tweets, not banking. WeChat succeeded as an everything app in China because it was the _first_ dominant app in a mobile-first market. X is trying to bolt financial services onto a mature social platform in a market with established fintech competitors. Different situation entirely.
 
 ---
 
@@ -271,6 +277,7 @@ The problem: nobody is asking for this. Users came to X for tweets, not banking.
 ### The Advertiser Exodus
 
 Post-acquisition timeline:
+
 - Late 2022: Initial brand safety concerns as moderation teams gutted
 - 2023: Gradual pullback by major brands (Disney, Apple, Comcast, IBM, others)
 - Nov 2023: Musk tells advertisers to "go fuck yourself" at NYT DealBook conference
@@ -295,7 +302,7 @@ The advertiser mix affects what content gets monetized. Crypto, politics, and te
 
 ### Crypto Content Treatment
 
-X does not specifically suppress crypto content (unlike YouTube, Facebook, and Instagram which have historically throttled it). This is a major reason CT migrated so heavily to Twitter/X and stayed. It's the *least hostile* major platform for crypto discussion.
+X does not specifically suppress crypto content (unlike YouTube, Facebook, and Instagram which have historically throttled it). This is a major reason CT migrated so heavily to Twitter/X and stayed. It's the _least hostile_ major platform for crypto discussion.
 
 ### Premium Boost + CT
 
@@ -334,6 +341,7 @@ Accounts with 100K+ followers have disproportionate algorithmic weight. When a w
 ### Breaking News Velocity
 
 Crypto news breaks on X first. Not Telegram, not Discord, not Reddit. X is the fastest public venue for:
+
 - Exchange listings
 - Protocol exploits/hacks
 - Whale wallet movements
@@ -353,14 +361,16 @@ The algo rewards long threads, which means CT "alpha" increasingly comes package
 ### Weighting Signals for Sentiment Analysis
 
 **Discount these signals:**
+
 - Raw like counts — easily botted, engagement pods inflate them
 - Follower counts — bot followers are cheap and common
 - Retweet counts on CT-specific content — often raid-driven, not organic
 - Any engagement spike in the first 5 minutes of a CT post — likely coordinated
 
 **Trust these signals more:**
+
 - Bookmark counts (can't be faked as easily, represent genuine save-for-later intent)
-- Quote tweet *content* (not just count — read what people are saying)
+- Quote tweet _content_ (not just count — read what people are saying)
 - Reply sentiment from accounts >1 year old with >1K followers (harder to fake)
 - Community Notes presence and rating (crowd-validated fact-checking)
 - Engagement from accounts NOT in the token's known community (organic discovery)
@@ -368,10 +378,11 @@ The algo rewards long threads, which means CT "alpha" increasingly comes package
 ### Accounting for Algo Bias
 
 When interpreting engagement metrics, remember:
+
 1. **Premium accounts are over-represented** in "For You" discussions. Their opinions are amplified 2-4x. Don't mistake algorithmic amplification for consensus.
 2. **Outrage gets boosted.** Negative sentiment will appear more prevalent than it actually is because angry replies generate more engagement → more algo distribution.
 3. **External link posts are suppressed.** Important news shared with links gets less reach than hot takes without links. Your monitoring might miss important linked content.
-4. **Time zone bias.** "For You" favors content that's trending *now*. US market hours content dominates; Asian/European hours content is systematically under-served.
+4. **Time zone bias.** "For You" favors content that's trending _now_. US market hours content dominates; Asian/European hours content is systematically under-served.
 5. **Media > text.** Image/video posts about a topic will surface before text analysis. Memes spread faster than DD.
 
 ### Practical ECHO Guidelines
@@ -381,7 +392,7 @@ When interpreting engagement metrics, remember:
 - **Monitor Community Notes.** A tweet with a Community Note is the closest thing to crowd-sourced fact-checking X has. Notes on CT content are especially valuable for filtering misinformation.
 - **Account for survivorship bias.** You'll see more bullish content than bearish because bullish content gets more engagement (people want to believe number go up), which means the algo surfaces it more. Bearish takes exist but get buried.
 - **API cost awareness.** At $100/mo (Basic tier), you get ~10K tweets/month read access. Budget your queries. Prioritize monitoring specific high-signal accounts and keywords over broad firehose scanning.
-- **Cross-reference off-X.** X sentiment alone is insufficient. CT uses Telegram for coordination, Discord for community, and X for broadcasting. What you see on X is the *public performance* of sentiment, not the full picture.
+- **Cross-reference off-X.** X sentiment alone is insufficient. CT uses Telegram for coordination, Discord for community, and X for broadcasting. What you see on X is the _public performance_ of sentiment, not the full picture.
 - **Thread ≠ quality.** Long threads get more engagement but aren't necessarily better analysis. A 1-tweet insight from a credible source can be more signal-rich than a 20-tweet thread from an engagement farmer.
 - **Time your reads.** CT sentiment shifts fastest during US morning (9-11am ET), market opens, and Asian evening (8-11pm ET). These windows are highest-signal for real-time monitoring.
 - **Track the trackers.** Accounts that consistently surface accurate information early are more valuable than accounts with large followings. Build a quality-weighted watchlist, not a follower-count-weighted one.

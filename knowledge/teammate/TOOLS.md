@@ -61,25 +61,26 @@ List dashboards, spreadsheets, or other tools you use so VINCE can refer to them
 VINCE (and Eliza) have RAG over 700+ files. Rules from **knowledge/KNOWLEDGE-USAGE-GUIDELINES.md** and **knowledge/README.md**:
 
 **CRITICAL: Knowledge base usage**
+
 - Knowledge provides **thinking frameworks and methodologies** — how to analyze, which metrics matter, analytical approaches. Historical examples illustrate **concepts**, not current conditions.
 - Knowledge does **NOT** provide current prices, funding rates, TVL, or real-time metrics. Always use **actions/APIs** for current data.
 - ✅ Reference methodologies from knowledge, then apply to live data from actions. ❌ Do not quote numbers from knowledge as if current.
 
 ### Directory map (knowledge/)
 
-| Directory | Purpose |
-|-----------|---------|
-| **options** | HYPE wheel, strike selection, funding→strike, magic number, fear harvest |
-| **perps-trading** | Funding interpretation, treadfi, session filters, squeeze patterns |
-| **grinding-the-trenches** | Meteora DLMM, pump.fun, memecoins, DexScreener traction (APE/WATCH/AVOID) |
-| **the-good-life** | Southwest Palaces, Okerson Protocol, buy-back-time, lifestyle ROI, Wed hotels, UHNW destinations. Canonical sites: James Edition, MICHELIN Guide |
-| **art-collections** | NFT context, CryptoPunks, Meridian, thin floor = opportunity |
-| **bitcoin-maxi** | BTC frameworks, Triptych, cycle narratives |
-| **defi-metrics** | TVL, yield, protocol analysis (frameworks, not current TVL numbers) |
-| **substack-essays** | General essays; cross-domain synthesis |
-| **prompt-templates** | PROMPT-ENGINEER-MASTER, art-of-prompting, tier templates |
-| **internal-docs** | WORKFLOW-ORCHESTRATION (plan mode, verification, tasks/lessons), ADDING-KNOWLEDGE, config |
-| **airdrops, altcoins, macro-economy, regulation, security, venture-capital** | As needed |
+| Directory                                                                    | Purpose                                                                                                                                          |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **options**                                                                  | HYPE wheel, strike selection, funding→strike, magic number, fear harvest                                                                         |
+| **perps-trading**                                                            | Funding interpretation, treadfi, session filters, squeeze patterns                                                                               |
+| **grinding-the-trenches**                                                    | Meteora DLMM, pump.fun, memecoins, DexScreener traction (APE/WATCH/AVOID)                                                                        |
+| **the-good-life**                                                            | Southwest Palaces, Okerson Protocol, buy-back-time, lifestyle ROI, Wed hotels, UHNW destinations. Canonical sites: James Edition, MICHELIN Guide |
+| **art-collections**                                                          | NFT context, CryptoPunks, Meridian, thin floor = opportunity                                                                                     |
+| **bitcoin-maxi**                                                             | BTC frameworks, Triptych, cycle narratives                                                                                                       |
+| **defi-metrics**                                                             | TVL, yield, protocol analysis (frameworks, not current TVL numbers)                                                                              |
+| **substack-essays**                                                          | General essays; cross-domain synthesis                                                                                                           |
+| **prompt-templates**                                                         | PROMPT-ENGINEER-MASTER, art-of-prompting, tier templates                                                                                         |
+| **internal-docs**                                                            | WORKFLOW-ORCHESTRATION (plan mode, verification, tasks/lessons), ADDING-KNOWLEDGE, config                                                        |
+| **airdrops, altcoins, macro-economy, regulation, security, venture-capital** | As needed                                                                                                                                        |
 
 **Related categories:** options ↔ perps-trading; the-good-life ↔ lifestyle; grinding-the-trenches ↔ airdrops. Each category README lists Key Files and Frameworks & Methodologies; **Usage notes** in each: focus on methodologies; numbers may be outdated; use actions for current data.
 

@@ -4,14 +4,17 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 180274913.21 Cagr
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 978
 **Tags**: #bitcoin #sol #substack
+
 ---
+
 Fifteen years ago, a single bitcoin could be had for twenty-two cents. Today, on 29 November 2025, one bitcoin trades for just over $91,000. That journey produced a compound annual growth rate of 242 %, turning every $1,000 invested in 2010 into roughly $413 million today. No other asset class in recorded history comes close.
 
 Yet whenever someone dares to project that bitcoin might continue growing at even a modest pace—say 20–25 % annually for the next decade—the reaction is almost always the same: eye-rolling, accusations of reckless speculation, or the tired refrain that “this time is different.”
@@ -20,7 +23,7 @@ Yet whenever someone dares to project that bitcoin might continue growing at eve
 
 This time is different, but not in the way the skeptics think.
 
-The Rear-View Mirror Fallacy**
+The Rear-View Mirror Fallacy\*\*
 
 Most critics evaluate bitcoin through a rear-view mirror calibrated for traditional assets. They see a chart that went almost straight up for a decade and conclude it must come crashing down, because that is what every previous bubble has done. They are not wrong about the pattern; they are wrong about the category.
 

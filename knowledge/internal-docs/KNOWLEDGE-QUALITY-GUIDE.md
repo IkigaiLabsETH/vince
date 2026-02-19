@@ -9,11 +9,13 @@ This guide outlines best practices for maintaining high-quality knowledge conten
 **Priority**: Focus on **HOW TO THINK** about topics, not just historical data.
 
 **Good Examples:**
+
 - ✅ "When funding rates flip from negative to positive, this indicates..."
 - ✅ "The framework for evaluating TVL/MCap ratios involves..."
 - ✅ "Strike selection principles for covered calls should consider..."
 
 **Avoid:**
+
 - ❌ Quoting specific prices as if they're current ("Bitcoin is $50k")
 - ❌ Using outdated metrics without context ("TVL was $10B in March")
 - ❌ Data-heavy chunks without methodology explanation
@@ -23,11 +25,13 @@ This guide outlines best practices for maintaining high-quality knowledge conten
 **Priority**: Explain concepts, frameworks, and analytical approaches.
 
 **Good Examples:**
+
 - ✅ "The concept of funding rate interpretation..."
 - ✅ "A framework for analyzing volatility regimes..."
 - ✅ "The principle behind strike selection..."
 
 **Avoid:**
+
 - ❌ Lists of numbers without explanation
 - ❌ Data tables without methodology context
 - ❌ Historical examples presented as current data
@@ -37,6 +41,7 @@ This guide outlines best practices for maintaining high-quality knowledge conten
 **Priority**: Focus on actual knowledge, not instructions about tool usage.
 
 **What to Remove:**
+
 - ❌ "Use this tool to retrieve..."
 - ❌ "Call this API with..."
 - ❌ "Follow these steps to..."
@@ -44,6 +49,7 @@ This guide outlines best practices for maintaining high-quality knowledge conten
 - ❌ Plugin/service registration instructions
 
 **What to Keep:**
+
 - ✅ Actual methodology and frameworks
 - ✅ Analytical approaches
 - ✅ Strategic thinking patterns
@@ -54,28 +60,35 @@ This guide outlines best practices for maintaining high-quality knowledge conten
 **Priority**: Preserve context and complete methodologies across chunks.
 
 **Best Practices:**
+
 - Structure essays with clear sections (intro, body, conclusion)
 - Use section headers to mark chunk boundaries
 - Ensure complete methodologies aren't split across chunks
 - Preserve context when chunking (use overlap)
 
 **Example Structure:**
+
 ```markdown
 # Essay Title
 
 ## Introduction
+
 [Context and overview]
 
 ## Methodology Section
+
 [Complete methodology explanation - keep together]
 
 ## Framework Section
+
 [Complete framework - keep together]
 
 ## Examples
+
 [Historical examples - clearly marked as illustrative]
 
 ## Conclusion
+
 [Summary and key takeaways]
 ```
 
@@ -91,11 +104,13 @@ This guide outlines best practices for maintaining high-quality knowledge conten
 ### Monitoring
 
 Run quality audits regularly:
+
 ```bash
 bun run scripts/audit-knowledge-quality.ts
 ```
 
 This will identify:
+
 - Files with high meta-instruction ratios
 - Files with many outdated numbers
 - Files with low methodology content
@@ -105,9 +120,10 @@ This will identify:
 
 ### For Essays
 
-1. **Add Metadata Headers**: 
+1. **Add Metadata Headers**:
+
    ```markdown
-   > **Note**: This essay contains historical examples from [date]. 
+   > **Note**: This essay contains historical examples from [date].
    > Numbers and prices are illustrative, not current data.
    > Focus: Methodology and frameworks for analysis.
    ```
@@ -124,7 +140,7 @@ This will identify:
 
 ### For Prompt Templates
 
-1. **Remove Tool Instructions**: 
+1. **Remove Tool Instructions**:
    - Remove MCP tool usage instructions
    - Remove API call examples
    - Keep the analytical framework and structure
@@ -160,27 +176,33 @@ When chunking essays:
 ### Example: Good Chunking
 
 **Original Essay:**
+
 ```markdown
 # Funding Rate Analysis
 
 ## Introduction
+
 Funding rates are a key indicator...
 
 ## Methodology: Interpreting Funding Rates
+
 When funding rates flip from negative to positive, this indicates...
 [Complete methodology explanation - 500 tokens]
 
 ## Framework: Entry Timing
+
 The 8-hour candle close approach involves...
 [Complete framework - 400 tokens]
 ```
 
 **Good Chunking:**
+
 - Chunk 1: Introduction + Methodology (complete)
 - Chunk 2: Methodology (end) + Framework (complete)
 - Chunk 3: Framework (end) + Examples
 
 **Bad Chunking:**
+
 - ❌ Splitting methodology mid-explanation
 - ❌ Separating framework from methodology
 - ❌ Losing section context
@@ -190,6 +212,7 @@ The 8-hour candle close approach involves...
 ### Regular Tasks
 
 1. **Weekly**: Run quality audit
+
    ```bash
    bun run audit:knowledge
    ```
@@ -209,22 +232,26 @@ The 8-hour candle close approach involves...
 When quality scores are low, use the enhancement scripts:
 
 1. **Add Headers** (Quick Win - Free):
+
    ```bash
    bun run enhance:headers --backup
    ```
 
 2. **AI-Enhance Low-Quality Files** (Cost: ~$0.50-5.00):
+
    ```bash
    bun run enhance:ai --backup --limit 10  # Test first
    bun run enhance:ai --backup              # Then all files
    ```
 
 3. **Extract Methodology** (For worst files):
+
    ```bash
    bun run enhance:methodology --backup
    ```
 
 4. **Batch Process** (For large-scale improvements):
+
    ```bash
    bun run enhance:batch --backup
    ```
@@ -240,16 +267,19 @@ See `scripts/KNOWLEDGE-ENHANCEMENT-GUIDE.md` for detailed instructions.
 ### Fixing Issues
 
 **High Meta-Instruction Ratio:**
+
 - Remove tool usage instructions
 - Remove API call examples
 - Keep analytical frameworks
 
 **Many Outdated Numbers:**
+
 - Add metadata headers indicating numbers are illustrative
 - Focus on methodology, not specific numbers
 - Use numbers to illustrate concepts, not as data
 
 **Low Methodology Content:**
+
 - Add framework explanations
 - Add analytical approaches
 - Add "how to think" guidance
@@ -263,6 +293,7 @@ bun run scripts/test-knowledge-quality.ts
 ```
 
 This will show:
+
 - Improvement in retrieval accuracy
 - Better methodology retrieval
 - Higher quality scores

@@ -180,12 +180,12 @@ Former bank HQ on Passeig de Gràcia, converted 2009. Patricia Urquiola interior
 
 ### Drive Times from Hossegor
 
-| Destination | Drive | Fly |
-|---|---|---|
-| Paris | ~6h | 1h to Orly/CDG |
-| Courchevel | ~8h | Fly via Lyon or Chambéry |
-| Barcelona | ~4h30 | — |
-| Marrakech | — | Fly from Biarritz (seasonal) or Bordeaux |
+| Destination | Drive | Fly                                      |
+| ----------- | ----- | ---------------------------------------- |
+| Paris       | ~6h   | 1h to Orly/CDG                           |
+| Courchevel  | ~8h   | Fly via Lyon or Chambéry                 |
+| Barcelona   | ~4h30 | —                                        |
+| Marrakech   | —     | Fly from Biarritz (seasonal) or Bordeaux |
 
 ### Booking Intel
 

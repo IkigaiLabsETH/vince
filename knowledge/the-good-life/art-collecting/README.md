@@ -1,7 +1,3 @@
-
-
-
-
 # Art Collecting Knowledge Base
 
 This directory contains the personal art collecting philosophy, strategy, and reference material for MARGAUX's lifestyle coordination.
@@ -18,21 +14,27 @@ Art collecting for us is a **passion first, investment second**. We collect:
 ## The Three-Layer Approach
 
 ### Layer 1: Blue Chip Foundation (60%+)
+
 Core holdings in battle-tested collections:
+
 - CryptoPunks
 - Autoglyphs
 - Art Blocks Curated (Squiggles, Fidenza, Ringers)
 - Historical 1/1s from established artists
 
 ### Layer 2: Established Artists (25%)
+
 Proven artists with consistent demand:
+
 - XCOPY
 - Pak
 - Tyler Hobbs (beyond Fidenza)
 - Art Blocks Factory quality pieces
 
 ### Layer 3: Emerging & Speculative (15%)
+
 Higher risk, higher potential:
+
 - Promising new artists
 - Pre-reveal drops from quality teams
 - Photography and physical art
@@ -49,6 +51,7 @@ Higher risk, higher potential:
 ## Floor Thickness Analysis
 
 Before any purchase, we analyze floor thickness:
+
 - 🟢 **Thick floor**: Many listings at/near floor - safer to buy
 - 🔴 **Thin floor**: Few listings - price can swing wildly
 - The artcollector agent specializes in this analysis
@@ -56,6 +59,7 @@ Before any purchase, we analyze floor thickness:
 ## Connection to artcollector Agent
 
 The `artcollector` agent (located at `src/agents/artcollector.ts`) contains:
+
 - Deep knowledge of 420+ collections organized by tier
 - Floor thickness analysis capabilities
 - Whale tracking intelligence
@@ -78,6 +82,7 @@ art-collecting/
 ## Integration with Lifestyle Coordinator
 
 The lifestyle-coordinator plugin uses this knowledge to:
+
 - Provide art context in conversations
 - Power weekly art briefings
 - Guide acquisition decisions

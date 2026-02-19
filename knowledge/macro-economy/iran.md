@@ -4,7 +4,6 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 A classic geopolitical tail risk just lit up — and markets are feeling it. What started as economic protests has exploded into a nationwide challenge to the Islamic Republic. As of January 8, 2026, demonstrations have spread across more than 21 provinces, with intense clashes in Tehran and other major cities. The regime has imposed a near-total internet blackout, and reports indicate foreign militias — including Hezbollah and Iraqi proxies — are being brought in to suppress the uprising. Casualty numbers are climbing: at least 45 protester deaths confirmed, alongside security force losses. Chants calling for regime change — and even the return of exiled monarchist figures — are ringing out in the streets. This is no longer contained discontent. It’s a full-blown geopolitical flare-up of exactly the kind markets hate most: unpredictable, high-stakes, and centered on a major oil producer.
 
 Immediate Market Ripples: Classic Risk-Off

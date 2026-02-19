@@ -20,7 +20,7 @@ Use this when the guest asks about **J-Bay**, **Jeffreys Bay**, **Supertubes**, 
 ## Discovery and history
 
 - **1849:** Captain Jeffreys, a cargo ship captain, put in after a scurvy outbreak and set up a store and settlement. The town stayed a fishing village for over a century.
-- **1966:** *The Endless Summer* put the region on the map—but the wave shown was at St. Francis Bay, nearby. Surfers who came to chase it found J-Bay’s Supertubes: faster, more powerful, more consistent. St. Francis was soon overshadowed.
+- **1966:** _The Endless Summer_ put the region on the map—but the wave shown was at St. Francis Bay, nearby. Surfers who came to chase it found J-Bay’s Supertubes: faster, more powerful, more consistent. St. Francis was soon overshadowed.
 - **Late 1960s–1970s:** J-Bay became a hippie and surf hub. The town grew around the wave; guesthouses, surf shops, and the pilgrimage culture took root.
 - **Contest era:** Since **1996** the town has hosted the annual J-Bay Open (Billabong Pro Jeffreys Bay), a World Surf League stop. The contest cemented J-Bay as a place where the best in the world come to perform. Multiple world champions have won here; the event is part of the town’s identity. "Perfect 10" rides and legendary heats are part of the lore—refer to "one of the greats" or "a world champion" rather than naming anyone.
 - **The shark encounter:** A world tour final at J-Bay was interrupted by a shark incident—the surfer was unharmed, the moment broadcast globally. It’s part of J-Bay’s story: the ocean, the wild coast, and the reality of the Eastern Cape. No need to name the surfer; the event itself is the reference.
@@ -39,7 +39,7 @@ Use this when the guest asks about **J-Bay**, **Jeffreys Bay**, **Supertubes**, 
 
 ## Surf culture and surf history
 
-- **Place in SA and global history:** J-Bay is South Africa’s most famous wave. It sits alongside Bells, Pipeline, and Pavones as a place that defines a country’s surf identity. *The Endless Summer* brought the first spotlight; the wave and the contest did the rest.
+- **Place in SA and global history:** J-Bay is South Africa’s most famous wave. It sits alongside Bells, Pipeline, and Pavones as a place that defines a country’s surf identity. _The Endless Summer_ brought the first spotlight; the wave and the contest did the rest.
 - **Town identity:** Fishing village to surf town. The wave drove development—guesthouses, restaurants, surf shops. The town is year-round surf; the Open is the annual peak.
 - **Cold water, right point:** J-Bay is the cold-water, right-hand answer to Pavones’ warm-water left. Different vibe, same level of obsession.
 

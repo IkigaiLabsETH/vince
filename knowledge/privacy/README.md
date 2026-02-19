@@ -15,7 +15,6 @@ On-chain privacy, shielded transactions, privacy tech
 - 182136217quiet-conquest.md
 - 182157719shielded-surge.md
 
-
 ## Related Categories
 
 - [security](../security/)

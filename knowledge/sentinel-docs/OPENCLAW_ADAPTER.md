@@ -26,14 +26,14 @@
 
 ## What the adapter does
 
-| Eliza concept | OpenClaw equivalent       | How it works |
-|---------------|---------------------------|--------------|
-| Action        | Tool                      | Parameters → TypeBox schema; handler wrapped in `execute()` |
-| Provider      | `before_agent_start` hook | Provider output injected as prepended context |
-| Service       | Service                   | Started eagerly; injected into RuntimeBridge |
-| Route         | HTTP route                | Request/response translated; paths under `/eliza` |
-| Evaluator     | `message_received` / `agent_end` hook | Pre-evaluators → message hooks; post → agent-end |
-| Event         | Lifecycle hook            | Mapped where semantics align (e.g. MESSAGE_RECEIVED → message_received) |
+| Eliza concept | OpenClaw equivalent                   | How it works                                                            |
+| ------------- | ------------------------------------- | ----------------------------------------------------------------------- |
+| Action        | Tool                                  | Parameters → TypeBox schema; handler wrapped in `execute()`             |
+| Provider      | `before_agent_start` hook             | Provider output injected as prepended context                           |
+| Service       | Service                               | Started eagerly; injected into RuntimeBridge                            |
+| Route         | HTTP route                            | Request/response translated; paths under `/eliza`                       |
+| Evaluator     | `message_received` / `agent_end` hook | Pre-evaluators → message hooks; post → agent-end                        |
+| Event         | Lifecycle hook                        | Mapped where semantics align (e.g. MESSAGE_RECEIVED → message_received) |
 
 So: Eliza **actions** become OpenClaw **tools** (e.g. `eliza_send_tokens`, `eliza_swap_tokens`, `eliza_transfer_sol`); **providers** become context injected before the agent runs; **services** (e.g. EVM, Solana) start and are available to other components.
 
@@ -64,11 +64,11 @@ Multiple plugins example: `plugins: ["@elizaos/plugin-evm", "@elizaos/plugin-sol
 
 ## Config reference (summary)
 
-| Field     | Required | Default  | Description |
-|-----------|----------|----------|-------------|
-| plugins   | Yes      | —        | Array of Eliza plugin package names or file paths |
-| settings  | No       | {}       | Key-value passed to plugins via `runtime.getSetting()`; supports `${ENV_VAR}` |
-| agentName | No       | "Eliza"  | Agent display name in Eliza character context |
+| Field     | Required | Default | Description                                                                   |
+| --------- | -------- | ------- | ----------------------------------------------------------------------------- |
+| plugins   | Yes      | —       | Array of Eliza plugin package names or file paths                             |
+| settings  | No       | {}      | Key-value passed to plugins via `runtime.getSetting()`; supports `${ENV_VAR}` |
+| agentName | No       | "Eliza" | Agent display name in Eliza character context                                 |
 
 ## Built-in tool schemas (examples)
 
@@ -98,8 +98,8 @@ So: the adapter is ideal for **tool-style actions** (wallets, swaps, transfers) 
 
 ## Repo and implementation
 
-- **Repo:** https://github.com/elizaOS/openclaw-adapter  
-- **Entry:** `index.ts` loads plugins and orchestrates registration.  
+- **Repo:** https://github.com/elizaOS/openclaw-adapter
+- **Entry:** `index.ts` loads plugins and orchestrates registration.
 - **Key modules:** `runtime-bridge.ts` (IAgentRuntime shim + InMemoryStore), `action-to-tool.ts`, `provider-to-hook.ts`, `service-adapter.ts`, `route-adapter.ts`, `evaluator-to-hook.ts`, `schema-converter.ts`, `event-mapper.ts`, `config.ts` (with `${ENV_VAR}` resolution).
 
 Sentinel: treat the openclaw-adapter as a first-class integration to be aware of. When architecture, multi-runtime, wallet tooling, or ecosystem questions come up, consider whether the adapter should be suggested and reference this doc.

@@ -18,12 +18,14 @@ Rosé is no longer a seasonal throwaway. Top Provence domaines now produce age-w
 ## Provence — The Domaines to Know
 
 ### Bandol (Age-Worthy Rosé Capital)
+
 - **Domaine de Terrebrune** — The reference for rosé de garde. Copropriétaire Jean d'Arthuys (ex-M6 group CEO). Releases old vintages to restaurants. Slightly amber color, vivacity, typicity. Smallest of Var's 4 appellations.
 - **Château de Pibarnon** — Grand Bandol estate. Rosé and red both age-worthy.
 - **Domaine Tempier** — Mourvèdre-led, icon estate. Already in Kelly's provence-curated-list.md.
 - **La Bégude** — Rising star in Bandol.
 
 ### Côtes de Provence / Var
+
 - **Château La Coste** — Puy-Sainte-Réparade, near Aix. Irish owner Patrick McKillen. 120ha, bio + biodynamie. Grand Rosé: cab sauv/grenache/syrah from oldest parcels up to 400m altitude. Also an art center (Tadao Ando, Jean Nouvel), 6 restaurants, 2 hotels. Coffret L'Intégrale Rosé includes Nooh (sans alcool).
 - **Minuty** — Presqu'île de Saint-Tropez, cru classé. Now LVMH-owned (since ~2024). Cuvée Or = signature (grenache base, aromatic, elegant). Huge international distribution.
 - **Ultimate Provence** — La Garde-Freinet. British owner Mark Dixon (Regus). Design hotel + restaurant in garrigue. Single cuvée, contemporary bottle (no label, strie design). Partnered with Q de Bouteilles for recycled glassware.
@@ -36,6 +38,7 @@ Rosé is no longer a seasonal throwaway. Top Provence domaines now produce age-w
 - **Château d'Esclans** — Moët Hennessy. Whispering Angel = the global rosé phenomenon. Top cuvées Château d'Esclans and Les Clans sold on older vintages. Cuvée Garrus was once world's most expensive rosé (€110).
 
 ### Premium Rosé Price Benchmarks
+
 - Muse de Miraval: €240 (magnum only)
 - Étoile de Ott: €130
 - Garrus (Esclans): €110
@@ -43,10 +46,12 @@ Rosé is no longer a seasonal throwaway. Top Provence domaines now produce age-w
 - Clos du Temple (Gérard Bertrand, Languedoc): €199 — most expensive single-bottle rosé
 
 ## Tavel — The OG Rosé Appellation
+
 - Gard, Southern Rhône. Only-rosé appellation. Deep color, structured, has always been serious.
 - **Château d'Aqueria** — Philippe Guigal (yes, that Guigal). Cuvée L'Héritage: 2 years in cave before release.
 
 ## When to Recommend Rosé
+
 - **Summer lunch/apéro:** Any quality Côtes de Provence (Minuty Or, Ultimate Provence, Galoupet G)
 - **Serious dinner pairing:** Bandol rosé (Terrebrune, Pibarnon) — treat like a light red; pairs with grilled fish, Mediterranean cuisine, bouillabaisse
 - **Gift / to impress:** Peyrassol 1204, Esclans Garrus, or a garde vintage from Terrebrune/Sarrins
@@ -54,6 +59,7 @@ Rosé is no longer a seasonal throwaway. Top Provence domaines now produce age-w
 - **No alcohol:** Château La Coste Nooh
 
 ## Service
+
 - Fresh rosé: 8-10°C
 - Rosé de garde (aged): 10-12°C (treat more like white Burgundy)
 - Glass: White wine glass, not flute

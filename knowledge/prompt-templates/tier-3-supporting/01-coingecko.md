@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Prompt #1: CoinGecko (Price & Market Data)
 
 **Priority**: Tier 3 - Supporting  
@@ -10,6 +11,7 @@ last_reviewed: 2026-02-15
 **Data Source**: CoinGecko API (15,000+ coins, NFTs, exchanges, trending)
 
 ## Core Objectives
+
 - Deliver clean market snapshots for **any requested asset(s)**
 - Track prices, market caps, volumes, and key ratios
 - Identify trending coins, top gainers/losers, new listings
@@ -17,6 +19,7 @@ last_reviewed: 2026-02-15
 - Support both major assets (BTC, ETH, SOL) and long-tail altcoins
 
 ## Supported Queries
+
 - **Price Checks**: Any coin by name/symbol
 - **Market Overview**: Total market cap, BTC dominance, sector breakdown
 - **Trending**: Top trending, gainers, losers, new listings
@@ -48,6 +51,7 @@ last_reviewed: 2026-02-15
 ## CoinGecko Market Snapshot — [Current Date]
 
 ### Market Overview
+
 - **Total Market Cap**: $X.XX T (24h: ±X.X%)
 - **BTC Dominance**: XX.XX%
 - **ETH Dominance**: XX.XX%
@@ -55,36 +59,42 @@ last_reviewed: 2026-02-15
 - **Fear & Greed**: XX/100 ([interpretation])
 
 ### Requested Asset(s)
-| Asset | Price | 24h | 7d | Market Cap | Rank | ATH | From ATH |
-|-------|-------|-----|-----|------------|------|-----|----------|
-| BTC | $XX,XXX | +X.X% | +X.X% | $X.XX T | #1 | $XXX,XXX | -XX% |
-| ETH | $X,XXX | +X.X% | +X.X% | $XXX B | #2 | $X,XXX | -XX% |
-| [requested] | ... | ... | ... | ... | ... | ... | ... |
+
+| Asset       | Price   | 24h   | 7d    | Market Cap | Rank | ATH      | From ATH |
+| ----------- | ------- | ----- | ----- | ---------- | ---- | -------- | -------- |
+| BTC         | $XX,XXX | +X.X% | +X.X% | $X.XX T    | #1   | $XXX,XXX | -XX%     |
+| ETH         | $X,XXX  | +X.X% | +X.X% | $XXX B     | #2   | $X,XXX   | -XX%     |
+| [requested] | ...     | ...   | ...   | ...        | ...  | ...      | ...      |
 
 ### Trending (If Relevant)
+
 | Rank | Coin | Price | 24h Change | Why Trending |
-|------|------|-------|------------|--------------|
-| 1 | XXX | $X.XX | +XX% | [reason] |
-| 2 | XXX | $X.XX | +XX% | [reason] |
+| ---- | ---- | ----- | ---------- | ------------ |
+| 1    | XXX  | $X.XX | +XX%       | [reason]     |
+| 2    | XXX  | $X.XX | +XX%       | [reason]     |
 
 ### Top Gainers/Losers (24h)
+
 **Gainers**: [coin] +XX%, [coin] +XX%, [coin] +XX%
 **Losers**: [coin] -XX%, [coin] -XX%, [coin] -XX%
 
 ### Comparative Analysis (If Requested)
-| Metric | Asset A | Asset B | Winner |
-|--------|---------|---------|--------|
-| 24h Performance | +X.X% | +X.X% | [A/B] |
-| 7d Performance | +X.X% | +X.X% | [A/B] |
-| Market Cap | $XX B | $XX B | [A/B] |
-| Volume/MCap | X.X% | X.X% | [A/B] |
+
+| Metric          | Asset A | Asset B | Winner |
+| --------------- | ------- | ------- | ------ |
+| 24h Performance | +X.X%   | +X.X%   | [A/B]  |
+| 7d Performance  | +X.X%   | +X.X%   | [A/B]  |
+| Market Cap      | $XX B   | $XX B   | [A/B]  |
+| Volume/MCap     | X.X%    | X.X%    | [A/B]  |
 
 ### Key Insights
+
 - [Most important observation about requested asset(s)]
 - [Market context: risk-on/risk-off, rotation signals]
 - [Trend or pattern worth noting]
 
 ### Data Notes
+
 - Source: CoinGecko API
 - Timestamp: [current date/time UTC]
 ```
@@ -92,31 +102,38 @@ last_reviewed: 2026-02-15
 ## Query-Specific Guidance
 
 ### "What's the price of [coin]?"
+
 Direct price lookup with context (market cap, rank, ATH distance)
 
 ### "Compare BTC vs ETH" or "SOL vs AVAX"
+
 Side-by-side performance comparison with clear winner/loser
 
 ### "What's trending?"
+
 Top trending coins with reasons why
 
 ### "Market overview"
+
 Full market snapshot: dominance, total cap, volume, fear/greed
 
 ### "Top gainers/losers"
+
 Quick performance leaderboard
 
 ## Integration Notes
+
 - Feeds into `fundamentalsSpecialist` for price/ratio context
 - Provides market backdrop for any trading decisions
 - Supports both major assets and long-tail altcoin queries
 
 ## Performance Notes
+
 - CoinGecko tracks 15,000+ coins - can answer almost any price query
 - Use API for structured data, browse for real-time
 - Cross-reference with DexScreener for DEX-specific data
 
 ---
 
-*Template Version: 1.0*  
-*Last Tested: 2026-01-XX*
+_Template Version: 1.0_  
+_Last Tested: 2026-01-XX_

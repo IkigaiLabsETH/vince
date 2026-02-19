@@ -4,7 +4,6 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 Forward-thinking entrepreneurs—particularly non-US residents building crypto-native projects—are increasingly turning to a powerful combination of tools: Coinbase’s Developer Platform and its dedicated Tokenize offering, a US LLC formed through services like doola, and Fairmint’s onchain equity management.
 
 This stack represents a seamless bridge between traditional business structures and the onchain world, enabling everything from branded stablecoin issuance to tokenized real-world assets (RWAs), programmable equity, and borderless community ownership.

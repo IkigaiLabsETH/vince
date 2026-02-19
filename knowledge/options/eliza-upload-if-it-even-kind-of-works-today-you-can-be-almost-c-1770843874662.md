@@ -3,17 +3,21 @@ tags: [trading, options, derivatives]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
+
 ---
+
 title: "if it even kind of works today, you can be almost certain that in six months it'll do it near perfec..."
 source: chat://eliza-upload/1770843874662
 category: options
 ingestedWith: eliza-upload
 tags:
-  - eliza-upload
-  - user-submitted
-  - chat
-created: 2026-02-11T21:04:34.662Z
-wordCount: 1630
+
+- eliza-upload
+- user-submitted
+- chat
+  created: 2026-02-11T21:04:34.662Z
+  wordCount: 1630
+
 ---
 
 # if it even kind of works today, you can be almost certain that in six months it'll do it near perfec...

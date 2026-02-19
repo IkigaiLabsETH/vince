@@ -17,17 +17,17 @@ When you paste a long article into chat and say "upload:" or "save this:", the s
 
 ## How to avoid losing content
 
-| Situation | What to do |
-|-----------|------------|
-| **Article has a URL** | Prefer **"upload: https://…"** (or paste only the URL). The action uses the summarize CLI to fetch and save the **full** content from the URL. Nothing is lost to client truncation. |
+| Situation                    | What to do                                                                                                                                                                                                                                                                                                                                                                 |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Article has a URL**        | Prefer **"upload: https://…"** (or paste only the URL). The action uses the summarize CLI to fetch and save the **full** content from the URL. Nothing is lost to client truncation.                                                                                                                                                                                       |
 | **X/Twitter thread or post** | **We do not have the X API** (no fetching from x.com/twitter.com links for now). Paste the thread/post text into chat. If it’s long: send the content in one or more messages, then say **"upload that"** or **"save that"**; the action will combine the last several user messages and save them as one file so we capture most or all of the essential data you dumped. |
-| **YouTube** | Use **"upload: [YouTube URL]"**. We fetch transcript + summary server-side; again, no paste limit. |
-| **Long paste, no URL** | Option 1: Send **one** message that starts with `upload:` and paste the full text in the same message (if your client allows that length). Option 2: Send the long content in **one** message, then in the **next** message say **"upload that"** or **"save that"**; the action will combine the last several user messages and save as one file. |
-| **Very long doc** | Split into multiple uploads with clear titles (e.g. "upload: [Part 1 – Introduction]\n\n...") so each file is complete and findable. |
+| **YouTube**                  | Use **"upload: [YouTube URL]"**. We fetch transcript + summary server-side; again, no paste limit.                                                                                                                                                                                                                                                                         |
+| **Long paste, no URL**       | Option 1: Send **one** message that starts with `upload:` and paste the full text in the same message (if your client allows that length). Option 2: Send the long content in **one** message, then in the **next** message say **"upload that"** or **"save that"**; the action will combine the last several user messages and save as one file.                         |
+| **Very long doc**            | Split into multiple uploads with clear titles (e.g. "upload: [Part 1 – Introduction]\n\n...") so each file is complete and findable.                                                                                                                                                                                                                                       |
 
 ## If a file was already saved with only a fragment
 
-- Re-upload using the **URL** if the article is online (we fetch full content for normal URLs), or  
+- Re-upload using the **URL** if the article is online (we fetch full content for normal URLs), or
 - For X/pasted content: paste again and use **"upload that"** (or send content in one message, then "upload that") so we combine recent messages and capture most or all of what you dumped.
 
 ## Summary

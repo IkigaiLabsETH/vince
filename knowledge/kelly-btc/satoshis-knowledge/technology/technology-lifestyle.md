@@ -3,6 +3,7 @@ tags: [lifestyle, bitcoin, kelly]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Technology and Lifestyle: The Complete Stack
 
 ## AI Era: Building with Intelligence
@@ -42,14 +43,17 @@ Tesla still holds 11,509 BTC, valued near $1 billion in Q1 2025. For Bitcoiners,
 ### Model Lineup
 
 **Model 3 Performance**: The On-Ramp
+
 - 2024 refresh: 510 hp, 0–60 in 2.8s, under $60K
 - Your daily driver, track car, and Bitcoin Lambo—all in one
 
 **Model S Plaid**: The Digital Supercar
+
 - Tri-motor, 1,020 horsepower, 0–60 in 2.1 seconds
 - Rolling beta test of high-performance autonomy
 
 **Roadster**: Still Vapor or Soon Real?
+
 - Promises sub-1 second 0–60 times and "momentary flight"
 - Part myth, part meme, part brand magic
 
@@ -68,16 +72,19 @@ Tesla mirrors the Bitcoin ethos: self-custody, decentralization, and freedom thr
 Cirrus isn't just building planes—it's architecting the future of personal aviation. With nearly 10,000 aircraft delivered since 1999, they've revolutionized the industry through digital intelligence, luxury design, and intuitive systems.
 
 **Vision Jet**: The world's first single-engine personal jet
+
 - Williams FJ33-5A turbofan engine: 1,800 pounds thrust
 - 345 knots cruise speed, 1,275 nautical mile range
 - Automotive-inspired luxury cabin with panoramic views
 
 **SR G7+ Series**: The intelligent gateway to jet ownership
+
 - 315-hp Continental TSIO-550-K turbocharged engine
 - 25,000 feet altitude capability
 - **Safe Return™**: World's first FAA-approved autonomous emergency landing
 
 **Safety Systems**:
+
 - **CAPS**: Cirrus Airframe Parachute System—only FAA-certified full-aircraft parachute
 - **Perspective Touch+™**: Intuitive avionics suite
 - Electronic stability and protection systems
@@ -122,21 +129,25 @@ Cape Winelands blend Old World tradition with New World innovation. Stellenbosch
 ### Palace Hotels Beyond Paris
 
 **Riviera Royalty**:
+
 - **Grand-Hôtel du Cap-Ferrat**: Four Seasons Mediterranean minimalism
 - **Hôtel du Cap-Eden-Roc, Antibes**: The myth, the muse, golden age cinema
 - **Château Saint-Martin & Spa**: Oetker Collection in Vence hills
 
 **Bordeaux Wine Country**:
+
 - **Les Sources de Caudalie**: Vinotherapy palace adjacent to Château Smith Haut Lafitte
 
 ### Michelin Excellence
 
 **3-Star Pantheon**:
+
 - **Michel Bras – Laguiole**: Culinary zen on Aubrac plateau
 - **Maison Troisgros – Ouches**: Nouvelle Cuisine dynasty
 - **Georges Blanc – Vonnas**: Three stars since 1981
 
 **Southwest France Stars**:
+
 - **Le Pressoir d'Argent – Bordeaux**: Gordon Ramsay's French flagship (2 stars)
 - **Michel Guérard – Eugénie-les-Bains**: Nouvelle Cuisine godfather (3 stars)
 
@@ -157,8 +168,9 @@ For the sovereign individual, sleep isn't luxury—it's performance enhancement.
 ### Smart Home Technology
 
 The ideal setup combines:
+
 - **KNX** for core infrastructure
-- **Savant** for intuitive control  
+- **Savant** for intuitive control
 - **Black Nova Touch Panels** for seamless interaction
 - **Lighting**: Vibia, Flos, Davide Groppi with DALI/KNX control
 - **Audio**: Bang & Olufsen, Bose, Apple AirPlay integration
@@ -179,11 +191,13 @@ For the digital nomad and global citizen, the world is a tapestry of jurisdictio
 ### Alternative Mobility
 
 **Airstream**: The mobile base of operations
+
 - Polished aluminum icon of American adventure
 - Self-contained unit with solar, Starlink, designed interior
 - Embodies locational independence
 
 **Catamaran**: Maritime sovereignty
+
 - Dual-hull design: stability, space, efficiency
 - Ocean-going platform with solar arrays, water makers, satellite internet
 - Freedom to chase summer year-round
@@ -195,15 +209,18 @@ For the digital nomad and global citizen, the world is a tapestry of jurisdictio
 The digital art ecosystem represents the vanguard of cultural expression:
 
 **Generative Art Leaders**:
+
 - **Fidenza by Tyler Hobbs**: Algorithmic flow fields and organic forms
 - **QQL by Tyler Hobbs & Dandelion Wist**: Interactive generative experiment
 - **Archetype by Kjetil Golid**: Algorithmic structure and variation
 
 **Cultural Icons**:
+
 - **CryptoPunks**: Original 10,000-piece PFP collection by Larva Labs
 - **XCOPY**: Glitchy, dystopian animated works, crypto art pioneer
 
 **AI-Driven Works**:
+
 - **Machine Hallucinations by Refik Anadol**: Data-driven visualizations
 - **Winds of Yawanawa**: Collaboration with indigenous community
 
@@ -225,11 +242,13 @@ The modern builder operates with curated, high-leverage tools:
 ### Bitcoin Infrastructure
 
 **Running Your Own Node**: The ultimate act of financial sovereignty
+
 - Download and validate entire blockchain
 - Personal gateway to Bitcoin network
 - Don't trust, verify
 
 **Sparrow Wallet**: Not for tourists
+
 - Desktop-first, Bitcoin-only wallet
 - Full single-sig and multi-sig support
 - Tor integration built-in
@@ -240,12 +259,14 @@ The modern builder operates with curated, high-leverage tools:
 The choice between NVIDIA DGX Spark and cloud APIs represents a fundamental infrastructure decision:
 
 **DGX Spark (Self-Hosted)**:
+
 - Ultra-low latency, total model freedom
 - Predictable long-term costs
 - Independence from provider terms
 - Data privacy and governance
 
 **Cloud APIs (OpenAI/Anthropic)**:
+
 - No upfront cost, pay-per-use
 - Virtually unlimited scaling
 - Network latency for each request
@@ -269,4 +290,4 @@ Altcoins are digital casinos built on narratives but backed by little more than 
 
 Bitcoin is different. No founder to pay, no pre-mine, no company. Its creation was immaculate, its purpose singular: decentralized, censorship-resistant, sound money for the world.
 
-While altcoins compete for attention, Bitcoin competes for permanence. The exit is, and always has been, Bitcoin. 
+While altcoins compete for attention, Bitcoin competes for permanence. The exit is, and always has been, Bitcoin.

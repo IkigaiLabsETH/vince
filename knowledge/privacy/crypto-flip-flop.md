@@ -4,13 +4,15 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179726289.Crypto Flip Flop
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: altcoins
 **Word Count**: 954
 **Tags**: #btc #eth #solana #sol #defi #nft #fed #substack
+
 ---
 
 Ah, crypto Twitter—where convictions flip faster than a Solana outage. Remember five years ago, when the gospel was transparency as a feature? ENS .eth domains weren’t just usernames; they were your digital business card, screaming “Look at me! Link my NFT profile, flex my on-chain history, build my brand!” Vitalik and the ENS crew were out here evangelizing decentralized identity like it was the second coming of the blockchain. Solana’s .sol names? Same vibe—Mert and the Helius squad hyping programmable, readable wallets as the future of Web3. It was all about visibility: “Show your bags, prove your alpha, let the world see your diamond hands.” Over 2 million .eth registrations by mid-2025, billions in NFT profile pics, and endless threads about “on-chain reputation” as the killer app. Privacy? That was for paranoid boomers and darkweb edgelords. We were building the transparent utopia, baby!
@@ -23,7 +25,7 @@ Public companies going full cypherpunk? In 2025? That’s not evolution; that’
 
 ZEC’s Nov 18 halving slashed rewards 50%, creating that sweet BTC-like scarcity just as OKX relists it after a 2024 delisting. Shielded transactions are up 60% in a month, proving real adoption—not just pump-fueled theater. ZEC’s opt-in zk-proofs give it regulatory plausible deniability that Monero lacks, making it the “compliant privacy coin” for institutions dipping toes without full banhammer risk. Gemini’s Cypherpunk arm just scooped 1.25% of supply ($59M worth), and even Ryan Sean Adams is like, “Love the return to cypherpunk values—ETH/BTC/ZEC is money.”
 
-Fair play; if surveillance is the new normal, hiding your bags isn’t hopium—it’s hygiene. But here’s the rant-worthy part: Where were these cypherpunks a decade ago? During the 2017-2021 transparency orgy, when Tornado Cash got sanctioned for “mixing” and privacy coins were delisted en masse, these same voices were silent or straight-up mocking “anon bros.” ZEC languished at $20-50 while they grinded for ENS airdrops and Solana speedrun yields. Now? A quick 6.9x pump later (Galaxy Digital’s words, not mine), and everyone’s got amnesia. X is flooded with “ZEC is the future—sold all SOL, privacy > velocity!” threads, as if they didn’t just flex transparent wallets last week. 
+Fair play; if surveillance is the new normal, hiding your bags isn’t hopium—it’s hygiene. But here’s the rant-worthy part: Where were these cypherpunks a decade ago? During the 2017-2021 transparency orgy, when Tornado Cash got sanctioned for “mixing” and privacy coins were delisted en masse, these same voices were silent or straight-up mocking “anon bros.” ZEC languished at $20-50 while they grinded for ENS airdrops and Solana speedrun yields. Now? A quick 6.9x pump later (Galaxy Digital’s words, not mine), and everyone’s got amnesia. X is flooded with “ZEC is the future—sold all SOL, privacy > velocity!” threads, as if they didn’t just flex transparent wallets last week.
 
 ## Main
 

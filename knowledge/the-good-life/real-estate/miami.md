@@ -4,9 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 I still catch myself daydreaming about Pacific Coast Highway drives at golden hour, windows down, In-N-Out fries on the passenger seat. California will always feel like home. Yet when I landed in Miami last month, stepped into a packed rooftop meetup in Brickell, and watched builders from half a dozen countries swap ideas over cafecitos, something shifted. The energy was undeniable. But the map is being redrawn—and the arrows point south.
 
 California’s Quiet Fade

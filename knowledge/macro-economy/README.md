@@ -22,7 +22,7 @@ Debt cycles, monetary policy, global liquidity, macro indicators
 - 181146121the-signal-in-the-static.md
 - 181157280the-santa-rally.md
 
-*Plus 30 more files.*
+_Plus 30 more files._
 
 ## Related Categories
 

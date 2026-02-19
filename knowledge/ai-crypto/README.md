@@ -13,7 +13,6 @@ AI × crypto intersection, agent economies, compute markets
 - decentralized-compute.md
 - inference-markets.md
 
-
 ## Related Categories
 
 - [venture-capital](../venture-capital/)

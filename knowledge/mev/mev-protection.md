@@ -3,6 +3,7 @@ tags: [mev, trading, ethereum]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # MEV Protection
 
 ## The Problem
@@ -73,4 +74,4 @@ Some protocols are inherently more MEV-resistant by design. Curve's concentrated
 
 The MEV protection landscape is evolving fast. The default should be: never use a public mempool for DeFi transactions. The tools exist — use them.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

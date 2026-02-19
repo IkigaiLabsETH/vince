@@ -4,14 +4,15 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181465290.Algorithmic Unmasking
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: perps-trading
 **Word Count**: 535
 **Tags**: #bitcoin #eth #options #perps #inflation #trading #substack
----> 
+--->
 Look, I’ve been scraping words together online since 2004. Back when “content” wasn’t even a noun people used without air quotes. When blogs were ugly Blogger templates and the dream was maybe 10k RSS subscribers and a book deal that never came. I’ve watched every wave crest and crash—dot-com ashes, MySpace glitter, Facebook turning into outrage slot machines, Twitter becoming... whatever the hell CT is now. Crypto promising escape and mostly delivering leverage-fueled therapy bills.
 
 And yeah, that whole “long degeneracy” thing people keep muttering about? The financialization of everything, the loneliness, the tribal screaming, the weirdness? It’s not some mysterious fog that rolled in. We piped it straight into everyone’s pocket.

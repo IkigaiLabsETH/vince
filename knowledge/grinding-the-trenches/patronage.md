@@ -3,6 +3,7 @@ tags: [trading, memecoins, degen]
 agents: [echo, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Bags.fm Patronage Model: Open-Source AI Funding Through Memecoin Royalties
 
 ## Overview
@@ -23,11 +24,11 @@ Bags.fm's model is built for market cycles: **royalties accrue perpetually from 
 ### $RALPH (Geoffrey Huntley)
 
 - **Purpose**: Multi-agent swarm orchestrator aiming to rival GitHub's workflow dominance
-- **Performance**: 
+- **Performance**:
   - Started at sub-$5M, climbed to $26M after initial essay
   - Retraced to $22.7M before surging to new ATH of $43M
   - Currently around $25M with -21% dip in last 24 hours (as of Jan 17, 2026)
-- **Development**: 
+- **Development**:
   - Geoffrey Huntley streaming live "ralphing" sessions
   - Advancing "Loom" project (multi-agent orchestration)
   - Bought back $RALPH supply to boost liquidity
@@ -83,7 +84,7 @@ Bags.fm's model is built for market cycles: **royalties accrue perpetually from 
 
 - **Purpose**: 3D agent visualization for real-time oversight
 - **Performance**: $1.3M
-- **Development**: 
+- **Development**:
   - Locked 7% supply
   - Earned Cursor AI founder shoutouts
 
@@ -91,7 +92,7 @@ Bags.fm's model is built for market cycles: **royalties accrue perpetually from 
 
 - **Purpose**: Declarative agent language and controls
 - **Performance**: $1.3M
-- **Development**: 
+- **Development**:
   - Received Anthropic grant via Finn
   - Building declarative controls per Anthropic CEO request
   - Layering orchestration on vibes
@@ -145,7 +146,7 @@ Despite the dump:
 ### Bags.fm Distribution Stats
 
 - **Total payouts**: $21.5M+ across launches
-- **Creator examples**: 
+- **Creator examples**:
   - Geoffrey Huntley: $120K+ claimed
   - Steve Yegge: $75K+ claimed
 - **Real capital flowing** to open-source AI builders
@@ -175,6 +176,7 @@ We took the L on timing - selling $RALPH at sub-$5M to chase a Pump.fun tease th
 ### Spotting the Signal
 
 The signal isn't in the price pumps - it's in:
+
 - **Eye-rollers tinkering with crypto anyway** (builders who reject crypto but engage with the model)
 - **Real capital distribution** to working builders
 - **GitHub stars and active development** continuing regardless of token price
@@ -183,6 +185,7 @@ The signal isn't in the price pumps - it's in:
 ### Entry Points
 
 **Dips like this are entry points for the durable**. The model is designed for these cycles:
+
 - Royalties continue flowing during dips
 - Builders keep shipping
 - Volume persists
@@ -195,13 +198,14 @@ The signal isn't in the price pumps - it's in:
 **Bags.fm is accelerating open-source AI funding faster than dumps can kill it.**
 
 More builders noticing six-figure royalties without compromise:
+
 - New entrants like $HUGGI (Hugging Face forks)
 - Growing awareness of sustainable funding model
 - Community recognizing long-term value over short-term pumps
 
 ### Open Questions
 
-1. **Will Loom/Gas federations hit $100M+?** 
+1. **Will Loom/Gas federations hit $100M+?**
    - Gas Town positioning as institutional layer
    - Ralph focusing on individual developer experience
    - Federation protocols could unlock massive coordination
@@ -221,6 +225,7 @@ More builders noticing six-figure royalties without compromise:
 ### At Ikigai
 
 We're using **Ralph/Gas/CMEM daily**:
+
 - **Dev velocity up 2x**
 - **Costs down**
 - Real operational improvements from these tools
@@ -228,6 +233,7 @@ We're using **Ralph/Gas/CMEM daily**:
 ### Hybrid Workflows
 
 Developers integrating multiple tools:
+
 - **CMEM + Ralph/Gas** for hybrid workflows
 - Solving different problems with best-in-class tools
 - Ecosystem working together vs. winner-take-all
@@ -235,6 +241,7 @@ Developers integrating multiple tools:
 ### Royalties Solving Real Pain
 
 **Claude inference costs a fortune without that drip.**
+
 - CMEM solving context loss pain point
 - Royalties funding continued development
 - Community directly supporting solutions
@@ -251,9 +258,8 @@ We're paying attention - and positioning accordingly.
 
 ---
 
-*Last updated: January 17, 2026*
-*Source: Internal thesis update after initial January 16, 2026 essay on Bags.fm patronage model*
-
+_Last updated: January 17, 2026_
+_Source: Internal thesis update after initial January 16, 2026 essay on Bags.fm patronage model_
 
 ## Related
 

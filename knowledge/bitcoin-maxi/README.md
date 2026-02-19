@@ -22,7 +22,7 @@ Bitcoin cycle analysis, institutional adoption, maximalist perspectives
 - 180028155reads-like-a-hit-job.md
 - 180125352the-electron-rush.md
 
-*Plus 53 more files.*
+_Plus 53 more files._
 
 ## Related Categories
 

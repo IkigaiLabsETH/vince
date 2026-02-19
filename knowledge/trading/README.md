@@ -10,4 +10,3 @@ Trading frameworks, risk management, portfolio construction
 - market-regime-detection.md
 - portfolio-construction.md
 - risk-management-framework.md
-

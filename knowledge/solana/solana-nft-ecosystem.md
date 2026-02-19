@@ -3,6 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Solana NFT Ecosystem
 
 ## Analysis
@@ -35,4 +36,4 @@ Solana's speed advantage is real for gaming — sub-second finality means in-gam
 
 The answer is simple: cost. When minting and trading are cheap, volume explodes. Solana NFT daily transaction counts routinely exceeded Ethereum's by orders of magnitude, even if dollar-denominated volume was lower. For mass-market applications (loyalty, ticketing, gaming items), Solana is the only viable L1. Ethereum NFTs retain the premium/art market, while Solana owns the high-frequency, high-volume segment.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

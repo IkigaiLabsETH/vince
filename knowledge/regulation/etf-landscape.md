@@ -3,6 +3,7 @@ tags: [regulation, compliance, legal]
 agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Crypto ETF Landscape
 
 ## Bitcoin Spot ETFs
@@ -27,4 +28,4 @@ ETH spot ETFs launched in mid-2024, with more modest flows than BTC counterparts
 
 **Capital rotation effect**: As new altcoin ETFs get approved, capital rotates from BTC/ETH ETFs into newer offerings — this is a structural pattern to monitor. It doesn't necessarily mean net new money; it can redistribute existing allocations.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

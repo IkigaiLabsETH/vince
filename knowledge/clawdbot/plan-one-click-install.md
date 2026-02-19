@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Plan: One-Click OpenClaw Install Flow
 
 A single, repeatable flow that implements the [setup & security guide](instructions-clawdbot.md) and bakes in [practical tips](openclaw-practical-tips.md): private Discord with channels, small/script-like tasks, and safe defaults so OpenClaw is useful from day one without bad loops or overload.
@@ -20,12 +21,12 @@ A single, repeatable flow that implements the [setup & security guide](instructi
 
 ## Scope: What “One-Click” Means
 
-| Layer | Option A (MVP) | Option B (Full) |
-|-------|----------------|------------------|
-| **Infra** | User creates VPS/Pi manually; installer runs on a fresh Ubuntu/Pi OS | Optional: Terraform/API to create Hetzner server, then run installer |
-| **Install** | Single bash script (or two: `install-vps.sh`, `install-pi.sh`) | One wrapper script that detects OS (Ubuntu vs Pi) and branches |
-| **Config** | Interactive wizard (prompts for API keys, channel choice) | Non-interactive via env file (e.g. `.env.openclaw`) for CI/repeat installs |
-| **Post-install** | Print checklist (Discord setup, pairing, first task) | Optional: Discord bot/create-server script; optional cron template install |
+| Layer            | Option A (MVP)                                                       | Option B (Full)                                                            |
+| ---------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Infra**        | User creates VPS/Pi manually; installer runs on a fresh Ubuntu/Pi OS | Optional: Terraform/API to create Hetzner server, then run installer       |
+| **Install**      | Single bash script (or two: `install-vps.sh`, `install-pi.sh`)       | One wrapper script that detects OS (Ubuntu vs Pi) and branches             |
+| **Config**       | Interactive wizard (prompts for API keys, channel choice)            | Non-interactive via env file (e.g. `.env.openclaw`) for CI/repeat installs |
+| **Post-install** | Print checklist (Discord setup, pairing, first task)                 | Optional: Discord bot/create-server script; optional cron template install |
 
 **Recommendation**: Start with **Option A** for install and config; add env-file mode and optional infra (Option B) once the single-script flow is stable.
 
@@ -180,7 +181,6 @@ Repo root could have a single “one-click” entry that points at `knowledge/cl
 6. Optionally add Discord server-creation helper and/or Hetzner Terraform in Phase 3.
 
 This plan ties the one-click flow directly to the security guide and the practical tips so the installed system is both secure and set up for success (channels, small tasks, clear boundaries).
-
 
 ## Related
 

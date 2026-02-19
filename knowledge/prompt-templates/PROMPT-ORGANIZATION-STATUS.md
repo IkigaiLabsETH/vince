@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Prompt Template Organization Status
 
 ## Overview
@@ -16,6 +17,7 @@ last_reviewed: 2026-02-15
 ## ✅ Completed (36 Prompts) - 100% COMPLETE! 🎉
 
 ### Tier 1: MVP Critical (12 prompts - includes variants)
+
 - [x] `04-cryptoquant.md` - On-chain data & flows
 - [x] `05-glassnode-derivatives.md` - Derivatives & market snapshot
 - [x] `06-dune-analytics.md` - Deep on-chain analysis
@@ -30,6 +32,7 @@ last_reviewed: 2026-02-15
 - [x] `31-deribit-derivatives.md` - Options/perps OI & funding rates variant ✅
 
 ### Tier 2: High Value (7 prompts)
+
 - [x] `08-polymarket.md` - BTC price predictions & sentiment
 - [x] `09-fred-zillow-macro.md` - Macro overlays (real estate in BTC)
 - [x] `11-substack-archives.md` - Past Ikigai BTC analysis (knowledge base) ✅
@@ -41,6 +44,7 @@ last_reviewed: 2026-02-15
 - [x] `33-bitcoin-etf-flows.md` - Bitcoin ETF in/outflows ✅
 
 ### Tier 3: Supporting (11 prompts)
+
 - [x] `01-coingecko.md` - Price & ratio fundamentals
 - [x] `02-defillama.md` - DeFi flows & BTC ecosystem
 - [x] `03-dex-screener.md` - Liquidity depth & volume
@@ -56,6 +60,7 @@ last_reviewed: 2026-02-15
 - [x] `29-bitfinex.md` - Exchange volumes & lending rates ✅
 
 ### Tier 4: Advanced (3 prompts - already existed)
+
 - [x] `22-chainalysis.md` - Adoption metrics & illicit flows ✅
 - [x] `27-imf-global-liquidity.md` - IMF/Global liquidity indicators ✅
 - [x] `34-lookintobitcoin.md` - Cycle positioning charts
@@ -67,15 +72,19 @@ last_reviewed: 2026-02-15
 ## ⏳ Still Need to Add (~26 prompts)
 
 ### Tier 1: MVP Critical (HIGHEST PRIORITY) - ✅ COMPLETE!
+
 - [x] All Tier 1 prompts completed (12 prompts including variants)
 
 ### Tier 2: High Value - ✅ COMPLETE (7/7)
+
 - [x] All Tier 2 prompts completed
 
 ### Tier 3: Supporting - ✅ COMPLETE (11/11)
+
 - [x] All Tier 3 prompts completed
 
 ### Tier 4: Advanced - ✅ COMPLETE (5/5)
+
 - [x] All Tier 4 prompts completed
 
 ---
@@ -83,6 +92,7 @@ last_reviewed: 2026-02-15
 ## Priority Order for Completion
 
 ### Week 1 (This Week) - CRITICAL ✅ COMPLETED
+
 1. ✅ **#29 Deribit** - Most critical for 7-day options - DONE
 2. ✅ **#13 Coinglass** - Derivatives leverage data (API + browse variants) - DONE
 3. ✅ **#30 Skew** - Derivatives analytics - DONE
@@ -91,11 +101,13 @@ last_reviewed: 2026-02-15
 6. ✅ **#16 Nansen** - Smart money flows - DONE
 
 ### Week 2 - HIGH VALUE
+
 5. **#16 Nansen/Arkham** - Institutional signals
 6. **#11-12 Cycle Context** - Historical research
 7. **#23 CME** - Futures data
 
 ### Week 3 - SUPPORTING
+
 8. Remaining Tier 2 prompts
 9. Remaining Tier 3 prompts
 
@@ -111,10 +123,10 @@ last_reviewed: 2026-02-15
 
 ---
 
-*Last Updated: 2026-01-XX*  
-*Status: 🎉 100% COMPLETE - All 36 prompts organized!*  
-*Tier 1 Critical Prompts: 12/12 complete (100% - includes useful variants)*  
-*Tier 2 High Value: 7/7 complete (100%)*  
-*Tier 3 Supporting: 11/11 complete (100%)*  
-*Tier 4 Advanced: 5/5 complete (100%)*  
-*Ready to build specialists and integrate with xAI API!*
+_Last Updated: 2026-01-XX_  
+_Status: 🎉 100% COMPLETE - All 36 prompts organized!_  
+_Tier 1 Critical Prompts: 12/12 complete (100% - includes useful variants)_  
+_Tier 2 High Value: 7/7 complete (100%)_  
+_Tier 3 Supporting: 11/11 complete (100%)_  
+_Tier 4 Advanced: 5/5 complete (100%)_  
+_Ready to build specialists and integrate with xAI API!_

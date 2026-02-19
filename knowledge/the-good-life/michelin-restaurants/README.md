@@ -1,6 +1,3 @@
-
-
-
 # Michelin Restaurants Knowledge Base
 
 This knowledge base contains curated information about Michelin-starred restaurants in France. Focus is on exceptional dining experiences that align with the "good life" philosophy.
@@ -24,6 +21,7 @@ This knowledge base contains curated information about Michelin-starred restaura
 ## Dining Philosophy
 
 Michelin dining is tracked alongside:
+
 - Hotel escapes (gastronomic weekends)
 - Roadtrip planning (culinary destinations)
 - Wine region exploration (wine + food pairing)
@@ -32,6 +30,7 @@ Michelin dining is tracked alongside:
 ## Wishlist System
 
 Restaurants are tracked in three categories:
+
 - **Wishlist**: Places to experience
 - **Visited**: Past meals with ratings and notes
 - **Favorites**: Exceptional experiences worth revisiting

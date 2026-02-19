@@ -3,6 +3,7 @@ tags: [lifestyle, bitcoin, kelly]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Financial Instruments and Investment Strategies
 
 ## CAGR and Compounding
@@ -41,6 +42,7 @@ Bitcoin's market impact is massive. It trades globally across every time zone wi
 ### Bitcoin: The Foundation of Digital Scarcity
 
 **Core Bitcoin Specifications**:
+
 - **Digital Gold**: The premier store of value for the digital age
 - **Supply Cap**: 21 Million (mathematically enforced scarcity)
 - **Network Security**: Unmatched (most secure monetary network in history)
@@ -48,7 +50,8 @@ Bitcoin's market impact is massive. It trades globally across every time zone wi
 
 Bitcoin is the foundation of digital scarcity and the first truly decentralized monetary network. As a generational store of value, it provides unparalleled security, transparency, and sovereignty. Its fixed supply of 21 million coins, combined with growing institutional adoption, positions BTC as the premier asset for long-term wealth preservation in the digital age.
 
-**The Bitcoin Thesis**: 
+**The Bitcoin Thesis**:
+
 - BTC represents long-term savings and generational wealth
 - Foundation of all wealth-building strategies
 - Immune to inflation, confiscation, and political interference
@@ -69,6 +72,7 @@ MicroStrategy operates as both a pioneer in enterprise analytics software and a 
 ### Current Holdings & Specifications
 
 **Current MSTR Profile**:
+
 - **Superior Class A Shares**: Premium equity structure
 - **BTC Holdings**: 531,644+ BTC (world's largest corporate holder)
 - **BTC Correlation**: High (direct exposure to Bitcoin price movements)
@@ -106,6 +110,7 @@ MSTY is the modern-day Berkshire for Bitcoin maximalists—except instead of wai
 MSTY thrives in bull markets, where sustained volatility and upward momentum allow it to generate generous distributions. Your exposure isn't to fundamentals—it's to chaos, momentum, and market sentiment.
 
 **Key Characteristics**:
+
 - Specialized product depending on increasing MSTR price coupled with sustained volatility
 - More of a trade on underlying MSTR volatility than a traditional investment product
 - Investors must rely on volatility distributions to maintain position during sideways markets
@@ -128,6 +133,7 @@ Historically, MSTY has ranged between $20 and $40 per share, while the dividend 
 **STRF** is the ultimate cash alternative for Bitcoin-native investors. It's a BTC market-neutral income strategy designed for those who believe in the permanence of the Bitcoin network but don't want to ride out its short-term volatility.
 
 **Current STRF Specifications**:
+
 - **Current Price**: $88
 - **Liquidation Preference**: $100
 - **Dividend**: $10
@@ -141,6 +147,7 @@ Historically, MSTY has ranged between $20 and $40 per share, while the dividend 
 **STRK** blends upside and protection. It's a hybrid product that wraps exposure to MSTR Class A shares with a BTC-backed fixed income leg. About 30% of capital is allocated to MSTR shares, offering directional upside. The rest is placed in a Bitcoin bond structure, shielding the portfolio from extreme drawdowns.
 
 **Current STRK Specifications**:
+
 - **Current Price**: $84
 - **Liquidation Preference**: $100
 - **Dividend**: $8
@@ -185,7 +192,7 @@ Twenty One is the next evolution in public-market Bitcoin vehicles—a purpose-b
 "How much Bitcoin do I need to retire?"—the framework assumes Bitcoin continues compounding toward $5M net worth targets:
 
 - **< 0.01 BTC**: Freedom year ~2070
-- **0.01-0.1 BTC**: Freedom year ~2050  
+- **0.01-0.1 BTC**: Freedom year ~2050
 - **0.1-1 BTC**: Freedom year 2033-2038
 - **1-3.125 BTC**: Freedom year ~2029
 - **3.125-6.15 BTC**: Freedom year ~2026
@@ -209,21 +216,25 @@ Bitcoin DeFi brings financial sovereignty and programmable money together while 
 ## Bitcoin Adoption Phases
 
 **2025: Early Institutional Phase**
+
 - Bitcoin ETFs live, traditional investors skeptical
 - Typical millionaire: $1M net worth, zero Bitcoin
 - Global scarcity: <0.3 BTC per millionaire
 
 **2032: Growing Acceptance**
+
 - 20-30% Bitcoin allocations in safe asset portfolios
 - $2M portfolio might include 0.06 BTC as a "start"
 - Mainstream advisors still consider >5% "aggressive"
 
 **2036: Paradigm Shift**
+
 - Bitcoin transitions from "investment" to base layer
 - Typical allocations: 30-50% of total wealth
 - Portfolio refinancing for Bitcoin exposure
 
 **2045: Full Integration**
+
 - Bitcoin becomes pillar of new economy
 - Conservative portfolios: 20-30% Bitcoin allocation
 - Focus shifts to preservation and utility
@@ -278,16 +289,19 @@ Fairmint's response was bold: turn equity itself into programmable, onchain prim
 ### How OCP Works
 
 **📊 Open Cap Table**: Programmable Equity Records
+
 - **Immutable Event Log**: Every issuance, transfer, or vesting schedule recorded onchain
 - **Token-Agnostic**: Equity isn't auto-tokenized; preserves legal clarity
 - **Built-In Privacy**: Uses RBAC, offchain identity mapping, and privacy-enabled blockchains
 
 **⚡ Real-Time**: Automated Compliance
+
 - Smart contracts automatically enforce compliance rules
 - Real-time stakeholder visibility
 - Eliminates manual compliance checks
 
 **🔗 DeFi Native**: Composable Ownership
+
 - Unified, interoperable smart contracts
 - Modular architecture for extensions
 - Composable with broader DeFi ecosystem
@@ -305,16 +319,17 @@ Fairmint isn't building in a vacuum—they're live and scaling:
 
 ### Legacy vs. OCP Comparison
 
-| **Legacy System** | **OCP + Fairmint** |
-|---|---|
-| Siloed data, spreadsheets | Unified, interoperable smart contracts |
-| Manual compliance checks | Automated enforcement via smart contracts |
-| Shareholder opacity | Real-time stakeholder visibility |
-| Legal token uncertainty | Legally sound, token-agnostic ownership |
+| **Legacy System**         | **OCP + Fairmint**                        |
+| ------------------------- | ----------------------------------------- |
+| Siloed data, spreadsheets | Unified, interoperable smart contracts    |
+| Manual compliance checks  | Automated enforcement via smart contracts |
+| Shareholder opacity       | Real-time stakeholder visibility          |
+| Legal token uncertainty   | Legally sound, token-agnostic ownership   |
 
 ### Who Should Use Fairmint
 
 **Target Community:**
+
 - **Founders and CFOs** - Seeking efficient cap table management
 - **Transfer agents and regulators** - Looking for compliant, automated solutions
 - **Web3 developers** - Building extensions and integrations
@@ -342,4 +357,4 @@ Fairmint represents the intersection of traditional finance and blockchain techn
 
 This evolution from static spreadsheets to programmable equity represents the same paradigm shift that Bitcoin brought to money—replacing trusted intermediaries with cryptographic proof and automated execution.
 
-*Fairmint is bringing equity onchain, one cap table at a time.* 
+_Fairmint is bringing equity onchain, one cap table at a time._

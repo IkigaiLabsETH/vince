@@ -9,4 +9,3 @@ Naval Ravikant wisdom, wealth/happiness frameworks
 - 13-prompts.md
 - essay-themes.md
 - nav-al-archive.md
-

@@ -33,7 +33,7 @@ Many trackers showed ~9.9M HYPE unlocking per month, implying a ~$200M+ monthly 
 
 In both cases, **~7–10%** of the headline unlock translated into direct or indirect sell pressure. Unlocks behaved as a **gradually declining trickle**, not a cliff.
 
-**Caveat:** OTC sales (e.g. to entities like PURR DAT via Flowdesk) reduce open-market supply but don’t remove demand—they shift *where* demand shows up (CEX vs. DEX). Net effect: unlock reality was misunderstood; it is now largely priced in.
+**Caveat:** OTC sales (e.g. to entities like PURR DAT via Flowdesk) reduce open-market supply but don’t remove demand—they shift _where_ demand shows up (CEX vs. DEX). Net effect: unlock reality was misunderstood; it is now largely priced in.
 
 ---
 

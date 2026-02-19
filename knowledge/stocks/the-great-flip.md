@@ -4,13 +4,15 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179506405.The Great Flip
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: stocks
 **Word Count**: 1,196
 **Tags**: #bitcoin #eth #sol #defi #options #fed #inflation #portfolio #substack
+
 ---
 
 In the spring of 2020, when the world locked its doors and the skies went quiet, governments around the globe did something unprecedented. They mailed checks. Stimulus. Free money. Helicopter drops straight into bank accounts.
@@ -57,7 +59,7 @@ They didn’t speak the same language.
 
 One generation measured wealth in basis points and dividend yields.
 
-The next measured it in follower count, virality, and network effects. 
+The next measured it in follower count, virality, and network effects.
 
 Metcalfe’s Law, not Graham and Dodd.
 
@@ -83,17 +85,13 @@ And the kids weren’t waiting politely.
 
 Surveys that year showed the split crystal clear:
 
-- 
-Silent Generation peak asset: Gold, 1980, $850/oz
+- Silent Generation peak asset: Gold, 1980, $850/oz
 
-- 
-Boomers: S&P 500, multi-decade compounder
+- Boomers: S&P 500, multi-decade compounder
 
-- 
-Gen X: Nasdaq-100, from dial-up to iPhone
+- Gen X: Nasdaq-100, from dial-up to iPhone
 
-- 
-Millennials & Gen Z: Bitcoin. From pennies to $90,000 and counting.
+- Millennials & Gen Z: Bitcoin. From pennies to $90,000 and counting.
 
 49% of Millennials already owned crypto. Over half of Gen Z had dipped in. In some polls, 62% of Millennials had at least a third of their net worth in digital assets.
 

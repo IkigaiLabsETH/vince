@@ -22,7 +22,7 @@ Perpetual futures trading, funding rates, Hyperliquid strategies
 - 180903396a-tax-on-retail.md
 - 181176630liquidation-engines.md
 
-*Plus 23 more files.*
+_Plus 23 more files._
 
 ## Related Categories
 

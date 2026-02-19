@@ -3,6 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Solana Mobile & Blinks
 
 ## Analysis
@@ -31,4 +32,4 @@ Shopify's integration of Solana Pay brought this to real commerce infrastructure
 
 Solana's mobile strategy is a differentiated bet no other L1 is making at this scale. The risk: hardware is hard, distribution is expensive, and platform cooperation for Blinks isn't guaranteed. The upside: if even one of these vectors achieves mainstream distribution, Solana captures a user acquisition channel that competitors lack entirely. The mobile dApp store alone — bypassing Apple/Google restrictions — could become the primary distribution mechanism for crypto-native mobile apps.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

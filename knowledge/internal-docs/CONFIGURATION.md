@@ -58,17 +58,20 @@ MAX_OUTPUT_TOKENS=4096
 ## Configuration Modes
 
 ### Mode 1: Basic RAG (Default)
+
 - ✅ Works out of the box
 - ✅ No additional configuration needed
 - ✅ Uses standard embeddings
 
 ### Mode 2: Contextual Embeddings (Recommended)
+
 - ✅ **50% better retrieval accuracy**
 - ✅ **90% cost reduction through caching**
 - ✅ Better understanding of complex documents
 - ⚙️ Requires: `CTX_KNOWLEDGE_ENABLED=true` and TEXT_PROVIDER/TEXT_MODEL
 
 ### Mode 3: OpenRouter + Caching (Cost-Efficient)
+
 - ✅ Best cost efficiency with caching
 - ✅ Access to multiple models via one API
 - ⚙️ Requires: OpenRouter account and API key
@@ -90,6 +93,7 @@ OPENROUTER_EMBEDDING_MODEL=openai/text-embedding-3-large
 ```
 
 **Cost Savings Example:**
+
 - Without caching: $0.40 for 200-page document (~400 chunks)
 - With OpenRouter caching: $0.04 for same document (**90% savings**)
 
@@ -130,6 +134,7 @@ Based on [Anthropic's contextual retrieval technique](https://docs.elizaos.ai/pl
 ### Example: `hype-wheel-strategy.md`
 
 **Without Contextual Embeddings:**
+
 ```
 Query: "What strike price should I use?"
 
@@ -144,14 +149,15 @@ Problem: Missing context about:
 ```
 
 **With Contextual Embeddings:**
+
 ```
 Query: "What strike price should I use?"
 
 Retrieved chunk:
 "In the $HYPE wheel strategy section on strike selection optimization,
-for a 3,600 token position, the $26 strike offers 118% APR compared 
-to 65% at $27. This represents nearly double the yield, providing 
-~$1,000 additional weekly premium while maintaining acceptable 
+for a 3,600 token position, the $26 strike offers 118% APR compared
+to 65% at $27. This represents nearly double the yield, providing
+~$1,000 additional weekly premium while maintaining acceptable
 liquidity on Hypersurface."
 
 Result: Clear understanding of:
@@ -163,6 +169,7 @@ Result: Clear understanding of:
 ```
 
 **Why This Matters for Your Documents:**
+
 - ✅ **Multi-phase narratives** (growth → drawdown → comeback) maintain context
 - ✅ **Strike selection methodology** connects decisions to outcomes
 - ✅ **Risk-reward calculations** include position and market context
@@ -182,6 +189,7 @@ To verify contextual embeddings are working:
 ### Contextual Embeddings Not Working
 
 **Check:**
+
 - `CTX_KNOWLEDGE_ENABLED=true` (must be lowercase `true`)
 - `TEXT_PROVIDER` is set correctly
 - `TEXT_MODEL` is valid for your provider
@@ -190,6 +198,7 @@ To verify contextual embeddings are working:
 ### High Costs
 
 **Solution:**
+
 - Use OpenRouter with caching enabled
 - Process documents once, rely on caching for reprocessing
 - Adjust `MAX_CONCURRENT_REQUESTS` to limit parallel processing
@@ -197,6 +206,7 @@ To verify contextual embeddings are working:
 ### Slow Processing
 
 **Optimize:**
+
 - Reduce `MAX_CONCURRENT_REQUESTS` to 15-20
 - Check rate limits for your API provider
 - Use smaller embedding models if speed is critical
@@ -204,6 +214,7 @@ To verify contextual embeddings are working:
 ## Advanced Features
 
 For advanced features like:
+
 - Content-based deduplication (automatic)
 - Intelligent chunking (configurable)
 - RAG metadata tracking (automatic)

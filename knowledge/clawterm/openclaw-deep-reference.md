@@ -64,6 +64,7 @@ The gateway is the center of everything. One process, one WebSocket endpoint.
 Think of it as a switchboard. Chat messages come in from any channel, the gateway figures out which session they belong to, and dispatches them to the right agent.
 
 CLI control:
+
 ```bash
 openclaw gateway status
 openclaw gateway start
@@ -74,6 +75,7 @@ openclaw gateway restart
 ### Pi Agent
 
 The agent runtime. Runs in RPC mode with:
+
 - Tool streaming (agent calls tools, results stream back)
 - Block streaming (output arrives in blocks, not just text)
 
@@ -82,6 +84,7 @@ The agent is what actually thinks and acts. The gateway is what connects it to t
 ### CLI
 
 The `openclaw` command has these subcommands:
+
 - `gateway` — manage the daemon
 - `agent` — agent operations
 - `send` — send messages programmatically
@@ -91,6 +94,7 @@ The `openclaw` command has these subcommands:
 ### Session Model
 
 Sessions determine how conversations are isolated and routed:
+
 - **Main sessions**: direct 1:1 chats with the human
 - **Group sessions**: isolated per group chat
 - **Activation modes**: how the agent decides to engage (always, mention-only, etc.)
@@ -100,6 +104,7 @@ Sessions determine how conversations are isolated and routed:
 ### Media Pipeline
 
 The agent handles images, audio, and video:
+
 - Transcription (audio → text)
 - Size caps (large files get resized/compressed)
 - Temp file lifecycle (media files are cleaned up after use)
@@ -110,20 +115,20 @@ The agent handles images, audio, and video:
 
 Each channel uses a specific library or protocol:
 
-| Channel | Implementation |
-|---------|---------------|
-| WhatsApp | Baileys (reverse-engineered WhatsApp Web protocol) |
-| Telegram | grammY (Telegram Bot API framework) |
-| Slack | Bolt (Slack's official SDK) |
-| Discord | discord.js |
-| Google Chat | Chat API |
-| Signal | signal-cli |
-| iMessage | BlueBubbles (recommended) or legacy direct |
-| Microsoft Teams | Teams API |
-| Matrix | Matrix SDK |
-| Zalo | Zalo API |
-| Zalo Personal | Zalo Personal API |
-| WebChat | Built into gateway |
+| Channel         | Implementation                                     |
+| --------------- | -------------------------------------------------- |
+| WhatsApp        | Baileys (reverse-engineered WhatsApp Web protocol) |
+| Telegram        | grammY (Telegram Bot API framework)                |
+| Slack           | Bolt (Slack's official SDK)                        |
+| Discord         | discord.js                                         |
+| Google Chat     | Chat API                                           |
+| Signal          | signal-cli                                         |
+| iMessage        | BlueBubbles (recommended) or legacy direct         |
+| Microsoft Teams | Teams API                                          |
+| Matrix          | Matrix SDK                                         |
+| Zalo            | Zalo API                                           |
+| Zalo Personal   | Zalo Personal API                                  |
+| WebChat         | Built into gateway                                 |
 
 Plus extension channels — third parties can add their own.
 
@@ -136,6 +141,7 @@ BlueBubbles is the recommended way to do iMessage. The legacy iMessage channel e
 OpenClaw runs on multiple devices. The "node" concept means any device that exposes capabilities (camera, screen, notifications) to the agent.
 
 ### macOS App
+
 - Menu bar control plane (always accessible)
 - Voice Wake and Push-to-Talk
 - Talk Mode overlay (conversation UI that floats over everything)
@@ -143,6 +149,7 @@ OpenClaw runs on multiple devices. The "node" concept means any device that expo
 - Debug tools
 
 ### iOS Node
+
 - Canvas (agent-driven visual workspace)
 - Voice Wake and Talk Mode
 - Camera access (agent can take photos)
@@ -150,12 +157,15 @@ OpenClaw runs on multiple devices. The "node" concept means any device that expo
 - Bonjour pairing (auto-discovers gateway on local network)
 
 ### Android Node
+
 - Canvas and Talk Mode
 - Camera and screen recording
 - Optional SMS access
 
 ### macOS Node Mode
+
 When a Mac runs as a node (not the main host), it exposes:
+
 - `system.run` and `notify` (run commands, send notifications)
 - Canvas and camera
 
@@ -164,14 +174,18 @@ When a Mac runs as a node (not the main host), it exposes:
 ## Tools & Automation
 
 ### Browser Control
+
 The agent gets its own dedicated Chrome/Chromium instance via CDP (Chrome DevTools Protocol).
+
 - Takes snapshots of pages
 - Performs actions (click, type, navigate)
 - Supports multiple browser profiles
 - Not your browser — a separate, agent-controlled one
 
 ### Canvas
+
 A2UI (Agent-to-UI) — the agent can push visual content to any connected device:
+
 - `a2ui_push` — send content to the canvas
 - `a2ui_reset` — clear the canvas
 - `eval` — run JavaScript in the canvas context
@@ -180,20 +194,25 @@ A2UI (Agent-to-UI) — the agent can push visual content to any connected device
 This is how the agent shows you things — dashboards, previews, interactive UIs.
 
 ### Node Capabilities
+
 Through connected nodes, the agent can:
+
 - `camera_snap` / `camera_clip` — take photos or short video clips
 - `screen_record` — record the screen
 - `location.get` — get device location
 - Send notifications to any connected device
 
 ### Scheduling & Events
+
 - **Cron**: schedule recurring tasks with cron expressions
 - **Wakeups**: one-shot timed triggers
 - **Webhooks**: receive HTTP callbacks and route them to agent sessions
 - **Gmail Pub/Sub**: real-time email notifications
 
 ### Multi-Agent Routing
+
 You can run multiple agents, each with:
+
 - Isolated sessions
 - Separate workspaces
 - Per-sender routing (different people talk to different agents)
@@ -213,6 +232,7 @@ The agent reads the instructions and knows how to use the tool. That's it. No co
 ### Loading Precedence
 
 Skills load from three locations, in order of priority:
+
 1. `workspace/skills/` (highest priority — your workspace overrides)
 2. `~/.openclaw/skills/` (user-level)
 3. Bundled with OpenClaw (lowest priority — defaults)
@@ -232,7 +252,6 @@ metadata:
       env: ["SOME_API_KEY"]
     primaryEnv: "SOME_API_KEY"
 ---
-
 Instructions for the agent go here in markdown.
 
 The agent reads this and learns how to use the tool.
@@ -243,6 +262,7 @@ Use {baseDir} to reference the skill's own directory.
 ### Gating
 
 Skills can declare requirements. If requirements aren't met, the skill doesn't load:
+
 - **bins**: CLI tools that must be on PATH (e.g., `["gh", "git"]`)
 - **env**: Environment variables that must exist (e.g., `["GITHUB_TOKEN"]`)
 - **config**: Config values that must be truthy
@@ -251,6 +271,7 @@ Skills can declare requirements. If requirements aren't met, the skill doesn't l
 ### Installer Specs
 
 Skills can declare how to install their dependencies:
+
 - `brew` — Homebrew formula
 - `node` — npm package
 - `go` — Go module
@@ -266,15 +287,15 @@ Skills can declare how to install their dependencies:
 
 These ship with OpenClaw out of the box:
 
-| Skill | What It Does |
-|-------|-------------|
-| `coding-agent` | Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent |
-| `github` | Interact with GitHub using the `gh` CLI |
-| `healthcheck` | Host security hardening checks |
-| `openai-image-gen` | Batch image generation via OpenAI Images API |
-| `openai-whisper-api` | Transcribe audio via OpenAI Whisper |
-| `skill-creator` | Create or update AgentSkills |
-| `weather` | Current weather and forecasts (no API key needed) |
+| Skill                | What It Does                                             |
+| -------------------- | -------------------------------------------------------- |
+| `coding-agent`       | Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent |
+| `github`             | Interact with GitHub using the `gh` CLI                  |
+| `healthcheck`        | Host security hardening checks                           |
+| `openai-image-gen`   | Batch image generation via OpenAI Images API             |
+| `openai-whisper-api` | Transcribe audio via OpenAI Whisper                      |
+| `skill-creator`      | Create or update AgentSkills                             |
+| `weather`            | Current weather and forecasts (no API key needed)        |
 
 ### ClawHub — The Skill App Store
 
@@ -287,12 +308,14 @@ clawhub sync --all                # Scan and publish your updates
 ```
 
 **ClawHub vs ClawIndex**:
+
 - **ClawHub** = the app store (install skills from here)
 - **ClawIndex** (https://clawindex.org) = the market map (directory of the whole ecosystem)
 
 ### Plugin Skills
 
 Plugins (npm packages or local extensions) can ship their own skills:
+
 - Declared in `openclaw.plugin.json`
 - Load automatically when the plugin is enabled
 - Follow the same precedence rules as regular skills
@@ -309,11 +332,14 @@ Plugins (npm packages or local extensions) can ship their own skills:
 ## Models & Configuration
 
 ### Model Support
+
 OpenClaw works with any model, but the recommended setup:
+
 - **Anthropic**: Claude Pro or Max subscription, Opus 4.6 model
 - **OpenAI**: ChatGPT or Codex subscription
 
 ### Auth
+
 - OAuth subscription support for Anthropic and OpenAI
 - Auth profile rotation (multiple API keys, round-robin)
 - Model failover (if one model/provider fails, try the next)
@@ -321,6 +347,7 @@ OpenClaw works with any model, but the recommended setup:
 ### Config File
 
 Everything lives in `~/.openclaw/openclaw.json`. This is where you configure:
+
 - Which channels are active
 - Model preferences
 - Agent settings
@@ -332,22 +359,26 @@ Everything lives in `~/.openclaw/openclaw.json`. This is where you configure:
 ## Security
 
 ### Network
+
 - Binds to loopback (127.0.0.1) by default — not exposed to the network
 - For remote access, use Tailscale Serve/Funnel with proper authentication
 - Don't just open port 18789 to the internet
 
 ### DM Pairing
+
 - Unknown senders receive a pairing code
 - You must approve the pairing before they can interact with your agent
 - This prevents random people from talking to your AI
 
 ### Auditing
+
 ```bash
 openclaw doctor                    # Surface risky configurations
 openclaw security audit --deep     # Full security audit
 ```
 
 ### Best Practices
+
 - Keep the gateway on loopback unless you need remote access
 - Use Tailscale for remote access (not port forwarding)
 - Review third-party skills before installing
@@ -360,13 +391,14 @@ openclaw security audit --deep     # Full security audit
 
 OpenClaw has three release channels:
 
-| Channel | What It Is |
-|---------|-----------|
-| `stable` | Tagged releases, most reliable |
-| `beta` | Prerelease tags, newer features, might break |
-| `dev` | Moving head of main branch, bleeding edge |
+| Channel  | What It Is                                   |
+| -------- | -------------------------------------------- |
+| `stable` | Tagged releases, most reliable               |
+| `beta`   | Prerelease tags, newer features, might break |
+| `dev`    | Moving head of main branch, bleeding edge    |
 
 Switch channels:
+
 ```bash
 openclaw update --channel stable
 openclaw update --channel beta
@@ -377,14 +409,14 @@ openclaw update --channel dev
 
 ## Key URLs
 
-| Resource | URL |
-|----------|-----|
-| GitHub repo | https://github.com/openclaw/openclaw |
-| Documentation | https://docs.openclaw.ai |
-| ClawHub (skills) | https://clawhub.com |
-| ClawIndex (ecosystem) | https://clawindex.org |
-| Discord | https://discord.com/invite/clawd |
-| steipete's GitHub | https://github.com/steipete |
+| Resource              | URL                                  |
+| --------------------- | ------------------------------------ |
+| GitHub repo           | https://github.com/openclaw/openclaw |
+| Documentation         | https://docs.openclaw.ai             |
+| ClawHub (skills)      | https://clawhub.com                  |
+| ClawIndex (ecosystem) | https://clawindex.org                |
+| Discord               | https://discord.com/invite/clawd     |
+| steipete's GitHub     | https://github.com/steipete          |
 
 ---
 

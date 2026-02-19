@@ -3,6 +3,7 @@ tags: [lifestyle, bitcoin, kelly]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Satoshis / LiveTheLifeTV App Overview
 
 Source: [IkigaiLabsETH/satoshis](https://github.com/IkigaiLabsETH/satoshis) (GROK420, LiveTheLifeTV).

@@ -9,7 +9,7 @@ VINCE’s memory has two layers. Both are loaded by the teammate context provide
 - **Purpose:** Information that should persist indefinitely: standing decisions, ongoing project context, corrections to agent behavior, rarely-changing preferences.
 - **Loaded:** Every session (always, if the file exists).
 - **Rule:** Don’t log everything. Only what’s important for future sessions. Noise makes it harder to see what’s relevant and can degrade response quality.
-- **Habit:** When something is worth keeping, say in chat: *"Log this to MEMORY"* or *"Add this to LONG-TERM"* and state the line; then add it to `LONG-TERM.md` (or use your workflow to append it).
+- **Habit:** When something is worth keeping, say in chat: _"Log this to MEMORY"_ or _"Add this to LONG-TERM"_ and state the line; then add it to `LONG-TERM.md` (or use your workflow to append it).
 
 See **LONG-TERM.md** in this folder for the template and examples.
 
@@ -32,7 +32,7 @@ See **LONG-TERM.md** in this folder for the template and examples.
 - **High value:** Decisions that affect trades or behavior; corrections to agent behavior; project milestones (treadfi season end, strike rules); standing preferences.
 - **Low value:** Casual chit-chat; one-off numbers; things you'll remember anyway.
 
-Same principle as **knowledge/KNOWLEDGE-USAGE-GUIDELINES.md**: provide what the agent needs to *think* and *anticipate*, not to store every fact.
+Same principle as **knowledge/KNOWLEDGE-USAGE-GUIDELINES.md**: provide what the agent needs to _think_ and _anticipate_, not to store every fact.
 
 ---
 

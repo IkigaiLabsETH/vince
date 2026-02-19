@@ -63,16 +63,16 @@ What’s blocking you from being who you want to become or hitting the next leve
 
 ## Knowledge context (where VINCE looks)
 
-Which knowledge categories matter for *how to think* (frameworks, not current numbers). See **knowledge/README.md** and **knowledge/KNOWLEDGE-USAGE-GUIDELINES.md** for full rules.
+Which knowledge categories matter for _how to think_ (frameworks, not current numbers). See **knowledge/README.md** and **knowledge/KNOWLEDGE-USAGE-GUIDELINES.md** for full rules.
 
-| Category | Use for |
-|----------|---------|
-| **options** | HYPE wheel, strike-selection-from-perps, funding→strike, magic number, fear harvest |
-| **perps-trading** | Funding interpretation, treadfi (Long Nado + Short HL), session filters, squeeze patterns |
-| **grinding-the-trenches** | Meteora DLMM, pump.fun, memecoin frameworks, DexScreener traction (APE/WATCH/AVOID) |
-| **the-good-life** | Southwest Palaces, Okerson Protocol, buy-back-time, experience-prioritization, Wed hotels, UHNW destinations |
-| **art-collections** | CryptoPunks, Meridian, thin floor = opportunity |
-| **bitcoin-maxi, substack-essays, defi-metrics, airdrops, prompt-templates** | As needed for frameworks and methodology |
+| Category                                                                    | Use for                                                                                                      |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **options**                                                                 | HYPE wheel, strike-selection-from-perps, funding→strike, magic number, fear harvest                          |
+| **perps-trading**                                                           | Funding interpretation, treadfi (Long Nado + Short HL), session filters, squeeze patterns                    |
+| **grinding-the-trenches**                                                   | Meteora DLMM, pump.fun, memecoin frameworks, DexScreener traction (APE/WATCH/AVOID)                          |
+| **the-good-life**                                                           | Southwest Palaces, Okerson Protocol, buy-back-time, experience-prioritization, Wed hotels, UHNW destinations |
+| **art-collections**                                                         | CryptoPunks, Meridian, thin floor = opportunity                                                              |
+| **bitcoin-maxi, substack-essays, defi-metrics, airdrops, prompt-templates** | As needed for frameworks and methodology                                                                     |
 
 **Usage notes:** Focus on **methodologies and frameworks**, not specific numbers. Numbers and prices in knowledge may be outdated — they illustrate concepts. Use actions/APIs to get current data and apply frameworks from knowledge.
 

@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # The Cameras
 
 OpenSea Slug: `0xdgb-thecameras`
@@ -35,7 +36,7 @@ The Cameras are a sharp, conceptual take on surveillance and transparency withou
 
 ## Related
 
-- [_Template](_TEMPLATE.md)
+- [\_Template](_TEMPLATE.md)
 - [Brokenkeys](brokenkeys.md)
 - [Spectron By Simon De Mai](spectron-by-simon-de-mai.md)
 - [Account Abstraction](../chain-abstraction/account-abstraction.md)

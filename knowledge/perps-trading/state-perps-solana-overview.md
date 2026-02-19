@@ -3,6 +3,7 @@ tags: [trading, derivatives, perps]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # BULK: Building State-of-the-Art Perpetuals on Solana
 
 **Source**: [Lightspeed Podcast - Bringing State of the Art Perps to Solana | Jun Bug & kdot](https://www.youtube.com/watch?v=OuixkZ0CzMw)  

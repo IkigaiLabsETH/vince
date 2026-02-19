@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Monster Soup
 
 OpenSea Slug: `monstersoup`
@@ -35,7 +36,7 @@ Monster Soup is a tidy, concept-driven project with a real physical hook. The Wa
 
 ## Related
 
-- [_Template](_TEMPLATE.md)
+- [\_Template](_TEMPLATE.md)
 - [Brokenkeys](brokenkeys.md)
 - [Yamabushi S Horizons By Richard Nadler](yamabushi-s-horizons-by-richard-nadler.md)
 - [Defi Regulation Challenges](../regulation/defi-regulation-challenges.md)

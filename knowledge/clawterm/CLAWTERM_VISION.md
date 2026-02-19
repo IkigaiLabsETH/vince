@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Clawterm Vision and Cost Narrative
 
 ## Cost Reality
@@ -19,7 +20,6 @@ There is no choice but to use OpenClaw 24/7. Cursor + Claude is expensive. OpenC
 **Clawterm = AI meets crypto Bloomberg-style terminal.**
 
 No hype. No shilling. No timing the market. A terminal where AI intelligence meets crypto trading—OpenClaw as the bridge, research agents as the future.
-
 
 ## Related
 

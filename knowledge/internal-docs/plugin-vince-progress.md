@@ -22,39 +22,50 @@ Last updated: 2026-02-03 (Supabase dual-write + ML training on Eliza Cloud, no r
 ## COMPLETED
 
 ### Core Architecture
+
 - Plugin structure: 27 services, 20 actions, 2 providers, 1 evaluator
 - Fallback service pattern (external plugins → built-in API clients)
 - ASCII dashboard on startup with live market prices
 - Service source tracking (external vs fallback logging)
 
 ### Services – Data Sources (18)
+
 CoinGlass, CoinGecko, MarketData, SignalAggregator, TopTraders, NewsSentiment, DexScreener, Meteora, NFTFloor, Lifestyle, Deribit, Nansen, Sanbase, Binance, BinanceLiquidation, MarketRegime, HIP3, Watchlist, Alert.
 
 ### Services – Paper Trading Bot (5)
+
 PaperTrading, PositionManager, RiskManager, TradeJournal, GoalTracker.
 
 ### Services – Self-Improving (2)
+
 ParameterTuner, ImprovementJournal.
 
 ### Services – ML Layer (4)
+
 FeatureStore, WeightBandit, SignalSimilarity, MLInference.
 
 ### Fallback Services (7)
+
 deribit, hyperliquid, opensea, nansen, xai, browser, puppeteer.
 
 ### Actions – Focus (11)
+
 GM, Aloha, Options, Perps, Memes, Airdrops, Lifestyle, NftFloor, Intel, News, HIP3.
 
 ### Actions – Paper Bot (4)
+
 BotStatus, BotPause, WhyTrade, Bot (execute trade).
 
 ### Actions – Utilities (5)
+
 Upload (knowledge; URLs/YouTube via summarize), GrokExpert, MemeDeepDive, Watchlist, Alerts.
 
 ### Providers & Evaluators
+
 vinceContextProvider, trenchKnowledgeProvider; tradePerformanceEvaluator.
 
 ### Key milestones
+
 - **Paper trading algo:** More market data in live logic and feature store (order-book imbalance, price vs SMA20, funding 8h delta, DVOL); book-imbalance filter; confidence boost when trend and funding reversal align; DVOL size cap; 23 unit tests (extended-snapshot), 100% coverage.
 - **Stale P&L fix:** Mark price refreshed via coingecko in getEnrichedContext and refreshMarkPrices(); cache TTL 1 min; status trigger words include upnl/pnl. See STALE_PNL_INVESTIGATION.md.
 - **Knowledge ingestion:** UPLOAD + summarize (bunx); batch scripts; extract-only, YouTube slides, Firecrawl, language, timeout; dual-write frontmatter (ingestedWith: summarize | vince-upload | ingest-urls).

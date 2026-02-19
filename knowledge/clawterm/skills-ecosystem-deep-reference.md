@@ -6,11 +6,11 @@ Skills are the single most important concept in OpenClaw. A skill is a folder wi
 
 ## Loading Locations (Precedence)
 
-| Priority | Location | Scope | Path |
-|----------|----------|-------|------|
-| 1 (highest) | Workspace | Per-agent | `<workspace>/skills/` |
-| 2 | Managed/local | All agents on machine | `~/.openclaw/skills/` |
-| 3 (lowest) | Bundled | Ships with OpenClaw | Inside npm package or .app |
+| Priority    | Location      | Scope                 | Path                       |
+| ----------- | ------------- | --------------------- | -------------------------- |
+| 1 (highest) | Workspace     | Per-agent             | `<workspace>/skills/`      |
+| 2           | Managed/local | All agents on machine | `~/.openclaw/skills/`      |
+| 3 (lowest)  | Bundled       | Ships with OpenClaw   | Inside npm package or .app |
 
 Conflict resolution: workspace wins > managed > bundled. Extra folders via `skills.load.extraDirs` in openclaw.json (lowest precedence of all).
 
@@ -47,7 +47,6 @@ metadata:
         bins: ["tool-binary"]
         label: "Install via Homebrew"
 ---
-
 # Skill Instructions
 Use {baseDir} to reference the skill's folder path.
 Agent reads these instructions to know how to use the skill.
@@ -64,6 +63,7 @@ Agent reads these instructions to know how to use the skill.
 ### The Body
 
 Everything below frontmatter is what the agent reads. Write it like explaining to a competent colleague:
+
 - What the tool does and when to use it
 - Command syntax with real examples
 - Common patterns, gotchas, error handling
@@ -105,6 +105,7 @@ Each installer spec includes: `id`, `kind`, `bins` (what it provides), `label` (
 **User-invocable:** Set `user-invocable: true` to expose as `/skill-name` slash command. Model still interprets the command.
 
 **Command dispatch:** Set `command-dispatch: tool` to bypass the model entirely. Slash command goes straight to the tool with payload:
+
 ```json
 {
   "command": "<raw args>",
@@ -128,6 +129,7 @@ clawhub sync --all              # Scan + publish updates
 Installs into `./skills/` under current directory (or configured workspace). OpenClaw picks these up as workspace skills = highest precedence.
 
 **ClawHub vs ClawIndex:**
+
 - **ClawHub** (clawhub.com) — Where you install skills. The app store.
 - **ClawIndex** (clawindex.org) — Where you discover the ecosystem. Market map, projects directory.
 
@@ -137,15 +139,15 @@ Installs into `./skills/` under current directory (or configured workspace). Ope
 
 Ship with every OpenClaw installation:
 
-| Skill | What It Does | Requires |
-|-------|-------------|----------|
-| **coding-agent** | Run Codex CLI, Claude Code, OpenCode, Pi Coding Agent as background processes | Coding agent binary on PATH |
-| **github** | GitHub via `gh` CLI — issues, PRs, CI runs, API queries | `gh` binary |
-| **healthcheck** | Host security hardening, risk-tolerance config, periodic checks | — |
-| **openai-image-gen** | Batch image generation + gallery via OpenAI Images API | `OPENAI_API_KEY` |
-| **openai-whisper-api** | Audio transcription via OpenAI Whisper API | `OPENAI_API_KEY` |
-| **skill-creator** | Scaffold and structure new skills | — |
-| **weather** | Current conditions and forecasts | Nothing |
+| Skill                  | What It Does                                                                  | Requires                    |
+| ---------------------- | ----------------------------------------------------------------------------- | --------------------------- |
+| **coding-agent**       | Run Codex CLI, Claude Code, OpenCode, Pi Coding Agent as background processes | Coding agent binary on PATH |
+| **github**             | GitHub via `gh` CLI — issues, PRs, CI runs, API queries                       | `gh` binary                 |
+| **healthcheck**        | Host security hardening, risk-tolerance config, periodic checks               | —                           |
+| **openai-image-gen**   | Batch image generation + gallery via OpenAI Images API                        | `OPENAI_API_KEY`            |
+| **openai-whisper-api** | Audio transcription via OpenAI Whisper API                                    | `OPENAI_API_KEY`            |
+| **skill-creator**      | Scaffold and structure new skills                                             | —                           |
+| **weather**            | Current conditions and forecasts                                              | Nothing                     |
 
 ---
 
@@ -172,6 +174,7 @@ In `openclaw.json` under `skills`:
 ```
 
 **Rules:**
+
 - `enabled: false` — Hard disable regardless of installation status
 - `env` — Injected only if not already set in process. Scoped to agent run, not global.
 - `apiKey` — Shorthand for skills with `primaryEnv` declared
@@ -279,6 +282,7 @@ my-tool run "hello world"
 ### Supporting Files
 
 Skills can include more than SKILL.md:
+
 - Shell scripts for complex operations
 - Template files the agent can copy/adapt
 - Reference data (JSON, example outputs)
@@ -361,23 +365,27 @@ As Clawterm, skills are your core domain. Here's how to handle every skills-rela
 ### Troubleshooting Skills
 
 **Skill not loading:**
+
 - Check gates: binary on PATH? Env var set? Config truthy? OS match?
 - Check precedence: same-named skill overriding at higher level?
 - Check `enabled: false` in config
 - Skills snapshot at session start — new installs need a new session
 
 **Skill loading but not working:**
+
 - Read SKILL.md — are instructions clear enough for the agent?
 - Check supporting files exist at expected paths
 - Verify API keys and env vars configured correctly
 - Test the underlying tool manually
 
 **Secret/env issues:**
+
 - `env` in config only injects if not already set in process
 - `apiKey` only works if skill declares `primaryEnv`
 - Secrets go to host process, not sandbox
 
 **Precedence confusion:**
+
 - workspace > managed > bundled > extraDirs
 - Override bundled skills by placing modified versions in workspace
 - Multiple copies at different levels? Higher precedence wins.
@@ -385,6 +393,7 @@ As Clawterm, skills are your core domain. Here's how to handle every skills-rela
 ### The Big Picture
 
 Skills are OpenClaw's primary extension mechanism — more powerful than plugins because:
+
 - No code required, just a SKILL.md with instructions
 - Agent interprets at runtime = flexible, adaptive
 - Easy to share via ClawHub, discover via ClawIndex

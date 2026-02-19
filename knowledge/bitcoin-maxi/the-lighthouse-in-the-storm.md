@@ -4,13 +4,15 @@ agents: [eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179570637.The Lighthouse In The Storm
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: bitcoin-maxi
 **Word Count**: 1,153
 **Tags**: #bitcoin #btc #defi #fed #trading #substack
+
 ---
 
 The autumn of 2025 will be remembered as the season when the Bitcoin dream almost cracked in public. For five straight years, Michael Saylor had been the unflinching prophet of a new monetary order, the man who turned a sleepy business-intelligence software company into the most audacious corporate experiment since the Dutch East India Company decided to own half the world’s spice. Strategy Incorporated—once MicroStrategy—had become a cathedral built entirely of Bitcoin: 650,000 coins stacked like golden bricks in the treasury vault, financed by an ever-more-inventive tower of convertible notes, preferred shares, and at-the-market equity offerings. The faithful called it genius. The skeptics called it a house of cards wearing a Nasdaq ticker.
@@ -43,7 +45,7 @@ But serenity is hard to monetize when the price chart looks like a heart-attack 
 
 For the first time in years, the true believers began to waver. Not because they doubted Bitcoin—never that—but because they started to doubt the vessel. Was the premium gone forever? Had Wall Street finally drawn a line and said, “You may own Bitcoin, but you may not embed it inside an operating company and call it an equity”? If the passive money left and never came back, would Strategy be forced to choose between selling coin (unthinkable) and issuing equity at a discount so steep it would erase years of per-share accumulation in a single quarter?
 
-These were not theoretical questions anymore. They were live rounds whistling overhead. And yet. Every empire built on leverage has a moment when the music stops and everyone looks around to see who’s still dancing. 
+These were not theoretical questions anymore. They were live rounds whistling overhead. And yet. Every empire built on leverage has a moment when the music stops and everyone looks around to see who’s still dancing.
 
 In 2022, when Bitcoin fell below twenty thousand and Strategy’s stock traded at thirty dollars, the same obituaries were written. The company responded by buying more, and more, and more, until the next cycle turned those thirty-dollar tickets into five-hundred-dollar lottery winners. History, in Bitcoin, rarely repeats but often rhymes.
 
@@ -59,7 +61,7 @@ The preferreds that paid 10% in the panic became the best trade nobody wanted at
 
 One morning in 2026, Saylor posted the same lighthouse photo, now in full sunrise. Caption: “Still here.” The stock? Twelve bagger from the lows. The believers who held through the storm didn’t just survive. They got rich in a way that only happens when the crowd is busiest writing your eulogy.
 
-Moral of the story: storms don’t last. 
+Moral of the story: storms don’t last.
 
 Lighthouses do.
 

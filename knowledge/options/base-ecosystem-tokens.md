@@ -3,6 +3,7 @@ tags: [trading, options, derivatives]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Base Ecosystem Tokens: Strategy & Positioning
 
 ## Overview
@@ -20,6 +21,7 @@ We're Bitcoin maxis at core, but we track majors (SOL, ETH, HYPE) and keep an op
 **Profile:** Onchain protocol focused on creator tools, NFTs, media minting, and an "attention market" on Base.
 
 **Key Metrics (mid-January 2026)**
+
 - Price: ~$0.036–0.038 USD
 - Market Cap: ~$165–171M
 - FDV: ~$380M
@@ -28,6 +30,7 @@ We're Bitcoin maxis at core, but we track majors (SOL, ETH, HYPE) and keep an op
 - Contract (Base): `0x1111111111166b7fe7bd91427724b487980afc69`
 
 **Why We Watch:**
+
 - Owns the onchain creator and meme engine on Base
 - Strong integration with Base ecosystem; high onchain activity from creator drops
 - Token surged 800%+ in mid-2025 tied to content tokenization features
@@ -42,6 +45,7 @@ Zora sits at the pressure point where creator culture meets trading volatility. 
 **Profile:** Synthetic assets and perpetuals platform on Base, offering up to 500x leverage on crypto and RWAs with zero trading fees.
 
 **Key Metrics (mid-January 2026)**
+
 - Price: ~$0.29–0.33 USD
 - Market Cap: ~$75–82M
 - Circulating Supply: ~258M tokens (total: 1B, fixed)
@@ -49,6 +53,7 @@ Zora sits at the pressure point where creator culture meets trading volatility. 
 - Contract (Base): `0x696F9436B67233384889472Cd7cD58A6fB5DF4f1`
 
 **Why We Watch:**
+
 - Runs the highest-leverage, cleanest synthetic markets on Base
 - Backed by Pantera Capital and built natively on Base
 - Active X presence: integrations (HeyElsa AI terminal, Base app), creator contests ("Leagues of Leverage"), new markets
@@ -64,6 +69,7 @@ Avantis runs the derivatives engine on Base. When perps volume spikes or new mar
 **Profile:** AI-powered personal finance agent on Base, focused on automated yield strategies via Moonwell, Aerodrome, and other protocols.
 
 **Key Metrics (mid-January 2026)**
+
 - Price: ~$0.024–0.025 USD
 - Market Cap: ~$11–13M
 - Circulating Supply: ~475–557M (varies)
@@ -71,6 +77,7 @@ Avantis runs the derivatives engine on Base. When perps volume spikes or new mar
 - Contract (Base): `0x7300B37DfdfAb110d83290A29DfB31B1740219fE`
 
 **Why We Watch:**
+
 - Automates quiet yield with real revenue share (100% of fees go to depositors)
 - Strong revenue growth (+414% weekly reported; $5K+ weekly drops in BTC/MAMO)
 - Positioned in Base AI/agent narrative—compounding and low-stress yield farming
@@ -160,6 +167,7 @@ We're not avoiding Base tokens out of principle. We're waiting for the liquidity
 Hypersurface is an onchain structured products platform specializing in volatility yield (covered calls, cash-secured puts) on Base tokens and majors. It allows selling options on holdings like $ZORA, $AVNT, $MAMO, $AAVE, $ENA, $KNTQ (plus majors like BTC/ETH/SOL/HYPE), collecting premiums upfront while waiting for target prices.
 
 **Token Prioritization on Hypersurface:**
+
 - **High Priority:** BTC, ETH, SOL, HYPE (majors we actively trade)
 - **Watchlist:** AAVE, ENA, KNTQ (tokens we like but evaluate on liquidity)
 - **Monitor:** ZORA, AVNT, MAMO (Base tokens we're tracking for liquidity thresholds)

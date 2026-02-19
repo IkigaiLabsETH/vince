@@ -4,13 +4,15 @@ agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 182276560.Mad Max P2
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: macro-economy
 **Word Count**: 4,227
 **Tags**: #bitcoin #btc #eth #sol #defi #options #fed #inflation #substack
+
 ---
 
 You know that all-too-familiar feeling when you’re mindlessly scrolling through X late at night, your eyes heavy with sleep and your brain on autopilot, only to stumble upon yet another overly optimistic thread proclaiming an imminent AI utopia, prompting you to roll your eyes and mutter to yourself, “Here we go again, just another tech bro lost in his own hallucinations of a flawless paradise while the rest of us ordinary folks continue to grind away in the relentless daily struggle for survival and stability”?

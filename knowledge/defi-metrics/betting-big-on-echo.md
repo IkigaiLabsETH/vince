@@ -4,13 +4,15 @@ agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 179741085.Betting Big On Echo
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: defi-metrics
 **Word Count**: 1,045
 **Tags**: #eth #solana #sol #defi #macro #investing #portfolio #substack
+
 ---
 
 As we head into the back half of 2025, our investment thesis is crystalizing around a simple, high-conviction bet: the resurgence of onchain capital markets. Forget the noise of memecoins and over-hyped narratives—our strategy for Q4 2025 and all of 2026 is laser-focused on being hyper-active as business angels on Echo, the onchain investment platform founded by crypto veteran Cobie and recently acquired by Coinbase. This isn’t just another tool in the toolbox; it’s the infrastructure we’re using to source, underwrite, and deploy into the next wave of asymmetric opportunities.
@@ -31,14 +33,11 @@ At its core, Echo operates like a blockchain-powered AngelList: verified investo
 
 Key features that set Echo apart:
 
-- 
-Private Sales: Curated deals led by trusted “group leads” (experienced angels who share investments they’re making themselves). Think: following a deal from someone like Cobie, who’s symmetrical in risk and reward.
+- Private Sales: Curated deals led by trusted “group leads” (experienced angels who share investments they’re making themselves). Think: following a deal from someone like Cobie, who’s symmetrical in risk and reward.
 
-- 
-Sonar: Echo’s flagship public sale product, allowing founders to self-host token launches on chains like Base, Solana, or Hyperliquid. It’s plug-and-play for compliant, community-driven ICOs.
+- Sonar: Echo’s flagship public sale product, allowing founders to self-host token launches on chains like Base, Solana, or Hyperliquid. It’s plug-and-play for compliant, community-driven ICOs.
 
-- 
-Onchain Everything: Fees are success-based (5% on profits only), with full transparency via blockchain. No upfront costs, no hidden wires.
+- Onchain Everything: Fees are success-based (5% on profits only), with full transparency via blockchain. No upfront costs, no hidden wires.
 
 Echo’s traction speaks volumes: MegaETH raised $10 million in three minutes on the platform, and projects like Ethena (a synthetic dollar protocol) used it for their seed rounds.
 
@@ -48,20 +47,15 @@ How Does Echo Work? A Step-by-Step for Aspiring Angels
 
 Getting active on Echo is straightforward, but it demands the mindset of a true angel: patience, due diligence, and a tolerance for 80% failure rates (more on that later). Here’s how we—and soon, you—roll:
 
-- 
-Onboard and Verify: Sign up at app.echo.xyz, complete KYC (it’s US-compliant from day one), and get accredited if needed. This weeds out tourists; only serious players (10,000+ strong) make the cut.
+- Onboard and Verify: Sign up at app.echo.xyz, complete KYC (it’s US-compliant from day one), and get accredited if needed. This weeds out tourists; only serious players (10,000+ strong) make the cut.
 
-- 
-Follow the Leaders: Curate your feed by following group leads—angels with skin in the game. We follow a tight list: Cobie for blue-chip crypto bets, plus a handful of DeFi OGs and AI-crypto hybrids. Each lead posts deals they’re investing in, complete with term sheets, founder decks, and vesting schedules.
+- Follow the Leaders: Curate your feed by following group leads—angels with skin in the game. We follow a tight list: Cobie for blue-chip crypto bets, plus a handful of DeFi OGs and AI-crypto hybrids. Each lead posts deals they’re investing in, complete with term sheets, founder decks, and vesting schedules.
 
-- 
-Source and Underwrite: Deals drop fast—hundreds per year. We spend a few hours per opportunity: grilling founders on Discord, stress-testing tokenomics, and modeling downside scenarios. Pro tip: Always ask, “Would I hold this for 12 months if vesting changes?” Crypto founders love tweaking terms for CEX listings.
+- Source and Underwrite: Deals drop fast—hundreds per year. We spend a few hours per opportunity: grilling founders on Discord, stress-testing tokenomics, and modeling downside scenarios. Pro tip: Always ask, “Would I hold this for 12 months if vesting changes?” Crypto founders love tweaking terms for CEX listings.
 
-- 
-Invest and Track: Commit USDC onchain. Echo handles the SPV setup, and you get pro-rata shares. Post-close, use the built-in leaderboard to track unrealized ROI across your portfolio. We’ve seen groups kick underperformers off the platform based on data—brutal but fair.
+- Invest and Track: Commit USDC onchain. Echo handles the SPV setup, and you get pro-rata shares. Post-close, use the built-in leaderboard to track unrealized ROI across your portfolio. We’ve seen groups kick underperformers off the platform based on data—brutal but fair.
 
-- 
-Exit and Iterate: Tokens unlock over time (typically 12-24 months). Sonar integrations mean seamless paths to liquidity on DEXs or even Coinbase listings. We aim for 10+ deals per quarter, rebalancing based on macro.
+- Exit and Iterate: Tokens unlock over time (typically 12-24 months). Sonar integrations mean seamless paths to liquidity on DEXs or even Coinbase listings. We aim for 10+ deals per quarter, rebalancing based on macro.
 
 It’s not passive—it’s active angel work. But with Echo’s tools, what used to take weeks now takes hours. Why Echo? And Why Early-Stage Angels Over Liquid Moonshots? The “why” boils down to three interlocking convictions: superior dealflow, asymmetric risk/reward, and the maturation of crypto infrastructure.
 

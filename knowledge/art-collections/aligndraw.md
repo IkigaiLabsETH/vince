@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # alignDRAW
 
 OpenSea Slug: `aligndraw`
@@ -25,7 +26,7 @@ alignDRAW is a landmark in AI art. It solved the reverse of image-to-text: promp
 
 ## Context for Collectors
 
-~2,700 pieces across Paper and Process. You’re buying a slice of AI-art history. The images won’t wow anyone used to modern gen models—they’re collectible because of *when* and *what* they are. If that matters to you, alignDRAW is essential.
+~2,700 pieces across Paper and Process. You’re buying a slice of AI-art history. The images won’t wow anyone used to modern gen models—they’re collectible because of _when_ and _what_ they are. If that matters to you, alignDRAW is essential.
 
 ## Personal Take
 

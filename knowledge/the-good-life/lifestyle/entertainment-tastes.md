@@ -15,17 +15,18 @@ Use this when the user asks for **book**, **music**, **Netflix**, **series**, **
 **Genres:** Business/startup memoirs, philosophy (Stoicism, Naval Ravikant), surf culture, design/architecture, biography, sci-fi.
 
 **Favorites:**
-- *The Almanack of Naval Ravikant* — distilled wisdom on wealth and happiness
-- *Shoe Dog* (Phil Knight) — raw founder story, no polish
-- *Barbarian Days* (William Finnegan) — the definitive surf memoir
-- *Sapiens* (Yuval Noah Harari) — big-picture thinking on humanity
-- *The War of Art* (Steven Pressfield) — creative resistance, short and punchy
-- *Meditations* (Marcus Aurelius) — Stoic bedrock
-- *Dune* (Frank Herbert) — world-building at its peak
-- *Kitchen Confidential* (Anthony Bourdain) — food, chaos, honesty
-- *Born to Run* (Christopher McDougall) — running, adventure, human limits
-- *Atomic Habits* (James Clear) — systems over goals
-- *Salts and Suits* (Phil Jarratt) — the business and soul of surf culture
+
+- _The Almanack of Naval Ravikant_ — distilled wisdom on wealth and happiness
+- _Shoe Dog_ (Phil Knight) — raw founder story, no polish
+- _Barbarian Days_ (William Finnegan) — the definitive surf memoir
+- _Sapiens_ (Yuval Noah Harari) — big-picture thinking on humanity
+- _The War of Art_ (Steven Pressfield) — creative resistance, short and punchy
+- _Meditations_ (Marcus Aurelius) — Stoic bedrock
+- _Dune_ (Frank Herbert) — world-building at its peak
+- _Kitchen Confidential_ (Anthony Bourdain) — food, chaos, honesty
+- _Born to Run_ (Christopher McDougall) — running, adventure, human limits
+- _Atomic Habits_ (James Clear) — systems over goals
+- _Salts and Suits_ (Phil Jarratt) — the business and soul of surf culture
 
 **Taste:** Prefers books by people who built things or lived intensely. No self-help fluff. If someone hasn't bled for the insight, skip it.
 
@@ -45,9 +46,10 @@ Use this when the user asks for **book**, **music**, **Netflix**, **series**, **
 
 **80s / feel-good:** Lionel Richie ("All Night Long", "Easy", "Dancing on the Ceiling"), Phil Collins, Whitney Houston, Michael Jackson, Stevie Wonder, Earth Wind & Fire, Chaka Khan, Tina Turner, George Michael, Hall & Oates.
 
-**Disco / good vibes:** Chic (Nile Rodgers), Donna Summer, Bee Gees, Sister Sledge ("We Are Family"), Kool & The Gang, Gloria Gaynor, Diana Ross, Cerrone, Giorgio Moroder, Daft Punk (*Random Access Memories* for the modern disco bridge). Purple Disco Machine and Breakbot for the new school.
+**Disco / good vibes:** Chic (Nile Rodgers), Donna Summer, Bee Gees, Sister Sledge ("We Are Family"), Kool & The Gang, Gloria Gaynor, Diana Ross, Cerrone, Giorgio Moroder, Daft Punk (_Random Access Memories_ for the modern disco bridge). Purple Disco Machine and Breakbot for the new school.
 
 **Listening contexts:**
+
 - **Taycan + Burmester + Apple Music** — Melodic house, deep house, Bonobo, RÜFÜS DU SOL, 80s feel-good on a sunny drive. Warm bass, forward momentum, nothing jarring.
 - **At home: Denon DJ (Engine DJ) + Bose speakers + Apple Music** — Deeper cuts, Afro house mixes, OG deep house, jazz vinyl rips, Nils Frahm live albums, disco edits. The Denon/Bose setup rewards texture and low-end detail.
 - **Party / friends over:** Disco, Chic, Earth Wind & Fire, Daft Punk, Belgian classics, Soulwax mashups.
@@ -59,19 +61,20 @@ Use this when the user asks for **book**, **music**, **Netflix**, **series**, **
 ## Netflix
 
 **Favorites:**
-- *Chef's Table* — craft and obsession, beautifully shot
-- *Abstract: The Art of Design* — how creative people think
-- *Formula 1: Drive to Survive* — competition, pressure, personality
-- *The Last Dance* — Jordan-level focus and intensity
-- *Our Planet* — Attenborough, cinematic nature
-- *Dark* (German) — best sci-fi series on any platform
-- *Narcos* — gritty international storytelling
-- *Money Heist* (La Casa de Papel) — smart heist, great ensemble
-- *The Crown* — history, power, restraint
-- *Black Mirror* — tech-anxiety done right
-- *Fargo* — Coen brothers energy, dark and sharp
-- *The Diplomat* — power, politics, smart writing
-- *On the Waterfront* — classic Brando, raw
+
+- _Chef's Table_ — craft and obsession, beautifully shot
+- _Abstract: The Art of Design_ — how creative people think
+- _Formula 1: Drive to Survive_ — competition, pressure, personality
+- _The Last Dance_ — Jordan-level focus and intensity
+- _Our Planet_ — Attenborough, cinematic nature
+- _Dark_ (German) — best sci-fi series on any platform
+- _Narcos_ — gritty international storytelling
+- _Money Heist_ (La Casa de Papel) — smart heist, great ensemble
+- _The Crown_ — history, power, restraint
+- _Black Mirror_ — tech-anxiety done right
+- _Fargo_ — Coen brothers energy, dark and sharp
+- _The Diplomat_ — power, politics, smart writing
+- _On the Waterfront_ — classic Brando, raw
 
 **Taste:** Loves docuseries about craft and mastery, visually stunning nature docs, well-written international thrillers. Not into sitcoms or reality TV.
 
@@ -82,24 +85,27 @@ Use this when the user asks for **book**, **music**, **Netflix**, **series**, **
 ## Apple TV / Movies
 
 **Apple TV favorites:**
-- *Severance* — unsettling, beautifully designed, addictive
-- *Ted Lasso* — optimism that actually works
-- *The Morning Show* — sharp, well-acted drama
-- *For All Mankind* — alt-history space race, underrated
-- *Tetris* — Cold War startup story
-- *Killers of the Flower Moon* (Scorsese) — slow burn, devastating
-- *Napoleon* (Ridley Scott) — spectacle and ambition
+
+- _Severance_ — unsettling, beautifully designed, addictive
+- _Ted Lasso_ — optimism that actually works
+- _The Morning Show_ — sharp, well-acted drama
+- _For All Mankind_ — alt-history space race, underrated
+- _Tetris_ — Cold War startup story
+- _Killers of the Flower Moon_ (Scorsese) — slow burn, devastating
+- _Napoleon_ (Ridley Scott) — spectacle and ambition
 
 **General film taste:** Scorsese, Nolan, Denis Villeneuve, Wes Anderson, Ridley Scott. Loves cinematography and craftsmanship.
 
 **All-time favorites:**
-- *The Godfather*, *Heat*, *Interstellar*, *Blade Runner 2049*, *The Grand Budapest Hotel*, *Lost in Translation*
-- *Joker*, *Once Upon a Time... in Hollywood*, *Inception*, *Django Unchained*, *The Wolf of Wall Street*
-- *The Revenant*, *Pulp Fiction*, *The Social Network*, *Oppenheimer*, *The Matrix*
-- *F1*, *Marty Supreme*
+
+- _The Godfather_, _Heat_, _Interstellar_, _Blade Runner 2049_, _The Grand Budapest Hotel_, _Lost in Translation_
+- _Joker_, _Once Upon a Time... in Hollywood_, _Inception_, _Django Unchained_, _The Wolf of Wall Street_
+- _The Revenant_, _Pulp Fiction_, _The Social Network_, _Oppenheimer_, _The Matrix_
+- _F1_, _Marty Supreme_
 
 **French & fashion cinema:**
-- *Dior et Moi*, *Les Petits Mouchoirs* (Little White Lies), *House of Gucci*
+
+- _Dior et Moi_, _Les Petits Mouchoirs_ (Little White Lies), _House of Gucci_
 
 **When Kelly should suggest:** "recommend a movie", "what to watch on Apple TV", "something like [X]". Suggest by taste; one pick + one alternative; WEB_SEARCH for "movies like X" when useful.
 
@@ -108,7 +114,8 @@ Use this when the user asks for **book**, **music**, **Netflix**, **series**, **
 ## Podcasts
 
 **Favorites:**
-- *Lex Fridman Podcast* — long-form deep dives with scientists, founders, fighters, philosophers. The go-to for "make me think" conversations.
+
+- _Lex Fridman Podcast_ — long-form deep dives with scientists, founders, fighters, philosophers. The go-to for "make me think" conversations.
 
 **When Kelly should suggest:** "recommend a podcast", "what to listen to", "something like Lex Fridman". One pick; WEB_SEARCH for more if needed.
 

@@ -3,6 +3,7 @@ tags: [solana, l1, defi]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Solana Validator Economics
 
 ## Analysis
@@ -39,4 +40,4 @@ Jump's Firedancer client introduces new hardware considerations. Its architectur
 
 As inflation decreases toward terminal rate, validators become increasingly dependent on transaction fees and MEV. This is healthy if Solana's usage grows proportionally, but creates risk if activity plateaus. The long-term model assumes Solana generates enough economic activity that fees alone sustain a robust validator set — the same bet Ethereum is making post-merge.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

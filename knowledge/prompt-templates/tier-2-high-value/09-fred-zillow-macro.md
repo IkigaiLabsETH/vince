@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Prompt #9: Zillow/FRED (Macro Overlays - Real Estate in BTC)
 
 **Priority**: Tier 2 - High Value  
@@ -10,6 +11,7 @@ last_reviewed: 2026-02-15
 **Data Source**: FRED (Federal Reserve Economic Data), Zillow, Census Bureau, tradingeconomics.com
 
 ## Core Objectives
+
 - Track Bitcoin's purchasing power against US real estate (median home prices)
 - Calculate how many BTC it takes to buy a median US home
 - Analyze 5-year trend (decreasing = BTC purchasing power increasing)
@@ -43,16 +45,18 @@ This [upward/downward] trend indicates BTC has [increased/decreased] its purchas
 ```
 
 ## Integration Notes
+
 - Feeds into `macroOverlaysSpecialist` for macro context
 - Provides regime signal (BTC outperforming real assets = risk-on, underperforming = risk-off)
 - Can inform strike selection (macro risk levels)
 
 ## Performance Notes
+
 - Focus on national-level data (not regional)
 - Prioritize sources with direct ratio visualization (avoid manual calculation)
 - Keep response factual, sourced, easy to read (no tables, JSON, charts)
 
 ---
 
-*Template Version: 1.0*  
-*Last Tested: 2026-01-XX*
+_Template Version: 1.0_  
+_Last Tested: 2026-01-XX_

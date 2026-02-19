@@ -3,9 +3,10 @@ tags: [ai, crypto, agents]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # AI-Crypto Bear Cases & Risks
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_
 
 ## Methodology & Framework
 
@@ -28,7 +29,7 @@ During bull markets, the market doesn't distinguish between these categories. Du
 
 The elephant in the room: AI is centralizing, not decentralizing.
 
-**Training** requires billions in compute. Only a handful of organizations (OpenAI, Anthropic, Google, Meta) can afford frontier model training. This concentration is *increasing* — each generation costs more, and data moats widen. No crypto project is training competitive frontier models. Period.
+**Training** requires billions in compute. Only a handful of organizations (OpenAI, Anthropic, Google, Meta) can afford frontier model training. This concentration is _increasing_ — each generation costs more, and data moats widen. No crypto project is training competitive frontier models. Period.
 
 **Inference** is more feasible to decentralize, but centralized providers have massive advantages: optimized hardware (custom ASICs), economies of scale, established SLAs, and lower latency. Decentralized networks compete on cost only when subsidized by token emissions.
 
@@ -62,7 +63,6 @@ In a full bear market where narratives die and only fundamentals remain, the sur
 **Regulatory readiness.** Projects with legal structures, compliance frameworks, and the ability to adapt to regulation without fundamentally breaking their model.
 
 The brutal prediction: 90%+ of current AI tokens won't exist in meaningful form by 2028. The 5-10% that survive will capture enormous value precisely because the space will be cleared of noise. The game is identifying that 5-10% early and sizing positions to survive the drawdown that kills the rest.
-
 
 ## Related
 

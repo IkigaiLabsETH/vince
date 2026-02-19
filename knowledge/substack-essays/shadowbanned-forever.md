@@ -4,15 +4,15 @@ agents: [echo, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
-
-
 # 180143645.Shadowbanned Forever
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: substack-essays
 **Word Count**: 860
 **Tags**: #eth #sol #substack
+
 ---
 
 I used to reach a hundred million people. Not hype, not vanity metrics — literal, audited, third-party verified eyeballs across a decade of work. Three hundred thousand impressions a week was a slow Tuesday on LIVETHELIFETV (FB era).
@@ -29,25 +29,21 @@ The crying cat holding the phone is no longer feels like a meme; it feels like s
 
 ## Main
 
-The Data Doesn’t Lie 
+The Data Doesn’t Lie
 
-In the last ninety days I searched X for variations of “small account zero engagement,” “3 views,” “shadowban still,” and “reach died.” 
+In the last ninety days I searched X for variations of “small account zero engagement,” “3 views,” “shadowban still,” and “reach died.”
 
 The platform returned thousands of recent posts. The pattern is identical:
 
-- 
-Accounts under 10 k followers averaging 0–40 impressions per tweet
+- Accounts under 10 k followers averaging 0–40 impressions per tweet
 
-- 
-Sudden cliffs after political or “sensitive” posts (C19, … you name it)
+- Sudden cliffs after political or “sensitive” posts (C19, … you name it)
 
-- 
-Premium badge or no Premium badge — same graveyard
+- Premium badge or no Premium badge — same graveyard
 
-- 
-Posts that once reached 50 k now reach 200, …
+- Posts that once reached 50 k now reach 200, …
 
-The most liked complaint I found (289 000 views, naturally) came from a user with 5 000 followers lamenting that small accounts get “basically zero engagement.” The second-most liked complaint had 8 views. 
+The most liked complaint I found (289 000 views, naturally) came from a user with 5 000 followers lamenting that small accounts get “basically zero engagement.” The second-most liked complaint had 8 views.
 
 The irony writes itself.
 
@@ -65,7 +61,7 @@ You can test it yourself tonight. Log out. Search your exact username plus a uni
 
 Because deleting it would feel like burning my own diary. Because my partner still reads every post and that alone justifies the account’s existence. Because eighteen years of my life live in that blue timeline, and X is still the only place that keeps the whole thread intact. Because spite is a renewable resource.
 
-I now treat the platform exactly like a locked journal that happens to be written in public. No performance pressure. No link begging. No “engagement farming.” 
+I now treat the platform exactly like a locked journal that happens to be written in public. No performance pressure. No link begging. No “engagement farming.”
 
 I post as if no one will ever see it except the one person who matters. Paradoxically, that mindset has made the experience bearable, almost peaceful.
 
@@ -79,7 +75,7 @@ I will keep the @ handle I registered when Twitter was seventy employees and a w
 
 But I will no longer measure my worth in impressions. I will no longer refresh the analytics tab like a gambler waiting for the machine to pay out. I have moved the audience that still cares here, to Substack, to Telegram, to quiet Discords and email lists where the algorithm cannot follow.
 
-The crying cat can keep the phone. 
+The crying cat can keep the phone.
 
 I’m done staring at the screen waiting for it to love me back.
 

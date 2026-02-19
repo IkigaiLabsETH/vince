@@ -8,7 +8,7 @@ Satoshi's knowledge: bitcoin fundamentals, culinary, assets
 
 - **satoshis-app-pages/** (1 files)
 - **satoshis-knowledge/** (101 files)
+
 ## Contents
 
 - satoshis-app-overview.md
-

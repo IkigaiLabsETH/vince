@@ -15,6 +15,7 @@ Format: **Name** — Location | Country | Address (when useful).
 ## South Africa
 
 ### Jeffreys Bay
+
 - **JBay Surf View @ Tubes** — Jeffreys Bay | 10 Tamarisk Square
 - **Khaya Zinza** — Jeffreys Bay | 3 Pepper Street
 - **African Perfection** — Jeffreys Bay | 20 Pepper Street
@@ -28,10 +29,12 @@ Format: **Name** — Location | Country | Address (when useful).
 - **Beach Music** — Jeffreys Bay | 33 Flame Crescent
 
 ### St Francis Bay
+
 - **Bonavanti** — St Francis Bay | 4 Porto Cervo Road, Santereme
 - **Cape St Francis Resort** — St Francis Bay | Da Gama Way
 
 ### Langebaan
+
 - **Windtown Lagoon Resort & Spa** — Langebaan | 9 Bree Street
 
 ---

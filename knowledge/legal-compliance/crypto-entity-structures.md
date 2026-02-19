@@ -3,19 +3,23 @@ tags: [legal, compliance, regulation]
 agents: [oracle, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Crypto Entity Structures
 
 ## Core Entity Types
 
 ### LLC (Limited Liability Company)
+
 The US LLC (particularly Wyoming and Delaware) remains the default for early-stage crypto projects. Wyoming's DAO LLC legislation (2021) formally recognizes DAOs as LLCs, providing member liability protection while allowing on-chain governance. Delaware offers superior case law and Series LLC options for isolating assets across sub-projects. Key limitation: US nexus triggers SEC/CFTC jurisdiction and complex tax reporting (FATCA/CRS).
 
 ### Foundation (Cayman, Swiss, Singapore)
+
 Foundations serve as the "stewardship" layer for decentralized protocols. The **Cayman Foundation Company** is the current gold standard — no beneficial owners, can act in its own interest, and compatible with token treasury management. Swiss foundations (Stiftung) offer credibility but require FINMA engagement for anything touching tokens. Singapore foundations are cost-effective but increasingly scrutinized by MAS post-TerraLuna.
 
 **Typical foundation responsibilities:** hold IP, manage treasury, fund grants, govern protocol upgrades, engage with regulators.
 
 ### DAO Wrappers
+
 Unwrapped DAOs face unlimited joint liability for all members — the ooki DAO enforcement action (CFTC, 2022) confirmed this. Wrapper options:
 
 - **Wyoming DAO LLC** — simplest, but US-domiciled
@@ -24,6 +28,7 @@ Unwrapped DAOs face unlimited joint liability for all members — the ooki DAO e
 - **UNA (Unincorporated Nonprofit Association)** — lightweight, used by some US DAOs, but untested in court for token projects
 
 ### Offshore Structures
+
 **BVI Business Companies** remain popular for token SPVs and holding companies — no corporate tax, minimal reporting, fast incorporation. **Panama** offers strong privacy but weak international reputation. **Dubai/ADGM** has emerged as a serious contender with VARA licensing providing regulatory clarity for virtual asset service providers. **Bermuda** pioneered the Digital Asset Business Act, offering a clear licensing path.
 
 ## Multi-Entity Stack (Best Practice)
@@ -38,13 +43,13 @@ Optional additions: a **Labs entity** for R&D (often Singapore or Switzerland), 
 
 ## Jurisdictional Selection Criteria
 
-| Factor | Wyoming | Cayman | Switzerland | Singapore | BVI | Dubai |
-|---|---|---|---|---|---|---|
-| Token issuance clarity | Medium | High | High | Medium | High | High |
-| Banking access | High | Medium | High | High | Low | Medium |
-| Tax efficiency | Medium | High | Low | Medium | High | High |
-| Regulatory maturity | Medium | High | High | High | Low | Medium |
-| DAO compatibility | High | Medium | Low | Low | Low | Low |
+| Factor                 | Wyoming | Cayman | Switzerland | Singapore | BVI  | Dubai  |
+| ---------------------- | ------- | ------ | ----------- | --------- | ---- | ------ |
+| Token issuance clarity | Medium  | High   | High        | Medium    | High | High   |
+| Banking access         | High    | Medium | High        | High      | Low  | Medium |
+| Tax efficiency         | Medium  | High   | Low         | Medium    | High | High   |
+| Regulatory maturity    | Medium  | High   | High        | High      | Low  | Medium |
+| DAO compatibility      | High    | Medium | Low         | Low       | Low  | Low    |
 
 ## Key Considerations
 
@@ -53,4 +58,4 @@ Optional additions: a **Labs entity** for R&D (often Singapore or Switzerland), 
 - **US persons** in the cap table or user base dramatically increase compliance burden regardless of entity jurisdiction
 - Always obtain jurisdiction-specific legal opinions before token issuance — regulatory letters from local counsel are table stakes for exchange listings
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

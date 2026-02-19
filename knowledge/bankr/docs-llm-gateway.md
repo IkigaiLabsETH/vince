@@ -3,6 +3,7 @@ tags: [bankr, trading, protocol]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Bankr Docs — LLM Gateway Overview (Ingested)
 
 Source: https://docs.bankr.bot/llm-gateway/overview
@@ -26,55 +27,55 @@ https://llm.bankr.bot
 
 ## Features
 
-| Feature | Benefit |
-|--------|---------|
-| Cost Tracking | Full visibility into token usage and costs per request |
+| Feature            | Benefit                                                     |
+| ------------------ | ----------------------------------------------------------- |
+| Cost Tracking      | Full visibility into token usage and costs per request      |
 | Launch Fee Funding | Allocate a portion of token launch fees to AI automatically |
-| Flexible Payments | Pay with ETH, USDC, or BANKR |
-| Multi-Provider | Anthropic, Google, OpenAI, Moonshot AI, Alibaba |
-| High Availability | Automatic failover so agents stay online |
-| SDK Compatible | Works with OpenAI and Anthropic SDKs — no code changes |
+| Flexible Payments  | Pay with ETH, USDC, or BANKR                                |
+| Multi-Provider     | Anthropic, Google, OpenAI, Moonshot AI, Alibaba             |
+| High Availability  | Automatic failover so agents stay online                    |
+| SDK Compatible     | Works with OpenAI and Anthropic SDKs — no code changes      |
 
 ## Supported Models
 
 ### Claude (Anthropic)
 
-| Model | Context | Input | Best For |
-|-------|---------|-------|----------|
-| claude-opus-4.6 | 200K | text, image | Most capable, advanced reasoning |
-| claude-opus-4.5 | 200K | text, image | Complex reasoning, analysis |
-| claude-sonnet-4.5 | 200K | text, image | Balanced speed and quality |
-| claude-haiku-4.5 | 200K | text, image | Fast, cost-effective |
+| Model             | Context | Input       | Best For                         |
+| ----------------- | ------- | ----------- | -------------------------------- |
+| claude-opus-4.6   | 200K    | text, image | Most capable, advanced reasoning |
+| claude-opus-4.5   | 200K    | text, image | Complex reasoning, analysis      |
+| claude-sonnet-4.5 | 200K    | text, image | Balanced speed and quality       |
+| claude-haiku-4.5  | 200K    | text, image | Fast, cost-effective             |
 
 ### Gemini (Google)
 
-| Model | Context | Input | Best For |
-|-------|---------|-------|----------|
-| gemini-2.5-pro | 1M | text, image | Long context, multimodal |
-| gemini-2.5-flash | 1M | text, image | Speed, high throughput |
-| gemini-3-pro | 2M | text, image | Advanced reasoning (preview) |
-| gemini-3-flash | 1M | text, image | Fast, preview models |
+| Model            | Context | Input       | Best For                     |
+| ---------------- | ------- | ----------- | ---------------------------- |
+| gemini-2.5-pro   | 1M      | text, image | Long context, multimodal     |
+| gemini-2.5-flash | 1M      | text, image | Speed, high throughput       |
+| gemini-3-pro     | 2M      | text, image | Advanced reasoning (preview) |
+| gemini-3-flash   | 1M      | text, image | Fast, preview models         |
 
 ### GPT (OpenAI)
 
-| Model | Context | Input | Best For |
-|-------|---------|-------|----------|
-| gpt-5.2 | 262K | text | Advanced reasoning |
-| gpt-5.2-codex | 262K | text | Code generation |
-| gpt-5-mini | 128K | text | Fast, economical |
-| gpt-5-nano | 128K | text | Ultra-fast, lowest cost |
+| Model         | Context | Input | Best For                |
+| ------------- | ------- | ----- | ----------------------- |
+| gpt-5.2       | 262K    | text  | Advanced reasoning      |
+| gpt-5.2-codex | 262K    | text  | Code generation         |
+| gpt-5-mini    | 128K    | text  | Fast, economical        |
+| gpt-5-nano    | 128K    | text  | Ultra-fast, lowest cost |
 
 ### Kimi (Moonshot AI)
 
-| Model | Context | Input | Best For |
-|-------|---------|-------|----------|
-| kimi-k2.5 | 128K | text | Long-context reasoning |
+| Model     | Context | Input | Best For               |
+| --------- | ------- | ----- | ---------------------- |
+| kimi-k2.5 | 128K    | text  | Long-context reasoning |
 
 ### Qwen (Alibaba)
 
-| Model | Context | Input | Best For |
-|-------|---------|-------|----------|
-| qwen3-coder | 128K | text | Code generation, debugging |
+| Model       | Context | Input | Best For                   |
+| ----------- | ------- | ----- | -------------------------- |
+| qwen3-coder | 128K    | text  | Code generation, debugging |
 
 ## How It Works
 
@@ -121,7 +122,6 @@ See [AI Coding Tools](https://docs.bankr.bot/llm-gateway/ai-coding-tools) for fu
 - [API Reference](https://docs.bankr.bot/llm-gateway/api-reference)
 - [OpenClaw](https://docs.bankr.bot/llm-gateway/openclaw)
 - [AI Coding Tools](https://docs.bankr.bot/llm-gateway/ai-coding-tools)
-
 
 ## Related
 

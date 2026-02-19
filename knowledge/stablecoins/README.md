@@ -16,7 +16,6 @@ Stablecoin evaluation, yield methodology, peg analysis
 - stablecoin-yield-strategies.md
 - usdc-usdt-mechanics.md
 
-
 ## Related Categories
 
 - [defi-metrics](../defi-metrics/)

@@ -3,6 +3,7 @@ tags: [bankr, trading, protocol]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Bankr Docs — Agent API Overview (Ingested)
 
 Source: https://docs.bankr.bot/agent-api/overview
@@ -66,13 +67,13 @@ Response (200): `{ "success": true, "jobId": "abc123", "status": "completed", "r
 
 ## Job Statuses
 
-| Status      | Description            |
-|------------|------------------------|
-| pending    | Queued for processing  |
+| Status     | Description               |
+| ---------- | ------------------------- |
+| pending    | Queued for processing     |
 | processing | Currently being processed |
-| completed  | Finished successfully  |
-| failed     | Error                  |
-| cancelled  | Cancelled by user      |
+| completed  | Finished successfully     |
+| failed     | Error                     |
+| cancelled  | Cancelled by user         |
 
 ## Example Applications
 
@@ -82,7 +83,6 @@ https://github.com/BankrBot/bankr-api-examples
 
 - Authentication, User Info, Prompt Endpoint, Job Management
 - Sign Endpoint, Submit Endpoint, Transaction Types, CLI
-
 
 ## Related
 

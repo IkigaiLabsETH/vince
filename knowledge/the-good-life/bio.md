@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 It was 1999 and I was twenty-something, wind-burnt, and living out of a van parked on a beach that most people couldn’t pronounce. A guy in linen trousers walked up, handed me a Naish kite fresh off the boat from Maui, and said, “We’re raising a small private round for a luxury travel company. Office is right there on the sand. Want in?”
 
 I wrote the check the same afternoon. The office on the beach, free gear, kitesurfing every lunch break — it felt like the universe was paying me to live the dream.

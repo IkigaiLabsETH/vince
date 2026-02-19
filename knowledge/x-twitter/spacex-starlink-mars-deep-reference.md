@@ -402,6 +402,7 @@ A pattern observed across all his companies:
 4. Declare victory. Announce next impossible thing.
 
 Examples:
+
 - "Fully self-driving Teslas by 2017" → Still not fully autonomous in 2026.
 - "Humans on Mars by 2024" → No humans. Rockets still being tested.
 - "Hyperloop in 2 years" → Never built it himself. Concept adopted and abandoned by others.
@@ -481,6 +482,7 @@ Space topics and DOGE/political topics constantly collide in Musk discourse. A S
 Blue Origin (Bezos), Rocket Lab (Peter Beck), ULA (Boeing/Lockheed), and China's CASC are the main foils. X discourse frames SpaceX as the scrappy innovator vs legacy aerospace. Blue Origin catches particular heat ("still hasn't reached orbit with New Glenn" was a running joke until its successful launch in 2025).
 
 **Cultural Signals to Track**
+
 - "Rapid unscheduled disassembly" (RUD) = SpaceX euphemism for explosion. Used sarcastically.
 - "Norminal" = inside joke from a SpaceX webcast where an engineer said "norminal" instead of "nominal."
 - Chopstick catch memes and references.
@@ -493,4 +495,4 @@ SpaceX maintains higher approval than Musk personally. Many people separate "Spa
 
 ---
 
-*Source compiled from public reporting, SEC filings, FCC filings, NASA contracts, company announcements, and journalistic accounts through Feb 2026.*
+_Source compiled from public reporting, SEC filings, FCC filings, NASA contracts, company announcements, and journalistic accounts through Feb 2026._

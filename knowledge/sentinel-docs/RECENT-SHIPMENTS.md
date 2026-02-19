@@ -7,6 +7,7 @@ Reference for Sentinel: what shipped recently and where to check for the latest 
 ## Recent Shipments (Last Few Days)
 
 **Otaku agent (src/agents/otaku.ts):**
+
 - Plugins now loaded: SQL, Bootstrap, OpenAI (optional), Web Search (optional), CDP, Morpho (when CDP), Relay (when CDP + RELAY_API_KEY), **Biconomy/MEE** (when CDP + BICONOMY_API_KEY — gasless cross-chain swaps/rebalance), **DefiLlama** (always — protocol TVL, GET_PROTOCOL_TVL, GET_YIELD_RATES), Bankr (when BANKR_API_KEY), Etherscan (optional).
 - **Not loaded:** Clanker (redundant with Bankr for token launch on Base + Solana), CoinGecko (execution/quote from Relay/Bankr/Nansen; Hyperliquid preferred elsewhere).
 - OTAKU.md updated with full plugin-loading notes.
@@ -34,20 +35,20 @@ Update the snapshots below when syncing sentinel-docs, or run web search for the
 
 From https://github.com/IkigaiLabsETH/vince/pulls?q=is%3Apr+is%3Aclosed:
 
-| PR   | Title                                              | Merged    |
-|------|----------------------------------------------------|-----------|
-| #13  | feat: plugin-x-research + ECHO agent (CSO)         | Feb 12, 2026 |
-| #12  | Feature/plugin x research                          | Feb 12, 2026 |
-| #11  | Feature/plugin eliza                               | Feb 11, 2026 |
-| #10  | feat(plugin-sentinel): 10x upgrade - world-class core dev with PRDs, trading intelligence, multi-agent vision | Feb 11, 2026 |
-| #9   | feat(plugin-eliza): Dedicated Eliza plugin with content production capabilities | Feb 11, 2026 |
-| #8   | Implement OpenClaw plugin integration and enhance market data fetching | Feb 11, 2026 |
-| #7   | V2.0.0 - OpenClaw Enterprise Plugin (28+ Features) | Feb 11, 2026 |
-| #6   | Refactor character plugin tests to use a type guard for plugin retrieval | Feb 9, 2026 |
-| #5   | Feat/oneteamonedream                               | Feb 9, 2026 |
-| #4   | Frontend/otaku mirror                              | Feb 6, 2026 |
-| #3   | Merge pull request #1 from IkigaiLabsETH/frontend/otaku-mirror | Feb 6, 2026 |
-| #1   | Frontend/otaku mirror                              | Feb 6, 2026 |
+| PR  | Title                                                                                                         | Merged       |
+| --- | ------------------------------------------------------------------------------------------------------------- | ------------ |
+| #13 | feat: plugin-x-research + ECHO agent (CSO)                                                                    | Feb 12, 2026 |
+| #12 | Feature/plugin x research                                                                                     | Feb 12, 2026 |
+| #11 | Feature/plugin eliza                                                                                          | Feb 11, 2026 |
+| #10 | feat(plugin-sentinel): 10x upgrade - world-class core dev with PRDs, trading intelligence, multi-agent vision | Feb 11, 2026 |
+| #9  | feat(plugin-eliza): Dedicated Eliza plugin with content production capabilities                               | Feb 11, 2026 |
+| #8  | Implement OpenClaw plugin integration and enhance market data fetching                                        | Feb 11, 2026 |
+| #7  | V2.0.0 - OpenClaw Enterprise Plugin (28+ Features)                                                            | Feb 11, 2026 |
+| #6  | Refactor character plugin tests to use a type guard for plugin retrieval                                      | Feb 9, 2026  |
+| #5  | Feat/oneteamonedream                                                                                          | Feb 9, 2026  |
+| #4  | Frontend/otaku mirror                                                                                         | Feb 6, 2026  |
+| #3  | Merge pull request #1 from IkigaiLabsETH/frontend/otaku-mirror                                                | Feb 6, 2026  |
+| #1  | Frontend/otaku mirror                                                                                         | Feb 6, 2026  |
 
 Update this snapshot when syncing sentinel-docs or run web search for current list.
 

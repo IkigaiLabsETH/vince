@@ -3,6 +3,7 @@ tags: [trading, risk-management, strategy]
 agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Risk Management Framework
 
 ## Methodology & Framework
@@ -14,11 +15,13 @@ Risk management is the single most important edge in trading. Markets are probab
 ### Analytical Approach
 
 **Position Sizing Models:**
+
 - **Fixed Fractional** — Risk a fixed % of portfolio per trade (typically 1-3%). Simple, scales naturally with equity. A 2% risk rule means 50 consecutive losers to blow up — statistically near-impossible with any edge.
 - **Kelly Criterion** — Optimal sizing: `f = (bp - q) / b` where b = odds, p = win probability, q = loss probability. Full Kelly is aggressive; use half-Kelly or quarter-Kelly in practice. Requires accurate win rate and reward/risk estimates.
 - **Volatility-Adjusted** — Size inversely to asset volatility. Higher ATR = smaller position. Normalizes risk across assets so a BTC position and an altcoin position carry similar dollar risk.
 
 **Stop-Loss Strategies:**
+
 - **Structure-based** — Below key support, swing low, or order block. Best for swing trades.
 - **ATR-based** — 1.5-2x ATR from entry. Adapts to current volatility regime.
 - **Time-based** — If thesis hasn't played out within X candles, exit. Prevents capital lock-up.
@@ -33,11 +36,13 @@ Risk management is the single most important edge in trading. Markets are probab
 ### Decision Framework
 
 **Max Drawdown Rules:**
+
 - **-10% monthly** → Reduce position sizes by 50%, review all open trades
 - **-15% monthly** → Stop trading, go to cash, review journal for 48 hours minimum
 - **-20% from equity peak** → Full stop. Re-evaluate strategy, market regime, and psychological state before resuming
 
 **Pre-Trade Checklist:**
+
 1. Define entry, stop, and target before executing
 2. Calculate position size from stop distance and risk budget
 3. Check portfolio heat — is there room?
@@ -45,6 +50,7 @@ Risk management is the single most important edge in trading. Markets are probab
 5. Confirm risk/reward ≥ 2:1 (exceptions for high win-rate setups)
 
 **Risk Scaling by Conviction:**
+
 - Low conviction: 0.5-1% risk
 - Standard: 1-2% risk
 - High conviction (A+ setup + regime alignment): 2-3% risk
@@ -52,4 +58,4 @@ Risk management is the single most important edge in trading. Markets are probab
 
 The best traders aren't right more often — they lose small and win big. Asymmetric risk/reward combined with disciplined sizing is the entire game.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

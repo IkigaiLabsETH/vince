@@ -3,6 +3,7 @@ tags: [bitcoin, macro, investment]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Bitcoin Mining: The Hidden Centralization Crisis
 
 Bitcoin mining has a problem. Everyone sees it as this magical process of machines running 24/7, printing money and securing the backbone of bitcoin. But the truth is pretty ugly. Behind the scenes, Bitcoin is being infiltrated by the same virus Big Tech got not so long ago, and if we don't fix it, Bitcoin could literally die from the inside out.
@@ -95,11 +96,11 @@ So when a company controls the chips... they control the entire mining industry.
 
 ### Three Companies Control Everything
 
-| Company | Market Share | Country |
-|---------|-------------|---------|
-| Bitmain (Antminer) | ~80% | China |
-| WhatsMiner (MicroBT) | ~13% | China |
-| Canaan (Avalon) | ~6% | Singapore |
+| Company              | Market Share | Country   |
+| -------------------- | ------------ | --------- |
+| Bitmain (Antminer)   | ~80%         | China     |
+| WhatsMiner (MicroBT) | ~13%         | China     |
+| Canaan (Avalon)      | ~6%          | Singapore |
 
 **That's 93% from one region. Almost total control.**
 
@@ -198,6 +199,7 @@ There is hope. Four projects are quietly fighting back — and proving that Bitc
 ### 1. Bitaxe — The Spark
 
 **Skot**, the creator of Bitaxe:
+
 - Bought Bitmain machines and ripped them open
 - Desoldered hundreds of chips and taught himself how to talk to the silicon
 - Built the **first one-chip, open-source Bitcoin miner**
@@ -217,6 +219,7 @@ Proto is designing their own Bitcoin mining chips from scratch.
 Mission: **Dismantle the proprietary mining empire.**
 
 They're taking the open-source movement beyond software — to the actual hardware:
+
 - Open hashboards
 - Open control boards
 - Self-hosted mining pool that anyone can run
@@ -268,7 +271,6 @@ The fight's not over. It just looks different now.
 4. **Open-source is the solution**: Bitaxe, Proto, 256 Foundation, and OCEAN are fighting back
 5. **Individual action matters**: Running your own node or miner protects the network for everyone
 6. **The threat is internal, not external**: Convenience and corporate control are more dangerous than government attacks
-
 
 ## Related
 

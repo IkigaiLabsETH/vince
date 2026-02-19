@@ -44,18 +44,21 @@ The tool is particularly valuable for traders/researchers (market research, news
 ## Action Items
 
 **Immediate Steps:**
+
 - Visit docs.clawd.bot and follow quickstart guide (budget 30-60 minutes)
 - Start with ONE simple task: "organize downloads folder" or "what's on my calendar today?"
 - Join Discord community to learn from others' implementations
 - Read skills documentation to understand what's possible
 
 **Learning Path:**
+
 - Master basic file management and research tasks first
 - Build ONE meaningful weekly automation after understanding basics
 - Expand gradually - each success builds on previous learning
 - Invest in proper setup for advanced features rather than expecting instant results
 
 **Reality Checks:**
+
 - Budget 2-4 hours for advanced automation setup
 - Plan for ongoing maintenance as APIs and websites change
 - Focus on clear, specific instructions rather than vague requests

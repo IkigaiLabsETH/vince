@@ -3,6 +3,7 @@ tags: [security, risk, safety]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 ### Seed Phrase Management
 
 Seed phrases are the root of all custody. Protect them with the same rigor as the assets they control.
@@ -21,4 +22,4 @@ The most sophisticated wallet setup fails against a well-crafted social attack. 
 
 The wallet security stack is only as strong as its weakest behavioral link. Technology provides the ceiling; discipline determines where you actually operate.
 
-*Last updated: 2026-02-15*
+_Last updated: 2026-02-15_

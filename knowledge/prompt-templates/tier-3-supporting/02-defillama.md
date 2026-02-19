@@ -3,6 +3,7 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Prompt #2: DefiLlama (DeFi Ecosystem Analysis)
 
 **Priority**: Tier 3 - Supporting  
@@ -10,6 +11,7 @@ last_reviewed: 2026-02-15
 **Data Source**: DefiLlama API (https://api.llama.fi)
 
 ## Core Objectives
+
 - Assess overall DeFi ecosystem health across all chains
 - Track TVL by chain, protocol category, and major protocols
 - Monitor capital flows: stablecoin movements, bridge volumes, yield trends
@@ -19,6 +21,7 @@ last_reviewed: 2026-02-15
 ## Tool Usage Strategy
 
 ### Primary: DefiLlama API Endpoints
+
 - `code_execution` with `requests` to query DefiLlama public APIs:
   - `/v2/chains` - All chains with current TVL, 1d/7d changes
   - `/v2/historicalChainTvl/{chain}` - Historical TVL for specific chain
@@ -32,6 +35,7 @@ last_reviewed: 2026-02-15
   - `/dexs` - DEX volumes by chain/protocol
 
 ### Key Metrics to Extract
+
 1. **TVL by Chain**: Top 10 chains, their TVL, 7d/30d % changes
 2. **TVL by Category**: Lending, DEX, Liquid Staking, Bridges, Derivatives
 3. **Stablecoin Health**: Total supply, chain distribution, depegs
@@ -39,6 +43,7 @@ last_reviewed: 2026-02-15
 5. **Capital Velocity**: Bridge volumes, DEX volumes, fee generation
 
 ### Fallback: Browse Page
+
 - `browse_page` on defillama.com if API fails:
   - https://defillama.com/ (overview)
   - https://defillama.com/chains (chain rankings)
@@ -68,29 +73,34 @@ One-paragraph summary: Total DeFi TVL (~$X B), direction (growing/shrinking), do
 | Bridges | $XX B | ↑/↓ | Stargate, Across |
 
 **Capital Flow Signals**
+
 - **Stablecoins**: Total supply $X B, USDT dominance X%, notable flows...
 - **Bridge Activity**: $X B/day volume, top routes (e.g., Ethereum→Arbitrum)
 - **Yield Trends**: Average lending yield X%, stablecoin yield X%
 
 **Key Insights**
+
 1. [Most important observation about ecosystem health]
 2. [Chain gaining/losing market share and why]
 3. [Risk signal or opportunity]
 4. [Comparison to previous cycle]
 
 **Ecosystem Health Score**: X/10
+
 - Liquidity depth: [assessment]
 - Yield sustainability: [assessment]
 - Cross-chain activity: [assessment]
 ```
 
 ## Integration Notes
+
 - Feeds into `defiFlowsSpecialist` for capital flow analysis
 - Provides context for chain-specific agents (Solana, Ethereum, etc.)
 - Informs macro positioning (DeFi health = risk-on/risk-off signal)
 - Can identify which chains to focus on for yield opportunities
 
 ## Performance Notes
+
 - Always fetch fresh data via API (DeFi TVL changes rapidly)
 - Compare current TVL to ATH and cycle benchmarks
 - Watch for anomalies: sudden TVL drops (exploits?), unusual bridge flows
@@ -100,19 +110,23 @@ One-paragraph summary: Total DeFi TVL (~$X B), direction (growing/shrinking), do
 ## Query-Specific Guidance
 
 ### "Which chains are growing/shrinking?"
+
 Focus on `/v2/chains` endpoint, sort by 7d/30d change, identify outliers
 
 ### "Is DeFi healthy right now?"
+
 Holistic view: TVL trend, yield sustainability, stablecoin flows, DEX volumes
 
 ### "Where should I deploy capital?"
+
 Yield opportunities + risk assessment (protocol age, audit status, TVL stability)
 
 ### "BTC DeFi specifically"
+
 Filter for Bitcoin chain, WBTC protocols, BTC-collateralized lending
 
 ---
 
-*Template Version: 2.0*  
-*Last Updated: 2026-01-22*
-*Changes: Expanded from BTC-only to general DeFi ecosystem analysis*
+_Template Version: 2.0_  
+_Last Updated: 2026-01-22_
+_Changes: Expanded from BTC-only to general DeFi ecosystem analysis_

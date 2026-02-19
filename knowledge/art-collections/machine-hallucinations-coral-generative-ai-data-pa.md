@@ -3,6 +3,7 @@ tags: [nft, art, collections]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Machine Hallucinations: Coral — Generative AI Data Painting
 
 OpenSea Slug: `machine-hallucinations-coral-generative-ai-data-pa`

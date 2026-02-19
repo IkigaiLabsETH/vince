@@ -4,7 +4,6 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 Perpetual futures DEXs (Perp DEXs) have become one of the most efficient and relatively low-risk ways to farm airdrops, especially for traders with limited capital. Many early participants in platforms like Lighter and Hyperliquid received solid airdrops simply by generating trading volume and holding positions in the early days of their points programs.
 
 The appeal is clear: the process is straightforward, the mechanics reward consistent activity, and — when done correctly — the directional risk can be almost entirely eliminated. The core idea is to generate trading volume and open interest to earn points while keeping positions delta-neutral (immune to price movements) and, when possible, earning funding rate payments along the way.

@@ -3,11 +3,12 @@ tags: [ai, crypto, agents]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 # AI x Crypto: Convergence Overview
 
 ## Why Crypto Needs AI
 
-Crypto's UX is terrible. Smart contracts are rigid. DeFi requires constant human attention. AI fixes all three. Natural language interfaces make wallets usable. AI agents can manage DeFi positions, rebalance portfolios, and execute complex strategies 24/7. More fundamentally, AI enables *adaptive* protocols — systems that respond to conditions rather than following static rules.
+Crypto's UX is terrible. Smart contracts are rigid. DeFi requires constant human attention. AI fixes all three. Natural language interfaces make wallets usable. AI agents can manage DeFi positions, rebalance portfolios, and execute complex strategies 24/7. More fundamentally, AI enables _adaptive_ protocols — systems that respond to conditions rather than following static rules.
 
 The deeper need: crypto generates enormous data but extracts little intelligence from it. On-chain analytics, MEV detection, fraud identification, risk scoring — these are AI problems running on crypto data. The chain is the database; AI is the query engine.
 
@@ -31,8 +32,7 @@ The AI x crypto market layers roughly as: compute networks (Render, Akash) → i
 
 Watch the compute layer for real signal. GPU utilization rates, inference request volumes, and fee revenue tell you whether the sector has genuine demand or is running on vibes.
 
-*Last updated: 2026-02-15*
-
+_Last updated: 2026-02-15_
 
 ## Related
 

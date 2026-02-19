@@ -4,7 +4,6 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 Every day some guy with a rented Lamborghini and a $97 course tells you that “real freedom” starts at $30k a month. Then the next post says $30k is barely “comfortable” and you need $100k+ to touch private jets and St. Tropez villas. It’s a brilliant hustle: keep moving the goalposts so you never stop buying the dream. Here’s the uncomfortable truth nobody wants to put in a viral carousel: $10,000 a month net, debt-free, with a paid-off house is already top 1–3% lifestyle in most of the world — and top 5–10% even in expensive Western countries. You just have to stop measuring your life against Instagram flex culture.
 
 Let’s run the actual numbers and the actual life.

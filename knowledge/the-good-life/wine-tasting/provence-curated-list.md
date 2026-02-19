@@ -99,12 +99,12 @@ Most Provence rosé is meant to drink young. Bandol rosé is the exception. Mour
 
 ## Price Guide Summary
 
-| Tier | What You Get | Price Range |
-|------|-------------|-------------|
-| Everyday | Côtes de Provence, Coteaux d'Aix rosé | €8-15 |
-| Step Up | Named producer rosé, Cassis white | €15-25 |
-| Serious | Bandol red/rosé, Palette, Les Baux | €25-45 |
-| Collector | Trévallon, Garrus, Tempier single-vineyard | €50-90+ |
+| Tier      | What You Get                               | Price Range |
+| --------- | ------------------------------------------ | ----------- |
+| Everyday  | Côtes de Provence, Coteaux d'Aix rosé      | €8-15       |
+| Step Up   | Named producer rosé, Cassis white          | €15-25      |
+| Serious   | Bandol red/rosé, Palette, Les Baux         | €25-45      |
+| Collector | Trévallon, Garrus, Tempier single-vineyard | €50-90+     |
 
 ---
 

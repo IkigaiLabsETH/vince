@@ -3,7 +3,9 @@ tags: [vc, startups, investment]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 ## Metadata
+
 **Source**: YouTube | https://www.youtube.com/watch?v=bbSBuBZQXTY
 **Category**: venture-capital
 **Word Count**: 1358

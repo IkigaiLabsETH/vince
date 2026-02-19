@@ -3,8 +3,8 @@ tags: [lifestyle]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
----
 
+---
 
 ## Metadata
 
@@ -20,9 +20,9 @@ Many people think building wealth is about:
 
 ## Context
 
-- Being a good investor  
-- Timing the market  
-- Picking the right investments  
+- Being a good investor
+- Timing the market
+- Picking the right investments
 
 It's not.
 
@@ -50,10 +50,10 @@ Your expected return with this strategy is historically around **8% per year**. 
 
 **$10 invested today becomes:**
 
-- $20 in 10 years  
-- $40 in 20 years  
-- $80 in 30 years  
-- $160 in 40 years  
+- $20 in 10 years
+- $40 in 20 years
+- $80 in 30 years
+- $160 in 40 years
 
 After 40 years, you have already multiplied your money by sixteen.
 
@@ -77,8 +77,8 @@ In general, **ETFs should make up the majority of your portfolio**. It depends s
 
 **Real estate** is complex and highly individual, depending on where you live. Buying makes sense in two scenarios:
 
-1. Your portfolio is already large and you want additional diversification  
-2. You are willing to invest significant time and deeply understand the local market  
+1. Your portfolio is already large and you want additional diversification
+2. You are willing to invest significant time and deeply understand the local market
 
 Otherwise, you will not beat stock market returns and you will have significantly more work on top of that.
 
@@ -98,7 +98,7 @@ A commonly used rule of thumb is the **4% rule**. It states that you can withdra
 
 ## Conclusion
 
-- $6,000 × 300 = **$1,800,000**  
+- $6,000 × 300 = **$1,800,000**
 - → With a portfolio of $1,800,000, you could comfortably withdraw $6,000 per month and live off it.
 
 The goal shouldn't be to retire as fast as possible. It's much more about **understanding how to use time and compound interest to your advantage**. Starting as early as possible is crucial, and even small savings rates make a huge difference over time.

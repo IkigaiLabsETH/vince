@@ -50,17 +50,20 @@ The conversation reveals how serious players have adapted: focusing on Bitcoin a
 ## Trading/Investment Implications
 
 **Strategic Shifts Required**:
+
 - Traditional cycle-based timing strategies are obsolete
 - Macro analysis (Fed policy, geopolitics, business cycles) now essential for crypto positioning
 - Leverage trading has become increasingly dangerous due to coordinated liquidation events
 - Focus should shift to major cryptocurrencies (BTC/ETH) rather than altcoin speculation
 
 **Risk Management**:
+
 - Avoid high-leverage positions during geopolitically volatile periods
 - Expect continued choppiness and "scam wicks" designed to liquidate retail traders
 - Traditional support/resistance levels less reliable when political events can override technical analysis
 
 **Opportunity Areas**:
+
 - Prediction markets gaining traction as new financial primitive
 - Building during uncertain times positions projects for next liquidity cycle
 - Fair-launched community projects (like Tung's Clash token) showing sustainability vs. typical pump-and-dumps
@@ -68,17 +71,20 @@ The conversation reveals how serious players have adapted: focusing on Bitcoin a
 ## Action Items
 
 **Monitor Closely**:
+
 - Trump administration policy announcements and their immediate market impact
 - Fed meeting outcomes and rate decisions
 - Geopolitical developments (tariffs, international relations, economic warfare)
 - Business cycle indicators and liquidity conditions
 
 **Research Areas**:
+
 - Prediction market platforms and their growth potential
 - Fair-launch token mechanics vs. traditional VC-backed projects
 - Correlation between traditional markets and crypto during macro events
 
 **Strategic Positioning**:
+
 - Reduce leverage exposure during politically volatile periods
 - Focus portfolio on Bitcoin and major cryptocurrencies
 - Consider building/accumulating during uncertain times rather than trading volatility

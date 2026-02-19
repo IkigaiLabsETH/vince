@@ -4,26 +4,28 @@ agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
 
-
 # 180320875.Chateau Chantelune
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: the-good-life
 **Word Count**: 1,103
 **Tags**: #eth #defi #substack
+
 ---
 
 We opened the Château Prieuré-Lichine 2020, because it was already in the rack and the steak was resting. The cork slid out with that satisfying sigh only a well-cellared Bordeaux gives. One swirl and the room filled with black cherries, warm graphite, and the faintest whiff of the herb garden after rain. On the palate it was everything a modern classified-growth Margaux has learned to be: plush yet precise, medium-full, with tannins like cashmere and a bright, mouth-watering finish that made the next sip involuntary. James Suckling’s 96 points felt conservative. And yet, as often happens when a great wine loosens the tongue, the conversation drifted to the one Margaux we keep talking about even when we’re drinking something else.
 
-There is a hill in Margaux that almost no one talks about. It rises modestly above the hamlet of Soussans, crowned by a single plot of forty-year-old vines and a low stone wall that looks older than the appellation itself. From the top you can see the spires of Château Margaux in the distance and, on a clear day, the silver ribbon of the Gironde estuary beyond. 
+There is a hill in Margaux that almost no one talks about. It rises modestly above the hamlet of Soussans, crowned by a single plot of forty-year-old vines and a low stone wall that looks older than the appellation itself. From the top you can see the spires of Château Margaux in the distance and, on a clear day, the silver ribbon of the Gironde estuary beyond.
 
 ## Context
 
-On that ridge, José Sanfins makes one of the most compelling red wines in Bordeaux today. He calls it Château Chantelune. The rest of the world is only now catching on. 
+On that ridge, José Sanfins makes one of the most compelling red wines in Bordeaux today. He calls it Château Chantelune. The rest of the world is only now catching on.
 
-Most people who meet José Sanfins first know him as the technical director of Third Growth Château Cantenac Brown, a 1855-classified estate with 72 hectares, a brand-new eco-designed winery, and the kind of visibility that comes with two centuries of pedigree. 
+Most people who meet José Sanfins first know him as the technical director of Third Growth Château Cantenac Brown, a 1855-classified estate with 72 hectares, a brand-new eco-designed winery, and the kind of visibility that comes with two centuries of pedigree.
 
-What fewer realize is that every evening, after tasting through barrel samples at Cantenac Brown, Sanfins drives five minutes down a gravel lane to a 1.2 hectares that belong to him alone. There he does everything by hand: pruning, leaf-thinning, harvesting, sorting. 
+What fewer realize is that every evening, after tasting through barrel samples at Cantenac Brown, Sanfins drives five minutes down a gravel lane to a 1.2 hectares that belong to him alone. There he does everything by hand: pruning, leaf-thinning, harvesting, sorting.
 
 ## Main
 
@@ -33,11 +35,11 @@ The story of Chantelune is the story of what happens when one of the Médoc’s 
 
 **The Man Who Works for the Moon**
 
-José Sanfins is Portuguese by birth, Bordelais by conviction. He arrived in Margaux in the late 1980s, took the reins at Cantenac Brown in 1997, and has spent the last quarter-century turning a respectable but sleepy estate into one of the most dynamic properties on the Left Bank. 
+José Sanfins is Portuguese by birth, Bordelais by conviction. He arrived in Margaux in the late 1980s, took the reins at Cantenac Brown in 1997, and has spent the last quarter-century turning a respectable but sleepy estate into one of the most dynamic properties on the Left Bank.
 
 Along the way he bought this tiny parcel in 2004 from a retired carpenter named Mr. Soubrane, who had planted the vines in the early 1980s and harvested by the light of the moon—hence the name Chantelune, “sing to the moon.”
 
-Sanfins could have folded the plot into Cantenac Brown. Instead he kept it separate, a laboratory for ideas he could not always apply on a larger scale. Where Cantenac Brown is polished and corporate in the best sense, Chantelune is raw, obsessive, almost monastic. 
+Sanfins could have folded the plot into Cantenac Brown. Instead he kept it separate, a laboratory for ideas he could not always apply on a larger scale. Where Cantenac Brown is polished and corporate in the best sense, Chantelune is raw, obsessive, almost monastic.
 
 There is no château, no tasting room, no website, no Instagram account. There is only the hill, the vines, and a man who refuses to compromise.
 
@@ -56,8 +58,8 @@ Critics have run out of superlatives. The 2015 earned a gold medal and 95 points
 **Why It Matters Now**
 
 In an era when Bordeaux is increasingly dominated by corporations, consultants, and climate anxiety, Chantelune is a defiant reminder of what the region can still be. It is a wine made not for investors or auction houses but for people who believe that pleasure and profundity can coexist in the same bottle. At €29 retail (when you can find it), it is one of the greatest values in fine wine today—cheaper than most cru bourgeois, half the price of many unclassified “super seconds,” and frankly better than many classified growths.
-> 
-Yet its very existence feels precarious. Sanfins is in his sixties. There is no second generation waiting in the wings. When he is gone, will the parcel be absorbed into a larger estate? Will the vines be uprooted for a housing development? Or will someone else recognize that this moonlit hill is irreplaceable?
+
+> Yet its very existence feels precarious. Sanfins is in his sixties. There is no second generation waiting in the wings. When he is gone, will the parcel be absorbed into a larger estate? Will the vines be uprooted for a housing development? Or will someone else recognize that this moonlit hill is irreplaceable?
 
 ## Conclusion
 

@@ -8,12 +8,12 @@
 
 ## What we have vs what upstream adds
 
-| Area | We have | Upstream adds (explore and consider) |
-|------|---------|--------------------------------------|
-| **CLI** | skills/x-research: search, profile, thread, tweet, watchlist, --save, --markdown, cache | **Quick mode** (--quick): 1 page, 1h cache, cost summary; **--from &lt;user&gt;** shorthand; **--quality** (min 10 likes post-hoc) |
-| **Cost** | X-RESEARCH.md mentions pay-per-use, cache, rate limits | **Cost transparency:** per-resource table (post read, user lookup, search page); cost shown after every search; 24h dedup; spending controls; xAI credit bonus note |
-| **Security** | Token in .env, optional second token for sentiment | **Explicit warning:** AI agents may log tool calls (headers); recommend env var, minimal permissions, token rotation |
-| **Docs** | X-RESEARCH.md = single source (design, tokens, in-chat, vibe, CLI) | SKILL.md / README: natural-language examples, file structure, limitations (7 days, read-only, pay-per-use) |
+| Area         | We have                                                                                 | Upstream adds (explore and consider)                                                                                                                                |
+| ------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CLI**      | skills/x-research: search, profile, thread, tweet, watchlist, --save, --markdown, cache | **Quick mode** (--quick): 1 page, 1h cache, cost summary; **--from &lt;user&gt;** shorthand; **--quality** (min 10 likes post-hoc)                                  |
+| **Cost**     | X-RESEARCH.md mentions pay-per-use, cache, rate limits                                  | **Cost transparency:** per-resource table (post read, user lookup, search page); cost shown after every search; 24h dedup; spending controls; xAI credit bonus note |
+| **Security** | Token in .env, optional second token for sentiment                                      | **Explicit warning:** AI agents may log tool calls (headers); recommend env var, minimal permissions, token rotation                                                |
+| **Docs**     | X-RESEARCH.md = single source (design, tokens, in-chat, vibe, CLI)                      | SKILL.md / README: natural-language examples, file structure, limitations (7 days, read-only, pay-per-use)                                                          |
 
 ---
 

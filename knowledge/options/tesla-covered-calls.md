@@ -4,13 +4,15 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # 181729376.Tesla Covered Calls
+
 ## Metadata
+
 **Source**: Substack Essay
 **Category**: options
 **Word Count**: 1,234
 **Tags**: #bitcoin #btc #sol #options #macro #trading #portfolio #substack
+
 ---
 
 Tesla (TSLA) remains one of the most volatile and captivating stocks in the market. As of mid-December 2025, shares trade around $460–$480, up significantly from mid-year levels near $320–$330. This surge has been driven by continued momentum in AI, robotics, and autonomous driving breakthroughs. Recent milestones—such as unsupervised Robotaxi testing in Austin, with vehicles now operating without safety drivers—have fueled fresh optimism, pushing the stock toward its 2025 highs near $488. Analysts like Wedbush’s Dan Ives have described 2026 as potentially a “monster year,” though lingering concerns around valuation and softening EV demand temper the enthusiasm.
@@ -37,11 +39,9 @@ Common practice targets out-of-the-money strikes 5–10% above the current price
 
 Institutional covered call programs—seen in broad-market products like JEPI and QYLD—continue to recycle shares systematically after expiration, often creating mild post-expiry buying pressure in high-volatility names like TSLA.Platform Selection: Why Tastytrade Stands Out for Options-Focused TradersFor income-oriented options traders, tastytrade remains a top choice thanks to its intuitive, options-first interface, robust probability-of-profit calculators, and competitive pricing ($1 per contract to open, $0 to close, capped at $10 per leg). The platform fully supports cash accounts—meaning no margin is required for covered calls—and is available to residents in France and much of Europe.Compared directly to Interactive Brokers (IBKR):
 
-- 
-Tastytrade excels in simplicity and specialized tools tailored to frequent options income strategies.
+- Tastytrade excels in simplicity and specialized tools tailored to frequent options income strategies.
 
-- 
-IBKR offers lower per-contract fees and superior multi-currency handling but comes with a steeper learning curve and a more institutional feel.
+- IBKR offers lower per-contract fees and superior multi-currency handling but comes with a steeper learning curve and a more institutional feel.
 
 For a European trader focused on bi-weekly covered calls, tastytrade’s workflow—search TSLA, switch to Table mode, select the “Covered Call” strategy menu, choose strike and expiration, review, and send—remains hard to beat.Tax Considerations for French Residents
 
@@ -53,14 +53,11 @@ Risks and Mitigation StrategiesT
 
 he primary risks are well-known:
 
-- 
-Opportunity cost: If Tesla surges dramatically (e.g., on a major Robotaxi announcement), shares may be called away, capping upside.
+- Opportunity cost: If Tesla surges dramatically (e.g., on a major Robotaxi announcement), shares may be called away, capping upside.
 
-- 
-Downside exposure: The premium provides only partial cushion against declines.
+- Downside exposure: The premium provides only partial cushion against declines.
 
-- 
-Volatility contraction: A sudden drop in implied volatility after a catalyst can shrink future premiums.
+- Volatility contraction: A sudden drop in implied volatility after a catalyst can shrink future premiums.
 
 Mitigation includes limiting position size (typically no more than 25% of the portfolio in a single name), actively rolling winning positions (buying back the short call and selling a new one farther out in price or time), and maintaining disciplined strike selection guided by probability tools.
 
@@ -68,14 +65,11 @@ Institutions often manage gamma exposure dynamically; retail traders achieve sim
 
 The Institutional “Recycling Machine” and Parallels to Michael Saylor’s PlaybookProfessional trading desks treat covered calls as systematic yield-generation programs. The mechanics are simple and mechanical:
 
-- 
-Collect premium upfront → bond-like income stream.
+- Collect premium upfront → bond-like income stream.
 
-- 
-If the call expires worthless → keep premium and shares.
+- If the call expires worthless → keep premium and shares.
 
-- 
-If assigned → deliver shares but keep premium; then immediately repurchase shares to reload for the next cycle.
+- If assigned → deliver shares but keep premium; then immediately repurchase shares to reload for the next cycle.
 
 This recycling creates predictable post-expiration demand, often manifesting as mild upside pressure in the 24–48 hours after major option expirations—particularly noticeable in high-volatility assets like TSLA and Bitcoin.
 
@@ -85,20 +79,15 @@ Both approaches monetize conviction in an underlying asset by systematically har
 
 Practical Tips for Sustainable Execution
 
-- 
-Keep Tesla exposure to no more than 25% of the overall portfolio to withstand overnight swings.
+- Keep Tesla exposure to no more than 25% of the overall portfolio to withstand overnight swings.
 
-- 
-Enter orders 15–30 minutes after the U.S. market open for tighter bid-ask spreads.
+- Enter orders 15–30 minutes after the U.S. market open for tighter bid-ask spreads.
 
-- 
-Tag trades with notes (e.g., “income,” “defensive roll”) for later review.
+- Tag trades with notes (e.g., “income,” “defensive roll”) for later review.
 
-- 
-Target 1–2% monthly return on capital (12–24% annualized before tax) rather than chasing maximum premium.
+- Target 1–2% monthly return on capital (12–24% annualized before tax) rather than chasing maximum premium.
 
-- 
-Focus on consistency over occasional home runs.
+- Focus on consistency over occasional home runs.
 
 Conclusion: Turning Volatility into Reliable Income
 

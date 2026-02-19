@@ -4,7 +4,6 @@ agents: [solus, eliza]
 last_reviewed: 2026-02-15
 ---
 
-
 # $HYPE Wheel Strategy: From Tradfi Wisdom to Crypto Reality
 
 ## Overview
@@ -29,10 +28,12 @@ This document details our real-world implementation of the wheel strategy on $HY
 ### Phase 1: Aggressive Growth (Mid-October to Mid-December 2025)
 
 **Strategy**: Aggressive wheeling with:
+
 - Primary: Covered calls
 - Secondary: Naked puts for extra premium
 
 **Results**:
+
 - Harvested over $11K in premiums
 - Climbed to #2 on Hyperliquid options leaderboard
 - Felt unstoppable
@@ -40,6 +41,7 @@ This document details our real-world implementation of the wheel strategy on $HY
 ### Phase 2: The Steamroller (Late December 2025)
 
 **What Happened**:
+
 - $HYPE wicked down to $22
 - Our $27 puts got exercised at ugly prices
 - Wiped $4.4K in profits
@@ -52,6 +54,7 @@ This document details our real-world implementation of the wheel strategy on $HY
 ### Phase 3: The Comeback (Early January 2026)
 
 **Observations During Healing**:
+
 - Hyperliquid protocol didn't break
 - Dominated perp volume and revenue through entire crash
 - Kept shipping (new markets, HyperEVM upgrades)
@@ -59,17 +62,20 @@ This document details our real-world implementation of the wheel strategy on $HY
 - **Fundamentals held strong while everything else bled**
 
 **Re-entry Decision**:
+
 - Yields on $HYPE options were roughly double BTC's
 - Premium income cushions dips effectively
 - Swapped 1 BTC (~$25.50) for ~3,400 $HYPE
 - Started grinding $27 covered calls, collecting ~$2K weekly
 
 **Position Addition** (January 16):
+
 - Spot dipped to $23.62, formed potential double bottom
 - Added 200 more $HYPE at $25.30 with spare USDT
 - Stack grew to ~3,600 $HYPE
 
 **Strategy Refinement**:
+
 - Rolled forward from $27 calls to $26 strike for January 23 expiry
 - Not chasing volatility—refining setup for richer premiums in cooled market
 - Staying 100% convicted on long-term thesis
@@ -91,6 +97,7 @@ This document details our real-world implementation of the wheel strategy on $HY
 ### Risk-Reward Math
 
 **Drawdown Scenario**:
+
 - $1 drop in spot = ~$3,600 principal hit (3.9% drawdown)
 - Extra premium vs. BTC (or old $27 strike) = $52K+ annualized
 - **Coverage**: Full $5 drawdown covered in ~5 weeks of rolling
@@ -99,14 +106,17 @@ This document details our real-world implementation of the wheel strategy on $HY
 ### Assignment Discipline
 
 **If Called Away at $26**:
+
 - 2.4% gain from blended entry
 - Plus every penny of premium collected
 
 **If Expires Worthless**:
+
 - Keep full stack
 - Roll again immediately
 
 **Assignment Odds**:
+
 - Platform models: ~31% assignment probability
 - Real-world (with momentum): Likely 35-40%
 - Higher than $27's 20%, but yield premium more than compensates
@@ -116,6 +126,7 @@ This document details our real-world implementation of the wheel strategy on $HY
 **Simulation Parameters**: 10,000 paths, neutral drift
 
 **Results**:
+
 - Base + bear cases (chop or further fade): ~70% probability
 - **This is where the income buffer shines brightest**
 - Pocketing 2.6% weekly while waiting for catalysts
@@ -132,6 +143,7 @@ This document details our real-world implementation of the wheel strategy on $HY
 ### Supply Dynamics
 
 **January Unlock**:
+
 - 1.2M tokens (~$31M, 0.3% of supply)
 - Absorbed without a hiccup
 - Price actually ticked higher post-event
@@ -140,6 +152,7 @@ This document details our real-world implementation of the wheel strategy on $HY
 ### Institutional Validation
 
 **Grayscale ETF Filing**:
+
 - Delaware trust registered
 - On Q1 "Assets Under Consideration" list
 - Institutional validation for one of youngest assets ever
@@ -161,6 +174,7 @@ This document details our real-world implementation of the wheel strategy on $HY
 ### Acknowledged Risks
 
 **Not BTC Safety Mode**:
+
 - $HYPE is high-beta
 - Alts bleed harder in risk-off scenarios
 - Monthly unlocks still ongoing
@@ -184,16 +198,19 @@ This document details our real-world implementation of the wheel strategy on $HY
 ### The Enhancement
 
 Layering aggressive cash-secured puts (CSPs) alongside weekly covered calls turns $HYPE setup into a more dynamic hedge, especially given token's historical volatility:
+
 - Average -8.49% in down weeks over past year
 - ~20% weekly ranges common
 
 ### How the Hedge Works
 
 **Base Setup**:
+
 - 3,600 $HYPE selling $26 covered calls weekly
 - ~$2K premium (2% yield)
 
 **CSP Addition**:
+
 - Sell puts at aggressive strikes ($20-22) instead of +2 OTM
 - Use stables as collateral
 - Target 1-2% premium per put contract
@@ -212,6 +229,7 @@ Layering aggressive cash-secured puts (CSPs) alongside weekly covered calls turn
 ### The Effect
 
 This creates a "collar-lite":
+
 - Calls cap upside mildly (but you rebuy if convicted)
 - Puts provide downside buffer via averaging
 - Theta works double-time as seller on both sides
@@ -219,6 +237,7 @@ This creates a "collar-lite":
 ### Pros: Supercharged Yield and Conviction
 
 **Averaging Down on Dips**:
+
 - Perfect for $HYPE's swingy nature
 - Past year: -8% average down weeks
 - 10-15% dip (to $21-22) triggers assignment
@@ -226,6 +245,7 @@ This creates a "collar-lite":
 - Blended cost drops, setting up bigger wins on rebounds
 
 **Extra Income**:
+
 - CSP premiums add 1-2% weekly on collateral
 - Example: $20K stables secures ~1,000 tokens worth of puts at $20 strike
 - Netting $200-400 premium
@@ -233,12 +253,14 @@ This creates a "collar-lite":
 - **Monthly**: $10-12K
 
 **Risk Alignment**:
+
 - Fits low-allocation approach—no overexposure
 - If assigned on puts, you're deeper in token you love (Hyperliquid's 69% perp share, burns)
 - Not bag-holding junk
 - Rotates stables productively without touching BTC core
 
 **Vol as Friend**:
+
 - $HYPE's ~100-120% IV (inferred from 118% APR)
 - Put premiums bloat more than calls in fear spikes
 - Dips pay you extra to buy low
@@ -246,25 +268,30 @@ This creates a "collar-lite":
 ### Cons and Risks
 
 **Capital Tie-Up**:
+
 - CSPs require cash reserves
 - Example: $20K per 1,000-token put at $20 strike
 
 **Assignment Double-Edged**:
+
 - **Good side**: Big dip assigns puts → great for averaging (e.g., add 1,000 $HYPE at $20 net of premium, new average ~$23)
 - **Bad side**: If dip persists (alt nuke), you're over-allocated (stack grows 20-50%), amplifying drawdowns
 - Historical -20% weekly ranges mean this hits ~1-2x/quarter
 
 **Opportunity Cost**:
+
 - Stables in CSPs earn yield but miss BTC upside
 - BTC's been +2-5% weekly in bulls
 - If no dip, it's "dead money" vs. spot holding
 
 **Vol Crush or False Dips**:
+
 - Premiums shrink if IV fades post-unlock (February risk)
 - Choppy weeks could assign puts on wicks without real crash
 - Ties capital unnecessarily
 
 **Tax/Fees**:
+
 - On-chain: Gas and slippage add up on rolls/assignments
 - Minimal on Hypersurface, but track it
 
@@ -273,33 +300,39 @@ This creates a "collar-lite":
 **Base Position**: 3,600 $HYPE at $25 spot
 
 **Calls**:
+
 - Sell $27 strike (8% OTM) for $2K premium (~2% yield)
 
 **Aggressive Puts**:
+
 - Use $40K stables to secure 2,000-token CSPs at $22 strike (12% OTM, higher delta for dip sensitivity)
 - Premium: ~$800 ($0.40/token, realistic at current IV)
 
 **Total Weekly Income**: $2,800 upfront
 
 **Dip Scenario** (Spot to $20, -20%):
+
 - Calls expire worthless (+$2K)
 - Puts assigned: Buy 2,000 $HYPE at $22 - $0.40 prem = $21.60 net
 - New stack: 5,600 tokens at ~$23 average
 - Drawdown cushioned by $2.8K prem; rebound to $25 recoups fast
 
 **No Dip/Rip**:
+
 - Keep $2.8K, roll
 - If ripped to $28: Calls assign (sell 3,600 at $27) → use to buy puts or spot back in
 
 ### Implementation Notes
 
 **On Hypersurface**:
+
 - Check IV/RSI Sundays
 - Sell puts only if oversold (RSI<40) for better odds
 - Monte Carlo on past data (~70% no-assignment) suggests 20-30% annualized return boost
 - Sim it yourself for $HYPE specifics
 
 **Catalyst Consideration**:
+
 - If catalysts stack (e.g., HyperEVM live), this could print
 - Hedges the hedge without complexity
 
@@ -315,6 +348,7 @@ This creates a "collar-lite":
 ## The Wheel Turns Again
 
 The strategy continues to evolve. Each cycle teaches lessons about:
+
 - Strike selection optimization
 - Volatility regime adaptation
 - Capital allocation between calls and puts

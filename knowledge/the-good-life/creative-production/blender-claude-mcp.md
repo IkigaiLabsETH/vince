@@ -39,17 +39,17 @@ Claude Desktop App  ←→  MCP Server (local)  ←→  Blender (bpy)
 
 Start small. These cover 80% of use cases:
 
-| Tool | What it does |
-|------|-------------|
-| `create_object` | Add primitives (cube, sphere, cylinder, plane) with optional position/scale |
-| `delete_object` | Remove named object(s) from the scene |
-| `set_transform` | Set location, rotation, scale on an object |
-| `get_scene_info` | List all objects, their types, transforms |
-| `apply_modifier` | Add/apply modifiers (subdivision, mirror, boolean, array) |
-| `set_material` | Create or assign a material with color/roughness/metallic |
-| `render_frame` | Render current view to image file |
-| `export_scene` | Export to FBX, glTF, OBJ, USD |
-| `run_script` | Execute arbitrary Python — the escape hatch for anything not covered |
+| Tool             | What it does                                                                |
+| ---------------- | --------------------------------------------------------------------------- |
+| `create_object`  | Add primitives (cube, sphere, cylinder, plane) with optional position/scale |
+| `delete_object`  | Remove named object(s) from the scene                                       |
+| `set_transform`  | Set location, rotation, scale on an object                                  |
+| `get_scene_info` | List all objects, their types, transforms                                   |
+| `apply_modifier` | Add/apply modifiers (subdivision, mirror, boolean, array)                   |
+| `set_material`   | Create or assign a material with color/roughness/metallic                   |
+| `render_frame`   | Render current view to image file                                           |
+| `export_scene`   | Export to FBX, glTF, OBJ, USD                                               |
+| `run_script`     | Execute arbitrary Python — the escape hatch for anything not covered        |
 
 Add more tools as needed. Keep each tool focused and well-named.
 
@@ -88,15 +88,19 @@ Add more tools as needed. Keep each tool focused and well-named.
 ## Creative workflows
 
 ### Concept prototyping
+
 "Build me a minimalist room: white walls, one window, a single chair, warm directional light." Claude creates the scene; you refine in Blender. Faster than starting from scratch.
 
 ### Procedural generation
+
 "Create 10 variations of this object with random scale and rotation." Claude loops through `create_object` and `set_transform` with randomized parameters. Export all as a grid render.
 
 ### Architectural visualization
+
 Describe a space; Claude builds the geometry. Apply materials and lighting through conversation. Render and iterate.
 
 ### Music visualization (Ableton + Blender)
+
 MIDI or audio data from Ableton → drive Blender keyframes via the MCP server. Animate objects to the beat. This is bleeding-edge but the pieces exist — MCP for Blender + OSC/MIDI bridge from Ableton.
 
 ---

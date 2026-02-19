@@ -3,18 +3,19 @@ tags: [defi, protocols, metrics]
 agents: [otaku, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # Ethena Protocol
 
 ## Quick Reference
 
-| Attribute | Value |
-|-----------|-------|
-| **Type** | Synthetic Dollar Protocol |
-| **Products** | USDe (stablecoin), sUSDe (staked), Internet Bond |
-| **Governance Token** | ENA |
-| **Revenue Model** | Treasury (yield from hedging to reserve) |
-| **Key Chains** | Ethereum, Arbitrum, Aptos |
-| **Launch** | 2024 |
+| Attribute            | Value                                            |
+| -------------------- | ------------------------------------------------ |
+| **Type**             | Synthetic Dollar Protocol                        |
+| **Products**         | USDe (stablecoin), sUSDe (staked), Internet Bond |
+| **Governance Token** | ENA                                              |
+| **Revenue Model**    | Treasury (yield from hedging to reserve)         |
+| **Key Chains**       | Ethereum, Arbitrum, Aptos                        |
+| **Launch**           | 2024                                             |
 
 ---
 
@@ -49,6 +50,7 @@ USDe is a synthetic dollar backed by delta-hedged positions:
 ⚠️ **CRITICAL DISTINCTION**: ENA does NOT receive direct protocol fees!
 
 Unlike direct fee-sharing protocols (PENDLE, CRV, AERO), Ethena uses a treasury model:
+
 - Protocol yield flows to reserve fund first
 - Yields distributed to **sUSDe stakers** (not ENA holders!)
 - **ENA is governance-only** - votes on parameters, no direct revenue share
@@ -61,19 +63,20 @@ Unlike direct fee-sharing protocols (PENDLE, CRV, AERO), Ethena uses a treasury 
 
 ## Key Integrations
 
-| Partner | Integration | Significance |
-|---------|-------------|--------------|
-| **Aave** | USDe as collateral | Major DeFi lending integration, boosts utility |
-| **Hyperliquid** | HUSDE ticker | Perps trading with USDe margin |
-| **Binance** | Full integration | CEX liquidity and trading pairs |
-| **Aptos** | sUSDe lending | Cross-chain expansion with yield opportunities |
-| **MegaETH** | MegaUSD (USDm) | L2 stablecoin partnership |
+| Partner         | Integration        | Significance                                   |
+| --------------- | ------------------ | ---------------------------------------------- |
+| **Aave**        | USDe as collateral | Major DeFi lending integration, boosts utility |
+| **Hyperliquid** | HUSDE ticker       | Perps trading with USDe margin                 |
+| **Binance**     | Full integration   | CEX liquidity and trading pairs                |
+| **Aptos**       | sUSDe lending      | Cross-chain expansion with yield opportunities |
+| **MegaETH**     | MegaUSD (USDm)     | L2 stablecoin partnership                      |
 
 ---
 
 ## Recent Developments & Context
 
 **Key Milestones (for narrative context):**
+
 - USDe supply crossed $6B+ (one of fastest growing stablecoins ever)
 - Aave integration - USDe as collateral, massive DeFi utility unlock
 - Hyperliquid integration - HUSDE for perps trading
@@ -81,6 +84,7 @@ Unlike direct fee-sharing protocols (PENDLE, CRV, AERO), Ethena uses a treasury 
 - Binance full integration - major CEX adoption
 
 **Market Narrative:**
+
 - Ethena represents the "yield-bearing stablecoin" narrative
 - Competes with: DAI (overcollateralized), USDC/USDT (fiat-backed)
 - Bull case: Captures perp funding premium at scale
@@ -88,6 +92,7 @@ Unlike direct fee-sharing protocols (PENDLE, CRV, AERO), Ethena uses a treasury 
 - Current sentiment: Growing adoption, but skeptics cite custodial risk
 
 **What To Watch:**
+
 - Funding rate trends across major venues
 - USDe supply growth vs redemptions
 - New chain/protocol integrations
@@ -96,20 +101,24 @@ Unlike direct fee-sharing protocols (PENDLE, CRV, AERO), Ethena uses a treasury 
 ## Risk Considerations
 
 ### Funding Rate Risk
+
 - Negative funding periods reduce or eliminate yields
 - Extended negative funding could cause mass redemptions
 - Protocol maintains insurance fund for funding drawdowns
 
 ### Custodial Risk
+
 - Collateral held on CEXes (Binance, Bybit, OKX) for hedging
 - Exchange failure/hack could impact collateral
 - Mitigation: Uses OES (off-exchange settlement) custody
 
 ### Smart Contract Risk
+
 - Complex multi-chain architecture
 - Audited but novel mechanism
 
 ### Depeg Risk
+
 - Not backed by fiat/treasuries like USDC/USDT
 - Relies on derivatives markets functioning normally
 - Stress scenario: Derivatives market disruption
@@ -118,17 +127,18 @@ Unlike direct fee-sharing protocols (PENDLE, CRV, AERO), Ethena uses a treasury 
 
 ## Related Tokens
 
-| Token | Type | Description |
-|-------|------|-------------|
-| **ENA** | Governance | Protocol governance, no direct fee-sharing |
-| **USDe** | Stablecoin | Synthetic dollar, maintains $1 peg |
-| **sUSDe** | Yield-bearing | Staked USDe that earns protocol yield |
+| Token     | Type          | Description                                |
+| --------- | ------------- | ------------------------------------------ |
+| **ENA**   | Governance    | Protocol governance, no direct fee-sharing |
+| **USDe**  | Stablecoin    | Synthetic dollar, maintains $1 peg         |
+| **sUSDe** | Yield-bearing | Staked USDe that earns protocol yield      |
 
 ---
 
 ## Valuation Framework
 
 When analyzing ENA valuation:
+
 1. Use CALCULATE_REVENUE_MULTIPLIER for current market cap / revenue ratio
 2. Compare to other treasury-model protocols (Maker/Sky, Compound)
 3. Consider: ENA doesn't receive direct fees like PENDLE or CRV
@@ -139,6 +149,7 @@ When analyzing ENA valuation:
 ## Context for Analysis
 
 Ethena represents a new paradigm in stablecoin design - neither fiat-backed (USDC) nor overcollateralized (DAI). Its success depends on:
+
 - Perpetual funding rates remaining positive on average
 - Continued CEX integration and trust
 - Expansion of USDe utility across DeFi

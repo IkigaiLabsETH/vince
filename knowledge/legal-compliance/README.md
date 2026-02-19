@@ -11,4 +11,3 @@ Legal frameworks, compliance methodology, regulatory risk
 - defi-compliance-toolkit.md
 - disclaimers.md
 - token-classification.md
-

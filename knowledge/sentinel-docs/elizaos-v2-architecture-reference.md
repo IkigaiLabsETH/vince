@@ -37,13 +37,13 @@ User message arrives
 
 ### Key Runtime Objects
 
-| Object | Lifetime | Purpose |
-|--------|----------|---------|
-| `AgentRuntime` | Process lifetime | Core runtime, holds state, plugin registry, memory manager |
-| `Character` | Loaded at boot | Agent definition: prompt, plugins, knowledge, settings |
-| `Plugin` | Registered at boot | Bundle of actions/services/providers/evaluators |
-| `Memory` | Per-conversation | Messages stored in DB, retrievable via embedding search |
-| `State` | Per-message | Assembled context for current turn (providers + recent messages) |
+| Object         | Lifetime           | Purpose                                                          |
+| -------------- | ------------------ | ---------------------------------------------------------------- |
+| `AgentRuntime` | Process lifetime   | Core runtime, holds state, plugin registry, memory manager       |
+| `Character`    | Loaded at boot     | Agent definition: prompt, plugins, knowledge, settings           |
+| `Plugin`       | Registered at boot | Bundle of actions/services/providers/evaluators                  |
+| `Memory`       | Per-conversation   | Messages stored in DB, retrievable via embedding search          |
+| `State`        | Per-message        | Assembled context for current turn (providers + recent messages) |
 
 ---
 
@@ -53,19 +53,19 @@ A Character is the agent's identity file. It defines everything the agent is and
 
 ```typescript
 interface Character {
-  name: string;                    // Display name
-  system: string;                  // System prompt — the agent's personality and rules
-  bio: string[];                   // Background lines, sampled into context
+  name: string; // Display name
+  system: string; // System prompt — the agent's personality and rules
+  bio: string[]; // Background lines, sampled into context
   style: {
-    all: string[];                 // Style rules applied to all responses
-    chat: string[];                // Chat-specific style rules
-    post: string[];                // Post-specific style rules (X, etc.)
+    all: string[]; // Style rules applied to all responses
+    chat: string[]; // Chat-specific style rules
+    post: string[]; // Post-specific style rules (X, etc.)
   };
-  topics: string[];                // Topics the agent knows about
-  knowledge: KnowledgeEntry[];     // RAG knowledge sources
-  plugins: string[];               // Plugin package names to load
-  settings: CharacterSettings;     // Model, flags, platform config
-  adjectives: string[];            // Personality descriptors
+  topics: string[]; // Topics the agent knows about
+  knowledge: KnowledgeEntry[]; // RAG knowledge sources
+  plugins: string[]; // Plugin package names to load
+  settings: CharacterSettings; // Model, flags, platform config
+  adjectives: string[]; // Personality descriptors
   messageExamples: MessageExample[][]; // Few-shot conversation examples
 }
 ```
@@ -86,14 +86,14 @@ interface Character {
 
 ```typescript
 interface CharacterSettings {
-  model: string;                          // LLM model ID
-  ragKnowledge: boolean;                  // Enable RAG search per-turn
-  embeddingModel?: string;                // Override embedding model
+  model: string; // LLM model ID
+  ragKnowledge: boolean; // Enable RAG search per-turn
+  embeddingModel?: string; // Override embedding model
   discord?: {
     shouldRespondOnlyToMentions: boolean; // Don't respond to every message
   };
   interAgent?: {
-    allowedTargets: string[];             // Which agents this one can ASK_AGENT
+    allowedTargets: string[]; // Which agents this one can ASK_AGENT
   };
 }
 ```
@@ -123,7 +123,7 @@ interface Plugin {
   services?: Service[];
   providers?: Provider[];
   evaluators?: Evaluator[];
-  init?: (runtime: AgentRuntime) => Promise<void>;  // Called once at boot
+  init?: (runtime: AgentRuntime) => Promise<void>; // Called once at boot
 }
 ```
 
@@ -157,11 +157,11 @@ Plugins are registered by package name in the Character's `plugins` array:
 
 ```typescript
 plugins: [
-  "@elizaos/plugin-sql",        // Core database
-  "@elizaos/plugin-bootstrap",  // Core bootstrap (memory, goals, etc.)
-  "@vince/plugin-vince",        // Custom: market intelligence
-  "@vince/plugin-sentinel",     // Custom: CTO tools
-]
+  "@elizaos/plugin-sql", // Core database
+  "@elizaos/plugin-bootstrap", // Core bootstrap (memory, goals, etc.)
+  "@vince/plugin-vince", // Custom: market intelligence
+  "@vince/plugin-sentinel", // Custom: CTO tools
+];
 ```
 
 At boot, ElizaOS resolves each package, calls `init()` if present, and registers all actions/services/providers/evaluators into the agent's runtime.
@@ -174,11 +174,15 @@ An Action is a discrete operation an agent can perform in response to a user mes
 
 ```typescript
 interface Action {
-  name: string;              // e.g., "ALOHA", "PERPS", "ASK_AGENT"
-  description: string;       // LLM reads this to decide when to use the action
-  similes: string[];         // Alternative names/triggers
+  name: string; // e.g., "ALOHA", "PERPS", "ASK_AGENT"
+  description: string; // LLM reads this to decide when to use the action
+  similes: string[]; // Alternative names/triggers
   validate: (runtime: AgentRuntime, message: Memory) => Promise<boolean>;
-  handler: (runtime: AgentRuntime, message: Memory, state: State) => Promise<void>;
+  handler: (
+    runtime: AgentRuntime,
+    message: Memory,
+    state: State,
+  ) => Promise<void>;
   examples: ActionExample[][]; // Few-shot examples for the LLM
 }
 ```
@@ -244,14 +248,14 @@ interface Service {
 
 ### Service Patterns in Vince
 
-| Service | Plugin | Purpose |
-|---------|--------|---------|
-| PaperBotService | plugin-vince | Signal monitoring, trade execution, ML inference |
-| SignalAggregator | plugin-vince | Collect and weight 20+ signal sources |
-| FeatureStore | plugin-vince | 50+ features per decision, persisted to Supabase |
-| PRDGeneratorService | plugin-sentinel | Generate and format PRDs from specs |
-| ProjectRadarService | plugin-sentinel | Track project status across repos |
-| XResearchService | plugin-x-research | Twitter/X data collection and analysis |
+| Service             | Plugin            | Purpose                                          |
+| ------------------- | ----------------- | ------------------------------------------------ |
+| PaperBotService     | plugin-vince      | Signal monitoring, trade execution, ML inference |
+| SignalAggregator    | plugin-vince      | Collect and weight 20+ signal sources            |
+| FeatureStore        | plugin-vince      | 50+ features per decision, persisted to Supabase |
+| PRDGeneratorService | plugin-sentinel   | Generate and format PRDs from specs              |
+| ProjectRadarService | plugin-sentinel   | Track project status across repos                |
+| XResearchService    | plugin-x-research | Twitter/X data collection and analysis           |
 
 ---
 
@@ -263,7 +267,11 @@ A Provider injects context into the agent's prompt before each LLM call. This is
 interface Provider {
   name: string;
   description?: string;
-  get: (runtime: AgentRuntime, message: Memory, state: State) => Promise<string>;
+  get: (
+    runtime: AgentRuntime,
+    message: Memory,
+    state: State,
+  ) => Promise<string>;
 }
 ```
 
@@ -299,9 +307,12 @@ const portfolioProvider: Provider = {
     const positions = await service.getOpenPositions();
     if (!positions.length) return "";
 
-    return `Current open positions:\n${positions.map(p =>
-      `- ${p.symbol}: ${p.side} ${p.size} @ ${p.entry} (PnL: ${p.pnl}%)`
-    ).join("\n")}`;
+    return `Current open positions:\n${positions
+      .map(
+        (p) =>
+          `- ${p.symbol}: ${p.side} ${p.size} @ ${p.entry} (PnL: ${p.pnl}%)`,
+      )
+      .join("\n")}`;
   },
 };
 ```
@@ -317,19 +328,23 @@ interface Evaluator {
   name: string;
   description?: string;
   validate: (runtime: AgentRuntime, message: Memory) => Promise<boolean>;
-  handler: (runtime: AgentRuntime, message: Memory, state: State) => Promise<void>;
+  handler: (
+    runtime: AgentRuntime,
+    message: Memory,
+    state: State,
+  ) => Promise<void>;
   examples?: EvaluatorExample[];
 }
 ```
 
 ### Evaluator Use Cases
 
-| Evaluator | Purpose |
-|-----------|---------|
-| Loop guard | Detect A2A infinite loops, kill after N turns |
-| Fact extraction | Pull structured data from conversations into memory |
-| Sentiment scoring | Score user sentiment for analytics |
-| Goal tracking | Check if a goal was completed this turn |
+| Evaluator         | Purpose                                             |
+| ----------------- | --------------------------------------------------- |
+| Loop guard        | Detect A2A infinite loops, kill after N turns       |
+| Fact extraction   | Pull structured data from conversations into memory |
+| Sentiment scoring | Score user sentiment for analytics                  |
+| Goal tracking     | Check if a goal was completed this turn             |
 
 ### Evaluator Design Rules
 
@@ -358,7 +373,7 @@ knowledge: [
 
   // Index specific files
   { path: "trading/signals-playbook.md", shared: false },
-]
+];
 ```
 
 ### Knowledge Design Rules
@@ -371,13 +386,13 @@ knowledge: [
 
 ### Current Knowledge Map
 
-| Agent | Knowledge Dirs | Files (approx) |
-|-------|---------------|-----------------|
-| Vince | market-data, signals, trading, paper-bot | ~200 |
-| Sentinel | sentinel-docs, architecture, prd-archive | ~100 |
-| Kelly | lifestyle, travel, dining, health | ~150 |
-| Eliza | research, general | ~100 |
-| Otaku | defi, morpho, yield | ~80 |
+| Agent    | Knowledge Dirs                           | Files (approx) |
+| -------- | ---------------------------------------- | -------------- |
+| Vince    | market-data, signals, trading, paper-bot | ~200           |
+| Sentinel | sentinel-docs, architecture, prd-archive | ~100           |
+| Kelly    | lifestyle, travel, dining, health        | ~150           |
+| Eliza    | research, general                        | ~100           |
+| Otaku    | defi, morpho, yield                      | ~80            |
 
 Total: 800+ markdown files across 30+ directories.
 
@@ -399,6 +414,7 @@ const response = await runtime.handleMessage({
 ```
 
 **Constraints:**
+
 - Synchronous: caller blocks up to ~90 seconds
 - Policy-gated: `settings.interAgent.allowedTargets` must include the target
 - Loop guard: evaluator tracks A2A depth, kills chains after N hops (default: 3)
@@ -409,7 +425,7 @@ const response = await runtime.handleMessage({
 // Sentinel can ask Vince and Kelly, but not itself
 settings: {
   interAgent: {
-    allowedTargets: ["Vince", "Kelly", "Otaku"]
+    allowedTargets: ["Vince", "Kelly", "Otaku"];
   }
 }
 ```
@@ -428,6 +444,7 @@ SENTINEL_DISCORD_API_TOKEN=...
 ```
 
 This means:
+
 - Each agent has its own avatar and name
 - Users can @ mention specific agents
 - `shouldRespondOnlyToMentions: true` prevents agents from responding to every message
@@ -452,10 +469,10 @@ The paper bot collects signals from 20+ sources, each with a configurable weight
 
 ```typescript
 interface Signal {
-  source: string;       // e.g., "funding_rate", "whale_alert", "news_sentiment"
-  value: number;        // Normalized -1 to 1
-  weight: number;       // 0 to 1, configurable per source
-  confidence: number;   // Source's self-reported confidence
+  source: string; // e.g., "funding_rate", "whale_alert", "news_sentiment"
+  value: number; // Normalized -1 to 1
+  weight: number; // 0 to 1, configurable per source
+  confidence: number; // Source's self-reported confidence
   timestamp: number;
 }
 ```
@@ -503,15 +520,15 @@ All agents share Supabase (PostgreSQL + pgvector).
 
 ### Key Tables
 
-| Table | Purpose |
-|-------|---------|
-| `memories` | All messages, embeddings, agent-room mappings |
-| `knowledge_chunks` | RAG chunks with embeddings |
-| `goals` | Agent goals and progress |
-| `features` | ML feature store |
-| `trades` | Paper bot trade log |
-| `signals` | Raw signal history |
-| `models` | ONNX model metadata |
+| Table              | Purpose                                       |
+| ------------------ | --------------------------------------------- |
+| `memories`         | All messages, embeddings, agent-room mappings |
+| `knowledge_chunks` | RAG chunks with embeddings                    |
+| `goals`            | Agent goals and progress                      |
+| `features`         | ML feature store                              |
+| `trades`           | Paper bot trade log                           |
+| `signals`          | Raw signal history                            |
+| `models`           | ONNX model metadata                           |
 
 ### Database Access Rules
 
@@ -576,40 +593,40 @@ ETHERSCAN_API_KEY=...
 
 ### Core Plugins (Every Agent)
 
-| Plugin | Purpose |
-|--------|---------|
+| Plugin                      | Purpose                                         |
+| --------------------------- | ----------------------------------------------- |
 | `@elizaos/plugin-bootstrap` | Memory management, goal tracking, core handlers |
-| `@elizaos/plugin-sql` | Database operations via Supabase |
-| `@vince/plugin-inter-agent` | ASK_AGENT, loop guard, standup coordination |
-| `@vince/plugin-log-filter` | Log noise reduction |
+| `@elizaos/plugin-sql`       | Database operations via Supabase                |
+| `@vince/plugin-inter-agent` | ASK_AGENT, loop guard, standup coordination     |
+| `@vince/plugin-log-filter`  | Log noise reduction                             |
 
 ### Domain Plugins
 
-| Plugin | Owner Agent | Domain |
-|--------|-------------|--------|
-| `plugin-vince` | Vince | Market intelligence, signals, paper bot, ML |
-| `plugin-sentinel` | Sentinel | PRD generation, project radar, architecture enforcement |
-| `plugin-kelly` | Kelly | Lifestyle, travel, dining, wine, health, fitness |
-| `plugin-eliza` | Eliza | Knowledge management, research, brainstorming |
-| `plugin-otaku` | Otaku | DeFi execution, Morpho, yield, CDP, wallets |
-| `plugin-openclaw` | Shared | OpenClaw integration, gateway, setup guides |
-| `plugin-x-research` | Vince | Twitter/X research, pulse, vibe analysis |
+| Plugin              | Owner Agent | Domain                                                  |
+| ------------------- | ----------- | ------------------------------------------------------- |
+| `plugin-vince`      | Vince       | Market intelligence, signals, paper bot, ML             |
+| `plugin-sentinel`   | Sentinel    | PRD generation, project radar, architecture enforcement |
+| `plugin-kelly`      | Kelly       | Lifestyle, travel, dining, wine, health, fitness        |
+| `plugin-eliza`      | Eliza       | Knowledge management, research, brainstorming           |
+| `plugin-otaku`      | Otaku       | DeFi execution, Morpho, yield, CDP, wallets             |
+| `plugin-openclaw`   | Shared      | OpenClaw integration, gateway, setup guides             |
+| `plugin-x-research` | Vince       | Twitter/X research, pulse, vibe analysis                |
 
 ### Infrastructure Plugins
 
-| Plugin | Purpose |
-|--------|---------|
-| `plugin-bankr` | Token launch (Base + Solana) |
-| `plugin-bankr-sdk` | Bankr SDK wrapper |
-| `plugin-bankr-trading-engine` | Bankr trading engine |
-| `plugin-biconomy` | Smart wallet (MEE, gasless tx) |
-| `plugin-cdp` | Coinbase Developer Platform wallet |
-| `plugin-coingecko` | Price data API |
-| `plugin-defillama` | DeFi protocol TVL/yield data |
-| `plugin-etherscan` | Ethereum block explorer API |
-| `plugin-gamification` | Engagement mechanics |
-| `plugin-morpho` | Morpho lending/borrowing protocol |
-| `plugin-naval` | Naval Ravikant philosophy quotes |
+| Plugin                        | Purpose                            |
+| ----------------------------- | ---------------------------------- |
+| `plugin-bankr`                | Token launch (Base + Solana)       |
+| `plugin-bankr-sdk`            | Bankr SDK wrapper                  |
+| `plugin-bankr-trading-engine` | Bankr trading engine               |
+| `plugin-biconomy`             | Smart wallet (MEE, gasless tx)     |
+| `plugin-cdp`                  | Coinbase Developer Platform wallet |
+| `plugin-coingecko`            | Price data API                     |
+| `plugin-defillama`            | DeFi protocol TVL/yield data       |
+| `plugin-etherscan`            | Ethereum block explorer API        |
+| `plugin-gamification`         | Engagement mechanics               |
+| `plugin-morpho`               | Morpho lending/borrowing protocol  |
+| `plugin-naval`                | Naval Ravikant philosophy quotes   |
 
 ---
 
@@ -625,32 +642,40 @@ Every PRD follows this structure. No exceptions.
 **Target:** plugin-name or system area
 
 ## 🎯 North Star Alignment
+
 How this advances "Push, not pull. 24/7 market research."
 
 ## 📋 Goal & Scope
+
 What we're building and why. Be specific. Name the files, the services, the data flow.
 
 ## ✅ Success Criteria
+
 - [ ] Measurable criterion 1
 - [ ] Measurable criterion 2
-(Must be testable. "Works well" is not a criterion.)
+      (Must be testable. "Works well" is not a criterion.)
 
 ## 🔧 Technical Specification
+
 Target files, architecture decisions, data flow diagrams.
 Name the services, actions, providers involved.
 Specify interfaces if adding new types.
 
 ## 🚫 Out of Scope
+
 What we're NOT building. Prevent scope creep.
 
 ## 📐 Architecture Rules
+
 Which rules from Section 15 apply. Call them out explicitly.
 
 ## 🧪 Testing
+
 Required test coverage. Which services need unit tests.
 Integration test requirements if applicable.
 
 ## 📅 Timeline
+
 Estimated effort and dependencies.
 ```
 
@@ -731,16 +756,16 @@ One topic per knowledge file. Clear headers for RAG chunking. Consistent termino
 
 ## 16. Common Anti-Patterns
 
-| Anti-Pattern | What It Looks Like | Fix |
-|---|---|---|
-| Fat agent file | 500-line agent.ts with helper functions | Extract to plugin service |
-| God service | One service doing everything | Split by responsibility |
-| Provider making API calls | Provider fetches from external API each turn | Cache in service, read from cache |
-| Action with business logic | 200-line action handler | Extract to service |
-| Cross-plugin imports | plugin-kelly importing from plugin-vince | Use ASK_AGENT or shared util package |
-| Untyped responses | `const data: any = await fetch(...)` | Define response interface |
-| Silent failures | `catch (e) {}` | Log error, return fallback |
-| Knowledge dump | 10,000-line markdown file | Split into focused files |
+| Anti-Pattern               | What It Looks Like                           | Fix                                  |
+| -------------------------- | -------------------------------------------- | ------------------------------------ |
+| Fat agent file             | 500-line agent.ts with helper functions      | Extract to plugin service            |
+| God service                | One service doing everything                 | Split by responsibility              |
+| Provider making API calls  | Provider fetches from external API each turn | Cache in service, read from cache    |
+| Action with business logic | 200-line action handler                      | Extract to service                   |
+| Cross-plugin imports       | plugin-kelly importing from plugin-vince     | Use ASK_AGENT or shared util package |
+| Untyped responses          | `const data: any = await fetch(...)`         | Define response interface            |
+| Silent failures            | `catch (e) {}`                               | Log error, return fallback           |
+| Knowledge dump             | 10,000-line markdown file                    | Split into focused files             |
 
 ---
 

@@ -3,7 +3,9 @@ tags: [general]
 agents: [eliza]
 last_reviewed: 2026-02-15
 ---
+
 ## Metadata
+
 **Source**: Direct Input | chat://direct-input/1769697076484
 **Category**: grinding-the-trenches
 **Word Count**: 425

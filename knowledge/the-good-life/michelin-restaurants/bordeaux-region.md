@@ -3,13 +3,13 @@ tags: [lifestyle]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-17
 ---
+
 # Bordeaux Region Fine Dining
 
 > **Region**: Sauternes, Pauillac, Saint-Emilion, Bouliac
 > **Vibe**: Grand cru estates, château luxury, vineyard gastronomy
 
 ---
-
 
 ## Château Cordeillan-Bages (Pauillac)
 
@@ -22,6 +22,7 @@ last_reviewed: 2026-02-17
 - **Owner**: JM Cazes family (Château Lynch-Bages)
 
 **Experience**:
+
 - Heart of Médoc wine route
 - Grand Cru Classé wines
 - Elegant château setting
@@ -43,6 +44,7 @@ last_reviewed: 2026-02-17
 - **Style**: 19th-century château, surrounded by famous estates
 
 **Rooms** (from €200+):
+
 - Supérieure, Deluxe, Executive Château/Vignoble
 - Suite Duplex, Junior Suite, Royale
 - Many with vineyard views
@@ -65,15 +67,18 @@ last_reviewed: 2026-02-17
 - **Architect**: Jean Nouvel (interior refresh by Laurent Maugoust)
 
 **History**:
+
 - 18th-century longère → 1930s mondain bar → 1989 Jean Nouvel transformation
 - Renovated 2024, respecting Nouvel's vision
 
 **Restaurants**:
+
 - **Restaurant Le Saint-James** - gastronomic
 - **Orama** - bistronomic
 - **Côté Cours** - cooking school
 
 **Hotel**:
+
 - Chambre Classique, Deluxe, Prestige
 - Suite Junior, Jean Nouvel, Horizon, Eden, Céleste
 
@@ -87,12 +92,12 @@ last_reviewed: 2026-02-17
 
 ## Quick Reference
 
-| Property | Stars/Rating | Location | Wine Region |
-|----------|--------------|----------|-------------|
-| Lafaurie-Peyraguey | 2* + 5* hotel | Sauternes | Premier Cru Sauternes |
-| Cordeillan-Bages | 5* R&C | Pauillac | Médoc (Lynch-Bages) |
-| Grand Barrail | 5* | Saint-Emilion | Saint-Emilion GC |
-| Le Saint-James | 5* R&C | Bouliac | Bordeaux (views) |
+| Property           | Stars/Rating  | Location      | Wine Region           |
+| ------------------ | ------------- | ------------- | --------------------- |
+| Lafaurie-Peyraguey | 2* + 5* hotel | Sauternes     | Premier Cru Sauternes |
+| Cordeillan-Bages   | 5\* R&C       | Pauillac      | Médoc (Lynch-Bages)   |
+| Grand Barrail      | 5\*           | Saint-Emilion | Saint-Emilion GC      |
+| Le Saint-James     | 5\* R&C       | Bouliac       | Bordeaux (views)      |
 
 ---
 
@@ -101,15 +106,18 @@ last_reviewed: 2026-02-17
 ### Best Pairings
 
 **Wine Focus**:
+
 - Sauternes: Lafaurie-Peyraguey
-- Médoc: Cordeillan-Bages  
+- Médoc: Cordeillan-Bages
 - Saint-Emilion: Grand Barrail
 
 **Architecture**:
+
 - Jean Nouvel: Le Saint-James
 - LALIQUE design: Lafaurie-Peyraguey
 
 **Romantic**:
+
 - Château luxury: Grand Barrail
 - Panoramic views: Le Saint-James
 

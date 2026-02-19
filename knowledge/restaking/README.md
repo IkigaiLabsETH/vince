@@ -11,7 +11,6 @@ EigenLayer, restaking risk frameworks, AVS evaluation
 - restaking-overview.md
 - restaking-risks.md
 
-
 ## Related Categories
 
 - [defi-metrics](../defi-metrics/)

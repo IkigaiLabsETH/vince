@@ -3,6 +3,7 @@ tags: [lifestyle, bitcoin, kelly]
 agents: [kelly, eliza]
 last_reviewed: 2026-02-15
 ---
+
 # The Million-Dollar Möbius: Bitcoin Lifestyle & Financial Sovereignty
 
 ## The 6-Figure Hell Meme
@@ -22,27 +23,30 @@ The Möbius strip represents this transition—a surface with only one side and 
 ## The Ritual of Wealth
 
 ### Zillow Doom-Surfing & Parallel Universes
+
 Zillow tabs bloom—France, Spain, Lisbon—while LiveTheLife's real-estate feed assaults your retinas with:
+
 - Patio Palace's cantilever pool
-- Villa Lucia's Levantine stone  
+- Villa Lucia's Levantine stone
 - Casa Lujo overlooking Tarifa's kite-specked horizon
 
 Each listing hums "Buy me in meatspace," but price tags sit just outside gravitational pull, turning IRL dreams into metaverse cutscenes.
 
 ### Vault of JPEG Deities
+
 The NFT vault opens: Fidenza #313—soft colors slicing hard edges—winks. You whisper, "gm, eternal queen," and wonder if selling her funds that Solana-native cultural embassy in Monaco.
 
 **You don't click sell. You never click sell.**
 
 ## War Chest Load-out
 
-| Asset Class | % | Strategy |
-|-------------|---|----------|
-| **Cold-Storage BTC** | 50% | Two-of-three multisig, plates of 316L steel in a Basque bank vault. Sovereign core; you don't spend the sun. |
-| **Liquid-Fiat ETFs** | 20% | Irish-domiciled world index + QQQM, tolerated like decaf: boring but hydrating during bear deserts. |
-| **Basque Duplex** | 15% | Steps from a Michelin bistro, secret reef break out back. Cash-flows in euros, stories in sunsets. |
+| Asset Class             | %   | Strategy                                                                                                                      |
+| ----------------------- | --- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Cold-Storage BTC**    | 50% | Two-of-three multisig, plates of 316L steel in a Basque bank vault. Sovereign core; you don't spend the sun.                  |
+| **Liquid-Fiat ETFs**    | 20% | Irish-domiciled world index + QQQM, tolerated like decaf: boring but hydrating during bear deserts.                           |
+| **Basque Duplex**       | 15% | Steps from a Michelin bistro, secret reef break out back. Cash-flows in euros, stories in sunsets.                            |
 | **Post-AI Infra Seeds** | 10% | Small cheques in provenance SDKs, generative-art infra, Bitcoin miner firmware. Each cheque assumed = 0 til proven otherwise. |
-| **Curated Gen-Art** | 5% | Fidenza, Ringers, early Dimitri Daniloff AI collab. Not just owned—woven into the lore of your multiverse of agents. |
+| **Curated Gen-Art**     | 5%  | Fidenza, Ringers, early Dimitri Daniloff AI collab. Not just owned—woven into the lore of your multiverse of agents.          |
 
 ## The Evening Ritual
 
@@ -77,4 +81,4 @@ This is the true meaning of breaking through the 6-figure ceiling. It's not abou
 
 ---
 
-*Source: LIVETHELIFETV - Digital Wealth • Luxury Living • Bitcoin Lifestyle* 
+_Source: LIVETHELIFETV - Digital Wealth • Luxury Living • Bitcoin Lifestyle_
